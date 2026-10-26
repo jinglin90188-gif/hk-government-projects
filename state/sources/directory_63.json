@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-26T13:50:34+08:00",
+  "checked_at": "2026-10-26T13:52:14+08:00",
   "items": [
     {
       "department": "旅游事务署",
@@ -16,7 +16,7 @@
         "directory_63"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:50:34+08:00",
+      "verified_at": "2026-10-26T13:52:14+08:00",
       "status": "状态待核实",
       "closing_at": "",
       "id": "c86d009821014012ad"
@@ -36,8 +36,9 @@
         "directory_63"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:50:34+08:00",
+      "verified_at": "2026-10-26T13:52:14+08:00",
       "status": "状态待核实",
+      "closing_at": "",
       "id": "09758d15771145cfe9"
     },
     {
@@ -55,8 +56,9 @@
         "directory_63"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:50:34+08:00",
+      "verified_at": "2026-10-26T13:52:14+08:00",
       "status": "状态待核实",
+      "closing_at": "",
       "id": "d7ba256c354dc80f6f"
     },
     {
@@ -74,8 +76,9 @@
         "directory_63"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:50:34+08:00",
+      "verified_at": "2026-10-26T13:52:14+08:00",
       "status": "状态待核实",
+      "closing_at": "",
       "id": "cfdfece0ae157b0152"
     },
     {
@@ -93,8 +96,9 @@
         "directory_63"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:50:34+08:00",
+      "verified_at": "2026-10-26T13:52:14+08:00",
       "status": "状态待核实",
+      "closing_at": "",
       "id": "bd4c6a67dc0a74f082"
     },
     {
@@ -112,8 +116,9 @@
         "directory_63"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:50:34+08:00",
+      "verified_at": "2026-10-26T13:52:14+08:00",
       "status": "状态待核实",
+      "closing_at": "",
       "id": "6c4027bd59b65e5cca"
     },
     {
@@ -131,8 +136,9 @@
         "directory_63"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:50:34+08:00",
+      "verified_at": "2026-10-26T13:52:14+08:00",
       "status": "状态待核实",
+      "closing_at": "",
       "id": "cde20e710ac94d0edf"
     },
     {
@@ -150,8 +156,9 @@
         "directory_63"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:50:34+08:00",
+      "verified_at": "2026-10-26T13:52:14+08:00",
       "status": "状态待核实",
+      "closing_at": "",
       "id": "bf6b175ee8b8030816"
     },
     {
@@ -169,8 +176,9 @@
         "directory_63"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:50:34+08:00",
+      "verified_at": "2026-10-26T13:52:14+08:00",
       "status": "状态待核实",
+      "closing_at": "",
       "id": "42786871f396976c62"
     },
     {
@@ -188,8 +196,9 @@
         "directory_63"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:50:34+08:00",
+      "verified_at": "2026-10-26T13:52:14+08:00",
       "status": "状态待核实",
+      "closing_at": "",
       "id": "d9bf3027f9a17ae507"
     },
     {
@@ -207,8 +216,9 @@
         "directory_63"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:50:34+08:00",
+      "verified_at": "2026-10-26T13:52:14+08:00",
       "status": "状态待核实",
+      "closing_at": "",
       "id": "090d17e43b316c2841"
     }
   ]

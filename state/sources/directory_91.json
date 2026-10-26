@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-26T13:50:34+08:00",
+  "checked_at": "2026-10-26T13:52:14+08:00",
   "items": [
     {
       "department": "运输署",
@@ -16,7 +16,7 @@
         "directory_91"
       ],
       "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-26T13:50:34+08:00",
+      "verified_at": "2026-10-26T13:52:14+08:00",
       "status": "招标预报",
       "outdated": true,
       "id": "f83faba272636f2bb2"
@@ -36,7 +36,7 @@
         "directory_91"
       ],
       "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-26T13:50:34+08:00",
+      "verified_at": "2026-10-26T13:52:14+08:00",
       "status": "招标预报",
       "outdated": true,
       "id": "9dc5c2d7f7c76d7d87"
@@ -56,7 +56,7 @@
         "directory_91"
       ],
       "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-26T13:50:34+08:00",
+      "verified_at": "2026-10-26T13:52:14+08:00",
       "status": "招标预报",
       "outdated": true,
       "id": "3084ef2c3ee02eede0"
@@ -76,7 +76,7 @@
         "directory_91"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T13:50:34+08:00",
+      "verified_at": "2026-10-26T13:52:14+08:00",
       "status": "招标预报",
       "id": "3d55fc755be9bae01b"
     },
@@ -95,7 +95,7 @@
         "directory_91"
       ],
       "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-26T13:50:34+08:00",
+      "verified_at": "2026-10-26T13:52:14+08:00",
       "status": "招标预报",
       "outdated": true,
       "id": "960a2bd761446b2133"
