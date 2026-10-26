@@ -9,6 +9,10 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 
 class StageScopeTests(unittest.TestCase):
+    def setUp(self):
+        timer=patch.object(c,'NOW',datetime(2026,10,26,tzinfo=ZoneInfo('Asia/Hong_Kong')))
+        timer.start();self.addCleanup(timer.stop)
+
     def test_boilerplate_and_news_are_not_projects(self):
         for title in ['投标者必须于截标日期正午12时前提交标书','文化体育及旅游局局长出席开幕式致辞全文','Category Code 类别编号','标准合约文件 (只提供英文版)']:
             self.assertFalse(c.valid_project_title(title))
