@@ -15,6 +15,8 @@ on:
       - 'project_identity.py'
       - 'requirements*.txt'
       - 'scripts/**'
+      - 'reports/**'
+      - '周报运行规则.md'
       - 'tests/**'
       - 'dist/index.html'
       - 'dist/dashboard.*'
@@ -54,13 +56,14 @@ jobs:
         run: |
           python scripts/validate_release.py
           python scripts/audit_departments.py
+          python scripts/build_reports.py
           python scripts/archive_run.py
           python scripts/write_run_summary.py >> "$GITHUB_STEP_SUMMARY"
       - name: 保存项目清单和可恢复的来源状态
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add dist/projects.json dist/projects.csv dist/changes.json dist/department-audit.json dist/department-audit.html state history 采集核对报告.md 逐部门采集核查.md
+          git add dist/projects.json dist/projects.csv dist/changes.json dist/department-audit.json dist/department-audit.html dist/reports state history 采集核对报告.md 逐部门采集核查.md
           if git diff --cached --quiet; then
             echo '本次数据无需提交'
           else

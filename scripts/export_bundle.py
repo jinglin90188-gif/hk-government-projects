@@ -4,8 +4,8 @@ import zipfile
 
 ROOT=Path(__file__).resolve().parents[1]
 FILES=['collect_projects.py','snapshot_tools.py','company_scope.py','project_identity.py','业务筛选规则.md','requirements.txt','README.md',
-    '部署到GitHub看这里.md','更新项目数据.command','预览项目库.command','.gitignore','采集核对报告.md','逐部门采集核查.md']
-DIRECTORIES=['.github','scripts','tests','dist','state','history']
+    '部署到GitHub看这里.md','周报运行规则.md','更新项目数据.command','预览项目库.command','.gitignore','采集核对报告.md','逐部门采集核查.md']
+DIRECTORIES=['.github','scripts','tests','dist','state','history','reports']
 SKIP={'__pycache__','failed-snapshot.json','projects.preview.json'}
 
 def export():
