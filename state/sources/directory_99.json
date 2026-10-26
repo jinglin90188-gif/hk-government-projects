@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-10-26T13:50:34+08:00",
+  "items": [
+    {
+      "department": "渠务署",
+      "title": "楼宇、土木、排水和污水改善与建造工程框架合约－勘查研究、设计及建造",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027 Q1",
+      "publish_date": "",
+      "source_url": "https://www.dsd.gov.hk/TC/Tender_Notices/Forecast_of_DSD_Consultancies/index.html",
+      "document_url": "https://www.dsd.gov.hk/uploads/page/TenderNotices/AllProjects/Forecast%20of%20Tenders/Blank%20Proforma_FC_EA_20260930_consolidated(clean)_r1_TC.pdf",
+      "source_ids": [
+        "directory_99"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "status": "招标预报",
+      "id": "5db48e1ee3b8bf150d"
+    },
+    {
+      "department": "渠务署",
+      "title": "港岛南部、大屿山及离岛雨水排放系统改善计划－勘查研究、设计及建造",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026 Q4",
+      "publish_date": "",
+      "source_url": "https://www.dsd.gov.hk/TC/Tender_Notices/Forecast_of_DSD_Consultancies/index.html",
+      "document_url": "https://www.dsd.gov.hk/uploads/page/TenderNotices/AllProjects/Forecast%20of%20Tenders/Blank%20Proforma_FC_EA_20260930_consolidated(clean)_r1_TC.pdf",
+      "source_ids": [
+        "directory_99"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "status": "招标预报",
+      "id": "1ec08db0dd87e63aee"
+    }
+  ]
+}

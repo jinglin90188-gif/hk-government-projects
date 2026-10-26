@@ -1,0 +1,87 @@
+{
+  "checked_at": "2026-10-26T13:50:34+08:00",
+  "items": [
+    {
+      "department": "路政署",
+      "title": "路政署定期合约(新界西，香港岛及离岛之环境美化工程2021-2024)",
+      "kind": "forecast",
+      "reference_no": "-",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2021年第2季",
+      "publish_date": "",
+      "source_url": "https://www.hyd.gov.hk/datagovhk/TAF/resource/Forecast_of_tender_tc.csv",
+      "document_url": "https://www.hyd.gov.hk/datagovhk/TAF/resource/Forecast_of_tender_tc.csv",
+      "source_ids": [
+        "hyd_csv_tender"
+      ],
+      "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "status": "招标预报",
+      "outdated": true,
+      "closing_at": "",
+      "id": "8f01934eac37c8d00e"
+    },
+    {
+      "department": "路政署",
+      "title": "于青衣连接青衣路与青衣航运路的新道路和拆卸位于深水埗钦州街的西九龙走廊下行斜路",
+      "kind": "forecast",
+      "reference_no": "6100TX",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2021年第1季",
+      "publish_date": "",
+      "source_url": "https://www.hyd.gov.hk/datagovhk/TAF/resource/Forecast_of_tender_tc.csv",
+      "document_url": "https://www.hyd.gov.hk/datagovhk/TAF/resource/Forecast_of_tender_tc.csv",
+      "source_ids": [
+        "hyd_csv_tender"
+      ],
+      "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "status": "招标预报",
+      "outdated": true,
+      "id": "6af7dab2a49fbb2c6d"
+    },
+    {
+      "department": "路政署",
+      "title": "在行人天桥、高架行人道及行人隧道加建人人畅道通行设施 - 第七组第一份合约 (「新工程合约3」工程建造合约A选项，建筑信息模拟)",
+      "kind": "forecast",
+      "reference_no": "6101TX",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2021年第2季",
+      "publish_date": "",
+      "source_url": "https://www.hyd.gov.hk/datagovhk/TAF/resource/Forecast_of_tender_tc.csv",
+      "document_url": "https://www.hyd.gov.hk/datagovhk/TAF/resource/Forecast_of_tender_tc.csv",
+      "source_ids": [
+        "hyd_csv_tender"
+      ],
+      "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "status": "招标预报",
+      "outdated": true,
+      "closing_at": "",
+      "id": "6ed58ba1479c18b497"
+    },
+    {
+      "department": "路政署",
+      "title": "宝琳北路及宝宁路加建隔音屏障 (「新工程合约3」工程建造合约A选项，建筑信息模拟)",
+      "kind": "forecast",
+      "reference_no": "6766TH 6817TH",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2021年第1季",
+      "publish_date": "",
+      "source_url": "https://www.hyd.gov.hk/datagovhk/TAF/resource/Forecast_of_tender_tc.csv",
+      "document_url": "https://www.hyd.gov.hk/datagovhk/TAF/resource/Forecast_of_tender_tc.csv",
+      "source_ids": [
+        "hyd_csv_tender"
+      ],
+      "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "status": "招标预报",
+      "outdated": true,
+      "id": "92799e69bae76bb99a"
+    }
+  ]
+}

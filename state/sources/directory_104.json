@@ -1,0 +1,43 @@
+{
+  "checked_at": "2026-10-26T13:50:34+08:00",
+  "items": [
+    {
+      "department": "环境保护署",
+      "title": "南大屿海岸公园敷设人工鱼礁",
+      "kind": "forecast",
+      "reference_no": "EP/SP/407/26",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026 Q4",
+      "publish_date": "",
+      "source_url": "https://www.epd.gov.hk/epd/tc_chi/business_job/business_opp/forecast_tender.html",
+      "document_url": "https://www.epd.gov.hk/epd/sites/default/files/epd/tc_chi/business_job/business_opp/files/Forecast_Invitation_Tender.pdf",
+      "source_ids": [
+        "directory_104"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "status": "招标预报",
+      "id": "7618f49ccf60d696bd"
+    },
+    {
+      "department": "环境保护署",
+      "title": "大湾区空气质素实验室及气象监测超级站–设计与建造",
+      "kind": "forecast",
+      "reference_no": "待定",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026 Q4",
+      "publish_date": "",
+      "source_url": "https://www.epd.gov.hk/epd/tc_chi/business_job/business_opp/forecast_tender.html",
+      "document_url": "https://www.epd.gov.hk/epd/sites/default/files/epd/tc_chi/business_job/business_opp/files/Forecast_Invitation_Tender.pdf",
+      "source_ids": [
+        "directory_104"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "status": "招标预报",
+      "id": "a1ae560e6737ce41ac"
+    }
+  ]
+}

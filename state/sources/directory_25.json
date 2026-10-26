@@ -1,0 +1,45 @@
+{
+  "checked_at": "2026-10-26T13:22:04+08:00",
+  "items": [
+    {
+      "department": "数字政策办公室",
+      "title": "招标承投为数字政策办公室的数据备份系统供应硬件和提供相关服务",
+      "kind": "tender",
+      "reference_no": "DPO-055-074-003-022",
+      "closing_date": "2026-11-10",
+      "closing_text": "2026年11月10日正午12时（香港时间）",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.digitalpolicy.gov.hk/tc/our_work/digital_infrastructure/business_window/tender_eoi_rfp/tender_dpo-055-074-003-022.html",
+      "document_url": "",
+      "source_ids": [
+        "directory_25"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:22:04+08:00",
+      "closing_at": "2026-11-10T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "bec409170977a57a4c"
+    },
+    {
+      "department": "数字政策办公室",
+      "title": "招标承投为数字政策办公室供应反恶意软件并提供相关服务",
+      "kind": "tender",
+      "reference_no": "DPO8566/4/31",
+      "closing_date": "2026-11-23",
+      "closing_text": "2026年11月23日正午12时（香港时间）",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.digitalpolicy.gov.hk/tc/our_work/digital_infrastructure/business_window/tender_eoi_rfp/tender_dpo8566_4_31.html",
+      "document_url": "",
+      "source_ids": [
+        "directory_25"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:22:04+08:00",
+      "closing_at": "2026-11-23T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "bcd21c2b5d7d4a8ed6"
+    }
+  ]
+}

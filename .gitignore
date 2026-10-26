@@ -1,0 +1,9 @@
+.runtime/
+.venv/
+__pycache__/
+cache/
+*.tar.gz
+.DS_Store
+state/failed-snapshot.json
+dist/projects.preview.json
+exports/

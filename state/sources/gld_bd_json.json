@@ -1,0 +1,1928 @@
+{
+  "checked_at": "2026-10-26T13:50:34+08:00",
+  "items": [
+    {
+      "department": "劳工处",
+      "title": "为劳工处办公室提供清洁服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年7月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2028年2月至2031年1月",
+      "status": "招标预报",
+      "id": "1b4d7c6ae228554ada"
+    },
+    {
+      "department": "劳工处",
+      "title": "为参加大湾区青年就业计划的青年提供支援服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026年10月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年5月至2029年5月",
+      "status": "招标预报",
+      "id": "e2b5d4e7bcacbf8d89"
+    },
+    {
+      "department": "医务卫生局",
+      "title": "上消化道内视镜",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026年12月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "1批",
+      "status": "招标预报",
+      "id": "66ab0ae1496bd75a74"
+    },
+    {
+      "department": "医务卫生局",
+      "title": "人工智慧草药识别",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年1月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "1批",
+      "status": "招标预报",
+      "id": "215169a27916244260"
+    },
+    {
+      "department": "医务卫生局",
+      "title": "先进技术系统（人手操作程序特定）- 导光灯拣选/投递",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026年10月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "1批",
+      "status": "招标预报",
+      "id": "816715207171177d7b"
+    },
+    {
+      "department": "医务卫生局",
+      "title": "吞咽内视镜检查系统：内视镜显像系统及检查椅子",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年7月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "1批",
+      "status": "招标预报",
+      "id": "d5b4497058adf289f5"
+    },
+    {
+      "department": "医务卫生局",
+      "title": "机械式上肢复康训练系统",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年7月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "1批",
+      "status": "招标预报",
+      "id": "22361faff24f65da2d"
+    },
+    {
+      "department": "医务卫生局",
+      "title": "电动医院病床及配件",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年2月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "1批",
+      "status": "招标预报",
+      "id": "4d83305998568e68ce"
+    },
+    {
+      "department": "医务卫生局",
+      "title": "电动检查治疗床",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年4月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "1批",
+      "status": "招标预报",
+      "id": "41f3b6aa259bbe754d"
+    },
+    {
+      "department": "医务卫生局",
+      "title": "超声波扫描机、模体及凝胶加热器",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年8月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "1批",
+      "status": "招标预报",
+      "id": "272c7ded8a95132db4"
+    },
+    {
+      "department": "卫生署",
+      "title": "23价肺炎球菌疫苗",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026年11月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "20 000个",
+      "status": "招标预报",
+      "id": "07a06f5988b9b168e3"
+    },
+    {
+      "department": "卫生署",
+      "title": "为卫生署提供保安服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2028年3月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2028年9月至2031年8月",
+      "status": "招标预报",
+      "id": "dfea70f2a82912b1c9"
+    },
+    {
+      "department": "卫生署",
+      "title": "为卫生署提供支援及清洁服务 (合约地区:香港及离岛,新界东,实验室/货仓,办公室)",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年10月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2028年5月至2031年4月",
+      "status": "招标预报",
+      "id": "b649a674ed2beca8cb"
+    },
+    {
+      "department": "卫生署",
+      "title": "为卫生署港口卫生科于口岸(沙头角及落马洲)提供健康筛检服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年2月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年5月至2030年4月",
+      "status": "招标预报",
+      "id": "00d6c46b0e3513b20a"
+    },
+    {
+      "department": "卫生署",
+      "title": "为卫生署港口卫生科于口岸(深圳湾及文锦渡)提供健康筛检服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年5月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年8月至2030年7月",
+      "status": "招标预报",
+      "id": "f91d035400ba21548c"
+    },
+    {
+      "department": "卫生署",
+      "title": "为卫生署港口卫生科于口岸(港珠澳大桥香港口岸区)提供健康筛检服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026年10月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年1月至2029年12月",
+      "status": "招标预报",
+      "id": "ae0867d113b0a7e3d2"
+    },
+    {
+      "department": "卫生署",
+      "title": "为卫生署胸肺服务辖下胸肺科诊所提供X光诊断报告服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026年12月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年3月至2029年2月",
+      "status": "招标预报",
+      "id": "3d86747a9c24339413"
+    },
+    {
+      "department": "卫生署",
+      "title": "供应乙型肝炎疫苗",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年1月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "1批",
+      "status": "招标预报",
+      "id": "4b7747a173b36bb3cf"
+    },
+    {
+      "department": "卫生署",
+      "title": "供应氯沙坦钾片",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年7月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "1批",
+      "status": "招标预报",
+      "id": "e2e3a6c23c1bc1ff41"
+    },
+    {
+      "department": "卫生署",
+      "title": "供应皮内注射之卡介苗",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年8月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "36 000瓶",
+      "status": "招标预报",
+      "id": "af24639811bbd082cc"
+    },
+    {
+      "department": "卫生署",
+      "title": "供应莫米松糠酸酯制剂",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年4月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "1批",
+      "status": "招标预报",
+      "id": "e0e404a54e6936760f"
+    },
+    {
+      "department": "卫生署",
+      "title": "供应西格列汀(磷酸盐)药片",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026年12月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "1批",
+      "status": "招标预报",
+      "id": "6ef6299f238ab24958"
+    },
+    {
+      "department": "卫生署",
+      "title": "供应阿维A胶囊",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年6月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "1批",
+      "status": "招标预报",
+      "id": "5548d2b2a0c8117c87"
+    },
+    {
+      "department": "卫生署",
+      "title": "供应黄热病疫苗",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026年11月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "12 500安瓿",
+      "status": "招标预报",
+      "id": "11c78aba4804c05c54"
+    },
+    {
+      "department": "卫生署",
+      "title": "公共运输设施及巴士转乘处禁烟标志的维修保养定期合约",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2028年3月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2028年8月至2030年8月",
+      "status": "招标预报",
+      "id": "59eefa14862426326f"
+    },
+    {
+      "department": "卫生署",
+      "title": "钙泊三醇及二丙酸倍他米松外用药制剂",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年7月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "47 000支",
+      "status": "招标预报",
+      "id": "f26fc0e7771bd842ac"
+    },
+    {
+      "department": "司法机构",
+      "title": "为司法机构提供及安装电动活动文件柜",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年3月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "1批",
+      "status": "招标预报",
+      "id": "fe664d17eb12ea42cb"
+    },
+    {
+      "department": "土木工程拓展署",
+      "title": "为土木工程拓展署大楼(地址: 香港九龙公主道101号)提供清洁、一般工人及保安服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026年10月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年3月至2028年4月",
+      "status": "招标预报",
+      "id": "4a95e402d160605944"
+    },
+    {
+      "department": "土木工程拓展署",
+      "title": "提供接送土木工程拓展署人员来回狗虱湾政府爆炸品仓库渡轮服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2028年4月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2028年8月至2031年8月",
+      "status": "招标预报",
+      "id": "8c5edcdacd953d481a"
+    },
+    {
+      "department": "土木工程拓展署",
+      "title": "提供给工务试验所的混凝土测试服务 - 2027/28年（定期合约）",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年7月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年11月至2030年11月",
+      "status": "招标预报",
+      "id": "ccec8116c7063a38cf"
+    },
+    {
+      "department": "土木工程拓展署",
+      "title": "提供给工务试验所的混凝土测试服务 ─ 2027年（定期合约）",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年5月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年9月至2030年9月",
+      "status": "招标预报",
+      "id": "5c257505bd9fcd9e17"
+    },
+    {
+      "department": "土木工程拓展署",
+      "title": "提供给工务试验所的钢铁测试服务 - 2028年第1组 (定期合约)",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2028年2月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2028年5月至2031年5月",
+      "status": "招标预报",
+      "id": "eeda6bb5c5f800bc0b"
+    },
+    {
+      "department": "土木工程拓展署",
+      "title": "续订和提供建筑信息建模软件订购",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026年10月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年2月至2028年2月",
+      "status": "招标预报",
+      "closing_at": "",
+      "id": "595f938b6b433bdb07"
+    },
+    {
+      "department": "在职家庭及学生资助事务处",
+      "title": "为在职家庭及学生资助事务处位于One Harbour Square的办公室提供清洁服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年10月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2028年4月至2031年4月",
+      "status": "招标预报",
+      "id": "e217d89e3bfc18b7f7"
+    },
+    {
+      "department": "在职家庭及学生资助事务处",
+      "title": "为在职家庭及学生资助事务处提供临时人力资源服务（助理文员）",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026年10月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年4月至2028年3月",
+      "status": "招标预报",
+      "id": "3a1ad6fd6070433ca7"
+    },
+    {
+      "department": "在职家庭及学生资助事务处",
+      "title": "为在职家庭及学生资助事务处提供临时人力资源服务（申请处理员）",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026年10月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年4月至2028年3月",
+      "status": "招标预报",
+      "id": "5b7dfc96760a71859d"
+    },
+    {
+      "department": "在职家庭及学生资助事务处",
+      "title": "为在职家庭及学生资助事务处提供临时人力资源服务（申请支援助理员）",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026年10月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年2月至2028年1月",
+      "status": "招标预报",
+      "id": "e073657083ae439a51"
+    },
+    {
+      "department": "在职家庭及学生资助事务处",
+      "title": "为在职家庭及学生资助事务处提供临时人力资源服务（计划行政助理)",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026年10月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年4月至2028年3月",
+      "status": "招标预报",
+      "id": "3b075f4490083fb138"
+    },
+    {
+      "department": "在职家庭及学生资助事务处",
+      "title": "为在职家庭及学生资助事务处管理的在职家庭津贴计划提供相关的资料输入服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2028年1月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2028年9月至2031年9月",
+      "status": "招标预报",
+      "id": "183c893f725847d526"
+    },
+    {
+      "department": "地政总署",
+      "title": "为地政总署提供、交付、安装和配置储存系统",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年5月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "1项工作",
+      "status": "招标预报",
+      "id": "7414a775412478f9b4"
+    },
+    {
+      "department": "地政总署",
+      "title": "为地政总署提供、交付、安装和配置政府云卫星站点基础设施",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年5月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "1项工作",
+      "status": "招标预报",
+      "id": "6212db0d6378e48d7b"
+    },
+    {
+      "department": "库务署",
+      "title": "为政府提供「转数快」和内地电子钱包在缴费柜枱及自助服务机缴付政府费用",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026年11月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年9月至2032年9月",
+      "status": "招标预报",
+      "id": "2e03da9febaed18d1a"
+    },
+    {
+      "department": "库务署",
+      "title": "为政府提供网上信用卡缴费服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年5月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2028年5月至2033年4月",
+      "status": "招标预报",
+      "id": "07cb3ed0a184f56f82"
+    },
+    {
+      "department": "数字政策办公室",
+      "title": "为数字政策办公室供应「智方便」服务台服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年1月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年8月至2030年9月",
+      "status": "招标预报",
+      "id": "35ee71395cd1c55f17"
+    },
+    {
+      "department": "数字政策办公室",
+      "title": "为数字政策办公室的政府云端设施服务提供虚拟软件维修保养服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026年10月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年9月至2030年8月",
+      "status": "招标预报",
+      "id": "769e1c91b33f5a01ed"
+    },
+    {
+      "department": "民航处",
+      "title": "提供或采购为政府在民用航空方面的活动和业务提供航空法律责任保险及电子仪器保险的投标",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2028年2月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2028年7月至2029年6月",
+      "status": "招标预报",
+      "id": "15ad67cb57c86d140c"
+    },
+    {
+      "department": "民航处",
+      "title": "提供或采购为政府在民用航空方面的活动和业务提供航空法律责任保险的投标",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年2月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年7月至2028年6月",
+      "status": "招标预报",
+      "id": "3afcde6aa65a098ae3"
+    },
+    {
+      "department": "水务署",
+      "title": "为水务署九龙区提供保安员服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年8月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2028年3月至2031年3月",
+      "status": "招标预报",
+      "id": "7e4e94f409a9ca1841"
+    },
+    {
+      "department": "水务署",
+      "title": "为水务署九龙区提供清洁服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年5月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年12月至2030年11月",
+      "status": "招标预报",
+      "id": "1b15a790c286b0f775"
+    },
+    {
+      "department": "水务署",
+      "title": "为水务署位于入境事务大楼、税务大楼、香港离岛区域办事处及沙田政府合署的办公室提供办公室搬迁服务至柴湾水务署总部大楼",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年4月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2028年1月至2028年3月",
+      "status": "招标预报",
+      "id": "1caf3cfbc9eb513cf5"
+    },
+    {
+      "department": "水务署",
+      "title": "为水务署供应感应耦合等离子串联质谱仪系统",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026年10月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "1套",
+      "status": "招标预报",
+      "id": "af0e28b07c5552f979"
+    },
+    {
+      "department": "水务署",
+      "title": "为水务署提供轻型货车及高速公路黄色轻型货车租赁服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年1月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年8月至2030年7月",
+      "status": "招标预报",
+      "id": "7702a1c99858ac50d7"
+    },
+    {
+      "department": "水务署",
+      "title": "为水务署新界西地区及屯门检控组办事处提供清洁服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年4月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年12月至2030年11月",
+      "status": "招标预报",
+      "id": "4554855159c1d3f7fe"
+    },
+    {
+      "department": "水务署",
+      "title": "为水务署新界西地区提供保安员服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年2月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年9月至2030年9月",
+      "status": "招标预报",
+      "id": "a9050765022ae09ab7"
+    },
+    {
+      "department": "水务署",
+      "title": "购置一套带有钻石衰减全反射（ATR）模块和显微镜影像系统的傅立叶变换红外（FTIR）分光光度计，用作投诉水样本中黑色沥青微粒的定性分析",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026年10月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "1套",
+      "status": "招标预报",
+      "id": "dc5ce8bfcf1b98833c"
+    },
+    {
+      "department": "渔农自然护理署",
+      "title": "为塱原自然生态公园提供保安服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年4月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年12月至2030年11月",
+      "status": "招标预报",
+      "id": "4e3358870e1ec58141"
+    },
+    {
+      "department": "渔农自然护理署",
+      "title": "为香港湿地公园提供保安服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026年11月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年5月至2030年5月",
+      "status": "招标预报",
+      "id": "024695ec50447711c8"
+    },
+    {
+      "department": "渔农自然护理署",
+      "title": "为香港湿地公园提供清洁及支援服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026年11月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年5月至2030年5月",
+      "status": "招标预报",
+      "id": "d50e1a79f6bffc6e48"
+    },
+    {
+      "department": "渔农自然护理署",
+      "title": "塱原自然生态公园生态区及访客区的生境管理服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年1月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年7月至2030年6月",
+      "status": "招标预报",
+      "id": "cc2a2949051dc0c3fb"
+    },
+    {
+      "department": "渠务署",
+      "title": "为渠务署供应聚合氯化铝溶液",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年4月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "4 500 000千克",
+      "status": "招标预报",
+      "id": "0e2f454d94ea728ac4"
+    },
+    {
+      "department": "渠务署",
+      "title": "供应亚硫酸氢钠溶液",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年11月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "1 000公吨",
+      "status": "招标预报",
+      "id": "db0e11416b14044b65"
+    },
+    {
+      "department": "环境保护署",
+      "title": "为九龙的厨余回收流动点提供宣传推广服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026年11月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年3月至2028年7月",
+      "status": "招标预报",
+      "id": "55813c98fc944e5174"
+    },
+    {
+      "department": "环境保护署",
+      "title": "为环保园生物炭生产试验设施提供运营和维护服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年1月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年5月至2029年4月",
+      "status": "招标预报",
+      "id": "d2c3f94784bb797895"
+    },
+    {
+      "department": "环境保护署",
+      "title": "提供厨余浆液收集服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026年10月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年2月至2029年1月",
+      "status": "招标预报",
+      "id": "a7d482b20d4dc65854"
+    },
+    {
+      "department": "环境保护署",
+      "title": "空气质素监测站第21号合约 – 观塘、葵涌、深水埗及沙田空气质素监测站的运行操作服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年5月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年12月至2032年11月",
+      "status": "招标预报",
+      "id": "2c93eb964659c17b71"
+    },
+    {
+      "department": "环境保护署",
+      "title": "空气质素监测站第22号合约 – 将军澳、北区及南区空气质素监测站的运行操作服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年12月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2028年6月至2033年5月",
+      "status": "招标预报",
+      "id": "2d4384e911b876c878"
+    },
+    {
+      "department": "规划署",
+      "title": "服务范畴是为规划署使用中的地理资讯系统软件提供保养服务，包括软件更新、错误纠正及提供技术支援服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026年10月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年1月至2027年12月",
+      "status": "招标预报",
+      "closing_at": "",
+      "id": "a34d727a6c92b8b0a4"
+    },
+    {
+      "department": "运输署",
+      "title": "2028及2029年泊车调查(路旁设施)",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年9月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2028年1月至2030年5月",
+      "status": "招标预报",
+      "id": "ae76fe1bb7914a4353"
+    },
+    {
+      "department": "运输署",
+      "title": "为运输署车辆检验综合大楼提供清洁服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年3月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年9月至2030年8月",
+      "status": "招标预报",
+      "id": "f1d530c12931468674"
+    },
+    {
+      "department": "食物环境卫生署",
+      "title": "为四个联合办公室购买用于渗水调查的十一种色水",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026年11月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "150 000瓶",
+      "status": "招标预报",
+      "id": "3d58e94e5714a99273"
+    },
+    {
+      "department": "香港天文台",
+      "title": "供应一台小型远程激光雷达",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026年11月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "1套",
+      "status": "招标预报",
+      "id": "6e90d2629e1982f9b7"
+    },
+    {
+      "department": "香港天文台",
+      "title": "供应香港国际机场附近位于小蚝湾的气流剖析仪",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026年10月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "1套",
+      "status": "招标预报",
+      "id": "8668e4e43d22687260"
+    },
+    {
+      "department": "香港电台",
+      "title": "为香港电台各个地点提供清洁服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年7月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2028年3月至2031年2月",
+      "status": "招标预报",
+      "id": "987e62a2cacdd255b7"
+    },
+    {
+      "department": "香港电台",
+      "title": "为香港电台提供保安护卫服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年8月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2028年4月至2031年3月",
+      "status": "招标预报",
+      "id": "43564796ae02f6d245"
+    },
+    {
+      "department": "香港电台",
+      "title": "为香港电台提供熟练道具值班服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年8月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2028年2月至2030年2月",
+      "status": "招标预报",
+      "id": "850ef6cdea1a684632"
+    },
+    {
+      "department": "香港警务处",
+      "title": "为位于新界元朗八乡粉锦公路123号的少年警讯永久活动中心暨青少年综合训练营提供保安服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026年11月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年9月至2030年8月",
+      "status": "招标预报",
+      "id": "6d8376b0e23a330ac7"
+    },
+    {
+      "department": "香港警务处",
+      "title": "为位于新界元朗八乡粉锦公路123号的少年警讯永久活动中心暨青少年综合训练营提供清洁及支援服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年1月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年10月至2030年9月",
+      "status": "招标预报",
+      "id": "90dec85c4bf8bb77bc"
+    },
+    {
+      "department": "香港警务处",
+      "title": "为前东九龙行动基地大楼提供清洁及支援服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年1月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年7月至2030年6月",
+      "status": "招标预报",
+      "id": "bffab60bf54a3b556f"
+    },
+    {
+      "department": "香港警务处",
+      "title": "为前牛头角警署及前九龙东行动基地提供保安服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026年12月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年7月至2030年6月",
+      "status": "招标预报",
+      "id": "ae8e0dcdab1a449350"
+    },
+    {
+      "department": "香港警务处",
+      "title": "为北角警署及柴湾警署提供清洁及支援服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年2月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年9月至2030年8月",
+      "status": "招标预报",
+      "id": "528d8281c702a788bc"
+    },
+    {
+      "department": "香港警务处",
+      "title": "为大埔警署、上水警署及大埔区少年警讯会所提供清洁及支援服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026年10月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年4月至2030年4月",
+      "status": "招标预报",
+      "id": "f4aa4009e9257e0a00"
+    },
+    {
+      "department": "香港警务处",
+      "title": "为新界沙岭警犬队总部提供树木风险评估及园艺服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年1月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年8月至2030年7月",
+      "status": "招标预报",
+      "id": "51830b1e76336c7188"
+    },
+    {
+      "department": "香港警务处",
+      "title": "为旺角警署（包括旺角区少年警讯会所）提供清洁及支援服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026年10月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年4月至2030年4月",
+      "status": "招标预报",
+      "id": "a6ad0f4de2e9127406"
+    },
+    {
+      "department": "香港警务处",
+      "title": "为西九龙冲锋队及西九龙机动部队行动基地及石硖尾报案中心提供清洁及支援服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年8月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2028年7月至2031年6月",
+      "status": "招标预报",
+      "id": "85a4271606a30d67b9"
+    },
+    {
+      "department": "香港警务处",
+      "title": "为西九龙警察总部提供保安服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年8月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2028年6月至2031年5月",
+      "status": "招标预报",
+      "id": "9984bcfab79210c5ff"
+    },
+    {
+      "department": "香港警务处",
+      "title": "为西九龙警察总部提供清洁及支援服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026年10月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年5月至2030年4月",
+      "status": "招标预报",
+      "id": "e76b1cd475449f9f18"
+    },
+    {
+      "department": "香港警务处",
+      "title": "为西区警署(包括西区少年警讯会所)、香港仔警署及赤柱警署提供清洁及支援服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2028年1月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2028年9月至2031年9月",
+      "status": "招标预报",
+      "id": "7ce248de92fe4d2769"
+    },
+    {
+      "department": "香港警务处",
+      "title": "为警官会所及警察体育游乐会提供会所管理服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年1月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年6月至2029年4月",
+      "status": "招标预报",
+      "id": "35b4346bc36399ca6c"
+    },
+    {
+      "department": "香港警务处",
+      "title": "为警官会所及警察体育游乐会提供救生员服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026年10月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年4月至2029年4月",
+      "status": "招标预报",
+      "id": "1476293384fab4c453"
+    },
+    {
+      "department": "香港警务处",
+      "title": "为警官会所及警察体育游乐会提供清洁服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年4月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年10月至2029年4月",
+      "status": "招标预报",
+      "id": "d9d1d56916c5d61cf2"
+    },
+    {
+      "department": "香港警务处",
+      "title": "为香港警务处 (a)水警东分区; (b)水警港外区总部及水警北分区; (c)水警海港区总部及水警南分区; (d)水警西分区; 及 (e)尖鼻咀警岗提供警署清洁及支援服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年9月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2028年4月至2031年3月",
+      "status": "招标预报",
+      "id": "48d7fff47b57bc8e7b"
+    },
+    {
+      "department": "香港警务处",
+      "title": "为香港警务处提供T1交换线包含来电线路识别显示 (CLID) 服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年3月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年12月至2032年12月",
+      "status": "招标预报",
+      "id": "2325179df5222f40a1"
+    },
+    {
+      "department": "香港警务处",
+      "title": "为香港警务处提供专用线路服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026年11月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年8月至2032年7月",
+      "status": "招标预报",
+      "closing_at": "",
+      "id": "95c97e46eec8573e42"
+    },
+    {
+      "department": "香港警务处",
+      "title": "为香港警务处警察公共关系科及各警区提供耆乐警讯和少年警讯活动助理员服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026年10月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2027年4月至2030年3月",
+      "status": "招标预报",
+      "id": "764d8070c9aa9171c3"
+    },
+    {
+      "department": "香港警务处",
+      "title": "为香港警察学院侦缉训练中心提供保安服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2028年2月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2028年8月至2031年7月",
+      "status": "招标预报",
+      "id": "c49795e52da06a9edd"
+    },
+    {
+      "department": "香港警务处",
+      "title": "为香港辅助警察队总部提供清洁及支援服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年8月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "notes": "2028年3月至2031年2月",
+      "status": "招标预报",
+      "id": "1af7b831d83a91fbe4"
+    }
+  ]
+}

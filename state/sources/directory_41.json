@@ -1,0 +1,26 @@
+{
+  "checked_at": "2026-10-26T13:50:34+08:00",
+  "items": [
+    {
+      "department": "香港海关",
+      "title": "为香港海关提供巴士的租赁服务",
+      "kind": "tender",
+      "reference_no": "SO/PT/01/2026",
+      "closing_date": "2026-12-04",
+      "closing_text": "及时间 ： 2026年12月4日正午12时（香港时间） 投标投递地点及时间 ： 就纸张式投标而言 ，投标者必须填具一式三份的投标表格，并将填妥的投标表格放置信封内封密。 标书的信封面必须注明招标编号、",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.customs.gov.hk/hcms/filemanager/tc/content_12/SOPT0126_tc.pdf",
+      "document_url": "https://www.customs.gov.hk/hcms/filemanager/tc/content_12/SOPT0126_tc.pdf",
+      "source_ids": [
+        "directory_41"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "document_verified": true,
+      "closing_at": "2026-12-04T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "fde3f5b69a6ffebd91"
+    }
+  ]
+}

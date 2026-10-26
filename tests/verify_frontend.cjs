@@ -1,0 +1,46 @@
+const fs=require('node:fs');
+const vm=require('node:vm');
+const assert=require('node:assert/strict');
+const path=require('node:path');
+const {parseHTML}=require('../.runtime/node_modules/linkedom');
+const root=path.join(__dirname,'..');
+const {window}=parseHTML(fs.readFileSync(path.join(root,'dist/dashboard.html'),'utf8'));
+const document=window.document;
+for(const id of ['department','sort']){
+ const element=document.getElementById(id);let value=id==='sort'?'closing':'';
+ Object.defineProperty(element,'value',{get:()=>value,set:v=>{value=v;},configurable:true});
+}
+const snapshot=JSON.parse(fs.readFileSync(path.join(root,'dist/projects.json')));
+const context={document,window,console,Blob,URL,setTimeout,fetch:async url=>({ok:true,json:async()=>JSON.parse(fs.readFileSync(path.join(root,'dist',url)))})};
+document.getElementById('projectDialog').showModal=()=>{};
+document.getElementById('projectDialog').close=()=>{};
+window.scrollTo=()=>{};
+vm.createContext(context);
+vm.runInContext(fs.readFileSync(path.join(root,'dist/dashboard.js'),'utf8'),context);
+setImmediate(()=>{
+ assert.equal(document.querySelectorAll('.stat').length,4);
+ assert.ok(document.querySelectorAll('.project-card').length>0,'projects render from actual snapshot');
+ for(const button of document.querySelectorAll('[data-project]'))assert.equal(snapshot.projects.find(r=>r.id===button.dataset.project).company_fit.decision,'include');
+ document.querySelector('[data-kind="business_review"]').click();
+ for(const button of document.querySelectorAll('[data-project]'))assert.equal(snapshot.projects.find(r=>r.id===button.dataset.project).company_fit.decision,'review');
+ document.querySelector('[data-kind="all"]').click();
+ const search=document.getElementById('search');search.value='NO-SUCH-TENDER-100000';search.dispatchEvent(new window.Event('input'));
+ assert.equal(document.querySelectorAll('.project-card').length,0);
+ assert.ok(document.getElementById('emptyCoverage'));
+ search.value='';search.dispatchEvent(new window.Event('input'));
+ document.querySelector('[data-kind="tender"]').click();
+ assert.ok([...document.querySelectorAll('.project-card .badge')].every(e=>e.textContent==='正在招标'));
+ document.querySelector('[data-view="departments"]').click();
+ assert.equal(document.querySelectorAll('button.department-card').length,snapshot.departments.length);
+ document.querySelector('[data-view="coverage"]').click();
+ assert.equal(document.querySelectorAll('.source-card').length,snapshot.sources.length);
+ document.querySelector('[data-source-filter="needs"]').click();
+ assert.ok(document.querySelectorAll('.source-card').length>0);
+ document.querySelector('[data-view="links"]').click();
+ assert.equal(document.querySelectorAll('.link-card').length,124);
+ document.querySelector('[data-view="projects"]').click();
+ document.querySelector('[data-project]').click();
+ assert.ok(document.getElementById('dialogContent').textContent.includes('政府部门'));
+ assert.ok(!document.getElementById('loadError').hidden===false);
+ console.log('Frontend verified: live data, search, status filters, department directory, coverage, official links and detail dialog.');
+});

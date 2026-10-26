@@ -1,0 +1,873 @@
+{
+  "updated": "2026-10-26",
+  "items": [
+    {
+      "name": "政府物流服务署——电子投标箱",
+      "url": "https://pcms2.gld.gov.hk/iprod/#/home?lang-setting=zh-HK",
+      "category": "中央入口",
+      "focus": true,
+      "id": 1
+    },
+    {
+      "name": "政府物流服务署——已批准订立的合约公告",
+      "url": "https://pcms2.gld.gov.hk/iprod/#/scn00101",
+      "category": "中央入口",
+      "focus": true,
+      "id": 2
+    },
+    {
+      "name": "政府电子投标系统",
+      "url": "https://www1.ets.gov.hk/eTp_ext/views/index.zul",
+      "category": "中央入口",
+      "focus": false,
+      "id": 3
+    },
+    {
+      "name": "政府电子投标系统——分类总入口",
+      "url": "https://www.gov.hk/tc/theme/etendering/ets/",
+      "category": "中央入口",
+      "focus": false,
+      "id": 4
+    },
+    {
+      "name": "财政库务局——各部门招标网址总目录",
+      "url": "https://www.fstb.gov.hk/tc/treasury/gov_procurement/tender-notices.htm",
+      "category": "中央入口",
+      "focus": false,
+      "id": 5
+    },
+    {
+      "name": "政府主要采购预览",
+      "url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "category": "中央入口",
+      "focus": false,
+      "id": 6
+    },
+    {
+      "name": "发展局——工程及顾问招标总入口",
+      "url": "https://www.devb.gov.hk/tc/tender_notices/Tender_Notice_on_Construction_Sector_Matters/index.html",
+      "category": "中央入口",
+      "focus": false,
+      "id": 7
+    },
+    {
+      "name": "政府电子宪报",
+      "url": "https://egazette.gld.gov.hk/zh",
+      "category": "中央入口",
+      "focus": false,
+      "id": 8
+    },
+    {
+      "name": "投资推广署——政府招标导航",
+      "url": "https://www.investhk.gov.hk/zh-hk/business-opportunities-government-tender-notices/",
+      "category": "中央入口",
+      "focus": false,
+      "id": 9
+    },
+    {
+      "name": "运输署",
+      "url": "https://www.td.gov.hk/tc/tender_notices/index.html",
+      "category": "部门招标",
+      "focus": true,
+      "id": 10
+    },
+    {
+      "name": "土木工程拓展署",
+      "url": "https://www.cedd.gov.hk/tc/tender-notices/index.html",
+      "category": "部门招标",
+      "focus": true,
+      "id": 11
+    },
+    {
+      "name": "路政署",
+      "url": "https://www.hyd.gov.hk/tc/tender_notices/index.html",
+      "category": "部门招标",
+      "focus": true,
+      "id": 12
+    },
+    {
+      "name": "机电工程署",
+      "url": "https://www.emsd.gov.hk/tc/tenders_contracts_and_consultancies/tender_notices/index.html",
+      "category": "部门招标",
+      "focus": true,
+      "id": 13
+    },
+    {
+      "name": "建筑署",
+      "url": "https://www.archsd.gov.hk/tc/tenders-notices.html",
+      "category": "部门招标",
+      "focus": true,
+      "id": 14
+    },
+    {
+      "name": "渠务署",
+      "url": "https://www.dsd.gov.hk/TC/TenderNoticeAndOurProject/index.html",
+      "category": "部门招标",
+      "focus": false,
+      "id": 15
+    },
+    {
+      "name": "水务署",
+      "url": "https://www.wsd.gov.hk/tc/tenders-contracts-and-consultancies/index.html",
+      "category": "部门招标",
+      "focus": false,
+      "id": 16
+    },
+    {
+      "name": "屋宇署",
+      "url": "https://www.bd.gov.hk/tc/whats-new/tender-notices/notices-of-invitation/index.html",
+      "category": "部门招标",
+      "focus": false,
+      "id": 17
+    },
+    {
+      "name": "地政总署——货品、服务及顾问研究",
+      "url": "https://www.landsd.gov.hk/tc/whats-new/on-going-tenders/tender-goods-services-consultancies.html",
+      "category": "部门招标",
+      "focus": true,
+      "id": 18
+    },
+    {
+      "name": "规划署",
+      "url": "https://www.pland.gov.hk/pland_tc/consultancies_and_tender/tender_notice/index.html",
+      "category": "部门招标",
+      "focus": true,
+      "id": 19
+    },
+    {
+      "name": "房屋委员会及房屋署",
+      "url": "https://www.housingauthority.gov.hk/tc/business-partnerships/tenders/index.html",
+      "category": "部门招标",
+      "focus": false,
+      "id": 20
+    },
+    {
+      "name": "政府产业署",
+      "url": "https://www.gpa.gov.hk/tc/tender-quotation-notices/tender-notices.html",
+      "category": "部门招标",
+      "focus": false,
+      "id": 21
+    },
+    {
+      "name": "环境保护署",
+      "url": "https://www.epd.gov.hk/epd/tc_chi/business_job/business_opp/tender.html",
+      "category": "部门招标",
+      "focus": false,
+      "id": 22
+    },
+    {
+      "name": "民航处",
+      "url": "https://www.cad.gov.hk/chinese/tender.html",
+      "category": "部门招标",
+      "focus": true,
+      "id": 23
+    },
+    {
+      "name": "海事处",
+      "url": "https://www.mardep.gov.hk/tc/tender/",
+      "category": "部门招标",
+      "focus": true,
+      "id": 24
+    },
+    {
+      "name": "数字政策办公室",
+      "url": "https://www.digitalpolicy.gov.hk/tc/our_work/digital_infrastructure/business_window/tender_eoi_rfp/",
+      "category": "部门招标",
+      "focus": true,
+      "id": 25
+    },
+    {
+      "name": "创新科技署",
+      "url": "https://www.itc.gov.hk/ch/about/tender_contract.html",
+      "category": "部门招标",
+      "focus": true,
+      "id": 26
+    },
+    {
+      "name": "通讯事务管理局办公室",
+      "url": "https://www.ofca.gov.hk/tc/tender_notices/tender_notices/index.html",
+      "category": "部门招标",
+      "focus": false,
+      "id": 27
+    },
+    {
+      "name": "政府物流服务署",
+      "url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/tender-notice/index.html",
+      "category": "部门招标",
+      "focus": true,
+      "id": 28
+    },
+    {
+      "name": "渔农自然护理署",
+      "url": "https://www.afcd.gov.hk/tc_chi/tender/tender.html",
+      "category": "部门招标",
+      "focus": false,
+      "id": 29
+    },
+    {
+      "name": "民政事务总署",
+      "url": "https://www.had.gov.hk/tc/other_information/tender_notices/index.htm",
+      "category": "部门招标",
+      "focus": false,
+      "id": 30
+    },
+    {
+      "name": "食物环境卫生署",
+      "url": "https://www.fehd.gov.hk/tc_chi/tenders/details/tender_main.html",
+      "category": "部门招标",
+      "focus": false,
+      "id": 31
+    },
+    {
+      "name": "康乐及文化事务署",
+      "url": "https://www.lcsd.gov.hk/b5/tender.php",
+      "category": "部门招标",
+      "focus": false,
+      "id": 32
+    },
+    {
+      "name": "社会福利署",
+      "url": "https://www.swd.gov.hk/tc/whatsnew/tenderinfo/index.html",
+      "category": "部门招标",
+      "focus": false,
+      "id": 33
+    },
+    {
+      "name": "卫生署",
+      "url": "https://www.dh.gov.hk/tc_chi/tender/tender.html",
+      "category": "部门招标",
+      "focus": false,
+      "id": 34
+    },
+    {
+      "name": "政府统计处",
+      "url": "https://www.censtatd.gov.hk/tc/tender_information.html",
+      "category": "部门招标",
+      "focus": false,
+      "id": 35
+    },
+    {
+      "name": "在职家庭及学生资助事务处",
+      "url": "https://www.wfsfaa.gov.hk/tc/about/tender/tender.htm",
+      "category": "部门招标",
+      "focus": false,
+      "id": 36
+    },
+    {
+      "name": "劳工处",
+      "url": "https://www.labour.gov.hk/tc/tender/content.htm",
+      "category": "部门招标",
+      "focus": false,
+      "id": 37
+    },
+    {
+      "name": "香港警务处",
+      "url": "https://www.police.gov.hk/ppp_tc/11_useful_info/tenders.html",
+      "category": "部门招标",
+      "focus": true,
+      "id": 38
+    },
+    {
+      "name": "消防处",
+      "url": "https://www.hkfsd.gov.hk/chi/fsd_info/tender/",
+      "category": "部门招标",
+      "focus": true,
+      "id": 39
+    },
+    {
+      "name": "入境事务处",
+      "url": "https://www.immd.gov.hk/hkt/useful_information/tender_notices.html",
+      "category": "部门招标",
+      "focus": false,
+      "id": 40
+    },
+    {
+      "name": "香港海关",
+      "url": "https://www.customs.gov.hk/tc/customs-announcement/tender/index.html",
+      "category": "部门招标",
+      "focus": true,
+      "id": 41
+    },
+    {
+      "name": "惩教署",
+      "url": "https://www.csd.gov.hk/tc_chi/tender/other_tender.html",
+      "category": "部门招标",
+      "focus": false,
+      "id": 42
+    },
+    {
+      "name": "政府飞行服务队",
+      "url": "https://www.gfs.gov.hk/tch/tenderc.htm",
+      "category": "部门招标",
+      "focus": false,
+      "id": 43
+    },
+    {
+      "name": "医疗辅助队",
+      "url": "https://www.ams.gov.hk/tc/information/procurement_service.html",
+      "category": "部门招标",
+      "focus": false,
+      "id": 44
+    },
+    {
+      "name": "民众安全服务队",
+      "url": "https://www.cas.gov.hk/chi/about/tender_notice.html",
+      "category": "部门招标",
+      "focus": false,
+      "id": 45
+    },
+    {
+      "name": "香港天文台",
+      "url": "https://www.hko.gov.hk/tc/tender/tender_index.htm",
+      "category": "部门招标",
+      "focus": false,
+      "id": 46
+    },
+    {
+      "name": "政府化验所",
+      "url": "https://www.govtlab.gov.hk/tc/general_information/tender.html",
+      "category": "部门招标",
+      "focus": false,
+      "id": 47
+    },
+    {
+      "name": "香港邮政",
+      "url": "https://www.hongkongpost.hk/tc/about_us/tender/notice/index.html",
+      "category": "部门招标",
+      "focus": false,
+      "id": 48
+    },
+    {
+      "name": "香港电台",
+      "url": "https://app4.rthk.hk/tender/",
+      "category": "部门招标",
+      "focus": false,
+      "id": 49
+    },
+    {
+      "name": "政府新闻处",
+      "url": "https://www.isd.gov.hk/chi/tender.htm",
+      "category": "部门招标",
+      "focus": false,
+      "id": 50
+    },
+    {
+      "name": "税务局",
+      "url": "https://www.ird.gov.hk/chi/ten/ten.htm",
+      "category": "部门招标",
+      "focus": false,
+      "id": 51
+    },
+    {
+      "name": "库务署",
+      "url": "https://www.try.gov.hk/cinternet/chtender.html",
+      "category": "部门招标",
+      "focus": false,
+      "id": 52
+    },
+    {
+      "name": "公司注册处",
+      "url": "https://www.cr.gov.hk/tc/tender/index.htm",
+      "category": "部门招标",
+      "focus": false,
+      "id": 53
+    },
+    {
+      "name": "土地注册处",
+      "url": "https://www.landreg.gov.hk/tc/tender/tender.htm",
+      "category": "部门招标",
+      "focus": false,
+      "id": 54
+    },
+    {
+      "name": "知识产权署",
+      "url": "https://www.ipd.gov.hk/tc/tender-notices/index.html",
+      "category": "部门招标",
+      "focus": false,
+      "id": 55
+    },
+    {
+      "name": "工业贸易署",
+      "url": "https://www.tid.gov.hk/tc/news_and_other_information/tender.html",
+      "category": "部门招标",
+      "focus": false,
+      "id": 56
+    },
+    {
+      "name": "投资推广署",
+      "url": "https://www.investhk.gov.hk/zh-hk/tender-quotation-notice/",
+      "category": "部门招标",
+      "focus": false,
+      "id": 57
+    },
+    {
+      "name": "差饷物业估价署",
+      "url": "https://www.rvd.gov.hk/tc/tender_notices/index.html",
+      "category": "部门招标",
+      "focus": false,
+      "id": 58
+    },
+    {
+      "name": "破产管理署",
+      "url": "https://www.oro.gov.hk/cht/announcements/tender.html",
+      "category": "部门招标",
+      "focus": false,
+      "id": 59
+    },
+    {
+      "name": "法律援助署",
+      "url": "https://www.lad.gov.hk/chi/notice/index.html",
+      "category": "部门招标",
+      "focus": false,
+      "id": 60
+    },
+    {
+      "name": "审计署",
+      "url": "https://www.aud.gov.hk/chi/tender/tender.htm",
+      "category": "部门招标",
+      "focus": false,
+      "id": 61
+    },
+    {
+      "name": "选举事务处",
+      "url": "https://www.reo.gov.hk/tc/service-desk/tender.html",
+      "category": "部门招标",
+      "focus": false,
+      "id": 62
+    },
+    {
+      "name": "旅游事务署",
+      "url": "https://www.tourism.gov.hk/tc_chi/other/other_tender.html",
+      "category": "部门招标",
+      "focus": false,
+      "id": 63
+    },
+    {
+      "name": "运输及物流局",
+      "url": "https://www.tlb.gov.hk/tc/service/tender/index.html",
+      "category": "政策局及机构",
+      "focus": true,
+      "id": 64
+    },
+    {
+      "name": "发展局",
+      "url": "https://www.devb.gov.hk/tc/tender_notices/index.html",
+      "category": "政策局及机构",
+      "focus": false,
+      "id": 65
+    },
+    {
+      "name": "创新科技及工业局",
+      "url": "https://www.itib.gov.hk/zh-hk/tender/",
+      "category": "政策局及机构",
+      "focus": true,
+      "id": 66
+    },
+    {
+      "name": "教育局",
+      "url": "https://www.edb.gov.hk/tc/public-admin/tender-notices/about-tender-notices/index.html",
+      "category": "政策局及机构",
+      "focus": false,
+      "id": 67
+    },
+    {
+      "name": "房屋局",
+      "url": "https://www.hb.gov.hk/tc/service/tender/index.html",
+      "category": "政策局及机构",
+      "focus": false,
+      "id": 68
+    },
+    {
+      "name": "医务卫生局",
+      "url": "https://www.healthbureau.gov.hk/cn/tender/index.html",
+      "category": "政策局及机构",
+      "focus": false,
+      "id": 69
+    },
+    {
+      "name": "环境及生态局——官方目录原载入口",
+      "url": "https://www.eeb.gov.hk/food/cn/tender/index.html",
+      "category": "政策局及机构",
+      "focus": false,
+      "id": 70
+    },
+    {
+      "name": "文化体育及旅游局",
+      "url": "https://www.cstb.gov.hk/tc/tender-notices.html",
+      "category": "政策局及机构",
+      "focus": false,
+      "id": 71
+    },
+    {
+      "name": "商务及经济发展局",
+      "url": "https://www.cedb.gov.hk/tc/tender-notices.html",
+      "category": "政策局及机构",
+      "focus": false,
+      "id": 72
+    },
+    {
+      "name": "财经事务及库务局——库务科",
+      "url": "https://www.fstb.gov.hk/tb/tc/business/gov_procurement/tender-exercises.htm",
+      "category": "政策局及机构",
+      "focus": false,
+      "id": 73
+    },
+    {
+      "name": "财经事务及库务局——财经事务科",
+      "url": "https://www.fstb.gov.hk/fsb/tc/tender/index.html",
+      "category": "政策局及机构",
+      "focus": false,
+      "id": 74
+    },
+    {
+      "name": "公务员事务局",
+      "url": "https://www.csb.gov.hk/tc_chi/otherinfo/tender/17.html",
+      "category": "政策局及机构",
+      "focus": false,
+      "id": 75
+    },
+    {
+      "name": "政制及内地事务局",
+      "url": "https://www.cmab.gov.hk/tc/tender/index.htm",
+      "category": "政策局及机构",
+      "focus": false,
+      "id": 76
+    },
+    {
+      "name": "民政及青年事务局",
+      "url": "https://www.hyab.gov.hk/tc/other_information/tender.htm",
+      "category": "政策局及机构",
+      "focus": false,
+      "id": 77
+    },
+    {
+      "name": "劳工及福利局",
+      "url": "https://www.lwb.gov.hk/tc/info/tender.html",
+      "category": "政策局及机构",
+      "focus": false,
+      "id": 78
+    },
+    {
+      "name": "保安局",
+      "url": "https://www.sb.gov.hk/chi/tender/index.html",
+      "category": "政策局及机构",
+      "focus": false,
+      "id": 79
+    },
+    {
+      "name": "律政司",
+      "url": "https://www.doj.gov.hk/tc/tender/tender.html",
+      "category": "政策局及机构",
+      "focus": false,
+      "id": 80
+    },
+    {
+      "name": "政务司司长办公室辖下行政署",
+      "url": "https://www.admwing.gov.hk/chi/tender/tender.htm",
+      "category": "政策局及机构",
+      "focus": false,
+      "id": 81
+    },
+    {
+      "name": "大学教育资助委员会秘书处",
+      "url": "https://www.ugcs.gov.hk/chi/tender/index.html",
+      "category": "政策局及机构",
+      "focus": false,
+      "id": 82
+    },
+    {
+      "name": "公务及司法人员薪俸及服务条件咨询委员会联合秘书处",
+      "url": "https://www.jsscs.gov.hk/ch/tender/tender.htm",
+      "category": "政策局及机构",
+      "focus": false,
+      "id": 83
+    },
+    {
+      "name": "司法机构",
+      "url": "https://www.judiciary.hk/zh/other_information/tender.html",
+      "category": "政策局及机构",
+      "focus": false,
+      "id": 84
+    },
+    {
+      "name": "廉政公署",
+      "url": "https://www.icac.org.hk/tc/about/general/so/tender/index.html",
+      "category": "政策局及机构",
+      "focus": false,
+      "id": 85
+    },
+    {
+      "name": "香港金融管理局——官方目录原载入口",
+      "url": "https://www.hkma.gov.hk/chi/about-the-hkma/tender-invitations.shtml",
+      "category": "政策局及机构",
+      "focus": false,
+      "id": 86
+    },
+    {
+      "name": "全政府——主要采购预览",
+      "url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "category": "招标预报",
+      "focus": false,
+      "id": 87
+    },
+    {
+      "name": "政府物流服务署——主要采购预览",
+      "url": "https://www.gld.gov.hk/zh-hk/our-services/one-stop/supplier-corner/forecast-purchase-GLD/",
+      "category": "招标预报",
+      "focus": true,
+      "id": 88
+    },
+    {
+      "name": "各政策局／部门——货品及一般服务采购预览 PDF",
+      "url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.pdf",
+      "category": "招标预报",
+      "focus": false,
+      "id": 89
+    },
+    {
+      "name": "发展局——顾问研究及工程招标预报",
+      "url": "https://www.devb.gov.hk/tc/tender_notices/Tender_Notice_on_Construction_Sector_Matters/forecast_of_consultancies_and_tenders/index.html",
+      "category": "招标预报",
+      "focus": false,
+      "id": 90
+    },
+    {
+      "name": "运输署——顾问研究及工程招标预报",
+      "url": "https://www.td.gov.hk/tc/tender_notices/fcwt/index.html",
+      "category": "招标预报",
+      "focus": true,
+      "id": 91
+    },
+    {
+      "name": "土木工程拓展署——工程招标预报",
+      "url": "https://www.cedd.gov.hk/tc/tender-notices/contracts/forecast-of-invitations-to-tender/index.html",
+      "category": "招标预报",
+      "focus": true,
+      "id": 92
+    },
+    {
+      "name": "土木工程拓展署——顾问合约预报",
+      "url": "https://www.cedd.gov.hk/tc/tender-notices/consultancy-agreements/forecast-of-consultancies/index.html",
+      "category": "招标预报",
+      "focus": true,
+      "id": 93
+    },
+    {
+      "name": "路政署——工程合约预报",
+      "url": "https://www.hyd.gov.hk/tc/tender_notices/contracts/forecast_of_invitation/index.html",
+      "category": "招标预报",
+      "focus": true,
+      "id": 94
+    },
+    {
+      "name": "路政署——顾问合约预报",
+      "url": "https://www.hyd.gov.hk/tc/tender_notices/consultancies/forecast_of_consulatancies/index.html",
+      "category": "招标预报",
+      "focus": true,
+      "id": 95
+    },
+    {
+      "name": "建筑署——工程招标预报",
+      "url": "https://www.archsd.gov.hk/tc/newforecastworks.html",
+      "category": "招标预报",
+      "focus": true,
+      "id": 96
+    },
+    {
+      "name": "建筑署——顾问研究预报",
+      "url": "https://www.archsd.gov.hk/tc/newforecastconsultancies.html",
+      "category": "招标预报",
+      "focus": true,
+      "id": 97
+    },
+    {
+      "name": "渠务署——工程招标预报",
+      "url": "https://www.dsd.gov.hk/TC/Tender_Notices/Forecast_of_Invitation_to_DSD_Tenders/index.html",
+      "category": "招标预报",
+      "focus": false,
+      "id": 98
+    },
+    {
+      "name": "渠务署——顾问研究预报",
+      "url": "https://www.dsd.gov.hk/TC/Tender_Notices/Forecast_of_DSD_Consultancies/index.html",
+      "category": "招标预报",
+      "focus": false,
+      "id": 99
+    },
+    {
+      "name": "水务署——工程预报所在栏目",
+      "url": "https://www.wsd.gov.hk/tc/tenders-contracts-and-consultancies/contracts/index.html",
+      "category": "招标预报",
+      "focus": false,
+      "id": 100
+    },
+    {
+      "name": "水务署——顾问预报所在栏目",
+      "url": "https://www.wsd.gov.hk/tc/tenders-contracts-and-consultancies/consultancies/index.html",
+      "category": "招标预报",
+      "focus": false,
+      "id": 101
+    },
+    {
+      "name": "机电工程署——工程及顾问预报所在页面",
+      "url": "https://www.emsd.gov.hk/tc/tenders_contracts_and_consultancies/tender_notices/index.html",
+      "category": "招标预报",
+      "focus": true,
+      "id": 102
+    },
+    {
+      "name": "屋宇署——招标预报",
+      "url": "https://www.bd.gov.hk/tc/whats-new/tender-notices/forecast-of-tenders/index.html",
+      "category": "招标预报",
+      "focus": false,
+      "id": 103
+    },
+    {
+      "name": "环境保护署——招标预报",
+      "url": "https://www.epd.gov.hk/epd/tc_chi/business_job/business_opp/forecast_tender.html",
+      "category": "招标预报",
+      "focus": false,
+      "id": 104
+    },
+    {
+      "name": "地政总署——货品、服务及顾问研究预报所在页面",
+      "url": "https://www.landsd.gov.hk/tc/whats-new/on-going-tenders/tender-goods-services-consultancies.html",
+      "category": "招标预报",
+      "focus": true,
+      "id": 105
+    },
+    {
+      "name": "地政总署——短期租约招标预报",
+      "url": "https://www.landsd.gov.hk/tc/whats-new/on-going-tenders/short-term-tenancy/stt-forecast.html",
+      "category": "招标预报",
+      "focus": true,
+      "id": 106
+    },
+    {
+      "name": "规划署——顾问研究预报所在栏目",
+      "url": "https://www.pland.gov.hk/pland_tc/consultancies_and_tender/p_study/index.html",
+      "category": "招标预报",
+      "focus": true,
+      "id": 107
+    },
+    {
+      "name": "民政事务总署——工程及顾问合约招标／预报",
+      "url": "https://www.had.gov.hk/tc/other_information/tender_notices/works.htm",
+      "category": "招标预报",
+      "focus": false,
+      "id": 108
+    },
+    {
+      "name": "房委会／房屋署——专业服务及顾问协议预报所在栏目",
+      "url": "https://www.housingauthority.gov.hk/tc/business-partnerships/tenders/index.html",
+      "category": "招标预报",
+      "focus": false,
+      "id": 109
+    },
+    {
+      "name": "全政府——中央批标查询",
+      "url": "https://pcms2.gld.gov.hk/iprod/#/scn00101",
+      "category": "已批合约",
+      "focus": false,
+      "id": 110
+    },
+    {
+      "name": "政府物流服务署——已批出合约入口",
+      "url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/contract-award-notice/",
+      "category": "已批合约",
+      "focus": true,
+      "id": 111
+    },
+    {
+      "name": "发展局——批出顾问合约及工程合约",
+      "url": "https://www.devb.gov.hk/tc/tender_notices/Tender_Notice_on_Construction_Sector_Matters/award_of_consultancies_and_works_contracts/index.html",
+      "category": "已批合约",
+      "focus": false,
+      "id": 112
+    },
+    {
+      "name": "运输署——批出工程／顾问合约",
+      "url": "https://www.td.gov.hk/tc/tender_notices/award_of_contracts_and_consultancies/index.html",
+      "category": "已批合约",
+      "focus": true,
+      "id": 113
+    },
+    {
+      "name": "土木工程拓展署——已批出工程合约",
+      "url": "https://www.cedd.gov.hk/tc/tender-notices/contracts/contracts-awarded/index.html",
+      "category": "已批合约",
+      "focus": true,
+      "id": 114
+    },
+    {
+      "name": "土木工程拓展署——已批出顾问合约",
+      "url": "https://www.cedd.gov.hk/tc/tender-notices/consultancy-agreements/consultancies-awarded/index.html",
+      "category": "已批合约",
+      "focus": true,
+      "id": 115
+    },
+    {
+      "name": "路政署——已批出工程合约",
+      "url": "https://www.hyd.gov.hk/tc/tender_notices/contracts/awarded/index.html",
+      "category": "已批合约",
+      "focus": true,
+      "id": 116
+    },
+    {
+      "name": "路政署——已批出顾问合约",
+      "url": "https://www.hyd.gov.hk/tc/tender_notices/consultancies/awarded/index.html",
+      "category": "已批合约",
+      "focus": true,
+      "id": 117
+    },
+    {
+      "name": "建筑署——过去三个月批出的工程合约",
+      "url": "https://www.archsd.gov.hk/tc/tenders-notices/works/contracts-awarded-in-the-past-three-months.html",
+      "category": "已批合约",
+      "focus": true,
+      "id": 118
+    },
+    {
+      "name": "建筑署——已批出顾问协议",
+      "url": "https://www.archsd.gov.hk/tc/tenders-notices/consultancies/agreement-awarded.html",
+      "category": "已批合约",
+      "focus": true,
+      "id": 119
+    },
+    {
+      "name": "渠务署——批出工程／顾问合约",
+      "url": "https://www.dsd.gov.hk/TC/Our_Projects/Contracts_Consultancies_Awarded/index.html",
+      "category": "已批合约",
+      "focus": false,
+      "id": 120
+    },
+    {
+      "name": "水务署——各类已批出合约所在栏目",
+      "url": "https://www.wsd.gov.hk/tc/tenders-contracts-and-consultancies/contracts/index.html",
+      "category": "已批合约",
+      "focus": false,
+      "id": 121
+    },
+    {
+      "name": "水务署——已批出顾问合约",
+      "url": "https://www.wsd.gov.hk/tc/tenders-contracts-and-consultancies/consultancies/award-consultancies/index.html",
+      "category": "已批合约",
+      "focus": false,
+      "id": 122
+    },
+    {
+      "name": "机电工程署——已批出合约",
+      "url": "https://www.emsd.gov.hk/tc/tenders_contracts_and_consultancies/tender_notices/award_of_tender/",
+      "category": "已批合约",
+      "focus": true,
+      "id": 123
+    },
+    {
+      "name": "环境保护署——批标资料所在栏目",
+      "url": "https://www.epd.gov.hk/epd/tc_chi/business_job/business_opp/busopp_maincont.html",
+      "category": "已批合约",
+      "focus": false,
+      "id": 124
+    }
+  ]
+}

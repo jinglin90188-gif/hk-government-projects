@@ -1,0 +1,322 @@
+{
+  "checked_at": "2026-10-26T13:50:34+08:00",
+  "items": [
+    {
+      "department": "建筑署",
+      "title": "九龙深水埗丰力楼中途宿舍和释前中心周边围网翻修工程",
+      "kind": "tender",
+      "reference_no": "RF M813",
+      "closing_date": "2026-03-20",
+      "closing_text": "2026/03/20 12:00",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.archsd.gov.hk/tc/tenders-notices.html",
+      "document_url": "https://www.archsd.gov.hk/tc/psi/tender.json",
+      "source_ids": [
+        "archsd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "closing_at": "2026-03-20T12:00:00+08:00",
+      "status": "已截标",
+      "id": "d864f188da15d18284"
+    },
+    {
+      "department": "建筑署",
+      "title": "长洲长洲山顶道公厕及浴室翻修工程",
+      "kind": "tender",
+      "reference_no": "RF P803",
+      "closing_date": "2026-03-27",
+      "closing_text": "2026/3/27 12:00",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.archsd.gov.hk/tc/tenders-notices.html",
+      "document_url": "https://www.archsd.gov.hk/tc/psi/tender.json",
+      "source_ids": [
+        "archsd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "closing_at": "2026-03-27T12:00:00+08:00",
+      "status": "已截标",
+      "id": "631100e365d4bd15dc"
+    },
+    {
+      "department": "建筑署",
+      "title": "新界八乡少年警讯永久活动中心暨青少年综合训练营楼宇水管系统翻修工程",
+      "kind": "tender",
+      "reference_no": "RF P806",
+      "closing_date": "2026-10-16",
+      "closing_text": "2026/10/16 12:00",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.archsd.gov.hk/tc/tenders-notices.html",
+      "document_url": "https://www.archsd.gov.hk/tc/psi/tender.json",
+      "source_ids": [
+        "archsd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "closing_at": "2026-10-16T12:00:00+08:00",
+      "status": "已截标",
+      "id": "751c476d80819b5f2f"
+    },
+    {
+      "department": "建筑署",
+      "title": "新界大埔广福球场人造草地十一人足球场翻修工程",
+      "kind": "tender",
+      "reference_no": "RF R802",
+      "closing_date": "2026-02-27",
+      "closing_text": "2026/02/27 12:00",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.archsd.gov.hk/tc/tenders-notices.html",
+      "document_url": "https://www.archsd.gov.hk/tc/psi/tender.json",
+      "source_ids": [
+        "archsd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "closing_at": "2026-02-27T12:00:00+08:00",
+      "status": "已截标",
+      "id": "19731bd3821b6b7924"
+    },
+    {
+      "department": "建筑署",
+      "title": "东涌第89区(南侧)一所设有30间课室的中学建造工程",
+      "kind": "tender",
+      "reference_no": "SS N512",
+      "closing_date": "2026-07-10",
+      "closing_text": "2026/07/10 12:00",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.archsd.gov.hk/tc/tenders-notices.html",
+      "document_url": "https://www.archsd.gov.hk/tc/psi/tender.json",
+      "source_ids": [
+        "archsd_json"
+      ],
+      "review_note": "不同官方来源的截标日期不一致，需核对最新修订公告",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "closing_at": "2026-07-10T12:00:00+08:00",
+      "status": "状态待核实",
+      "deadline_options": [
+        "2026-07-10",
+        "2026-07-24"
+      ],
+      "id": "a5f5dad6d6fa008de5"
+    },
+    {
+      "department": "建筑署",
+      "title": "在和合石坟场兴建火葬场工程",
+      "kind": "tender",
+      "reference_no": "SS P501",
+      "closing_date": "2026-03-06",
+      "closing_text": "2026/03/06 00:00",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.archsd.gov.hk/tc/tenders-notices.html",
+      "document_url": "https://www.archsd.gov.hk/tc/psi/tender.json",
+      "source_ids": [
+        "archsd_json"
+      ],
+      "review_note": "不同官方来源的截标日期不一致，需核对最新修订公告",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "closing_at": "2026-03-06T00:00:00+08:00",
+      "status": "状态待核实",
+      "deadline_options": [
+        "2026-03-06",
+        "2026-03-27",
+        "2026-04-10"
+      ],
+      "id": "93613c18a21c33b3b3"
+    },
+    {
+      "department": "建筑署",
+      "title": "东涌新市镇扩展第57B区垃圾收集站建造工程",
+      "kind": "tender",
+      "reference_no": "SS P509 (工务计划编号008NR)",
+      "closing_date": "2026-02-06",
+      "closing_text": "2026/02/06 12:00",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.archsd.gov.hk/tc/tenders-notices.html",
+      "document_url": "https://www.archsd.gov.hk/tc/psi/tender.json",
+      "source_ids": [
+        "archsd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "closing_at": "2026-02-06T12:00:00+08:00",
+      "status": "已截标",
+      "id": "ae1c462b8c0ba6bd3d"
+    },
+    {
+      "department": "建筑署",
+      "title": "设计及建造古洞北第29区的联用综合大楼及联用办公大楼",
+      "kind": "tender",
+      "reference_no": "SS R501",
+      "closing_date": "2026-04-01",
+      "closing_text": "2026/04/01 12:00",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.archsd.gov.hk/tc/tenders-notices.html",
+      "document_url": "https://www.archsd.gov.hk/tc/psi/tender.json",
+      "source_ids": [
+        "archsd_json"
+      ],
+      "review_note": "不同官方来源的截标日期不一致，需核对最新修订公告",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "closing_at": "2026-04-01T12:00:00+08:00",
+      "status": "状态待核实",
+      "deadline_options": [
+        "2026-04-01",
+        "2026-04-24"
+      ],
+      "id": "d5a802882c8d5b368d"
+    },
+    {
+      "department": "建筑署",
+      "title": "设计及建造落马洲河套地区消防局暨救护站及其他消防设施",
+      "kind": "tender",
+      "reference_no": "SS R503",
+      "closing_date": "2026-05-29",
+      "closing_text": "2026/05/29 00:00",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.archsd.gov.hk/tc/tenders-notices.html",
+      "document_url": "https://www.archsd.gov.hk/tc/psi/tender.json",
+      "source_ids": [
+        "archsd_json"
+      ],
+      "review_note": "不同官方来源的截标日期不一致，需核对最新修订公告",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "closing_at": "2026-05-29T00:00:00+08:00",
+      "status": "状态待核实",
+      "deadline_options": [
+        "2026-05-29",
+        "2026-06-26"
+      ],
+      "id": "66079d59f44d95d0e9"
+    },
+    {
+      "department": "建筑署",
+      "title": "设计及建造位于湾仔的香港国际法律事务大楼的投标资格预审",
+      "kind": "tender",
+      "reference_no": "SS S501",
+      "closing_date": "2026-06-23",
+      "closing_text": "2026/6/23 12:00",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.archsd.gov.hk/tc/tenders-notices.html",
+      "document_url": "https://www.archsd.gov.hk/tc/psi/tender.json",
+      "source_ids": [
+        "archsd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "closing_at": "2026-06-23T12:00:00+08:00",
+      "status": "已截标",
+      "id": "0b602d5b3ca18cea32"
+    },
+    {
+      "department": "建筑署",
+      "title": "为建筑署(物业事务处)负责的建筑物、土地及其他物业进行改建、加建、保养及维修工程的定期合约(服务地区：观塘、油麻地、尖沙咀及旺角)",
+      "kind": "tender",
+      "reference_no": "TC R931",
+      "closing_date": "2026-10-09",
+      "closing_text": "2026/10/09 12:00",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.archsd.gov.hk/tc/tenders-notices.html",
+      "document_url": "https://www.archsd.gov.hk/tc/psi/tender.json",
+      "source_ids": [
+        "archsd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "closing_at": "2026-10-09T12:00:00+08:00",
+      "status": "已截标",
+      "id": "7e1cac9b988a92e624"
+    },
+    {
+      "department": "建筑署",
+      "title": "为建筑署(物业事务处)负责的建筑物、土地及其他物业进行改建、加建、保养及维修工程的定期合约(服务地区：九龙城、西贡及离岛(西贡))",
+      "kind": "tender",
+      "reference_no": "TC R932",
+      "closing_date": "2026-10-09",
+      "closing_text": "2026/10/09 12:00",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.archsd.gov.hk/tc/tenders-notices.html",
+      "document_url": "https://www.archsd.gov.hk/tc/psi/tender.json",
+      "source_ids": [
+        "archsd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "closing_at": "2026-10-09T12:00:00+08:00",
+      "status": "已截标",
+      "id": "4ebec6513921173e11"
+    },
+    {
+      "department": "建筑署",
+      "title": "为建筑署(物业事务处)负责的建筑物、土地及其他物业进行改建、加建、保养及维修工程的定期合约(服务地区：深水埗、荃湾及葵青)",
+      "kind": "tender",
+      "reference_no": "TC R941",
+      "closing_date": "2026-10-09",
+      "closing_text": "2026/10/09 12:00",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.archsd.gov.hk/tc/tenders-notices.html",
+      "document_url": "https://www.archsd.gov.hk/tc/psi/tender.json",
+      "source_ids": [
+        "archsd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "closing_at": "2026-10-09T12:00:00+08:00",
+      "status": "已截标",
+      "id": "60c8270c09197bef9d"
+    },
+    {
+      "department": "建筑署",
+      "title": "为建筑署(物业事务处)负责的建筑物、土地及其他物业进行改建、加建、保养及维修工程的定期合约(服务地区：黄大仙及沙田)",
+      "kind": "tender",
+      "reference_no": "TC R942",
+      "closing_date": "2026-10-09",
+      "closing_text": "2026/10/09 12:00",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.archsd.gov.hk/tc/tenders-notices.html",
+      "document_url": "https://www.archsd.gov.hk/tc/psi/tender.json",
+      "source_ids": [
+        "archsd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "closing_at": "2026-10-09T12:00:00+08:00",
+      "status": "已截标",
+      "id": "ea64dc689cd0157c1f"
+    },
+    {
+      "department": "建筑署",
+      "title": "为建筑署负责的政府及资助物业的小型工程进行设计及施工定期合约 [合约区：新界及离岛(北)]。",
+      "kind": "tender",
+      "reference_no": "TC R973",
+      "closing_date": "2026-01-30",
+      "closing_text": "2026/1/30 12:00",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.archsd.gov.hk/tc/tenders-notices.html",
+      "document_url": "https://www.archsd.gov.hk/tc/psi/tender.json",
+      "source_ids": [
+        "archsd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "closing_at": "2026-01-30T12:00:00+08:00",
+      "status": "已截标",
+      "id": "0f3b5c2c2a154e5143"
+    }
+  ]
+}

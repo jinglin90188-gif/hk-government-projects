@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="zh-CN"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="按政府部门查阅香港公开招标、采购预报及原始项目文件，并检查各来源的采集情况。">
+<title>香港政府项目库 · 招标与采购预报</title><link rel="stylesheet" href="dashboard.css">
+</head><body>
+<header class="topbar"><a class="brand" href="#"><span class="brand-mark">港</span><span>香港政府项目库<small>PUBLIC PROCUREMENT MONITOR</small></span></a><span id="timestamp" class="updated">正在读取数据</span></header>
+<main>
+<section class="intro"><div><span class="eyebrow">先把项目查全，再看业务机会</span><h1>各部门的招标和预报，<br>在这里一起查。</h1><p>直接查看项目名称、编号、时间和政府原文。当前展示全部已采集项目，已暂停公司适配评分。</p></div><div class="intro-note"><span class="live-dot"></span>官方公开资料汇集<strong>中央电子投标箱<br>＋各部门独立公告<br>＋工程及顾问采购预报</strong><a href="https://pcms2.gld.gov.hk/iprod/#/home?lang-setting=zh-HK" target="_blank" rel="noopener">打开中央平台 ↗</a></div></section>
+<section class="stats" id="stats" aria-label="数据概况"></section>
+<div id="updateNote" class="notice update-note" aria-live="polite"></div>
+<nav class="view-tabs" aria-label="网站栏目"><button data-view="projects" class="active">项目清单</button><button data-view="departments">按部门查看</button><button data-view="coverage">采集情况 <span id="reviewCount"></span></button><button data-view="links">官方入口</button></nav>
+<section id="view-projects" class="view">
+<div class="panel-head"><div><h2>项目清单</h2><p id="resultCount" aria-live="polite"></p></div><button id="export" class="outline-button">导出当前清单 ↓</button></div>
+<div class="filters"><label class="search"><span>搜索</span><input id="search" type="search" placeholder="项目名称 / 招标编号 / 关键词" autocomplete="off"></label><label><span>政府部门</span><select id="department"><option value="">全部部门</option></select></label><label><span>显示顺序</span><select id="sort"><option value="closing">按截标日期</option><option value="department">按部门名称</option><option value="recent">按发布日期</option></select></label></div>
+<div class="status-row"><div id="statusFilters" class="chips"></div><label class="toggle"><input id="includeClosed" type="checkbox">包含已截标 / 过期预报</label></div>
+<div class="notice">招标预报是计划时间，实际是否已出标以正式公告为准；未提供截标日的记录列为“待核实”。</div>
+<div id="projectList" class="project-list"></div><div class="pagination"><button id="prev" class="outline-button">← 上一页</button><span id="pageInfo"></span><button id="next" class="outline-button">下一页 →</button></div>
+</section>
+<section id="view-departments" class="view" hidden><div class="panel-head"><div><h2>按政府部门查看</h2><p>点击部门查看项目。显示零项时，请同时检查来源状态。</p></div><label class="search"><input id="departmentSearch" type="search" placeholder="搜索政府部门"></label></div><div id="departmentGrid" class="department-grid"></div></section>
+<section id="view-coverage" class="view" hidden><div class="panel-head"><div><h2>采集情况</h2><p>“网页可打开”不等于“项目已抓全”。这里保留每个来源的结果、原始文件及错误信息。</p></div></div><div class="notice warning">已提取：从该来源取得结构化记录，仍需持续核对完整性。待解析或连接失败：不能据此判断该部门没有项目。</div><div id="coverageFilters" class="chips"></div><div id="coverageList" class="coverage-list"></div></section>
+<section id="view-links" class="view" hidden><div class="panel-head"><div><h2>官方入口与项目文件</h2><p>保留政府网址导航，便于人工核对。</p></div><label class="search"><input id="linkSearch" type="search" placeholder="搜索部门或入口"></label></div><div id="linkGrid" class="department-grid"></div></section>
+<section id="loadError" hidden class="notice warning"></section>
+</main>
+<footer><span>香港政府项目库 · 公开资料研究</span><span>内容与最新修订以发标机构公告为准 · <a href="projects.csv" download>下载全量CSV</a></span></footer>
+<dialog id="projectDialog"><button id="closeDialog" class="dialog-close" aria-label="关闭详情">×</button><div id="dialogContent"></div></dialog>
+<script src="dashboard.js" defer></script></body></html>

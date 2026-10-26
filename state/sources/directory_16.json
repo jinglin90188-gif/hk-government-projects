@@ -1,0 +1,45 @@
+{
+  "checked_at": "2026-10-26T13:50:34+08:00",
+  "items": [
+    {
+      "department": "水务署",
+      "title": "应用先进技术于水务设施资产管理 - 勘查研究",
+      "kind": "tender",
+      "reference_no": "CE 20/2026 (WS)",
+      "closing_date": "2026-07-03",
+      "closing_text": "2026年7月3日中午12时正",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.wsd.gov.hk/filemanager/en/content_1858/CE20_2026_Invitation%20Notice.docx",
+      "document_url": "https://www.wsd.gov.hk/filemanager/en/content_1858/CE20_2026_Invitation%20Notice.pdf",
+      "source_ids": [
+        "directory_16"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "closing_at": "2026-07-03T12:00:00+08:00",
+      "status": "已截标",
+      "id": "d80a9ba619e06f3d5e"
+    },
+    {
+      "department": "水务署",
+      "title": "于政府供水管网建设智慧供水系统 – 设计及建造",
+      "kind": "tender",
+      "reference_no": "CE 34/2026 (WS)",
+      "closing_date": "2026-09-18",
+      "closing_text": "2026年9月18日中午12时正",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.wsd.gov.hk/filemanager/en/content_1858/CE34_2026_Invitation%20Notice.docx",
+      "document_url": "https://www.wsd.gov.hk/filemanager/en/content_1858/CE34_2026_Invitation%20Notice.pdf",
+      "source_ids": [
+        "directory_16"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "closing_at": "2026-09-18T12:00:00+08:00",
+      "status": "已截标",
+      "id": "25a00c418c415f038a"
+    }
+  ]
+}

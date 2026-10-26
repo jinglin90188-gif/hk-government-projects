@@ -1,0 +1,45 @@
+{
+  "checked_at": "2026-10-26T13:50:34+08:00",
+  "items": [
+    {
+      "department": "路政署",
+      "title": "Agreement No. CE 23/2026 (HY) Provision of Universal Accessibility Facilities at Footbridges, Elevated Walkways and Subways Package 10 – Investigation",
+      "kind": "tender",
+      "reference_no": "",
+      "closing_date": "2026-07-24",
+      "closing_text": "12:00 noon on 24 July 2026 (Friday)",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.hyd.gov.hk/en/tender_notices/consultancies/technical_and_fee_proposal/index.html",
+      "document_url": "https://www.hyd.gov.hk/en/tender_notices/consultancies/technical_and_fee_proposal/doc/2026/CE23_2026HY.pdf",
+      "source_ids": [
+        "hyd_consult_proposals"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "closing_at": "2026-07-24T12:00:00+08:00",
+      "status": "已截标",
+      "id": "e09bf45a3fac351d11"
+    },
+    {
+      "department": "路政署",
+      "title": "Agreement No. CE 42/2026 (CE) Southern Extension of Hong Kong – Shenzhen Western Rail Link – Investigation",
+      "kind": "tender",
+      "reference_no": "",
+      "closing_date": "2026-11-20",
+      "closing_text": "12:00 noon on 20 November 2026 (Friday)",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.hyd.gov.hk/en/tender_notices/consultancies/technical_and_fee_proposal/index.html",
+      "document_url": "https://www.hyd.gov.hk/en/tender_notices/consultancies/technical_and_fee_proposal/doc/2026/CE42_2026CE.pdf",
+      "source_ids": [
+        "hyd_consult_proposals"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "closing_at": "2026-11-20T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "08b46f4d903b2cb731"
+    }
+  ]
+}

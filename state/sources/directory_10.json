@@ -1,0 +1,62 @@
+{
+  "checked_at": "2026-10-26T13:50:34+08:00",
+  "items": [
+    {
+      "department": "运输署",
+      "title": "2027 及 2028 年泊车调查(街道以外设施)",
+      "kind": "tender",
+      "reference_no": "TD(T) 1/2026",
+      "closing_date": "2026-10-29",
+      "closing_text": "29.10.2026",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.td.gov.hk/tc/tender_notices/tender_notices/",
+      "document_url": "",
+      "source_ids": [
+        "directory_10"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "status": "正在招标",
+      "id": "5e11812c6a688672ef"
+    },
+    {
+      "department": "运输署",
+      "title": "管理、营运及维修大老山隧道的合约",
+      "kind": "tender",
+      "reference_no": "TD(T) 2/2026",
+      "closing_date": "2026-12-11",
+      "closing_text": "11.12.2026",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.td.gov.hk/tc/tender_notices/tender_notices/",
+      "document_url": "",
+      "source_ids": [
+        "directory_10"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "status": "正在招标",
+      "id": "f2b8de191756d3320b"
+    },
+    {
+      "department": "运输署",
+      "title": "为2027及2028年交通统计年报收集交通流量资料",
+      "kind": "tender",
+      "reference_no": "TD(T) 3/2026",
+      "closing_date": "2026-10-30",
+      "closing_text": "30.10.2026",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.td.gov.hk/tc/tender_notices/tender_notices/",
+      "document_url": "",
+      "source_ids": [
+        "directory_10"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "status": "正在招标",
+      "id": "7f2befb28bbdb3aa0e"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "checked_at": "2026-10-26T13:50:34+08:00",
+  "items": [
+    {
+      "department": "民政事务总署",
+      "title": "邀请提交意向书通知 ( 只提供英文版本 )",
+      "kind": "tender",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.had.gov.hk/en/other_information/tender_notices/ex_interest.php",
+      "document_url": "",
+      "source_ids": [
+        "directory_30"
+      ],
+      "review_note": "需从原公告核实截标日期",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "status": "状态待核实",
+      "id": "2a07d0a3447b8a83ae"
+    },
+    {
+      "department": "民政事务总署",
+      "title": "Provision of Security and Building Management Services to the Sai Kung Tseung Kwan O Government Complex",
+      "kind": "tender",
+      "reference_no": "HAD/SKDO/T01/2026",
+      "closing_date": "2026-11-09",
+      "closing_text": "12:00 noon, 9 November 2026 (Monday)",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.had.gov.hk/en/other_information/tender_notices/general.htm",
+      "document_url": "",
+      "source_ids": [
+        "directory_30"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "closing_at": "2026-11-09T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "d03fb1a3dc5c4c0fc2"
+    }
+  ]
+}

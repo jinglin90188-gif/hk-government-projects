@@ -1,0 +1,24 @@
+{
+  "checked_at": "2026-10-26T13:50:34+08:00",
+  "items": [
+    {
+      "department": "渔农自然护理署",
+      "title": "Category Code 类别编号",
+      "kind": "tender",
+      "reference_no": "Category Code 类别编号",
+      "closing_date": "",
+      "closing_text": "Category Code 类别编号",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.afcd.gov.hk/tc_chi/tender/tender_sup/tender_sup.html",
+      "document_url": "",
+      "source_ids": [
+        "directory_29"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T13:50:34+08:00",
+      "status": "状态待核实",
+      "id": "4385a26adbad6f51b4"
+    }
+  ]
+}
