@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-26T13:52:14+08:00",
+  "checked_at": "2026-10-26T15:31:11+08:00",
   "items": [
     {
       "department": "运输署",
@@ -16,7 +16,7 @@
         "directory_10"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "正在招标",
       "id": "5e11812c6a688672ef"
     },
@@ -35,7 +35,7 @@
         "directory_10"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "正在招标",
       "id": "f2b8de191756d3320b"
     },
@@ -54,7 +54,7 @@
         "directory_10"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "正在招标",
       "id": "7f2befb28bbdb3aa0e"
     }

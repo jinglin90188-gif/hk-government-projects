@@ -23,15 +23,15 @@ function renderUpdateNote(){
  const c=data.changes||{},a=data.automation||{},old=(Date.now()-new Date(data.updated_at).getTime())>30*3600000;
  const changes=c.baseline?'本次为首次建库。':`与上次相比：新收录 ${c.new_count||0} 条，内容变化 ${c.updated_count||0} 条。`;
  const schedule=a.active?'每日香港时间08:00启动采集，完成后更新网站。':'每日自动更新配置已准备，等待接入正确的GitHub账号后启用。';
- const counts=data.company_scope?.counts||{};
- $('#updateNote').innerHTML=`默认只显示业务相关项目（不评分）：${counts.include||0}条相关、${counts.review||0}条待确认、${counts.exclude||0}条明显无关已隐藏。业务相关不等于已满足投标资格。 ${esc(schedule)} ${esc(changes)}${old?' <strong>已超过30小时未成功更新，请检查采集任务。</strong>':''}${a.run_url?' '+external(a.run_url,'查看运行记录'):''}`;
+ const counts={};data.projects.filter(r=>r.status!=="已截标"&&!r.outdated).forEach(r=>{const k=r.company_fit?.decision||"review";counts[k]=(counts[k]||0)+1;});
+ $('#updateNote').innerHTML=`正在招标从宽、预报从严（不评分）：${counts.include||0}条相关、${counts.review||0}条待确认、${counts.exclude||0}条明显无关已隐藏。业务相关不等于已满足投标资格。 <a href="department-audit.html" target="_blank" rel="noopener">逐部门核查表 ↗</a> ${esc(schedule)} ${esc(changes)}${old?' <strong>已超过30小时未成功更新，请检查采集任务。</strong>':''}${a.run_url?' '+external(a.run_url,'查看运行记录'):''}`;
  $('#updateNote').classList.toggle('warning',old);
 }
 function switchView(view){document.querySelectorAll('.view').forEach(v=>v.hidden=v.id!==`view-${view}`);document.querySelectorAll('[data-view]').forEach(b=>b.classList.toggle('active',b.dataset.view===view));if(!data)return;if(view==='departments')renderDepartments();if(view==='coverage')renderCoverage();if(view==='links')renderLinks();}
 document.querySelectorAll('[data-view]').forEach(b=>b.addEventListener('click',()=>switchView(b.dataset.view)));
 function selection(){
  const term=$('#search').value.trim().toLowerCase(),dept=$('#department').value,closed=$('#includeClosed').checked;
- return data.projects.filter(r=>(activeKind==='business_review'?r.company_fit?.decision==='review':inScope(r))&&(!dept||r.department===dept)&&(!term||`${r.title} ${r.title_zh||""} ${r.reference_no} ${r.department}`.toLowerCase().includes(term))&&(closed||r.status!=='已截标'&&!r.outdated)&&(activeKind==='all'||activeKind==='business_review'||activeKind==='tender'&&r.status==='正在招标'||activeKind==='forecast'&&r.kind==='forecast'||activeKind==='uncertain'&&r.status==='状态待核实'||activeKind==='new'&&r.change==='new'||activeKind==='updated'&&r.change==='updated')).sort((a,b)=>{
+ return data.projects.filter(r=>(activeKind==='business_review'?r.company_fit?.decision==='review':inScope(r))&&(!dept||r.department===dept)&&(!term||`${r.title} ${r.title_zh||""} ${(r.title_aliases||[]).join(" ")} ${r.reference_no} ${r.department}`.toLowerCase().includes(term))&&(closed||r.status!=='已截标'&&!r.outdated)&&(activeKind==='all'||activeKind==='business_review'||activeKind==='tender'&&r.status==='正在招标'||activeKind==='forecast'&&r.kind==='forecast'||activeKind==='uncertain'&&r.status==='状态待核实'||activeKind==='new'&&r.change==='new'||activeKind==='updated'&&r.change==='updated')).sort((a,b)=>{
   if($('#sort').value==='department')return a.department.localeCompare(b.department,'zh-CN')||a.title.localeCompare(b.title,'zh-CN');
   if($('#sort').value==='recent')return(b.publish_date||'').localeCompare(a.publish_date||'');
   const priority=r=>r.status==='正在招标'?0:r.kind==='forecast'?1:r.status==='状态待核实'?2:3;
@@ -45,7 +45,11 @@ function renderProjects(){
  document.querySelectorAll('[data-project]').forEach(b=>{
   const fit=data.projects.find(r=>r.id===b.dataset.project)?.company_fit;
   if(fit){const note=document.createElement('p');note.className='review-note';note.textContent=fit.reason+'；投标资格另核。';b.closest('.project-card').append(note);}
-  b.addEventListener('click',()=>showProject(b.dataset.project));
+  b.addEventListener('click',()=>{
+   showProject(b.dataset.project);
+   const row=data.projects.find(r=>r.id===b.dataset.project);
+   for(const text of [row?.stage_note,row?.eligibility_summary,row?.eligibility_note])if(text){const p=document.createElement('p');p.className='review-note';p.textContent=text;$('#dialogContent').append(p);}
+  });
  });
  $('#emptyCoverage')?.addEventListener('click',e=>{e.preventDefault();switchView('coverage');});
  $('#pageInfo').textContent=`第 ${page} / ${pages} 页`;$('#prev').disabled=page===1;$('#next').disabled=page===pages;

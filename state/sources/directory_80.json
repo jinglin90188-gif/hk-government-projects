@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-26T13:52:14+08:00",
+  "checked_at": "2026-10-26T15:31:11+08:00",
   "items": [
     {
       "department": "律政司",
@@ -16,10 +16,18 @@
         "directory_80"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "document_verified": true,
       "closing_at": "2026-11-13T12:00:00+08:00",
       "status": "正在招标",
+      "title_aliases": [
+        "为律政司辖下的律政中心和前法国外方传道会大楼提供物业及设施管理服务"
+      ],
+      "title_zh": "为律政司辖下的律政中心和前法国外方传道会大楼提供物业及设施管理服务",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "notes": "",
       "id": "f70141acc8d4f7f6ff"
     },
     {
@@ -37,10 +45,18 @@
         "directory_80"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "document_verified": true,
       "closing_at": "2026-10-28T12:00:00+08:00",
       "status": "正在招标",
+      "title_aliases": [
+        "为律政司提供香港特别行政区成立30周年庆祝活动统筹,管理及宣传服务"
+      ],
+      "title_zh": "为律政司提供香港特别行政区成立30周年庆祝活动统筹,管理及宣传服务",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "notes": "",
       "id": "c34af8aceaff79cd46"
     }
   ]

@@ -1,120 +1,6 @@
 {
-  "checked_at": "2026-10-26T13:52:14+08:00",
+  "checked_at": "2026-10-26T15:31:11+08:00",
   "items": [
-    {
-      "department": "发展局",
-      "title": "土木工程一般规格 (只提供英文版)",
-      "kind": "tender",
-      "reference_no": "",
-      "closing_date": "",
-      "closing_text": "",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.cedd.gov.hk/tc/publications/standards-spec-handbooks-cost/index.html",
-      "document_url": "",
-      "source_ids": [
-        "directory_65"
-      ],
-      "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:52:14+08:00",
-      "status": "状态待核实",
-      "id": "24debb839e3dc25b7d"
-    },
-    {
-      "department": "发展局",
-      "title": "工务工程合约的电子采购 (只提供英文版)",
-      "kind": "tender",
-      "reference_no": "",
-      "closing_date": "",
-      "closing_text": "",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.devb.gov.hk/en/construction_sector_matters/electronic_services/e_procurement/e_procurement_of_public_works_contracts/index.html",
-      "document_url": "",
-      "source_ids": [
-        "directory_65"
-      ],
-      "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:52:14+08:00",
-      "status": "状态待核实",
-      "id": "94cfb592e5d5d4745c"
-    },
-    {
-      "department": "发展局",
-      "title": "工务技术通告 (只提供英文版)",
-      "kind": "tender",
-      "reference_no": "",
-      "closing_date": "",
-      "closing_text": "",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.devb.gov.hk/en/publications_and_press_releases/technical_circulars/technical_circulars_um/index.html",
-      "document_url": "",
-      "source_ids": [
-        "directory_65"
-      ],
-      "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:52:14+08:00",
-      "status": "状态待核实",
-      "id": "2e7e41017b7f46985c"
-    },
-    {
-      "department": "发展局",
-      "title": "机电工程署出版的技术规格 (只提供英文版)",
-      "kind": "tender",
-      "reference_no": "",
-      "closing_date": "",
-      "closing_text": "",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.emsd.gov.hk/en/publications/technical_specifications/index.html",
-      "document_url": "",
-      "source_ids": [
-        "directory_65"
-      ],
-      "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:52:14+08:00",
-      "status": "状态待核实",
-      "id": "20f0139be61eb00104"
-    },
-    {
-      "department": "发展局",
-      "title": "标准合约文件 (只提供英文版)",
-      "kind": "tender",
-      "reference_no": "",
-      "closing_date": "",
-      "closing_text": "",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.devb.gov.hk/en/publications_and_press_releases/publications/standard_contract_documents/index.html",
-      "document_url": "",
-      "source_ids": [
-        "directory_65"
-      ],
-      "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:52:14+08:00",
-      "status": "状态待核实",
-      "id": "7491f6dda563d80e47"
-    },
-    {
-      "department": "发展局",
-      "title": "标准顾问协议文件 (只提供英文版)",
-      "kind": "tender",
-      "reference_no": "",
-      "closing_date": "",
-      "closing_text": "",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.devb.gov.hk/en/publications_and_press_releases/publications/standard_consultancy_document/index.html",
-      "document_url": "",
-      "source_ids": [
-        "directory_65"
-      ],
-      "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:52:14+08:00",
-      "status": "状态待核实",
-      "id": "f78ab01ad3cb4d4355"
-    },
     {
       "department": "发展局",
       "title": "为发展局古物古迹办事处就香港法定古迹和已评级建筑提供检查服务",
@@ -130,10 +16,18 @@
         "directory_65"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "document_verified": true,
       "closing_at": "2026-10-30T12:00:00+08:00",
       "status": "正在招标",
+      "title_aliases": [
+        "为发展局古物古迹办事处就香港法定古迹和已评级建筑提供检查服务"
+      ],
+      "title_zh": "为发展局古物古迹办事处就香港法定古迹和已评级建筑提供检查服务",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "notes": "",
       "id": "e11f0abca345448636"
     }
   ]

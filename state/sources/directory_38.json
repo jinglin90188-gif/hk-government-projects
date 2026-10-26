@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-26T13:52:14+08:00",
+  "checked_at": "2026-10-26T15:31:11+08:00",
   "items": [
     {
       "department": "香港警务处",
@@ -16,7 +16,7 @@
         "directory_38"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "状态待核实",
       "id": "f4aa4009e9257e0a00"
     },
@@ -35,7 +35,7 @@
         "directory_38"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "状态待核实",
       "id": "a6ad0f4de2e9127406"
     },
@@ -54,7 +54,7 @@
         "directory_38"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "状态待核实",
       "id": "0c80036f74f72b06c2"
     },
@@ -73,7 +73,7 @@
         "directory_38"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "状态待核实",
       "id": "e508a8f93e2b5360db"
     },
@@ -92,7 +92,7 @@
         "directory_38"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "状态待核实",
       "id": "bdb78d69c761f75ab7"
     },
@@ -111,7 +111,7 @@
         "directory_38"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "状态待核实",
       "id": "239f89a85aadc91af5"
     },
@@ -130,7 +130,7 @@
         "directory_38"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "状态待核实",
       "id": "c1ab4635421febe6b2"
     },
@@ -149,7 +149,7 @@
         "directory_38"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "状态待核实",
       "id": "f894f5b2de63eb377e"
     },
@@ -168,88 +168,9 @@
         "directory_38"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "状态待核实",
       "id": "7f6de078de8b0ae5eb"
-    },
-    {
-      "department": "香港警务处",
-      "title": "投标申请表格及其他资料:",
-      "kind": "tender",
-      "reference_no": "",
-      "closing_date": "",
-      "closing_text": "",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://pcms2.gld.gov.hk",
-      "document_url": "",
-      "source_ids": [
-        "directory_38"
-      ],
-      "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
-      "status": "状态待核实",
-      "closing_at": "",
-      "id": "f5786fbd17b6428088"
-    },
-    {
-      "department": "香港警务处",
-      "title": "招标增补文件:",
-      "kind": "tender",
-      "reference_no": "",
-      "closing_date": "",
-      "closing_text": "",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.police.gov.hk/ppp_tc/11_useful_info/tenders_2026_33.html",
-      "document_url": "https://www.police.gov.hk/info/doc/tender/Addendum_SSPODIST_10_2026.pdf",
-      "source_ids": [
-        "directory_38"
-      ],
-      "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
-      "status": "状态待核实",
-      "closing_at": "",
-      "id": "ad1d36feae6ef55f7f"
-    },
-    {
-      "department": "香港警务处",
-      "title": "标书投递及截止日期:",
-      "kind": "tender",
-      "reference_no": "",
-      "closing_date": "",
-      "closing_text": "",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "http://www.info.gov.hk/gia/general/ctoday.htm",
-      "document_url": "",
-      "source_ids": [
-        "directory_38"
-      ],
-      "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
-      "status": "状态待核实",
-      "closing_at": "",
-      "id": "7f2b0e9760d03bc1a5"
-    },
-    {
-      "department": "香港警务处",
-      "title": "是次招标采用公开招标。所有承办商╱供应商╱服务供应商均可承投。 是次招标受世界贸易组织政府采购协定规管及不会涉及电子拍卖。此公告亦为《世界贸易组织政府采购协定》下规定的摘要公告。 香港特别行政区政府不一定采纳最高合并得分的标书或任何一份标书，并有权与任何投标者商议批出合约的条款。 有关上述招标的结果，将刊载于互联网网址 ( http://www.gld.gov.hk/chi/services_2_c.htm )。",
-      "kind": "tender",
-      "reference_no": "是次招标采用公开招标。所有承办商╱供应商╱服务供应商均可承投。 是次招标受世界贸易组织政府采购协定规管及不会涉及电子拍卖。此公告亦为《世界贸易组织政府采购协定》下规定的摘要公告。 香港特别行政区政府不一定采纳最高合并得分的标书或任何一份标书，并有权与任何投标者商议批出合约的条款。 有关上述招标的结果，将刊载于互联网网址 ( http://www.gld.gov.hk/chi/services_2_c.htm )。",
-      "closing_date": "",
-      "closing_text": "备注:",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "http://www.gld.gov.hk/chi/services_2_c.htm",
-      "document_url": "",
-      "source_ids": [
-        "directory_38"
-      ],
-      "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
-      "status": "状态待核实",
-      "id": "2d5e75955f78355594"
     }
   ]
 }

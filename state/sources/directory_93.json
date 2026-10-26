@@ -1,25 +1,6 @@
 {
-  "checked_at": "2026-10-26T13:52:14+08:00",
+  "checked_at": "2026-10-26T15:31:11+08:00",
   "items": [
-    {
-      "department": "土木工程拓展署",
-      "title": "优化港岛北维多利亚港海滨 – 设计及建造",
-      "kind": "forecast",
-      "reference_no": "",
-      "closing_date": "",
-      "closing_text": "",
-      "forecast_date": "2026 Q4",
-      "publish_date": "",
-      "source_url": "https://www.cedd.gov.hk/tc/tender-notices/consultancy-agreements/forecast-of-consultancies/index.html",
-      "document_url": "https://www.cedd.gov.hk/filemanager/eng/content_290/FC_EA_202607_r2.pdf",
-      "source_ids": [
-        "directory_93"
-      ],
-      "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
-      "status": "招标预报",
-      "id": "8c376c3cd7778a764b"
-    },
     {
       "department": "土木工程拓展署",
       "title": "建立三宝树湿地保育公园 - 余下期数 - 设计及建造",
@@ -35,7 +16,7 @@
         "directory_93"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "招标预报",
       "id": "fb9a4172697d46cd38"
     },
@@ -54,7 +35,7 @@
         "directory_93"
       ],
       "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "招标预报",
       "outdated": true,
       "id": "13ee6704be0c0ed22b"
@@ -74,7 +55,7 @@
         "directory_93"
       ],
       "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "招标预报",
       "outdated": true,
       "id": "ee43bc693a2a51f31d"
@@ -94,7 +75,7 @@
         "directory_93"
       ],
       "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "招标预报",
       "outdated": true,
       "id": "a9a77693bfb00b236e"
@@ -114,7 +95,7 @@
         "directory_93"
       ],
       "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "招标预报",
       "outdated": true,
       "id": "02010b4efc8dc88778"
@@ -134,7 +115,7 @@
         "directory_93"
       ],
       "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "招标预报",
       "outdated": true,
       "id": "9685fb7511ae422603"
@@ -154,7 +135,7 @@
         "directory_93"
       ],
       "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "招标预报",
       "outdated": true,
       "id": "f8b5f2fdd4b5782e2b"
@@ -174,7 +155,7 @@
         "directory_93"
       ],
       "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "招标预报",
       "outdated": true,
       "id": "7378fe5fa741db0992"
@@ -194,7 +175,7 @@
         "directory_93"
       ],
       "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "招标预报",
       "outdated": true,
       "id": "0b604a2785aeba6dc5"
@@ -214,7 +195,7 @@
         "directory_93"
       ],
       "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "招标预报",
       "outdated": true,
       "id": "768e4527ff71a7d3ba"
@@ -234,7 +215,7 @@
         "directory_93"
       ],
       "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "招标预报",
       "outdated": true,
       "id": "8e4b0fab913e781e06"
@@ -254,7 +235,7 @@
         "directory_93"
       ],
       "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "招标预报",
       "outdated": true,
       "id": "a40778416f20637946"
@@ -274,7 +255,7 @@
         "directory_93"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "招标预报",
       "id": "218186056623ca52f4"
     },
@@ -293,7 +274,7 @@
         "directory_93"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "招标预报",
       "id": "0a70faa09e0f1ef56c"
     },
@@ -312,10 +293,35 @@
         "directory_93"
       ],
       "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "招标预报",
       "outdated": true,
       "id": "1612c7dbd7f6915355"
+    },
+    {
+      "department": "土木工程拓展署",
+      "title": "优化港岛北维多利亚港海滨 – 设计及建造",
+      "kind": "forecast",
+      "reference_no": "CE 43/2026 (CE)",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026 Q4",
+      "publish_date": "",
+      "source_url": "https://www.cedd.gov.hk/tc/tender-notices/consultancy-agreements/forecast-of-consultancies/index.html",
+      "document_url": "https://www.cedd.gov.hk/filemanager/eng/content_290/FC_EA_202607_r2.pdf",
+      "source_ids": [
+        "directory_93"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-26T15:31:11+08:00",
+      "status": "招标预报",
+      "title_zh": "优化港岛北维多利亚港海滨 – 设计及建造",
+      "title_aliases": [
+        "优化港岛北维多利亚港海滨 – 设计及建造",
+        "Enhancement of Victoria Harbour Waterfront on Hong Kong Island North – Design and Construction"
+      ],
+      "identity_evidence_url": "https://www.cedd.gov.hk/eng/tender-notices/consultancy-agreements/invitation-for-technical-and-fee-proposals/index-id-1372.html",
+      "id": "29234eabc8933fd27c"
     }
   ]
 }

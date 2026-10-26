@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-26T13:52:14+08:00",
+  "checked_at": "2026-10-26T15:31:11+08:00",
   "items": [
     {
       "department": "香港金融管理局",
@@ -16,7 +16,7 @@
         "hkma_api"
       ],
       "review_note": "API未提供截标日，需查公告",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "状态待核实",
       "id": "a6ab2e02941c6ed554"
     },
@@ -35,7 +35,7 @@
         "hkma_api"
       ],
       "review_note": "API未提供截标日，需查公告",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "状态待核实",
       "id": "e83b715dfa4f3026db"
     },
@@ -54,7 +54,7 @@
         "hkma_api"
       ],
       "review_note": "API未提供截标日，需查公告",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "状态待核实",
       "id": "a657fc0978351c6f77"
     },
@@ -73,7 +73,7 @@
         "hkma_api"
       ],
       "review_note": "API未提供截标日，需查公告",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "状态待核实",
       "id": "d23830860615538483"
     },
@@ -92,7 +92,7 @@
         "hkma_api"
       ],
       "review_note": "API未提供截标日，需查公告",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "状态待核实",
       "id": "08d7b52baf2ccc6e77"
     },
@@ -111,7 +111,7 @@
         "hkma_api"
       ],
       "review_note": "API未提供截标日，需查公告",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "状态待核实",
       "id": "c8e21dce2b4c4461a5"
     },
@@ -130,7 +130,7 @@
         "hkma_api"
       ],
       "review_note": "API未提供截标日，需查公告",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "状态待核实",
       "id": "53ace7e2799548fab5"
     },
@@ -149,7 +149,7 @@
         "hkma_api"
       ],
       "review_note": "API未提供截标日，需查公告",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "状态待核实",
       "id": "ec9bbb9148d9dee41a"
     },
@@ -168,7 +168,7 @@
         "hkma_api"
       ],
       "review_note": "API未提供截标日，需查公告",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "状态待核实",
       "id": "f7f9eb8f61cf5d3c1c"
     }

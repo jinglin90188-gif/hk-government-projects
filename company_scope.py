@@ -6,11 +6,12 @@ opportunity list; unclear titles go to review instead of being silently lost.
 import re
 from collections import Counter
 
-VERSION='2026-10-26-v1'
+VERSION='2026-10-26-v2'
 REFERENCE_URLS=['https://www.smartcitysz.com/home/about',
     'https://gzw.sz.gov.cn/szgq/content/post_9395742.html',
     'https://console.szaicpp.com/cpnportal/home']
 RULES=[
+ ('信息技术运维补充',r'资讯科技|信息技术|影音线缆|音响控制台|互联网浏览系统|硬件设备保养|修补程式管理|\b(?:ManageEngine|Oracle|Darktrace|Patch Manager|information technology|audio.visual)\b'),
  ('交通、口岸及城市感知补充',r'智慧绿色集体运输|交通流量|泊车调查|私家车.*(?:分析|检测).*系统|指挥及控制系统|水质监测系统|航行监察|\b(?:IT|AV)\b.*(?:配线|布线|cabling)|虚拟实境|扩增实境|数码支付|电子钱包'),
  ('通信与基础软件补充',r'网路交换器|网络交换器|流动电话服务|建筑信息模拟|电脑.*(?:硬件|设备)|电脑网络|通讯系统|通信系统|防恶意软件|反恶意软件|通用计算|超融合|网络储存|伺服器'),
  ('算力、云及数据中心',r'算力|智算|超算|数据中心|数据中心|云平台|云服务|云计算|私有云|混合云|虚拟化|伺服器|服务器|储存系统|存储系统|备份系统|\b(?:GPU|HPC|servers?|cloud|data cent(?:re|er)s?|storage|virtuali[sz]ation|backup)\b'),
@@ -24,6 +25,7 @@ RULES=[
  ('能源及市政数字化',r'能源管理系统|能源管理平台|智慧能源|智能电网|充电.*(?:平台|系统|网络)|充储放|虚拟电厂|电力.*(?:数据|调度|监控).*平台|水务.*(?:数据|监控).*系统|smart grid|energy management system|virtual power plant|charging.*(?:platform|management system)'),
 ]
 EXCLUSIONS=[
+ ('非技术服务及一般建设',r'精神健康支援|社区药房|康健中心.*营运|护卫服务|聚光灯|烫平机|辅导证书|支援人员的聘任|渔业活动观察|资料输入服务|厨余|清洁及支援|地盘平整|污水收集系统|(?:中学|火葬场|花园)建造工程|(?:中学|火葬场|花园).*建造|(?:设计及建造|建造).*(?:办公大楼|消防局)|消能装置|Landslip Prevention|Environmental Team|Environmental Checker'),
  ('一般服务及传统机电工程',r'物业管理|设施管理服务|保安服务|保安及大厦管理|护卫员|洁净|清粪|吸污|膳食|快餐业务|食肆|文创商店|图书馆资料整理|帐篷|宣传服务|活动助理|就业发展|疫苗|胰高血糖素|电脑断层扫描仪|扫描电子显微镜|(?:供应|租赁).*(?:巴士|房车|客货车|货车|电单车|救护车|图书馆车|污水车|水车)|(?:升降机|自动梯|载货电梯|冷水机组|空调装置|泛光灯装置|池水处理装置).*(?:维修|保养|更换)|(?:维修|保养|更换).*(?:升降机|自动梯|空调装置|消防系统)|地盘平整|地基及准备|桩柱地基|游乐设施|有盖行人通道|行人路建上盖|海堤维修|化验|质谱仪|硫酸铝|熟石灰|活性碳|航空法律责任保险|Lift Installations|Lighting at Various|Tunnel Ventilation|District Cooling'),
  ('清洁、保安人手及后勤',r'清洁服务|清洁工|保安员|保安护卫服务|餐饮|膳食|制服|文具|家具|园艺|cleaning services|cleansing services|security guards?|catering|uniforms|stationery|furniture|gardening'),
  ('医药及专用临床设备',r'药品|药物|医疗耗材|内视镜|内窥镜|病床|手术台|检查椅|心电图|超声波诊断|pharmaceutical|medicines?|endoscop|hospital beds?|surgical instruments'),
@@ -35,16 +37,20 @@ def classify(row):
     title=' '.join(str(row.get(k,'') or '') for k in ['title','title_zh'])
     hits=[(name,m.group(0)) for name,pattern in RULES if (m:=re.search(pattern,title,re.I))]
     exclusions=[name for name,pattern in EXCLUSIONS if re.search(pattern,title,re.I)]
-    if hits and exclusions:
-        decision='review';reason='同时涉及数字化内容与通常排除的采购，需核对实际范围'
+    open_tender=row.get('kind')=='tender' and row.get('status')=='正在招标' and not row.get('stale')
+    adjacent=re.search(r'机电|电子|检测系统|监察系统|监测系统|控制系统|配线|布线|技术服务|设施管理|隧道|交通|铁路|海滨|智慧|智能|electrical|electronic|monitoring|control system|technical services|facility management|tunnel|traffic|rail|waterfront|harbourfront|smart|intelligent|telephony|telecommunications',title,re.I)
+    if open_tender and (hits or adjacent):
+        decision='include';reason=('正在招标，明确涉及'+ '、'.join(name for name,_ in hits)) if hits else '正在招标，涉及相邻业务（'+adjacent.group(0)+'），保留以核对可参与部分'
+    elif hits and exclusions:
+        decision='exclude' if row.get('kind')=='forecast' else 'review';reason='范围混合，尚不足以确认核心业务相关；预报不进入相关清单'
     elif hits:
         decision='include';reason='采购标题明确涉及'+ '、'.join(name for name,_ in hits)
     elif exclusions:
         decision='exclude';reason='采购内容属于'+ '、'.join(exclusions)+'，未见相关数字化范围'
     else:
-        decision='review';reason='标题不足以确认业务范围，需阅读项目文件；不是判定为无关'
+        decision='exclude' if row.get('kind')=='forecast' else 'review';reason='预报未明确涉及核心业务，不进入相关清单' if row.get('kind')=='forecast' else '标题不足以确认业务范围，需阅读项目文件；不是判定为无关'
     return dict(decision=decision,categories=[name for name,_ in hits],
-        evidence=[word for _,word in hits],reason=reason,rule_version=VERSION,
+        evidence=[word for _,word in hits]+([adjacent.group(0)] if open_tender and adjacent and not hits else []),reason=reason,rule_version=VERSION,
         eligibility='仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件')
 
 def annotate(data):

@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-26T13:52:14+08:00",
+  "checked_at": "2026-10-26T15:31:11+08:00",
   "items": [
     {
       "department": "医务卫生局",
@@ -16,7 +16,7 @@
         "directory_69"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "状态待核实",
       "id": "51005f22ef9b5fc188"
     },
@@ -35,7 +35,7 @@
         "directory_69"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "状态待核实",
       "id": "613029ee344693b2fa"
     },
@@ -54,67 +54,9 @@
         "directory_69"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "状态待核实",
       "id": "a1d207eef380438658"
-    },
-    {
-      "department": "医务卫生局",
-      "title": "(1) 招标文件（只有英文版）可从电子投标系统（非工程招标）下载 （网址为 https://www.ets.gov.hk/eTp_ext/nw ）。投标者可以参阅电子投标系统（非工程招标）的用户手册及常见问题，了解更多系统的操作过程。如投标者遇到任何技术问题，请发送电邮至（info@ets.gov.hk）或致电热线 (852) 6310 9329。 (2) 以唯读光碟形式发出的招标文件（只有英文版）亦可在办公时间内于香港湾仔告士打道7号入境事务大楼22楼医务卫生局基层医疗署索取。请预先联络上述办事处安排索取光碟。（办公时间：星期一至五（公众假期除外）上午9时至下午1时及下午2时至6时）。",
-      "kind": "tender",
-      "reference_no": "(1) 招标文件（只有英文版）可从电子投标系统（非工程招标）下载 （网址为 https://www.ets.gov.hk/eTp_ext/nw ）。投标者可以参阅电子投标系统（非工程招标）的用户手册及常见问题，了解更多系统的操作过程。如投标者遇到任何技术问题，请发送电邮至（info@ets.gov.hk）或致电热线 (852) 6310 9329。 (2) 以唯读光碟形式发出的招标文件（只有英文版）亦可在办公时间内于香港湾仔告士打道7号入境事务大楼22楼医务卫生局基层医疗署索取。请预先联络上述办事处安排索取光碟。（办公时间：星期一至五（公众假期除外）上午9时至下午1时及下午2时至6时）。",
-      "closing_date": "",
-      "closing_text": "(1) 招标文件（只有英文版）可从电子投标系统（非工程招标）下载 （网址为 https://www.ets.gov.hk/eTp_ext/nw ）。投标者可以参阅电子投标系统（非工程招标）的用户手册及常见问题，了解更多系统的操作过程。如投标者遇到任何技术问题，请发送电邮至（info@ets.gov.hk）或致电热线 (852) 6310 9329。 (2) 以唯读光碟形式发出的招标文件（只有英文版）亦可在办公时间内于香港湾仔告士打道7号入境事务大楼22楼医务卫生局基层医疗署索取。请预先联络上述办事处安排索取光碟。（办公时间：星期一至五（公众假期除外）上午9时至下午1时及下午2时至6时）。",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.ets.gov.hk/eTp_ext/nw",
-      "document_url": "",
-      "source_ids": [
-        "directory_69"
-      ],
-      "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
-      "status": "状态待核实",
-      "id": "0329b69580d0dc739d"
-    },
-    {
-      "department": "医务卫生局",
-      "title": "(1) 是次招标采纳公开招标。所有有兴趣的承办商／供应商／服务供应商均可投标。有关资格／参与条件和其他招标要求已订明在招标文件内的招标条款。 (2) 是次招标不受《世界贸易组织政府采购协定》规管和不会牵涉电子拍卖。 (3) 香港特别行政区政府不一定采纳最高合并得分的投标书或任何一份投标书，并有权与任何投标者协商批出合约的条款。 (4) 批出合约的详情，将刊载于医务卫生局互联网网址： https://www.healthbureau.gov.hk/cn/tender/260900_sspdhc/award.html",
-      "kind": "tender",
-      "reference_no": "(1) 是次招标采纳公开招标。所有有兴趣的承办商／供应商／服务供应商均可投标。有关资格／参与条件和其他招标要求已订明在招标文件内的招标条款。 (2) 是次招标不受《世界贸易组织政府采购协定》规管和不会牵涉电子拍卖。 (3) 香港特别行政区政府不一定采纳最高合并得分的投标书或任何一份投标书，并有权与任何投标者协商批出合约的条款。 (4) 批出合约的详情，将刊载于医务卫生局互联网网址： https://www.healthbureau.gov.hk/cn/tender/260900_sspdhc/award.html",
-      "closing_date": "",
-      "closing_text": "(1) 是次招标采纳公开招标。所有有兴趣的承办商／供应商／服务供应商均可投标。有关资格／参与条件和其他招标要求已订明在招标文件内的招标条款。 (2) 是次招标不受《世界贸易组织政府采购协定》规管和不会牵涉电子拍卖。 (3) 香港特别行政区政府不一定采纳最高合并得分的投标书或任何一份投标书，并有权与任何投标者协商批出合约的条款。 (4) 批出合约的详情，将刊载于医务卫生局互联网网址： https://www.healthbureau.gov.hk/cn/tender/260900_sspdhc/award.html",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.healthbureau.gov.hk/cn/tender/260900_sspdhc/award.html",
-      "document_url": "",
-      "source_ids": [
-        "directory_69"
-      ],
-      "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
-      "status": "状态待核实",
-      "id": "78396f301ec11e42cd"
-    },
-    {
-      "department": "医务卫生局",
-      "title": "(1) 本局将会就此招标举行设有问答环节的网上简介会（以广东话形式进行），详情如下： 日期： 2026年10月6日（星期二） 时间： 下午4时正至下午5时30分（香港时间） (2) 另外，本局将会就此招标安排健龄站 （长者服务）的场地视察（以广东话形式进行），详情如下： 日期： 2026年10月8日（星期四） 时间： 下午4时30分至下午6时正（香港时间） (3) 有意参加上述简介会及/或场地视察的投标者，请于 2026年9月29日（星期二）正午12时 （香港时间）或以前提交最多三位参加者的机构名称、姓名、职位、电邮地址，以及联络人的姓名、职位、电邮地址、电话号码及传真号码等资料至 sspdhctender@healthbureau.gov.hk 以进行登记。成功登记的参加者将获发确认电邮通知网上简介会及/或场地视察的细节安排。如有需要，政府或会安排其他时间举行上述的简介会或场地视察。",
-      "kind": "tender",
-      "reference_no": "(1) 本局将会就此招标举行设有问答环节的网上简介会（以广东话形式进行），详情如下： 日期： 2026年10月6日（星期二） 时间： 下午4时正至下午5时30分（香港时间） (2) 另外，本局将会就此招标安排健龄站 （长者服务）的场地视察（以广东话形式进行），详情如下： 日期： 2026年10月8日（星期四） 时间： 下午4时30分至下午6时正（香港时间） (3) 有意参加上述简介会及/或场地视察的投标者，请于 2026年9月29日（星期二）正午12时 （香港时间）或以前提交最多三位参加者的机构名称、姓名、职位、电邮地址，以及联络人的姓名、职位、电邮地址、电话号码及传真号码等资料至 sspdhctender@healthbureau.gov.hk 以进行登记。成功登记的参加者将获发确认电邮通知网上简介会及/或场地视察的细节安排。如有需要，政府或会安排其他时间举行上述的简介会或场地视察。",
-      "closing_date": "2026-10-06",
-      "closing_text": "(1) 本局将会就此招标举行设有问答环节的网上简介会（以广东话形式进行），详情如下： 日期： 2026年10月6日（星期二） 时间： 下午4时正至下午5时30分（香港时间） (2) 另外，本局将会就此招标安排健龄站 （长者服务）的场地视察（以广东话形式进行），详情如下： 日期： 2026年10月8日（星期四） 时间： 下午4时30分至下午6时正（香港时间） (3) 有意参加上述简介会及/或场地视察的投标者，请于 2026年9月29日（星期二）正午12时 （香港时间）或以前提交最多三位参加者的机构名称、姓名、职位、电邮地址，以及联络人的姓名、职位、电邮地址、电话号码及传真号码等资料至 sspdhctender@healthbureau.gov.hk 以进行登记。成功登记的参加者将获发确认电邮通知网上简介会及/或场地视察的细节安排。如有需要，政府或会安排其他时间举行上述的简介会或场地视察。",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.healthbureau.gov.hk/cn/tender/260900_sspdhc/index.html",
-      "document_url": "",
-      "source_ids": [
-        "directory_69"
-      ],
-      "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
-      "closing_at": "2026-10-06T04:00:00+08:00",
-      "status": "已截标",
-      "id": "6d2bb345a822bfc73f"
     },
     {
       "department": "医务卫生局",
@@ -131,7 +73,7 @@
         "directory_69"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "closing_at": "2026-08-28T12:00:00+08:00",
       "status": "已截标",
       "id": "49bd10f4b2cdc5dcf8"
@@ -151,181 +93,10 @@
         "directory_69"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "closing_at": "2026-11-27T12:00:00+08:00",
       "status": "正在招标",
       "id": "e350d993cc8a05467a"
-    },
-    {
-      "department": "医务卫生局",
-      "title": "为确保成功递交标书，建议投标者尽早递交标书，特别是避免在截止投标时间前一小时内仓促递交标书。",
-      "kind": "tender",
-      "reference_no": "为确保成功递交标书，建议投标者尽早递交标书，特别是避免在截止投标时间前一小时内仓促递交标书。",
-      "closing_date": "",
-      "closing_text": "为确保成功递交标书，建议投标者尽早递交标书，特别是避免在截止投标时间前一小时内仓促递交标书。",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.healthbureau.gov.hk/cn/tender/260900_sspdhc/index.html",
-      "document_url": "",
-      "source_ids": [
-        "directory_69"
-      ],
-      "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
-      "status": "状态待核实",
-      "id": "49ff0b53852065f848"
-    },
-    {
-      "department": "医务卫生局",
-      "title": "以唯读光碟形式发出的招标文件（只有英文版）亦可在办公时间内于香港湾仔告士打道7号入境事务大楼22楼医务卫生局基层医疗署索取。请预先联络上述办事处安排索取光碟。（办公时间：星期一至五（公众假期除外）上午9时至下午1时及下午2时至6时）。",
-      "kind": "tender",
-      "reference_no": "以唯读光碟形式发出的招标文件（只有英文版）亦可在办公时间内于香港湾仔告士打道7号入境事务大楼22楼医务卫生局基层医疗署索取。请预先联络上述办事处安排索取光碟。（办公时间：星期一至五（公众假期除外）上午9时至下午1时及下午2时至6时）。",
-      "closing_date": "",
-      "closing_text": "以唯读光碟形式发出的招标文件（只有英文版）亦可在办公时间内于香港湾仔告士打道7号入境事务大楼22楼医务卫生局基层医疗署索取。请预先联络上述办事处安排索取光碟。（办公时间：星期一至五（公众假期除外）上午9时至下午1时及下午2时至6时）。",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.healthbureau.gov.hk/cn/tender/260900_sspdhc/index.html",
-      "document_url": "",
-      "source_ids": [
-        "directory_69"
-      ],
-      "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
-      "status": "状态待核实",
-      "id": "c8a521260476c0013f"
-    },
-    {
-      "department": "医务卫生局",
-      "title": "另外，本局将会就此招标安排健龄站 （长者服务）的场地视察（以广东话形式进行），详情如下：",
-      "kind": "tender",
-      "reference_no": "另外，本局将会就此招标安排健龄站 （长者服务）的场地视察（以广东话形式进行），详情如下：",
-      "closing_date": "",
-      "closing_text": "另外，本局将会就此招标安排健龄站 （长者服务）的场地视察（以广东话形式进行），详情如下：",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.healthbureau.gov.hk/cn/tender/260900_sspdhc/index.html",
-      "document_url": "",
-      "source_ids": [
-        "directory_69"
-      ],
-      "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
-      "status": "状态待核实",
-      "id": "978ec4cbeb7d72c879"
-    },
-    {
-      "department": "医务卫生局",
-      "title": "在递交电子标书时，投标者应预留足够时间以确保所有资料必须于截止投标时间之前完成传送。",
-      "kind": "tender",
-      "reference_no": "在递交电子标书时，投标者应预留足够时间以确保所有资料必须于截止投标时间之前完成传送。",
-      "closing_date": "",
-      "closing_text": "在递交电子标书时，投标者应预留足够时间以确保所有资料必须于截止投标时间之前完成传送。",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.healthbureau.gov.hk/cn/tender/260900_sspdhc/index.html",
-      "document_url": "",
-      "source_ids": [
-        "directory_69"
-      ],
-      "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
-      "status": "状态待核实",
-      "id": "b81c02ccee57c52037"
-    },
-    {
-      "department": "医务卫生局",
-      "title": "批出合约的详情，将刊载于医务卫生局互联网网址： https://www.healthbureau.gov.hk/cn/tender/260900_sspdhc/award.html",
-      "kind": "tender",
-      "reference_no": "批出合约的详情，将刊载于医务卫生局互联网网址： https://www.healthbureau.gov.hk/cn/tender/260900_sspdhc/award.html",
-      "closing_date": "",
-      "closing_text": "批出合约的详情，将刊载于医务卫生局互联网网址： https://www.healthbureau.gov.hk/cn/tender/260900_sspdhc/award.html",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.healthbureau.gov.hk/cn/tender/260900_sspdhc/award.html",
-      "document_url": "",
-      "source_ids": [
-        "directory_69"
-      ],
-      "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
-      "status": "状态待核实",
-      "id": "afae4242149293bd95"
-    },
-    {
-      "department": "医务卫生局",
-      "title": "投标者必须于截标日期正午12时 （香港时间） 前按招标文件内的要求和电子投标系统 （非工程招标） 的使用和参与的条款及条件递交标书。标书必须在上述时间前透过电子投标系统 （非工程招标） （网址为 https://www.ets.gov.hk/eTp_ext/nw ）递交。",
-      "kind": "tender",
-      "reference_no": "投标者必须于截标日期正午12时 （香港时间） 前按招标文件内的要求和电子投标系统 （非工程招标） 的使用和参与的条款及条件递交标书。标书必须在上述时间前透过电子投标系统 （非工程招标） （网址为 https://www.ets.gov.hk/eTp_ext/nw ）递交。",
-      "closing_date": "",
-      "closing_text": "投标者必须于截标日期正午12时 （香港时间） 前按招标文件内的要求和电子投标系统 （非工程招标） 的使用和参与的条款及条件递交标书。标书必须在上述时间前透过电子投标系统 （非工程招标） （网址为 https://www.ets.gov.hk/eTp_ext/nw ）递交。",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.ets.gov.hk/eTp_ext/nw",
-      "document_url": "",
-      "source_ids": [
-        "directory_69"
-      ],
-      "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
-      "status": "状态待核实",
-      "id": "63579d2651a2df8276"
-    },
-    {
-      "department": "医务卫生局",
-      "title": "招标文件（只有英文版）可从电子投标系统（非工程招标）下载 （网址为 https://www.ets.gov.hk/eTp_ext/nw ）。投标者可以参阅电子投标系统（非工程招标）的用户手册及常见问题，了解更多系统的操作过程。如投标者遇到任何技术问题，请发送电邮至（info@ets.gov.hk）或致电热线 (852) 6310 9329。",
-      "kind": "tender",
-      "reference_no": "招标文件（只有英文版）可从电子投标系统（非工程招标）下载 （网址为 https://www.ets.gov.hk/eTp_ext/nw ）。投标者可以参阅电子投标系统（非工程招标）的用户手册及常见问题，了解更多系统的操作过程。如投标者遇到任何技术问题，请发送电邮至（info@ets.gov.hk）或致电热线 (852) 6310 9329。",
-      "closing_date": "",
-      "closing_text": "招标文件（只有英文版）可从电子投标系统（非工程招标）下载 （网址为 https://www.ets.gov.hk/eTp_ext/nw ）。投标者可以参阅电子投标系统（非工程招标）的用户手册及常见问题，了解更多系统的操作过程。如投标者遇到任何技术问题，请发送电邮至（info@ets.gov.hk）或致电热线 (852) 6310 9329。",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.ets.gov.hk/eTp_ext/nw",
-      "document_url": "",
-      "source_ids": [
-        "directory_69"
-      ],
-      "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
-      "status": "状态待核实",
-      "id": "62e259bb3f69aa07ef"
-    },
-    {
-      "department": "医务卫生局",
-      "title": "是次招标不受《世界贸易组织政府采购协定》规管和不会牵涉电子拍卖。",
-      "kind": "tender",
-      "reference_no": "是次招标不受《世界贸易组织政府采购协定》规管和不会牵涉电子拍卖。",
-      "closing_date": "",
-      "closing_text": "是次招标不受《世界贸易组织政府采购协定》规管和不会牵涉电子拍卖。",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.healthbureau.gov.hk/cn/tender/260900_sspdhc/index.html",
-      "document_url": "",
-      "source_ids": [
-        "directory_69"
-      ],
-      "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
-      "status": "状态待核实",
-      "id": "cb7b82287b556a9ef6"
-    },
-    {
-      "department": "医务卫生局",
-      "title": "是次招标采纳公开招标。所有有兴趣的承办商／供应商／服务供应商均可投标。有关资格／参与条件和其他招标要求已订明在招标文件内的招标条款。",
-      "kind": "tender",
-      "reference_no": "是次招标采纳公开招标。所有有兴趣的承办商／供应商／服务供应商均可投标。有关资格／参与条件和其他招标要求已订明在招标文件内的招标条款。",
-      "closing_date": "",
-      "closing_text": "是次招标采纳公开招标。所有有兴趣的承办商／供应商／服务供应商均可投标。有关资格／参与条件和其他招标要求已订明在招标文件内的招标条款。",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.healthbureau.gov.hk/cn/tender/260900_sspdhc/index.html",
-      "document_url": "",
-      "source_ids": [
-        "directory_69"
-      ],
-      "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
-      "status": "状态待核实",
-      "id": "10ffe62c9999c3d174"
     },
     {
       "department": "医务卫生局",
@@ -342,48 +113,10 @@
         "directory_69"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "closing_at": "2026-09-29T12:00:00+08:00",
       "status": "已截标",
       "id": "fa03f5b61ad861dd22"
-    },
-    {
-      "department": "医务卫生局",
-      "title": "本局将会就此招标举行设有问答环节的网上简介会（以广东话形式进行），详情如下：",
-      "kind": "tender",
-      "reference_no": "本局将会就此招标举行设有问答环节的网上简介会（以广东话形式进行），详情如下：",
-      "closing_date": "",
-      "closing_text": "本局将会就此招标举行设有问答环节的网上简介会（以广东话形式进行），详情如下：",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.healthbureau.gov.hk/cn/tender/260900_sspdhc/index.html",
-      "document_url": "",
-      "source_ids": [
-        "directory_69"
-      ],
-      "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
-      "status": "状态待核实",
-      "id": "255f4e877d4cba819a"
-    },
-    {
-      "department": "医务卫生局",
-      "title": "香港特别行政区政府不一定采纳最高合并得分的投标书或任何一份投标书，并有权与任何投标者协商批出合约的条款。",
-      "kind": "tender",
-      "reference_no": "香港特别行政区政府不一定采纳最高合并得分的投标书或任何一份投标书，并有权与任何投标者协商批出合约的条款。",
-      "closing_date": "",
-      "closing_text": "香港特别行政区政府不一定采纳最高合并得分的投标书或任何一份投标书，并有权与任何投标者协商批出合约的条款。",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.healthbureau.gov.hk/cn/tender/260900_sspdhc/index.html",
-      "document_url": "",
-      "source_ids": [
-        "directory_69"
-      ],
-      "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
-      "status": "状态待核实",
-      "id": "e1bf79847319175c9b"
     }
   ]
 }

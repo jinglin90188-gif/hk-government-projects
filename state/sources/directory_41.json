@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-26T13:52:14+08:00",
+  "checked_at": "2026-10-26T15:31:11+08:00",
   "items": [
     {
       "department": "香港海关",
@@ -16,10 +16,18 @@
         "directory_41"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "document_verified": true,
       "closing_at": "2026-12-04T12:00:00+08:00",
       "status": "正在招标",
+      "title_aliases": [
+        "为香港海关提供巴士的租赁服务"
+      ],
+      "title_zh": "为香港海关提供巴士的租赁服务",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "notes": "",
       "id": "fde3f5b69a6ffebd91"
     }
   ]

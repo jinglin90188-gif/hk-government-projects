@@ -1,11 +1,11 @@
 {
-  "checked_at": "2026-10-26T13:52:14+08:00",
+  "checked_at": "2026-10-26T15:31:11+08:00",
   "items": [
     {
       "department": "选举事务处",
       "title": "为选举事务处在2025年立法会换届选举提供运输服务，从指定投票站和后勤补给站收集、分类、暂存及运送选举物资（包括家具、设备和投票箱）",
       "kind": "tender",
-      "reference_no": "",
+      "reference_no": "REO HQSR/3-5/26/2025-002",
       "closing_date": "",
       "closing_text": "",
       "forecast_date": "",
@@ -16,9 +16,9 @@
         "directory_62"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "状态待核实",
-      "id": "811050d3c4e2152cca"
+      "id": "bced33867134fadfaa"
     }
   ]
 }

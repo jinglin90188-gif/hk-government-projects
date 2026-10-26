@@ -116,6 +116,7 @@ def date_value(text):
 
 def department(value):
     value = clean(value).split('——')[0]
+    if re.fullmatch(r'发展局\s*[（(]工务科[）)]',value):return '发展局'
     return {'香港海关':'香港海关','海关':'香港海关','机电工程署营运基金':'机电工程署',
         '房委会/房屋署':'房屋委员会及房屋署','房委会／房屋署':'房屋委员会及房屋署',
         '财经事务及库务局——库务科':'财经事务及库务局'}.get(value,value)
@@ -279,7 +280,15 @@ def tender_pdf(url,dept,title=''):
     return [row]
 
 def project_link(label,url):
+    if not valid_project_title(label):return False
     return len(label)>=12 and bool(re.search(r'^(?:为|更换|供应|提供|采购|设计|建造|Provision|Supply|Replacement|Tender for|Invitation for|Expression of Interest|Request for)|提供.{3,}|系统.{3,}(?:服务|工程)',label,re.I)) and not re.search(r'须知|条款|指引|名单|申请表|报价邀请函|政府采购卡|通知名单|已批准|已批出|中标|award|注意|政府由|未来.*项目',label,re.I)
+
+def valid_project_title(title):
+    if re.search(r'局长.*(?:致辞|会见传媒|谈话内容|开场发言)|立法会：.*议案',title):return False
+    if re.search(r'^(?:投标申请表格及其他资料|招标增补文件|标书投递及截止日期|Category Code|现时没有招标项目|目前没有项目|邀请提交意向书通知|Tender for the Procurements of New Vessels|土木工程一般规格|工务工程合约的电子采购|工务技术通告|机电工程署出版的技术规格|标准合约文件|标准顾问协议文件)',title,re.I):return False
+    if re.search(r'^(?:\(\d\)|为确保成功递交|投标者必须|在递交电子标书|以唯读光碟|批出合约的详情|香港特别行政区政府不一定|是次招标|本局将会就此招标|另外，本局将会|招标文件.{0,15}(?:只有英文|可从))',title):return False
+    if len(title)>220 and re.search(r'投标者|电子投标系统|使用手册|实体支票|香港身份证',title):return False
+    return True
 
 def parse_official_client_data(soup,dept,url):
     """Read public data files used by the official page, without executing JS."""
@@ -374,6 +383,7 @@ def pdf_forecast(url,dept,page_url):
     return out
 
 EMPTY=re.compile(r'(?:目前|现时|现在|本处)?(?:没有|未有|暂无|并无)(?:任何|进行|现正进行|未完结|新的|供招标|可供投标|有效|正在进行的|公开){0,3}(?:招标|采购|投标)|no (?:outstanding|current|open) tender|no tenders? (?:are |is )?(?:available|invited)|暂无进行招标',re.I)
+EXPLICIT_EMPTY=re.compile(r'目前没有项目|目前没有未来的(?:非)?资讯科技项目|现时尚未有最新的.{0,20}预报可以公布|没有任何.{0,45}招标项目进行|(?:There is|There.s) no outstanding invitation at the moment',re.I)
 TITLE_HEADERS=re.compile(r'^(?:项目|内容|简介)$|项目名称|合约名称|工程名称|招标项目|投标项目|招标事项|招标内容|采购项目|标书项目|招标详情|招标说明|项目详情|服务名称|工程项目|title|subject|description|particulars|details',re.I)
 REF_HEADERS=re.compile(r'编号|标书号码|合约号码|contract no|tender no|reference|ref\.',re.I)
 CLOSE_HEADERS=re.compile(r'截标|截止|closing|deadline|递交.*日期|提交.*日期',re.I)
@@ -395,6 +405,16 @@ def safe_links(node,base):
 
 def parse_tables_page(soup,dept,kind,url):
     out=[]
+    if dept=='食物环境卫生署':
+        last_date=''
+        for tr in soup.find_all('tr'):
+            vals=[clean(td.get_text(' ',strip=True)) for td in tr.find_all('td',recursive=False)]
+            if len(vals)<3:continue
+            if date_value(vals[0]):last_date=vals.pop(0)
+            if len(vals)==3 and re.search(r'FEHQ\s*\d+',vals[1],re.I) and last_date:
+                links=safe_links(tr,url)
+                out.append(record(dept,vals[2],kind,links[0][1] if links else url,reference_no=vals[1],closing_text=last_date,closing_date=date_value(last_date)))
+        if out:return out
     if dept=='康乐及文化事务署' and 'Tender.do' in url:
         for tr in soup.find_all('tr'):
             cells=tr.find_all('td',recursive=False)
@@ -458,6 +478,27 @@ def parse_tables_page(soup,dept,kind,url):
     return out
 
 def parse_detail(soup,dept,kind,url):
+    if dept=='土木工程拓展署' and '/consultancy-agreements/' in url:
+        sections={}
+        main=soup.select_one('#content') or soup
+        for heading in main.find_all(['h2','h3']):
+            values=[]
+            for sibling in heading.next_siblings:
+                if getattr(sibling,'name',None) in ['h2','h3']:break
+                values.append(sibling.get_text(' ',strip=True) if hasattr(sibling,'get_text') else str(sibling))
+            sections[clean(heading.get_text())]=clean(' '.join(values))
+        title=sections.get('Agreement Title') or sections.get('顾问合约名称')
+        ref=sections.get('Consultancy Agreement No.') or sections.get('顾问合约编号')
+        ct=sections.get('Closing Date and Time') or sections.get('截止日期及时间')
+        if title and ref and ct and date_value(ct):
+            # These are consultancy proposal invitations, not construction contracts.
+            ct=re.sub(r'12:00 noon','12:00',ct,flags=re.I)
+            row=record(dept,title,'tender',url,reference_no=ref,closing_text=ct,closing_date=date_value(ct),
+                publish_date=date_value(sections.get('Invitation Date','')),procurement_type='consultancy_proposal',
+                eligibility_note=sections.get('Consultants Invited',''),notes=sections.get('Details of Consultancy',''))
+            if re.search(r'Group 3',row['eligibility_note'],re.I):
+                row['eligibility_summary']='顾问服务建议书邀请；须核对工程及有关顾问遴选委员会（EACSB）相应服务类别第3组及受邀名单，并非任何公司均可直接投标。'
+            return [row]
     pairs={}
     for tr in soup.find_all('tr'):
         cells=tr.find_all(['td','th'],recursive=False)
@@ -497,7 +538,7 @@ def crawl_source(spec):
         elif mode=='emsd_rss':items=get_emsd_rss(url)
         elif mode=='hkma':items=get_hkma(url)
         else:
-            queue=[(url,0)];visited=set();empty_found=False
+            queue=[(url,0)];visited=set();empty_found=False;link_titles={}
             while queue and len(visited)<spec.get('max_pages',10):
                 current,depth=queue.pop(0)
                 if current in visited:continue
@@ -509,19 +550,38 @@ def crawl_source(spec):
                         if kind=='tender':items.extend(tender_pdf(current,dept))
                         continue
                     soup=soup_from(payload)
+                    if b'CF_APP_WAF' in payload or b'waf-nc-h5-mask' in payload:
+                        raise RuntimeError('官方页面触发访问验证，本次无法采集；未尝试绕过验证')
                     report['pages']+=1
                     client_records=parse_official_client_data(soup,dept,final) if kind=='tender' else []
                     for tag in soup.select('nav,header,footer,script,style,.breadcrumb'):tag.decompose()
                     main=soup.select_one('main,#content,#main-content,.main-content,#contentArea') or soup
                     text=clean(main.get_text(' ',strip=True))
-                    if EMPTY.search(text):empty_found=True
+                    if EMPTY.search(text) or EXPLICIT_EMPTY.search(text):empty_found=True
                     parsed=client_records or parse_tables_page(soup,dept,kind,final)
                     if not parsed:parsed=parse_detail(soup,dept,kind,final)
+                    for row in parsed:
+                        label=link_titles.get(current,'')
+                        if len(label)>=10:
+                            row['title_aliases']=sorted(set(row.get('title_aliases',[])+[row['title'],label]))
+                            if len(re.findall(r'[\u4e00-\u9fff]',label))>=3:row['title_zh']=label
                     items.extend(parsed)
                     links=safe_links(main,final)
+                    for label,link in links:
+                        if len(label)>=10 and re.search(r'/index-id-\d+',link):link_titles[link]=label
+                    # Some CEDD Chinese detail pages contain only a title, with
+                    # no link or notice saying that the actual details are English.
+                    if not parsed and dept=='土木工程拓展署' and '/tc/' in final and re.search(r'/index-id-\d+',final):
+                        alt=final.replace('/tc/','/eng/')
+                        label=link_titles.get(current) or clean((main.select_one('h2') or main).get_text(' ',strip=True))
+                        link_titles[alt]=label
+                        if alt not in visited:queue.append((alt,depth+1))
                     if re.search(r'暂时只有英文|不提供中文版本|只以英文编制|只提供英文',text):
-                        alt=final.replace('/tc/','/en/').replace('/TC/','/EN/')
-                        if alt!=final and alt not in visited:queue.append((alt,depth+1))
+                        alt=next((u for label,u in links if re.search('英文版本|English version',label,re.I)),None)
+                        if not alt:alt=final.replace('/tc/','/eng/' if 'cedd.gov.hk' in final else '/en/').replace('/TC/','/EN/')
+                        if alt!=final and alt not in visited:
+                            link_titles[alt]=link_titles.get(current,'')
+                            queue.append((alt,depth+1))
                     candidates=[]
                     for label,link in links:
                         combined=label+' '+link
@@ -567,7 +627,13 @@ def crawl_source(spec):
         if mode!='html':report['status']='parsed' if items else 'empty'
     except Exception as exc:
         report['status']='failed';report['errors'].append({'url':url,'error':str(exc)[:350]})
-    items=preserve_source_state(sid,items,report)
+    original_count=len(items)
+    items=deduplicate(items)
+    report['discarded_non_projects']=original_count-len(items)
+    if original_count and not items and report['status'] in ['parsed','partial']:
+        report['status']='unparsed'
+        report['errors'].append({'url':url,'error':'只识别到栏目、须知或新闻，未确认真实项目记录'})
+    items=deduplicate(preserve_source_state(sid,items,report))
     for row in items:
         row['source_ids']=list(set(row.get('source_ids',[])+[sid]))
     report['count']=len(items);report['elapsed_seconds']=round(time.monotonic()-started,1)
@@ -620,11 +686,13 @@ def source_specs():
       ('td_consult_tenders','运输署','tender','https://www.td.gov.hk/tc/tender_notices/notices_of_inviting_expression_of_interest/index.html'),
       ('td_consult_proposals','运输署','tender','https://www.td.gov.hk/tc/tender_notices/invitation_for_technical_and_fee_proposal/index.html'),
       ('cedd_consult_tenders','土木工程拓展署','tender','https://www.cedd.gov.hk/tc/tender-notices/consultancy-agreements/invitation-for-expression-of-interest/index.html'),
+      ('cedd_consult_proposals','土木工程拓展署','tender','https://www.cedd.gov.hk/tc/tender-notices/consultancy-agreements/invitation-for-technical-and-fee-proposals/index.html'),
       ('hyd_consult_tenders','路政署','tender','https://www.hyd.gov.hk/tc/tender_notices/consultancies/expression_of_interest/index.html'),
       ('hyd_consult_proposals','路政署','tender','https://www.hyd.gov.hk/tc/tender_notices/consultancies/technical_and_fee_proposal/index.html'),
     ]
     for sid,dep,kind,url in extras:
         specs.append(dict(id=sid,name=dep+('补充采购预报' if kind=='forecast' else '顾问服务邀请'),department=dep,kind=kind,parser='html',url=url))
+        if sid.startswith('cedd_consult'):specs[-1]['max_pages']=40
     # Compare the supplied list against the government's own cross-department
     # tender directory. New departments get registered without hand editing.
     official_directory='https://www.fstb.gov.hk/tc/treasury/gov_procurement/tender-notices.htm'
@@ -674,14 +742,30 @@ def atomic_json(path,payload):
     temporary.replace(path)
 
 def deduplicate(rows):
+    from project_identity import apply_identity,normalized_title
+    rows=[apply_identity(dict(row)) for row in rows]
+    for row in rows:row['department']=department(row['department'])
+    # Bilingual labels from the same official notice form verified aliases.
+    # Only an unambiguous exact alias can give a reference to an unnumbered
+    # forecast. Similar wording alone must not merge different procurements.
+    aliases={}
+    for row in rows:
+        if row.get('reference_no'):
+            for label in [row['title']]+row.get('title_aliases',[]):
+                aliases.setdefault((row['department'],normalized_title(label)),set()).add(row['reference_no'])
+    for row in rows:
+        if not row.get('reference_no'):
+            refs=aliases.get((row['department'],normalized_title(row['title'])),set())
+            if len(refs)==1:row['reference_no']=next(iter(refs))
     merged={};titles={}
     for row in sorted(rows,key=lambda r:(not bool(r.get('reference_no')),not bool(r.get('closing_date')),bool(r.get('stale')),
             'etb_xml' not in r.get('source_ids',[]),r.get('department',''),r.get('title',''),r.get('source_url',''))):
         row['reference_no']=re.sub(r'\(\s*[\d.]+\s*(?:KB|MB)\s*\)','',clean(row['reference_no']),flags=re.I).strip()
         row['reference_no']=re.sub(r'^(?:合约编号|招标编号|Contract No\.?)[：: ]*','',row['reference_no'],flags=re.I)
+        if not valid_project_title(row['title']):continue
         ref=re.sub(r'\s+','',row['reference_no']).upper()
         # A shared reference indicates a notice; forecast without a ref is matched only by exact normalized title.
-        title=re.sub(r'[\W_]','',row['title']).lower()
+        title=normalized_title(row['title'])
         key=(row['department'],ref or title)
         if not row['title'] or len(row['title'])<7:continue
         if row['status']=='已截标' and row['closing_date']<f'{NOW.year}-01-01':continue
@@ -689,9 +773,13 @@ def deduplicate(rows):
         if key in merged:
             old=merged[key];ids=sorted(set(old['source_ids']+row['source_ids']))
             conflict=old['kind']==row['kind']=='tender' and old.get('closing_date') and row.get('closing_date') and old['closing_date']!=row['closing_date']
-            if row.get('document_verified') and not old.get('document_verified') or not old.get('document_verified') and row['kind']=='tender' and (old['kind']=='forecast' or (row['closing_date'] and not old['closing_date'])):
+            if old['kind']=='forecast' and row['kind']=='tender' and row.get('closing_date') or row.get('document_verified') and not old.get('document_verified') or not old.get('document_verified') and row['kind']=='tender' and (old['kind']=='forecast' or (row['closing_date'] and not old['closing_date'])):
                 old,row=row,old
-            for field in ['document_url','closing_date','closing_text','closing_at','forecast_date','reference_no','publish_date']:
+            old['title_aliases']=sorted(set(old.get('title_aliases',[])+row.get('title_aliases',[])+[old['title'],row['title']]))
+            if old['kind']=='tender' and row['kind']=='forecast':
+                old['previous_forecast_date']=row.get('forecast_date','')
+                old['stage_note']='已找到正式邀请公告，旧预报合并至此，不再作为独立预报展示'
+            for field in ['document_url','closing_date','closing_text','closing_at','forecast_date','reference_no','publish_date','title_zh','eligibility_note','eligibility_summary','procurement_type','notes']:
                 if not old.get(field):old[field]=row.get(field,'')
             old['source_ids']=ids
             if conflict:
@@ -701,7 +789,11 @@ def deduplicate(rows):
             merged[key]=old
         else:merged[key]=row
         titles[(row['department'],title)]=key
-    for key,row in merged.items():row['id']=hashlib.sha256('|'.join(key).encode()).hexdigest()[:18]
+    for key,row in merged.items():
+        row['id']=hashlib.sha256('|'.join(key).encode()).hexdigest()[:18]
+        if not row.get('title_zh'):
+            chinese=next((label for label in row.get('title_aliases',[]) if len(re.findall(r'[\u4e00-\u9fff]',label))>=3),'')
+            if chinese:row['title_zh']=chinese
     return sorted(merged.values(),key=lambda r:(r['department'],r['kind'],r['reference_no'],r['title']))
 
 def main():

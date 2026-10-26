@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-26T13:52:14+08:00",
+  "checked_at": "2026-10-26T15:31:11+08:00",
   "items": [
     {
       "department": "香港金融管理局",
@@ -16,9 +16,17 @@
         "directory_86"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "状态待核实",
+      "title_aliases": [
+        "承投为香港金融管理局提供互联网浏览系统维护与支援服务"
+      ],
       "closing_at": "",
+      "title_zh": "承投为香港金融管理局提供互联网浏览系统维护与支援服务",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "notes": "",
       "id": "56925899605faaa99b"
     },
     {
@@ -36,9 +44,17 @@
         "directory_86"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "状态待核实",
+      "title_aliases": [
+        "承投提供ManageEngine Patch Manager Plus许可证及支援服务"
+      ],
       "closing_at": "",
+      "title_zh": "承投提供ManageEngine Patch Manager Plus许可证及支援服务",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "notes": "",
       "id": "d23830860615538483"
     },
     {
@@ -56,9 +72,17 @@
         "directory_86"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "状态待核实",
+      "title_aliases": [
+        "承投提供Oracle硬件设备保养及修补程式管理服务"
+      ],
       "closing_at": "",
+      "title_zh": "承投提供Oracle硬件设备保养及修补程式管理服务",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "notes": "",
       "id": "08d7b52baf2ccc6e77"
     },
     {
@@ -76,9 +100,17 @@
         "directory_86"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "状态待核实",
+      "title_aliases": [
+        "承投提供储存系统维修保养服务的续约报价"
+      ],
       "closing_at": "",
+      "title_zh": "承投提供储存系统维修保养服务的续约报价",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "notes": "",
       "id": "c8e21dce2b4c4461a5"
     },
     {
@@ -96,9 +128,17 @@
         "directory_86"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "状态待核实",
+      "title_aliases": [
+        "承投提供私有云永久资料数据备份储存系统的扩充报价"
+      ],
       "closing_at": "",
+      "title_zh": "承投提供私有云永久资料数据备份储存系统的扩充报价",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "notes": "",
       "id": "53ace7e2799548fab5"
     },
     {
@@ -116,9 +156,17 @@
         "directory_86"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "状态待核实",
+      "title_aliases": [
+        "承投提供虚拟桌面基础设施及私有云系统软件续期报价"
+      ],
       "closing_at": "",
+      "title_zh": "承投提供虚拟桌面基础设施及私有云系统软件续期报价",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "notes": "",
       "id": "ec9bbb9148d9dee41a"
     },
     {
@@ -136,9 +184,17 @@
         "directory_86"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "状态待核实",
+      "title_aliases": [
+        "承投防火墙系统维护与支援服务"
+      ],
       "closing_at": "",
+      "title_zh": "承投防火墙系统维护与支援服务",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "notes": "",
       "id": "f7f9eb8f61cf5d3c1c"
     },
     {
@@ -156,9 +212,17 @@
         "directory_86"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "status": "状态待核实",
+      "title_aliases": [
+        "提供电子档案保管系统安装服务"
+      ],
       "closing_at": "",
+      "title_zh": "提供电子档案保管系统安装服务",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "notes": "",
       "id": "734de6d435d8fd08a9"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-26T13:52:14+08:00",
+  "checked_at": "2026-10-26T15:31:11+08:00",
   "items": [
     {
       "department": "教育局",
@@ -10,16 +10,24 @@
       "closing_text": "和时间 : 202 6 年 12 月 10 日正午 12 时 (香港时间 ) 逾期的投标概不受理。 查询 : 香港太古城太古湾道 14 号 6 楼 601 室教育局特殊教育分部训育及辅导组 (经办人 ",
       "forecast_date": "",
       "publish_date": "",
-      "source_url": "https://www.edb.gov.hk/attachment/tc/public-admin/tender-notices/tender-notice/GD_2027-30_TC.pdf",
-      "document_url": "https://www.edb.gov.hk/attachment/tc/public-admin/tender-notices/tender-notice/GD_2027-30_TC.pdf",
+      "source_url": "http://www.edb.gov.hk/attachment/tc/public-admin/tender-notices/tender-notice/GD_2027-30_TC.pdf",
+      "document_url": "http://www.edb.gov.hk/attachment/tc/public-admin/tender-notices/tender-notice/GD_2027-30_TC.pdf",
       "source_ids": [
         "directory_67"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "document_verified": true,
       "status": "状态待核实",
+      "title_aliases": [
+        "为中、小学教师提供学生训育及辅导证书课程服务，所有服务及可交付成果须不迟于2030年12月31日完成"
+      ],
       "closing_at": "",
+      "title_zh": "为中、小学教师提供学生训育及辅导证书课程服务，所有服务及可交付成果须不迟于2030年12月31日完成",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "notes": "",
       "id": "159bc6ff52201a0281"
     },
     {
@@ -31,16 +39,24 @@
       "closing_text": "和时间 : 202 6 年 12 月 4 日正午 12 时 (香港时间 ) 逾期的投标概不受理。 查询 : 九龙九龙塘沙福道 19 号教育局九龙塘教育服务中心东座3 楼 E301 室教育局行政分部行政",
       "forecast_date": "",
       "publish_date": "",
-      "source_url": "https://www.edb.gov.hk/attachment/tc/public-admin/tender-notices/tender-notice/KTESC2027_TC.pdf",
-      "document_url": "https://www.edb.gov.hk/attachment/tc/public-admin/tender-notices/tender-notice/KTESC2027_TC.pdf",
+      "source_url": "http://www.edb.gov.hk/attachment/tc/public-admin/tender-notices/tender-notice/KTESC2027_TC.pdf",
+      "document_url": "http://www.edb.gov.hk/attachment/tc/public-admin/tender-notices/tender-notice/KTESC2027_TC.pdf",
       "source_ids": [
         "directory_67"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "document_verified": true,
       "status": "状态待核实",
+      "title_aliases": [
+        "为教育局九龙塘教育服务中心提供清洁服务，合约为期36个月"
+      ],
       "closing_at": "",
+      "title_zh": "为教育局九龙塘教育服务中心提供清洁服务，合约为期36个月",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "notes": "",
       "id": "9152f3670ff35c700a"
     },
     {
@@ -58,10 +74,18 @@
         "directory_67"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "document_verified": true,
       "closing_at": "2026-10-23T12:00:00+08:00",
       "status": "已截标",
+      "title_aliases": [
+        "为圣公会圣匠中学的新升降机塔建造桩柱地基及准备工程及为大角嘴天主教小学的"
+      ],
+      "title_zh": "为圣公会圣匠中学的新升降机塔建造桩柱地基及准备工程及为大角嘴天主教小学的",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "notes": "",
       "id": "7203c512f4a319b9d9"
     },
     {
@@ -79,10 +103,18 @@
         "directory_67"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "document_verified": true,
       "closing_at": "2026-11-06T12:00:00+08:00",
       "status": "正在招标",
+      "title_aliases": [
+        "为中华基督教会桂华山中学、天主教新民书院、圣公会基荣小学及李升大坑学校的新升降机塔建造桩柱地基及准备工程 (合约编号PI SM007)"
+      ],
+      "title_zh": "为中华基督教会桂华山中学、天主教新民书院、圣公会基荣小学及李升大坑学校的新升降机塔建造桩柱地基及准备工程 (合约编号PI SM007)",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "notes": "",
       "id": "06af53ef4912d56472"
     },
     {
@@ -100,10 +132,18 @@
         "directory_67"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T13:52:14+08:00",
+      "verified_at": "2026-10-26T15:31:11+08:00",
       "document_verified": true,
       "closing_at": "2026-11-20T12:00:00+08:00",
       "status": "正在招标",
+      "title_aliases": [
+        "为玛利诺修院学校(中学部)、嘉诺撒圣玛利书院及中华基督教会基华小学(九龙塘)的新升降机塔建造地基及准备工程 (合约编号PI SM008)"
+      ],
+      "title_zh": "为玛利诺修院学校(中学部)、嘉诺撒圣玛利书院及中华基督教会基华小学(九龙塘)的新升降机塔建造地基及准备工程 (合约编号PI SM008)",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "notes": "",
       "id": "fd0745857c941a70ce"
     }
   ]
