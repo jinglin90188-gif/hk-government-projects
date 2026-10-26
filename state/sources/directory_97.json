@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-26T17:06:30+08:00",
+  "checked_at": "2026-10-26T19:32:43+08:00",
   "items": [
     {
       "department": "建筑署",
@@ -16,7 +16,7 @@
         "directory_97"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T17:06:30+08:00",
+      "verified_at": "2026-10-26T19:32:43+08:00",
       "status": "招标预报",
       "id": "a5b72f1708ee45f136"
     },
@@ -35,7 +35,7 @@
         "directory_97"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T17:06:30+08:00",
+      "verified_at": "2026-10-26T19:32:43+08:00",
       "status": "招标预报",
       "id": "f74d563b65e9a4c97c"
     },
@@ -54,7 +54,7 @@
         "directory_97"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T17:06:30+08:00",
+      "verified_at": "2026-10-26T19:32:43+08:00",
       "status": "招标预报",
       "id": "fbd7005a1f787a19b1"
     },
@@ -73,7 +73,7 @@
         "directory_97"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T17:06:30+08:00",
+      "verified_at": "2026-10-26T19:32:43+08:00",
       "status": "招标预报",
       "id": "761910a54745204642"
     },
@@ -92,7 +92,7 @@
         "directory_97"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T17:06:30+08:00",
+      "verified_at": "2026-10-26T19:32:43+08:00",
       "status": "招标预报",
       "id": "6bdecded09d58b3006"
     },
@@ -111,7 +111,7 @@
         "directory_97"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T17:06:30+08:00",
+      "verified_at": "2026-10-26T19:32:43+08:00",
       "status": "招标预报",
       "id": "b7d239a80eda7ce775"
     },
@@ -130,7 +130,7 @@
         "directory_97"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T17:06:30+08:00",
+      "verified_at": "2026-10-26T19:32:43+08:00",
       "status": "招标预报",
       "id": "aa08d9128a2503a564"
     },
@@ -149,7 +149,7 @@
         "directory_97"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T17:06:30+08:00",
+      "verified_at": "2026-10-26T19:32:43+08:00",
       "status": "招标预报",
       "id": "a2240814e03bee59d0"
     }
