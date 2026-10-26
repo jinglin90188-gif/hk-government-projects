@@ -38,6 +38,8 @@ jobs:
     steps:
       - name: 读取项目代码及上次成功数据
         uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
       - name: 安装Python
         uses: actions/setup-python@v6
         with:
@@ -60,16 +62,7 @@ jobs:
           python scripts/archive_run.py
           python scripts/write_run_summary.py >> "$GITHUB_STEP_SUMMARY"
       - name: 保存项目清单和可恢复的来源状态
-        run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add dist/projects.json dist/projects.csv dist/changes.json dist/department-audit.json dist/department-audit.html dist/reports state history 采集核对报告.md 逐部门采集核查.md
-          if git diff --cached --quiet; then
-            echo '本次数据无需提交'
-          else
-            git commit -m '更新香港政府项目及每日采集记录'
-            git push
-          fi
+        run: python scripts/save_collected_data.py
       - name: 上传网站文件
         uses: actions/upload-pages-artifact@v4
         with:
