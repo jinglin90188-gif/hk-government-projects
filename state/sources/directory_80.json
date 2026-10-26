@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-26T15:31:11+08:00",
+  "checked_at": "2026-10-26T17:06:30+08:00",
   "items": [
     {
       "department": "律政司",
@@ -16,7 +16,7 @@
         "directory_80"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T15:31:11+08:00",
+      "verified_at": "2026-10-26T17:06:30+08:00",
       "document_verified": true,
       "closing_at": "2026-11-13T12:00:00+08:00",
       "status": "正在招标",
@@ -45,7 +45,7 @@
         "directory_80"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T15:31:11+08:00",
+      "verified_at": "2026-10-26T17:06:30+08:00",
       "document_verified": true,
       "closing_at": "2026-10-28T12:00:00+08:00",
       "status": "正在招标",

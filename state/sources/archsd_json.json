@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-26T15:31:11+08:00",
+  "checked_at": "2026-10-26T17:06:30+08:00",
   "items": [
     {
       "department": "建筑署",
@@ -16,7 +16,7 @@
         "archsd_json"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T15:31:11+08:00",
+      "verified_at": "2026-10-26T17:06:30+08:00",
       "closing_at": "2026-03-20T12:00:00+08:00",
       "status": "已截标",
       "id": "d864f188da15d18284"
@@ -36,7 +36,7 @@
         "archsd_json"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T15:31:11+08:00",
+      "verified_at": "2026-10-26T17:06:30+08:00",
       "closing_at": "2026-03-27T12:00:00+08:00",
       "status": "已截标",
       "id": "631100e365d4bd15dc"
@@ -56,7 +56,7 @@
         "archsd_json"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T15:31:11+08:00",
+      "verified_at": "2026-10-26T17:06:30+08:00",
       "closing_at": "2026-10-16T12:00:00+08:00",
       "status": "已截标",
       "id": "751c476d80819b5f2f"
@@ -76,7 +76,7 @@
         "archsd_json"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T15:31:11+08:00",
+      "verified_at": "2026-10-26T17:06:30+08:00",
       "closing_at": "2026-02-27T12:00:00+08:00",
       "status": "已截标",
       "id": "19731bd3821b6b7924"
@@ -96,7 +96,7 @@
         "archsd_json"
       ],
       "review_note": "不同官方来源的截标日期不一致，需核对最新修订公告",
-      "verified_at": "2026-10-26T15:31:11+08:00",
+      "verified_at": "2026-10-26T17:06:30+08:00",
       "closing_at": "2026-07-10T12:00:00+08:00",
       "status": "状态待核实",
       "title_aliases": [
@@ -128,7 +128,7 @@
         "archsd_json"
       ],
       "review_note": "不同官方来源的截标日期不一致，需核对最新修订公告",
-      "verified_at": "2026-10-26T15:31:11+08:00",
+      "verified_at": "2026-10-26T17:06:30+08:00",
       "closing_at": "2026-03-06T00:00:00+08:00",
       "status": "状态待核实",
       "title_aliases": [
@@ -161,7 +161,7 @@
         "archsd_json"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T15:31:11+08:00",
+      "verified_at": "2026-10-26T17:06:30+08:00",
       "closing_at": "2026-02-06T12:00:00+08:00",
       "status": "已截标",
       "id": "ae1c462b8c0ba6bd3d"
@@ -181,7 +181,7 @@
         "archsd_json"
       ],
       "review_note": "不同官方来源的截标日期不一致，需核对最新修订公告",
-      "verified_at": "2026-10-26T15:31:11+08:00",
+      "verified_at": "2026-10-26T17:06:30+08:00",
       "closing_at": "2026-04-01T12:00:00+08:00",
       "status": "状态待核实",
       "title_aliases": [
@@ -213,7 +213,7 @@
         "archsd_json"
       ],
       "review_note": "不同官方来源的截标日期不一致，需核对最新修订公告",
-      "verified_at": "2026-10-26T15:31:11+08:00",
+      "verified_at": "2026-10-26T17:06:30+08:00",
       "closing_at": "2026-05-29T00:00:00+08:00",
       "status": "状态待核实",
       "title_aliases": [
@@ -245,7 +245,7 @@
         "archsd_json"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T15:31:11+08:00",
+      "verified_at": "2026-10-26T17:06:30+08:00",
       "closing_at": "2026-06-23T12:00:00+08:00",
       "status": "已截标",
       "id": "0b602d5b3ca18cea32"
@@ -265,7 +265,7 @@
         "archsd_json"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T15:31:11+08:00",
+      "verified_at": "2026-10-26T17:06:30+08:00",
       "closing_at": "2026-10-09T12:00:00+08:00",
       "status": "已截标",
       "id": "7e1cac9b988a92e624"
@@ -285,7 +285,7 @@
         "archsd_json"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T15:31:11+08:00",
+      "verified_at": "2026-10-26T17:06:30+08:00",
       "closing_at": "2026-10-09T12:00:00+08:00",
       "status": "已截标",
       "id": "4ebec6513921173e11"
@@ -305,7 +305,7 @@
         "archsd_json"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T15:31:11+08:00",
+      "verified_at": "2026-10-26T17:06:30+08:00",
       "closing_at": "2026-10-09T12:00:00+08:00",
       "status": "已截标",
       "id": "60c8270c09197bef9d"
@@ -325,7 +325,7 @@
         "archsd_json"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T15:31:11+08:00",
+      "verified_at": "2026-10-26T17:06:30+08:00",
       "closing_at": "2026-10-09T12:00:00+08:00",
       "status": "已截标",
       "id": "ea64dc689cd0157c1f"
@@ -345,7 +345,7 @@
         "archsd_json"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T15:31:11+08:00",
+      "verified_at": "2026-10-26T17:06:30+08:00",
       "closing_at": "2026-01-30T12:00:00+08:00",
       "status": "已截标",
       "id": "0f3b5c2c2a154e5143"

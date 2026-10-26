@@ -1,6 +1,6 @@
 {
   "date": "2026-10-26",
-  "last_run_at": "2026-10-26T15:31:11+08:00",
+  "last_run_at": "2026-10-26T17:06:30+08:00",
   "new": [],
   "updated": [
     {
@@ -53,14 +53,14 @@
       "closing_text": "和时间 : 202 6 年 12 月 10 日正午 12 时 (香港时间 ) 逾期的投标概不受理。 查询 : 香港太古城太古湾道 14 号 6 楼 601 室教育局特殊教育分部训育及辅导组 (经办人 ",
       "forecast_date": "",
       "publish_date": "2026-10-15",
-      "source_url": "http://www.edb.gov.hk/attachment/tc/public-admin/tender-notices/tender-notice/GD_2027-30_TC.pdf",
-      "document_url": "http://www.edb.gov.hk/attachment/tc/public-admin/tender-notices/tender-notice/GD_2027-30_TC.pdf",
+      "source_url": "https://www.edb.gov.hk/attachment/tc/public-admin/tender-notices/tender-notice/GD_2027-30_TC.pdf",
+      "document_url": "https://www.edb.gov.hk/attachment/tc/public-admin/tender-notices/tender-notice/GD_2027-30_TC.pdf",
       "source_ids": [
         "directory_67",
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T15:31:11+08:00",
+      "verified_at": "2026-10-26T17:06:30+08:00",
       "document_verified": true,
       "status": "状态待核实",
       "title_aliases": [
@@ -76,7 +76,7 @@
       "id": "159bc6ff52201a0281",
       "first_seen_at": "2026-10-26T13:00:02+08:00",
       "change": "updated",
-      "last_changed_at": "2026-10-26T15:31:11+08:00",
+      "last_changed_at": "2026-10-26T17:06:30+08:00",
       "company_fit": {
         "decision": "exclude",
         "categories": [],
@@ -95,14 +95,14 @@
       "closing_text": "和时间 : 202 6 年 12 月 4 日正午 12 时 (香港时间 ) 逾期的投标概不受理。 查询 : 九龙九龙塘沙福道 19 号教育局九龙塘教育服务中心东座3 楼 E301 室教育局行政分部行政",
       "forecast_date": "",
       "publish_date": "2026-10-23",
-      "source_url": "http://www.edb.gov.hk/attachment/tc/public-admin/tender-notices/tender-notice/KTESC2027_TC.pdf",
-      "document_url": "http://www.edb.gov.hk/attachment/tc/public-admin/tender-notices/tender-notice/KTESC2027_TC.pdf",
+      "source_url": "https://www.edb.gov.hk/attachment/tc/public-admin/tender-notices/tender-notice/KTESC2027_TC.pdf",
+      "document_url": "https://www.edb.gov.hk/attachment/tc/public-admin/tender-notices/tender-notice/KTESC2027_TC.pdf",
       "source_ids": [
         "directory_67",
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T15:31:11+08:00",
+      "verified_at": "2026-10-26T17:06:30+08:00",
       "document_verified": true,
       "status": "状态待核实",
       "title_aliases": [
@@ -118,7 +118,7 @@
       "id": "9152f3670ff35c700a",
       "first_seen_at": "2026-10-26T13:00:02+08:00",
       "change": "updated",
-      "last_changed_at": "2026-10-26T15:31:11+08:00",
+      "last_changed_at": "2026-10-26T17:06:30+08:00",
       "company_fit": {
         "decision": "exclude",
         "categories": [],
