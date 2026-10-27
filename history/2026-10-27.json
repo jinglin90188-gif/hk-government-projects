@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-27",
+  "last_run_at": "2026-10-27T11:42:01+08:00",
+  "new": [
+    {
+      "department": "运输署",
+      "title": "更新屯门及元朗区的区域交通控制系统及附属设备让系统在无线通讯上运行",
+      "kind": "forecast",
+      "reference_no": "TD(T) 9/2026",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027 Q1",
+      "publish_date": "",
+      "source_url": "https://www.td.gov.hk/tc/tender_notices/fcwt/index.html",
+      "document_url": "https://www.td.gov.hk/filemanager/tc/content_5263/2026Q4_Forecast of Invitation to Tenders_c.pdf",
+      "source_ids": [
+        "directory_91"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-27T11:42:01+08:00",
+      "status": "招标预报",
+      "id": "2789c30db184bac30c",
+      "first_seen_at": "2026-10-27T11:42:01+08:00",
+      "change": "new",
+      "last_changed_at": "2026-10-27T11:42:01+08:00",
+      "company_fit": {
+        "decision": "exclude",
+        "categories": [],
+        "evidence": [],
+        "reason": "预报未明确涉及核心业务，不进入相关清单",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    }
+  ],
+  "updated": [
+    {
+      "department": "运输署",
+      "title": "加装九龙区及大埔及北区区域交通控制系统的交通灯控制器及附属设备以启用无线通讯",
+      "kind": "forecast",
+      "reference_no": "TD(T) 17/2025",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026 Q4",
+      "publish_date": "",
+      "source_url": "https://www.td.gov.hk/tc/tender_notices/fcwt/index.html",
+      "document_url": "https://www.td.gov.hk/filemanager/tc/content_5263/2026Q4_Forecast of Invitation to Tenders_c.pdf",
+      "source_ids": [
+        "directory_91"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-27T11:42:01+08:00",
+      "status": "招标预报",
+      "id": "3d55fc755be9bae01b",
+      "first_seen_at": "2026-10-26T13:00:02+08:00",
+      "change": "updated",
+      "last_changed_at": "2026-10-27T11:42:01+08:00",
+      "company_fit": {
+        "decision": "include",
+        "categories": [
+          "智慧交通及口岸系统"
+        ],
+        "evidence": [
+          "交通灯"
+        ],
+        "reason": "采购标题明确涉及智慧交通及口岸系统",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    }
+  ],
+  "no_longer_seen_ids": [
+    "f83faba272636f2bb2"
+  ],
+  "note": "未再见到不等于取消或批出；需核实官方公告。"
+}

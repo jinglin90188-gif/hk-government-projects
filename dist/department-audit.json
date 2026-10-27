@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T19:32:43+08:00",
+  "updated_at": "2026-10-27T11:42:01+08:00",
   "departments": [
     {
       "department": "保安局",
@@ -1371,8 +1371,8 @@
       "related_open": 3,
       "related_forecast": 3,
       "scope_counts": {
-        "include": 10,
-        "exclude": 1
+        "include": 9,
+        "exclude": 2
       },
       "unresolved_sources": []
     },

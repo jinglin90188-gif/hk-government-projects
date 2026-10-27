@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-26T19:32:43+08:00",
+  "checked_at": "2026-10-27T11:42:01+08:00",
   "items": [
     {
       "department": "路政署",
@@ -16,7 +16,7 @@
         "hyd_csv_tender"
       ],
       "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-26T19:32:43+08:00",
+      "verified_at": "2026-10-27T11:42:01+08:00",
       "status": "招标预报",
       "outdated": true,
       "title_aliases": [
@@ -46,7 +46,7 @@
         "hyd_csv_tender"
       ],
       "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-26T19:32:43+08:00",
+      "verified_at": "2026-10-27T11:42:01+08:00",
       "status": "招标预报",
       "outdated": true,
       "id": "6af7dab2a49fbb2c6d"
@@ -66,7 +66,7 @@
         "hyd_csv_tender"
       ],
       "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-26T19:32:43+08:00",
+      "verified_at": "2026-10-27T11:42:01+08:00",
       "status": "招标预报",
       "outdated": true,
       "title_aliases": [
@@ -97,7 +97,7 @@
         "hyd_csv_tender"
       ],
       "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-26T19:32:43+08:00",
+      "verified_at": "2026-10-27T11:42:01+08:00",
       "status": "招标预报",
       "outdated": true,
       "id": "92799e69bae76bb99a"

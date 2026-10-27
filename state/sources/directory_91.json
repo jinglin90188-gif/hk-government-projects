@@ -1,26 +1,6 @@
 {
-  "checked_at": "2026-10-26T19:32:43+08:00",
+  "checked_at": "2026-10-27T11:42:01+08:00",
   "items": [
-    {
-      "department": "运输署",
-      "title": "交通管理平台先导研究 - 可行性研究",
-      "kind": "forecast",
-      "reference_no": "",
-      "closing_date": "",
-      "closing_text": "",
-      "forecast_date": "2026 Q3",
-      "publish_date": "",
-      "source_url": "https://www.td.gov.hk/tc/tender_notices/fcwt/index.html",
-      "document_url": "https://www.td.gov.hk/filemanager/tc/content_5263/2026Q3_Forecast of Engineering and Associated Consultancies_c.pdf",
-      "source_ids": [
-        "directory_91"
-      ],
-      "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-26T19:32:43+08:00",
-      "status": "招标预报",
-      "outdated": true,
-      "id": "f83faba272636f2bb2"
-    },
     {
       "department": "运输署",
       "title": "更换及运作位于楼宇、搭接及路边的TD142闭路电视系统(采用有线通信技术)",
@@ -36,7 +16,7 @@
         "directory_91"
       ],
       "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-26T19:32:43+08:00",
+      "verified_at": "2026-10-27T11:42:01+08:00",
       "status": "招标预报",
       "outdated": true,
       "id": "9dc5c2d7f7c76d7d87"
@@ -56,7 +36,7 @@
         "directory_91"
       ],
       "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-26T19:32:43+08:00",
+      "verified_at": "2026-10-27T11:42:01+08:00",
       "status": "招标预报",
       "outdated": true,
       "id": "3084ef2c3ee02eede0"
@@ -71,12 +51,12 @@
       "forecast_date": "2026 Q4",
       "publish_date": "",
       "source_url": "https://www.td.gov.hk/tc/tender_notices/fcwt/index.html",
-      "document_url": "https://www.td.gov.hk/filemanager/tc/content_5263/2026Q3_Forecast of Invitation to Tenders_c.pdf",
+      "document_url": "https://www.td.gov.hk/filemanager/tc/content_5263/2026Q4_Forecast of Invitation to Tenders_c.pdf",
       "source_ids": [
         "directory_91"
       ],
       "review_note": "",
-      "verified_at": "2026-10-26T19:32:43+08:00",
+      "verified_at": "2026-10-27T11:42:01+08:00",
       "status": "招标预报",
       "id": "3d55fc755be9bae01b"
     },
@@ -95,10 +75,29 @@
         "directory_91"
       ],
       "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-26T19:32:43+08:00",
+      "verified_at": "2026-10-27T11:42:01+08:00",
       "status": "招标预报",
       "outdated": true,
       "id": "960a2bd761446b2133"
+    },
+    {
+      "department": "运输署",
+      "title": "更新屯门及元朗区的区域交通控制系统及附属设备让系统在无线通讯上运行",
+      "kind": "forecast",
+      "reference_no": "TD(T) 9/2026",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027 Q1",
+      "publish_date": "",
+      "source_url": "https://www.td.gov.hk/tc/tender_notices/fcwt/index.html",
+      "document_url": "https://www.td.gov.hk/filemanager/tc/content_5263/2026Q4_Forecast of Invitation to Tenders_c.pdf",
+      "source_ids": [
+        "directory_91"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-27T11:42:01+08:00",
+      "status": "招标预报",
+      "id": "2789c30db184bac30c"
     }
   ]
 }
