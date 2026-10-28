@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-27T11:42:01+08:00",
+  "checked_at": "2026-10-28T11:58:02+08:00",
   "items": [
     {
       "department": "康乐及文化事务署",
@@ -16,9 +16,28 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-10-27T11:42:01+08:00",
+      "verified_at": "2026-10-28T11:58:02+08:00",
       "status": "正在招标",
       "id": "07c3ed36ac815a0df6"
+    },
+    {
+      "department": "康乐及文化事务署",
+      "title": "报价承投经营芦须城泳滩小食业务许可证",
+      "kind": "tender",
+      "reference_no": "LC/LS/Q/LRK/Is/LSSB/2026/01",
+      "closing_date": "2026-11-19",
+      "closing_text": "2026-11-19",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.lcsd.gov.hk/clpss/tc/webApp/TenderDetails.do?ref=LC/LS/Q/LRK/Is/LSSB/2026/01",
+      "document_url": "",
+      "source_ids": [
+        "directory_32"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-28T11:58:02+08:00",
+      "status": "正在招标",
+      "id": "6b29a72d330da98e6f"
     },
     {
       "department": "康乐及文化事务署",
@@ -35,7 +54,7 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-10-27T11:42:01+08:00",
+      "verified_at": "2026-10-28T11:58:02+08:00",
       "status": "正在招标",
       "id": "ddd4a877a2cb5c7310"
     },
@@ -54,7 +73,7 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-10-27T11:42:01+08:00",
+      "verified_at": "2026-10-28T11:58:02+08:00",
       "status": "正在招标",
       "id": "fbf5c3dbc9768d568f"
     },
@@ -73,7 +92,7 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-10-27T11:42:01+08:00",
+      "verified_at": "2026-10-28T11:58:02+08:00",
       "status": "正在招标",
       "id": "6b8d78b525d90da5dd"
     },
@@ -92,7 +111,7 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-10-27T11:42:01+08:00",
+      "verified_at": "2026-10-28T11:58:02+08:00",
       "status": "正在招标",
       "id": "dee7c5d91725ea5b1e"
     },
@@ -111,7 +130,7 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-10-27T11:42:01+08:00",
+      "verified_at": "2026-10-28T11:58:02+08:00",
       "status": "正在招标",
       "id": "3ef367ad694d7e98b5"
     },
@@ -130,7 +149,7 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-10-27T11:42:01+08:00",
+      "verified_at": "2026-10-28T11:58:02+08:00",
       "status": "正在招标",
       "id": "8f58cf714da23bacc3"
     },
@@ -149,7 +168,7 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-10-27T11:42:01+08:00",
+      "verified_at": "2026-10-28T11:58:02+08:00",
       "status": "正在招标",
       "id": "be6e916af84b4c7429"
     },
@@ -168,7 +187,7 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-10-27T11:42:01+08:00",
+      "verified_at": "2026-10-28T11:58:02+08:00",
       "status": "正在招标",
       "id": "f33339cefe76bea821"
     },
@@ -187,7 +206,7 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-10-27T11:42:01+08:00",
+      "verified_at": "2026-10-28T11:58:02+08:00",
       "status": "正在招标",
       "id": "49dff7adfea812a517"
     }

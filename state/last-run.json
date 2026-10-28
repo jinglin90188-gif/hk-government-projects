@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T11:42:01+08:00",
+  "updated_at": "2026-10-28T11:58:02+08:00",
   "stats": {
     "records": 525,
     "open": 85,
@@ -9,8 +9,8 @@
     "source_status": {
       "parsed": 51,
       "documents": 7,
-      "unparsed": 25,
-      "failed": 2,
+      "unparsed": 24,
+      "failed": 3,
       "empty": 32,
       "partial": 1
     }
@@ -24,23 +24,23 @@
     ],
     "sources_needing_review": 35,
     "core_sources_ok": 3,
-    "checked_at": "2026-10-27T11:42:01+08:00"
+    "checked_at": "2026-10-28T11:58:02+08:00"
   },
   "changes": {
     "baseline": false,
-    "compared_with": "2026-10-26T19:32:43+08:00",
-    "new_count": 1,
-    "updated_count": 1,
+    "compared_with": "2026-10-27T11:42:01+08:00",
+    "new_count": 2,
+    "updated_count": 0,
     "unchanged_count": 523,
-    "no_longer_seen_count": 1,
+    "no_longer_seen_count": 2,
     "new_ids": [
-      "2789c30db184bac30c"
+      "6b29a72d330da98e6f",
+      "06eab3e4c4c5191ade"
     ],
-    "updated_ids": [
-      "3d55fc755be9bae01b"
-    ],
+    "updated_ids": [],
     "no_longer_seen_ids": [
-      "f83faba272636f2bb2"
+      "75bec0366d0bd7db11",
+      "92d9481dea960bed7f"
     ]
   }
 }

@@ -1,86 +1,85 @@
 {
-  "updated_at": "2026-10-27T11:42:01+08:00",
+  "updated_at": "2026-10-28T11:58:02+08:00",
   "baseline": false,
-  "compared_with": "2026-10-26T19:32:43+08:00",
-  "new_count": 1,
-  "updated_count": 1,
+  "compared_with": "2026-10-27T11:42:01+08:00",
+  "new_count": 2,
+  "updated_count": 0,
   "unchanged_count": 523,
-  "no_longer_seen_count": 1,
+  "no_longer_seen_count": 2,
   "new_ids": [
-    "2789c30db184bac30c"
+    "6b29a72d330da98e6f",
+    "06eab3e4c4c5191ade"
   ],
-  "updated_ids": [
-    "3d55fc755be9bae01b"
-  ],
+  "updated_ids": [],
   "no_longer_seen_ids": [
-    "f83faba272636f2bb2"
+    "75bec0366d0bd7db11",
+    "92d9481dea960bed7f"
   ],
   "new": [
     {
-      "department": "运输署",
-      "title": "更新屯门及元朗区的区域交通控制系统及附属设备让系统在无线通讯上运行",
-      "kind": "forecast",
-      "reference_no": "TD(T) 9/2026",
-      "closing_date": "",
-      "closing_text": "",
-      "forecast_date": "2027 Q1",
+      "department": "康乐及文化事务署",
+      "title": "报价承投经营芦须城泳滩小食业务许可证",
+      "kind": "tender",
+      "reference_no": "LC/LS/Q/LRK/Is/LSSB/2026/01",
+      "closing_date": "2026-11-19",
+      "closing_text": "2026-11-19",
+      "forecast_date": "",
       "publish_date": "",
-      "source_url": "https://www.td.gov.hk/tc/tender_notices/fcwt/index.html",
-      "document_url": "https://www.td.gov.hk/filemanager/tc/content_5263/2026Q4_Forecast of Invitation to Tenders_c.pdf",
+      "source_url": "https://www.lcsd.gov.hk/clpss/tc/webApp/TenderDetails.do?ref=LC/LS/Q/LRK/Is/LSSB/2026/01",
+      "document_url": "",
       "source_ids": [
-        "directory_91"
+        "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-10-27T11:42:01+08:00",
-      "status": "招标预报",
-      "id": "2789c30db184bac30c",
-      "first_seen_at": "2026-10-27T11:42:01+08:00",
+      "verified_at": "2026-10-28T11:58:02+08:00",
+      "status": "正在招标",
+      "id": "6b29a72d330da98e6f",
+      "first_seen_at": "2026-10-28T11:58:02+08:00",
       "change": "new",
-      "last_changed_at": "2026-10-27T11:42:01+08:00",
+      "last_changed_at": "2026-10-28T11:58:02+08:00",
       "company_fit": {
-        "decision": "exclude",
+        "decision": "review",
         "categories": [],
         "evidence": [],
-        "reason": "预报未明确涉及核心业务，不进入相关清单",
+        "reason": "标题不足以确认业务范围，需阅读项目文件；不是判定为无关",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "水务署",
+      "title": "提供「智慧赋能科学节水」支援服务",
+      "kind": "tender",
+      "reference_no": "WSDWCON26T001",
+      "closing_date": "2026-11-18",
+      "closing_text": "2026-11-18 12:00:00",
+      "forecast_date": "",
+      "publish_date": "2026-10-28",
+      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=WSDWCON26T001",
+      "document_url": "",
+      "source_ids": [
+        "etb_xml"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-28T11:58:02+08:00",
+      "notes": "提供「智慧赋能科学节水」支援服务",
+      "closing_at": "2026-11-18T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "06eab3e4c4c5191ade",
+      "first_seen_at": "2026-10-28T11:58:02+08:00",
+      "change": "new",
+      "last_changed_at": "2026-10-28T11:58:02+08:00",
+      "company_fit": {
+        "decision": "include",
+        "categories": [],
+        "evidence": [
+          "智慧"
+        ],
+        "reason": "正在招标，涉及相邻业务（智慧），保留以核对可参与部分",
         "rule_version": "2026-10-26-v2",
         "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
       }
     }
   ],
-  "updated": [
-    {
-      "department": "运输署",
-      "title": "加装九龙区及大埔及北区区域交通控制系统的交通灯控制器及附属设备以启用无线通讯",
-      "kind": "forecast",
-      "reference_no": "TD(T) 17/2025",
-      "closing_date": "",
-      "closing_text": "",
-      "forecast_date": "2026 Q4",
-      "publish_date": "",
-      "source_url": "https://www.td.gov.hk/tc/tender_notices/fcwt/index.html",
-      "document_url": "https://www.td.gov.hk/filemanager/tc/content_5263/2026Q4_Forecast of Invitation to Tenders_c.pdf",
-      "source_ids": [
-        "directory_91"
-      ],
-      "review_note": "",
-      "verified_at": "2026-10-27T11:42:01+08:00",
-      "status": "招标预报",
-      "id": "3d55fc755be9bae01b",
-      "first_seen_at": "2026-10-26T13:00:02+08:00",
-      "change": "updated",
-      "last_changed_at": "2026-10-27T11:42:01+08:00",
-      "company_fit": {
-        "decision": "include",
-        "categories": [
-          "智慧交通及口岸系统"
-        ],
-        "evidence": [
-          "交通灯"
-        ],
-        "reason": "采购标题明确涉及智慧交通及口岸系统",
-        "rule_version": "2026-10-26-v2",
-        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
-      }
-    }
-  ]
+  "updated": []
 }

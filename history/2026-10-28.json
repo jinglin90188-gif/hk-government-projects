@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-28",
+  "last_run_at": "2026-10-28T11:58:02+08:00",
+  "new": [
+    {
+      "department": "康乐及文化事务署",
+      "title": "报价承投经营芦须城泳滩小食业务许可证",
+      "kind": "tender",
+      "reference_no": "LC/LS/Q/LRK/Is/LSSB/2026/01",
+      "closing_date": "2026-11-19",
+      "closing_text": "2026-11-19",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.lcsd.gov.hk/clpss/tc/webApp/TenderDetails.do?ref=LC/LS/Q/LRK/Is/LSSB/2026/01",
+      "document_url": "",
+      "source_ids": [
+        "directory_32"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-28T11:58:02+08:00",
+      "status": "正在招标",
+      "id": "6b29a72d330da98e6f",
+      "first_seen_at": "2026-10-28T11:58:02+08:00",
+      "change": "new",
+      "last_changed_at": "2026-10-28T11:58:02+08:00",
+      "company_fit": {
+        "decision": "review",
+        "categories": [],
+        "evidence": [],
+        "reason": "标题不足以确认业务范围，需阅读项目文件；不是判定为无关",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "水务署",
+      "title": "提供「智慧赋能科学节水」支援服务",
+      "kind": "tender",
+      "reference_no": "WSDWCON26T001",
+      "closing_date": "2026-11-18",
+      "closing_text": "2026-11-18 12:00:00",
+      "forecast_date": "",
+      "publish_date": "2026-10-28",
+      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=WSDWCON26T001",
+      "document_url": "",
+      "source_ids": [
+        "etb_xml"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-28T11:58:02+08:00",
+      "notes": "提供「智慧赋能科学节水」支援服务",
+      "closing_at": "2026-11-18T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "06eab3e4c4c5191ade",
+      "first_seen_at": "2026-10-28T11:58:02+08:00",
+      "change": "new",
+      "last_changed_at": "2026-10-28T11:58:02+08:00",
+      "company_fit": {
+        "decision": "include",
+        "categories": [],
+        "evidence": [
+          "智慧"
+        ],
+        "reason": "正在招标，涉及相邻业务（智慧），保留以核对可参与部分",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    }
+  ],
+  "updated": [],
+  "no_longer_seen_ids": [
+    "75bec0366d0bd7db11",
+    "92d9481dea960bed7f"
+  ],
+  "note": "未再见到不等于取消或批出；需核实官方公告。"
+}

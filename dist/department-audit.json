@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T11:42:01+08:00",
+  "updated_at": "2026-10-28T11:58:02+08:00",
   "departments": [
     {
       "department": "保安局",
@@ -506,11 +506,12 @@
       "source_status": {
         "parsed": 1
       },
-      "open": 10,
+      "open": 11,
       "related_open": 3,
       "related_forecast": 0,
       "scope_counts": {
         "exclude": 7,
+        "review": 1,
         "include": 3
       },
       "unresolved_sources": []
@@ -582,12 +583,11 @@
       "source_status": {
         "unparsed": 1
       },
-      "open": 3,
-      "related_open": 1,
+      "open": 2,
+      "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
         "review": 1,
-        "include": 1,
         "exclude": 1
       },
       "unresolved_sources": [
@@ -1028,12 +1028,13 @@
         "parsed": 2,
         "empty": 1
       },
-      "open": 1,
-      "related_open": 0,
+      "open": 2,
+      "related_open": 1,
       "related_forecast": 0,
       "scope_counts": {
         "exclude": 34,
-        "review": 2
+        "review": 2,
+        "include": 1
       },
       "unresolved_sources": []
     },
@@ -1479,7 +1480,7 @@
       "tender_sources": 1,
       "forecast_sources": 0,
       "source_status": {
-        "unparsed": 1
+        "failed": 1
       },
       "open": 1,
       "related_open": 1,
@@ -1492,7 +1493,7 @@
         {
           "id": "directory_49",
           "url": "https://app4.rthk.hk/tender/",
-          "status": "unparsed"
+          "status": "failed"
         }
       ]
     },
@@ -1526,12 +1527,10 @@
       "source_status": {
         "failed": 1
       },
-      "open": 1,
-      "related_open": 1,
+      "open": 0,
+      "related_open": 0,
       "related_forecast": 0,
-      "scope_counts": {
-        "include": 1
-      },
+      "scope_counts": {},
       "unresolved_sources": [
         {
           "id": "directory_48",
