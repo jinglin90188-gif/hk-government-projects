@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-28T11:58:02+08:00",
+  "checked_at": "2026-10-29T12:21:47+08:00",
   "items": [
     {
       "department": "康乐及文化事务署",
@@ -16,9 +16,28 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-10-28T11:58:02+08:00",
+      "verified_at": "2026-10-29T12:21:47+08:00",
       "status": "正在招标",
       "id": "07c3ed36ac815a0df6"
+    },
+    {
+      "department": "康乐及文化事务署",
+      "title": "报价承投在康乐及文化事务署葵涌公园经营停车场的特许证",
+      "kind": "tender",
+      "reference_no": "LC/LS/Q/CP/KwT/KCP/2026/03",
+      "closing_date": "2026-11-19",
+      "closing_text": "2026-11-19",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.lcsd.gov.hk/clpss/tc/webApp/TenderDetails.do?ref=LC/LS/Q/CP/KwT/KCP/2026/03",
+      "document_url": "",
+      "source_ids": [
+        "directory_32"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-29T12:21:47+08:00",
+      "status": "正在招标",
+      "id": "f4c45927b5b347c25d"
     },
     {
       "department": "康乐及文化事务署",
@@ -35,7 +54,7 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-10-28T11:58:02+08:00",
+      "verified_at": "2026-10-29T12:21:47+08:00",
       "status": "正在招标",
       "id": "6b29a72d330da98e6f"
     },
@@ -54,7 +73,7 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-10-28T11:58:02+08:00",
+      "verified_at": "2026-10-29T12:21:47+08:00",
       "status": "正在招标",
       "id": "ddd4a877a2cb5c7310"
     },
@@ -73,7 +92,7 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-10-28T11:58:02+08:00",
+      "verified_at": "2026-10-29T12:21:47+08:00",
       "status": "正在招标",
       "id": "fbf5c3dbc9768d568f"
     },
@@ -92,28 +111,9 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-10-28T11:58:02+08:00",
+      "verified_at": "2026-10-29T12:21:47+08:00",
       "status": "正在招标",
       "id": "6b8d78b525d90da5dd"
-    },
-    {
-      "department": "康乐及文化事务署",
-      "title": "为康乐及文化事务署二零二七年香港花卉展览提供帐篷服务",
-      "kind": "tender",
-      "reference_no": "LCT 7005/26(S)",
-      "closing_date": "2026-10-28",
-      "closing_text": "2026-10-28",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.lcsd.gov.hk/clpss/tc/webApp/TenderDetails.do?ref=LCT 7005/26(S)",
-      "document_url": "",
-      "source_ids": [
-        "directory_32"
-      ],
-      "review_note": "",
-      "verified_at": "2026-10-28T11:58:02+08:00",
-      "status": "正在招标",
-      "id": "dee7c5d91725ea5b1e"
     },
     {
       "department": "康乐及文化事务署",
@@ -130,7 +130,7 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-10-28T11:58:02+08:00",
+      "verified_at": "2026-10-29T12:21:47+08:00",
       "status": "正在招标",
       "id": "3ef367ad694d7e98b5"
     },
@@ -149,7 +149,7 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-10-28T11:58:02+08:00",
+      "verified_at": "2026-10-29T12:21:47+08:00",
       "status": "正在招标",
       "id": "8f58cf714da23bacc3"
     },
@@ -168,7 +168,7 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-10-28T11:58:02+08:00",
+      "verified_at": "2026-10-29T12:21:47+08:00",
       "status": "正在招标",
       "id": "be6e916af84b4c7429"
     },
@@ -187,7 +187,7 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-10-28T11:58:02+08:00",
+      "verified_at": "2026-10-29T12:21:47+08:00",
       "status": "正在招标",
       "id": "f33339cefe76bea821"
     },
@@ -206,7 +206,7 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-10-28T11:58:02+08:00",
+      "verified_at": "2026-10-29T12:21:47+08:00",
       "status": "正在招标",
       "id": "49dff7adfea812a517"
     }

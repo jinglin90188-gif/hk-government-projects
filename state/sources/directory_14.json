@@ -1,25 +1,45 @@
 {
-  "checked_at": "2026-10-28T11:58:02+08:00",
+  "checked_at": "2026-10-29T12:21:47+08:00",
   "items": [
     {
       "department": "建筑署",
-      "title": "新界八乡少年警讯永久活动中心暨青少年综合训练营楼宇水管系统翻修工程",
+      "title": "新界大埔北盛街公厕及浴室翻修工程",
       "kind": "tender",
-      "reference_no": "RF P806",
-      "closing_date": "2026-10-16",
-      "closing_text": "2026/10/16 12:00",
+      "reference_no": "RF P807",
+      "closing_date": "2026-11-27",
+      "closing_text": "2026/11/27 12:00",
       "forecast_date": "",
-      "publish_date": "2026-09-18",
-      "source_url": "https://www.archsd.gov.hk/tc/tenders-notices/works/tender-notices-not-published-in-government-gazette/RF P806.html",
+      "publish_date": "2026-10-30",
+      "source_url": "https://www.archsd.gov.hk/tc/tenders-notices/works/tender-notices-not-published-in-government-gazette/RF P807.html",
       "document_url": "",
       "source_ids": [
         "directory_14"
       ],
       "review_note": "",
-      "verified_at": "2026-10-28T11:58:02+08:00",
-      "closing_at": "2026-10-16T12:00:00+08:00",
-      "status": "已截标",
-      "id": "751c476d80819b5f2f"
+      "verified_at": "2026-10-29T12:21:47+08:00",
+      "closing_at": "2026-11-27T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "ae5ee746f3548fecc1"
+    },
+    {
+      "department": "建筑署",
+      "title": "设计及建造沙头角口岸与相关工程",
+      "kind": "tender",
+      "reference_no": "SS R504",
+      "closing_date": "2027-01-08",
+      "closing_text": "2027/01/08 12:00",
+      "forecast_date": "",
+      "publish_date": "2026-10-30",
+      "source_url": "https://www.archsd.gov.hk/tc/tenders-notices/works/tender-notices-published-in-government-gazette/SS-R504.html",
+      "document_url": "",
+      "source_ids": [
+        "directory_14"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-29T12:21:47+08:00",
+      "closing_at": "2027-01-08T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "ce8be5c0a5d4fb5916"
     },
     {
       "department": "建筑署",
@@ -36,90 +56,10 @@
         "directory_14"
       ],
       "review_note": "",
-      "verified_at": "2026-10-28T11:58:02+08:00",
+      "verified_at": "2026-10-29T12:21:47+08:00",
       "closing_at": "2026-11-13T12:00:00+08:00",
       "status": "正在招标",
       "id": "8694836490996d95dc"
-    },
-    {
-      "department": "建筑署",
-      "title": "为建筑署(物业事务处)负责的建筑物、土地及其他物业进行改建、加建、保养及维修工程的定期合约(服务地区：观塘、油麻地、尖沙咀及旺角)",
-      "kind": "tender",
-      "reference_no": "TC R931",
-      "closing_date": "2026-10-09",
-      "closing_text": "2026/10/09 12:00",
-      "forecast_date": "",
-      "publish_date": "2026-08-28",
-      "source_url": "https://www.archsd.gov.hk/tc/tenders-notices/works/tender-notices-published-in-government-gazette/TC R931.html",
-      "document_url": "",
-      "source_ids": [
-        "directory_14"
-      ],
-      "review_note": "",
-      "verified_at": "2026-10-28T11:58:02+08:00",
-      "closing_at": "2026-10-09T12:00:00+08:00",
-      "status": "已截标",
-      "id": "7e1cac9b988a92e624"
-    },
-    {
-      "department": "建筑署",
-      "title": "为建筑署(物业事务处)负责的建筑物、土地及其他物业进行改建、加建、保养及维修工程的定期合约(服务地区：九龙城、西贡及离岛(西贡))",
-      "kind": "tender",
-      "reference_no": "TC R932",
-      "closing_date": "2026-10-09",
-      "closing_text": "2026/10/09 12:00",
-      "forecast_date": "",
-      "publish_date": "2026-08-28",
-      "source_url": "https://www.archsd.gov.hk/tc/tenders-notices/works/tender-notices-published-in-government-gazette/TC R932.html",
-      "document_url": "",
-      "source_ids": [
-        "directory_14"
-      ],
-      "review_note": "",
-      "verified_at": "2026-10-28T11:58:02+08:00",
-      "closing_at": "2026-10-09T12:00:00+08:00",
-      "status": "已截标",
-      "id": "4ebec6513921173e11"
-    },
-    {
-      "department": "建筑署",
-      "title": "为建筑署(物业事务处)负责的建筑物、土地及其他物业进行改建、加建、保养及维修工程的定期合约(服务地区：深水埗、荃湾及葵青)",
-      "kind": "tender",
-      "reference_no": "TC R941",
-      "closing_date": "2026-10-09",
-      "closing_text": "2026/10/09 12:00",
-      "forecast_date": "",
-      "publish_date": "2026-08-28",
-      "source_url": "https://www.archsd.gov.hk/tc/tenders-notices/works/tender-notices-published-in-government-gazette/TC R941.html",
-      "document_url": "",
-      "source_ids": [
-        "directory_14"
-      ],
-      "review_note": "",
-      "verified_at": "2026-10-28T11:58:02+08:00",
-      "closing_at": "2026-10-09T12:00:00+08:00",
-      "status": "已截标",
-      "id": "60c8270c09197bef9d"
-    },
-    {
-      "department": "建筑署",
-      "title": "为建筑署(物业事务处)负责的建筑物、土地及其他物业进行改建、加建、保养及维修工程的定期合约(服务地区：黄大仙及沙田)",
-      "kind": "tender",
-      "reference_no": "TC R942",
-      "closing_date": "2026-10-09",
-      "closing_text": "2026/10/09 12:00",
-      "forecast_date": "",
-      "publish_date": "2026-08-28",
-      "source_url": "https://www.archsd.gov.hk/tc/tenders-notices/works/tender-notices-published-in-government-gazette/TC R942.html",
-      "document_url": "",
-      "source_ids": [
-        "directory_14"
-      ],
-      "review_note": "",
-      "verified_at": "2026-10-28T11:58:02+08:00",
-      "closing_at": "2026-10-09T12:00:00+08:00",
-      "status": "已截标",
-      "id": "ea64dc689cd0157c1f"
     }
   ]
 }
