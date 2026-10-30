@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-29T12:21:47+08:00",
+  "checked_at": "2026-10-30T12:21:51+08:00",
   "items": [
     {
       "department": "律政司",
@@ -16,7 +16,7 @@
         "directory_80"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "document_verified": true,
       "closing_at": "2026-11-13T12:00:00+08:00",
       "status": "正在招标",
@@ -29,35 +29,6 @@
       "procurement_type": "",
       "notes": "",
       "id": "f70141acc8d4f7f6ff"
-    },
-    {
-      "department": "律政司",
-      "title": "为律政司提供香港特别行政区成立30周年庆祝活动统筹,管理及宣传服务",
-      "kind": "tender",
-      "reference_no": "DOJ/T/03/2026",
-      "closing_date": "2026-10-28",
-      "closing_text": "2026 年 10 月 28 日正午 12 时（香港时间） 递交标书: 投标者必须在 2026 年 10 月 28 日正午 12 时（香港时间）前，以下列其中一种形式递交标书︰ (a) 以电子形式递交",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.doj.gov.hk/tc/tender/pdf/tender_dojt032026c.pdf",
-      "document_url": "https://www.doj.gov.hk/tc/tender/pdf/tender_dojt032026c.pdf",
-      "source_ids": [
-        "directory_80"
-      ],
-      "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
-      "document_verified": true,
-      "closing_at": "2026-10-28T12:00:00+08:00",
-      "status": "已截标",
-      "title_aliases": [
-        "为律政司提供香港特别行政区成立30周年庆祝活动统筹,管理及宣传服务"
-      ],
-      "title_zh": "为律政司提供香港特别行政区成立30周年庆祝活动统筹,管理及宣传服务",
-      "eligibility_note": "",
-      "eligibility_summary": "",
-      "procurement_type": "",
-      "notes": "",
-      "id": "c34af8aceaff79cd46"
     }
   ]
 }

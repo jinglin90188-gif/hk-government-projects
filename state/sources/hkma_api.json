@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-29T12:21:47+08:00",
+  "checked_at": "2026-10-30T12:21:51+08:00",
   "items": [
     {
       "department": "香港金融管理局",
@@ -16,9 +16,28 @@
         "hkma_api"
       ],
       "review_note": "API未提供截标日，需查公告",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "status": "状态待核实",
       "id": "a6ab2e02941c6ed554"
+    },
+    {
+      "department": "香港金融管理局",
+      "title": "承投一年期的Atlassian Jira及Confluence许可证及其相关外挂续期服务",
+      "kind": "tender",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "2026-10-30",
+      "source_url": "https://egazette.gld.gov.hk/pdf?type=cgn&year=2026&volume=30&gno=44&notice_no=7012&extra=0",
+      "document_url": "",
+      "source_ids": [
+        "hkma_api"
+      ],
+      "review_note": "API未提供截标日，需查公告",
+      "verified_at": "2026-10-30T12:21:51+08:00",
+      "status": "状态待核实",
+      "id": "60c5c7eace8ca99506"
     },
     {
       "department": "香港金融管理局",
@@ -35,9 +54,28 @@
         "hkma_api"
       ],
       "review_note": "API未提供截标日，需查公告",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "status": "状态待核实",
       "id": "e83b715dfa4f3026db"
+    },
+    {
+      "department": "香港金融管理局",
+      "title": "承投保安资讯及事件管理 (SIEM) 系统的软件订阅续期及维护支援服务",
+      "kind": "tender",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "2026-10-30",
+      "source_url": "https://egazette.gld.gov.hk/pdf?type=cgn&year=2026&volume=30&gno=44&notice_no=7013&extra=0",
+      "document_url": "",
+      "source_ids": [
+        "hkma_api"
+      ],
+      "review_note": "API未提供截标日，需查公告",
+      "verified_at": "2026-10-30T12:21:51+08:00",
+      "status": "状态待核实",
+      "id": "f1e6ba29427635dea1"
     },
     {
       "department": "香港金融管理局",
@@ -54,7 +92,7 @@
         "hkma_api"
       ],
       "review_note": "API未提供截标日，需查公告",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "status": "状态待核实",
       "id": "a657fc0978351c6f77"
     },
@@ -73,7 +111,7 @@
         "hkma_api"
       ],
       "review_note": "API未提供截标日，需查公告",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "status": "状态待核实",
       "id": "d23830860615538483"
     },
@@ -92,7 +130,7 @@
         "hkma_api"
       ],
       "review_note": "API未提供截标日，需查公告",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "status": "状态待核实",
       "id": "08d7b52baf2ccc6e77"
     },
@@ -111,9 +149,28 @@
         "hkma_api"
       ],
       "review_note": "API未提供截标日，需查公告",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "status": "状态待核实",
       "id": "c8e21dce2b4c4461a5"
+    },
+    {
+      "department": "香港金融管理局",
+      "title": "承投提供甲骨文软件维修保养服务",
+      "kind": "tender",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "2026-10-30",
+      "source_url": "https://egazette.gld.gov.hk/pdf?type=cgn&year=2026&volume=30&gno=44&notice_no=7014&extra=0",
+      "document_url": "",
+      "source_ids": [
+        "hkma_api"
+      ],
+      "review_note": "API未提供截标日，需查公告",
+      "verified_at": "2026-10-30T12:21:51+08:00",
+      "status": "状态待核实",
+      "id": "47c8a58224f7f41fdd"
     },
     {
       "department": "香港金融管理局",
@@ -130,7 +187,7 @@
         "hkma_api"
       ],
       "review_note": "API未提供截标日，需查公告",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "status": "状态待核实",
       "id": "53ace7e2799548fab5"
     },
@@ -149,7 +206,7 @@
         "hkma_api"
       ],
       "review_note": "API未提供截标日，需查公告",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "status": "状态待核实",
       "id": "ec9bbb9148d9dee41a"
     },
@@ -168,7 +225,7 @@
         "hkma_api"
       ],
       "review_note": "API未提供截标日，需查公告",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "status": "状态待核实",
       "id": "f7f9eb8f61cf5d3c1c"
     }

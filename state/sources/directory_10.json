@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-29T12:21:47+08:00",
+  "checked_at": "2026-10-30T12:21:51+08:00",
   "items": [
     {
       "department": "运输署",
@@ -16,28 +16,9 @@
         "directory_10"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "status": "正在招标",
       "id": "f2b8de191756d3320b"
-    },
-    {
-      "department": "运输署",
-      "title": "为2027及2028年交通统计年报收集交通流量资料",
-      "kind": "tender",
-      "reference_no": "TD(T) 3/2026",
-      "closing_date": "2026-10-30",
-      "closing_text": "30.10.2026",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.td.gov.hk/tc/tender_notices/tender_notices/",
-      "document_url": "",
-      "source_ids": [
-        "directory_10"
-      ],
-      "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
-      "status": "正在招标",
-      "id": "7f2befb28bbdb3aa0e"
     }
   ]
 }

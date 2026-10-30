@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-29T12:21:47+08:00",
+  "checked_at": "2026-10-30T12:21:51+08:00",
   "items": [
     {
       "department": "土木工程拓展署",
@@ -16,7 +16,7 @@
         "cedd_consult_proposals"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "closing_at": "2026-12-04T12:00:00+08:00",
       "status": "正在招标",
       "title_aliases": [
@@ -29,64 +29,6 @@
       "procurement_type": "consultancy_proposal",
       "notes": "The scope of these consultancies, which are currently expected to commence in Q1 2027 , is indicated in the draft Scopes.",
       "id": "e2c886d2940b8a45a0"
-    },
-    {
-      "department": "土木工程拓展署",
-      "title": "Landslip Prevention and Mitigation Programme, Kowloon and New Territories West, Phase 1, Package C - Investigation, Design and Construction; Landslip Prevention and Mitigation Programme, New Territories East and New Territories West, Phase 1, Package E - Investigation, Design and Construction",
-      "kind": "tender",
-      "reference_no": "CE 24/2026 (GE) & CE 25/2026 (GE)",
-      "closing_date": "2026-10-30",
-      "closing_text": "12:00 noon, Friday, 30 Oct 2026",
-      "forecast_date": "",
-      "publish_date": "2026-09-30",
-      "source_url": "https://www.cedd.gov.hk/eng/tender-notices/consultancy-agreements/invitation-for-technical-and-fee-proposals/index-id-1371.html",
-      "document_url": "",
-      "source_ids": [
-        "cedd_consult_proposals"
-      ],
-      "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
-      "closing_at": "2026-10-30T12:00:00+08:00",
-      "status": "正在招标",
-      "title_aliases": [
-        "Landslip Prevention and Mitigation Programme, Kowloon and New Territories West, Phase 1, Package C - Investigation, Design and Construction; Landslip Prevention and Mitigation Programme, New Territories East and New Territories West, Phase 1, Package E - Investigation, Design and Construction",
-        "长远防治山泥倾泻计划， 九龙及新界西，第一阶段C组 - 勘查研究、设计及建造及长远防治山泥倾泻计划， 新界东及新界西，第一阶段E组 - 勘查研究、设计及建造"
-      ],
-      "title_zh": "长远防治山泥倾泻计划， 九龙及新界西，第一阶段C组 - 勘查研究、设计及建造及长远防治山泥倾泻计划， 新界东及新界西，第一阶段E组 - 勘查研究、设计及建造",
-      "eligibility_note": "Consultants in Group 3 under the Service Category of Geotechnical and Slope (GE) maintained by EACSB are invited to submit Technical and Fee Proposals for undertaking the above consultancies. Sole/Lead Consultants Invited: Geotechnical and Slope (GE) – Group 3 AECOM Asia Company Limited Asia Infrastructure Solutions Limited AtkinsRealis Asia Limited Aurecon Hong Kong Limited C M Wong & Associates Limited Fugro (Hong Kong) Limited Halcrow China Limited Ove Arup & Partners Hong Kong Limited",
-      "eligibility_summary": "顾问服务建议书邀请；须核对工程及有关顾问遴选委员会（EACSB）相应服务类别第3组及受邀名单，并非任何公司均可直接投标。",
-      "procurement_type": "consultancy_proposal",
-      "notes": "The scope of these consultancies, which are currently expected to commence in February 2027 , is indicated in the draft Scopes.",
-      "id": "235320205e4bde02ab"
-    },
-    {
-      "department": "土木工程拓展署",
-      "title": "Road Works for Smart and Green Mass Transit System Remaining Phase in Hung Shui Kiu/ Ha Tsuen New Development Area and Yuen Long South New Development Area - Investigation, Design and Construction",
-      "kind": "tender",
-      "reference_no": "CE 39/2026 (HY)",
-      "closing_date": "2026-10-30",
-      "closing_text": "12:00 noon, Friday, 30 Oct 2026",
-      "forecast_date": "",
-      "publish_date": "2026-09-18",
-      "source_url": "https://www.cedd.gov.hk/eng/tender-notices/consultancy-agreements/invitation-for-technical-and-fee-proposals/index-id-1370.html",
-      "document_url": "",
-      "source_ids": [
-        "cedd_consult_proposals"
-      ],
-      "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
-      "closing_at": "2026-10-30T12:00:00+08:00",
-      "status": "正在招标",
-      "title_aliases": [
-        "Road Works for Smart and Green Mass Transit System Remaining Phase in Hung Shui Kiu/ Ha Tsuen New Development Area and Yuen Long South New Development Area - Investigation, Design and Construction",
-        "洪水桥／厦村新发展区及元朗南新发展区智慧绿色集体运输系统（余下阶段）道路工程 - 勘查研究、设计及建造"
-      ],
-      "title_zh": "洪水桥／厦村新发展区及元朗南新发展区智慧绿色集体运输系统（余下阶段）道路工程 - 勘查研究、设计及建造",
-      "eligibility_note": "Consultants in Group 3 under the Service Category of Roads and Associated Structures (HY) maintained by EACSB are invited to submit Technical and Fee Proposals for undertaking the above consultancy. Sole/Lead Consultants Invited: Roads and Associated Structures (HY) – Group 3 AECOM Asia Company Limited Asia Infrastructure Solutions Limited AtkinsRealis Asia Limited Aurecon Hong Kong Limited Mannings (Asia) Consultants Limited Meinhardt Infrastructure and Environment Limited Mott MacDonald Hong Kong Limited Ove Arup & Partners Hong Kong Limited SJ Consultants Hong Kong Limited WSP (Asia) Limited",
-      "eligibility_summary": "顾问服务建议书邀请；须核对工程及有关顾问遴选委员会（EACSB）相应服务类别第3组及受邀名单，并非任何公司均可直接投标。",
-      "procurement_type": "consultancy_proposal",
-      "notes": "The scope of this consultancy, which is currently expected to commence in Q1 2027, is indicated in the draft Scope.",
-      "id": "c33af77d616fc3bba1"
     },
     {
       "department": "土木工程拓展署",
@@ -103,7 +45,7 @@
         "cedd_consult_proposals"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "closing_at": "2026-12-04T12:00:00+08:00",
       "status": "正在招标",
       "title_aliases": [
@@ -132,7 +74,7 @@
         "cedd_consult_proposals"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "closing_at": "2026-12-04T12:00:00+08:00",
       "status": "正在招标",
       "title_aliases": [
@@ -161,7 +103,7 @@
         "cedd_consult_proposals"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "closing_at": "2026-12-04T12:00:00+08:00",
       "status": "正在招标",
       "title_zh": "优化港岛北维多利亚港海滨 – 设计及建造",
@@ -175,6 +117,35 @@
       "procurement_type": "consultancy_proposal",
       "notes": "The scope of this consultancy, which is currently expected to commence in Q1 2027, is indicated in the draft Scope.",
       "id": "29234eabc8933fd27c"
+    },
+    {
+      "department": "土木工程拓展署",
+      "title": "Project Monitoring and Control for Smart and Green Mass Transit System in Kai Tak – Investigation",
+      "kind": "tender",
+      "reference_no": "CE 45/2026 (CE)",
+      "closing_date": "2026-12-11",
+      "closing_text": "12:00 noon, Friday, 11 Dec 2026",
+      "forecast_date": "",
+      "publish_date": "2026-10-30",
+      "source_url": "https://www.cedd.gov.hk/eng/tender-notices/consultancy-agreements/invitation-for-technical-and-fee-proposals/index-id-1375.html",
+      "document_url": "",
+      "source_ids": [
+        "cedd_consult_proposals"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-30T12:21:51+08:00",
+      "closing_at": "2026-12-11T12:00:00+08:00",
+      "status": "正在招标",
+      "title_aliases": [
+        "Project Monitoring and Control for Smart and Green Mass Transit System in Kai Tak – Investigation",
+        "启德智慧绿色集体运输系统项目监察和控制– 勘查研究"
+      ],
+      "title_zh": "启德智慧绿色集体运输系统项目监察和控制– 勘查研究",
+      "eligibility_note": "Consultants in Group 3 under the Service Category of Civil Infrastructure and Development (CE) maintained by EACSB are invited, except the consultants already appointed under the \"Agreement No. CE 35/2025 (CE) – Professional Support for Implementation of Building Control Mechanism for Projects of Cross-boundary Railways and Smart and Green Mass Transit Systems – Investigation\", to submit Technical and Fee Proposals for undertaking the above consultancy . Sole/Lead Consultants Invited: Civil Infrastructure and Development (CE) – Group 3 AECOM Asia Company Limited Asia Infrastructure Solutions Limited AtkinsRealis Asia Limited Aurecon Hong Kong Limited Binnies Hong Kong Limited Halcrow China Limited Mannings (Asia) Consultants Limited Meinhardt Infrastructure and Environment Limited Mott MacDonald Hong Kong Limited Ove Arup & Partners Hong Kong Limited SJ Consultants Hong Kong Limited Tony Gee and Partners (Asia) Limited WSP (Asia) Limited",
+      "eligibility_summary": "顾问服务建议书邀请；须核对工程及有关顾问遴选委员会（EACSB）相应服务类别第3组及受邀名单，并非任何公司均可直接投标。",
+      "procurement_type": "consultancy_proposal",
+      "notes": "The scope of this consultancy, which is currently expected to commence in Q1 2027 , is indicated in the draft Scope.",
+      "id": "c40eb4e424d6df6378"
     }
   ]
 }

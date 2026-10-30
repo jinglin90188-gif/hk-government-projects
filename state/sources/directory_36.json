@@ -1,4 +1,25 @@
 {
-  "checked_at": "2026-10-29T12:21:47+08:00",
-  "items": []
+  "checked_at": "2026-10-30T12:21:51+08:00",
+  "items": [
+    {
+      "department": "在职家庭及学生资助事务处",
+      "title": "为在职家庭及学生资助事务处提供临时人力资源服务（计划行政助理）",
+      "kind": "tender",
+      "reference_no": "T001/26-27",
+      "closing_date": "2026-11-23",
+      "closing_text": "2026年11月23日正午12:00（香港时间）",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.wfsfaa.gov.hk/tc/about/tender/tender.htm",
+      "document_url": "https://www.wfsfaa.gov.hk/tc/about/tender/Website Tender Notice (Tender Ref. T001_26-27_SAA)_tc.pdf",
+      "source_ids": [
+        "directory_36"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-30T12:21:51+08:00",
+      "closing_at": "2026-11-23T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "09721b67742425b8f5"
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T11:58:02+08:00",
+  "updated_at": "2026-10-30T12:21:51+08:00",
   "departments": [
     {
       "department": "保安局",
@@ -210,27 +210,21 @@
     {
       "department": "卫生署",
       "issues": [
-        "未登记独立预报入口，仅能依赖中央采购预报覆盖",
-        "存在连接失败、待解析或部分解析来源"
+        "未登记独立预报入口，仅能依赖中央采购预报覆盖"
       ],
       "tender_sources": 1,
       "forecast_sources": 0,
       "source_status": {
-        "unparsed": 1
+        "parsed": 1
       },
-      "open": 1,
+      "open": 3,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 25
+        "exclude": 26,
+        "review": 1
       },
-      "unresolved_sources": [
-        {
-          "id": "directory_34",
-          "url": "https://www.dh.gov.hk/tc_chi/tender/tender.html",
-          "status": "unparsed"
-        }
-      ]
+      "unresolved_sources": []
     },
     {
       "department": "发展局",
@@ -243,7 +237,7 @@
         "parsed": 1,
         "unparsed": 1
       },
-      "open": 1,
+      "open": 0,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
@@ -328,9 +322,9 @@
       "related_open": 3,
       "related_forecast": 1,
       "scope_counts": {
-        "exclude": 37,
+        "exclude": 35,
         "include": 4,
-        "review": 2
+        "review": 3
       },
       "unresolved_sources": []
     },
@@ -342,13 +336,14 @@
       "tender_sources": 1,
       "forecast_sources": 0,
       "source_status": {
-        "empty": 1
+        "parsed": 1
       },
-      "open": 0,
+      "open": 1,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 6
+        "exclude": 5,
+        "review": 1
       },
       "unresolved_sources": []
     },
@@ -507,12 +502,12 @@
         "parsed": 1
       },
       "open": 11,
-      "related_open": 3,
+      "related_open": 2,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 7,
-        "review": 1,
-        "include": 3
+        "exclude": 6,
+        "review": 3,
+        "include": 2
       },
       "unresolved_sources": []
     },
@@ -544,12 +539,12 @@
       "source_status": {
         "parsed": 4
       },
-      "open": 1,
+      "open": 3,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 15,
-        "review": 12
+        "exclude": 14,
+        "review": 14
       },
       "unresolved_sources": []
     },
@@ -563,12 +558,11 @@
       "source_status": {
         "parsed": 1
       },
-      "open": 2,
+      "open": 1,
       "related_open": 1,
       "related_forecast": 0,
       "scope_counts": {
-        "include": 1,
-        "exclude": 1
+        "include": 1
       },
       "unresolved_sources": []
     },
@@ -784,11 +778,11 @@
         "unparsed": 1
       },
       "open": 2,
-      "related_open": 1,
+      "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
         "exclude": 3,
-        "include": 1
+        "review": 1
       },
       "unresolved_sources": [
         {
@@ -841,7 +835,7 @@
       "department": "教育局",
       "issues": [
         "存在连接失败、待解析或部分解析来源",
-        "2项尚未核实截标日期或当前状态"
+        "3项尚未核实截标日期或当前状态"
       ],
       "tender_sources": 1,
       "forecast_sources": 1,
@@ -853,7 +847,7 @@
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 5
+        "exclude": 6
       },
       "unresolved_sources": [
         {
@@ -936,12 +930,12 @@
       "source_status": {
         "parsed": 3
       },
-      "open": 8,
-      "related_open": 5,
+      "open": 9,
+      "related_open": 6,
       "related_forecast": 11,
       "scope_counts": {
-        "exclude": 75,
-        "include": 21,
+        "exclude": 76,
+        "include": 22,
         "review": 26
       },
       "unresolved_sources": []
@@ -1028,11 +1022,11 @@
         "parsed": 2,
         "empty": 1
       },
-      "open": 2,
+      "open": 1,
       "related_open": 1,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 34,
+        "exclude": 33,
         "review": 2,
         "include": 1
       },
@@ -1124,7 +1118,7 @@
       "related_open": 1,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 8,
+        "exclude": 7,
         "include": 1
       },
       "unresolved_sources": [
@@ -1147,13 +1141,13 @@
         "parsed": 3,
         "documents": 1
       },
-      "open": 4,
-      "related_open": 2,
+      "open": 2,
+      "related_open": 1,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 20,
-        "review": 21,
-        "include": 2
+        "exclude": 19,
+        "review": 23,
+        "include": 1
       },
       "unresolved_sources": [
         {
@@ -1238,19 +1232,18 @@
     {
       "department": "社会福利署",
       "issues": [
-        "未登记独立预报入口，仅能依赖中央采购预报覆盖",
-        "1项尚未核实截标日期或当前状态"
+        "未登记独立预报入口，仅能依赖中央采购预报覆盖"
       ],
       "tender_sources": 1,
       "forecast_sources": 0,
       "source_status": {
         "parsed": 1
       },
-      "open": 0,
+      "open": 2,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 1
+        "exclude": 2
       },
       "unresolved_sources": []
     },
@@ -1264,7 +1257,7 @@
       "source_status": {
         "parsed": 1
       },
-      "open": 1,
+      "open": 0,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
@@ -1368,11 +1361,11 @@
         "parsed": 3,
         "empty": 1
       },
-      "open": 3,
-      "related_open": 3,
+      "open": 1,
+      "related_open": 1,
       "related_forecast": 3,
       "scope_counts": {
-        "include": 9,
+        "include": 7,
         "exclude": 2
       },
       "unresolved_sources": []
@@ -1420,11 +1413,12 @@
       "source_status": {
         "parsed": 2
       },
-      "open": 4,
+      "open": 5,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 15
+        "exclude": 15,
+        "review": 1
       },
       "unresolved_sources": []
     },
@@ -1507,7 +1501,7 @@
       "source_status": {
         "parsed": 1
       },
-      "open": 9,
+      "open": 8,
       "related_open": 3,
       "related_forecast": 0,
       "scope_counts": {
@@ -1543,7 +1537,7 @@
       "department": "香港金融管理局",
       "issues": [
         "未登记独立预报入口，仅能依赖中央采购预报覆盖",
-        "11项尚未核实截标日期或当前状态"
+        "13项尚未核实截标日期或当前状态"
       ],
       "tender_sources": 2,
       "forecast_sources": 0,
@@ -1554,7 +1548,8 @@
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
-        "include": 11
+        "include": 12,
+        "review": 1
       },
       "unresolved_sources": []
     }

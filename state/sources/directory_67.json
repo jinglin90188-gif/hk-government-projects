@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-29T12:21:47+08:00",
+  "checked_at": "2026-10-30T12:21:51+08:00",
   "items": [
     {
       "department": "教育局",
@@ -16,7 +16,7 @@
         "directory_67"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "document_verified": true,
       "status": "状态待核实",
       "title_aliases": [
@@ -45,7 +45,7 @@
         "directory_67"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "document_verified": true,
       "status": "状态待核实",
       "title_aliases": [
@@ -58,6 +58,35 @@
       "procurement_type": "",
       "notes": "",
       "id": "9152f3670ff35c700a"
+    },
+    {
+      "department": "教育局",
+      "title": "为教育局九龙塘教育服务中心提供护卫服务，合约为期36个月",
+      "kind": "tender",
+      "reference_no": "EDB(KTC)/ACC/30/1/1(2027)",
+      "closing_date": "",
+      "closing_text": "和时间 : 202 6 年 11 月 27 日正午 12 时 (香港时间 ) 逾期的投标概不受理。 查询 : 九龙九龙塘沙福道 19 号教育局九龙塘教育服务中心东座3 楼 E301 室教育局行政分部行",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.edb.gov.hk/attachment/tc/public-admin/tender-notices/tender-notice/KTCSG2027_TC.pdf",
+      "document_url": "https://www.edb.gov.hk/attachment/tc/public-admin/tender-notices/tender-notice/KTCSG2027_TC.pdf",
+      "source_ids": [
+        "directory_67"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-30T12:21:51+08:00",
+      "document_verified": true,
+      "status": "状态待核实",
+      "title_aliases": [
+        "为教育局九龙塘教育服务中心提供护卫服务，合约为期36个月"
+      ],
+      "closing_at": "",
+      "title_zh": "为教育局九龙塘教育服务中心提供护卫服务，合约为期36个月",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "notes": "",
+      "id": "9a27767cd076ed245b"
     },
     {
       "department": "教育局",
@@ -74,7 +103,7 @@
         "directory_67"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "document_verified": true,
       "closing_at": "2026-10-23T12:00:00+08:00",
       "status": "已截标",
@@ -103,7 +132,7 @@
         "directory_67"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "document_verified": true,
       "closing_at": "2026-11-06T12:00:00+08:00",
       "status": "正在招标",
@@ -132,7 +161,7 @@
         "directory_67"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "document_verified": true,
       "closing_at": "2026-11-20T12:00:00+08:00",
       "status": "正在招标",

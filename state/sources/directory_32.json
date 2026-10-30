@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-29T12:21:47+08:00",
+  "checked_at": "2026-10-30T12:21:51+08:00",
   "items": [
     {
       "department": "康乐及文化事务署",
@@ -16,7 +16,7 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "status": "正在招标",
       "id": "07c3ed36ac815a0df6"
     },
@@ -35,7 +35,7 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "status": "正在招标",
       "id": "f4c45927b5b347c25d"
     },
@@ -54,7 +54,7 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "status": "正在招标",
       "id": "6b29a72d330da98e6f"
     },
@@ -73,7 +73,7 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "status": "正在招标",
       "id": "ddd4a877a2cb5c7310"
     },
@@ -92,7 +92,7 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "status": "正在招标",
       "id": "fbf5c3dbc9768d568f"
     },
@@ -111,7 +111,7 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "status": "正在招标",
       "id": "6b8d78b525d90da5dd"
     },
@@ -130,7 +130,7 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "status": "正在招标",
       "id": "3ef367ad694d7e98b5"
     },
@@ -149,28 +149,9 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "status": "正在招标",
       "id": "8f58cf714da23bacc3"
-    },
-    {
-      "department": "康乐及文化事务署",
-      "title": "为康乐及文化事务署香港文化博物馆以及其辖下博物馆提供技术服务",
-      "kind": "tender",
-      "reference_no": "LCT 8010/26(S)",
-      "closing_date": "2026-10-30",
-      "closing_text": "2026-10-30",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.lcsd.gov.hk/clpss/tc/webApp/TenderDetails.do?ref=LCT 8010/26(S)",
-      "document_url": "",
-      "source_ids": [
-        "directory_32"
-      ],
-      "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
-      "status": "正在招标",
-      "id": "be6e916af84b4c7429"
     },
     {
       "department": "康乐及文化事务署",
@@ -187,7 +168,7 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "status": "正在招标",
       "id": "f33339cefe76bea821"
     },
@@ -206,9 +187,28 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "status": "正在招标",
       "id": "49dff7adfea812a517"
+    },
+    {
+      "department": "康乐及文化事务署",
+      "title": "为康乐及文化事务署辖下的香港文化中心音乐厅提供及安装音响扬声器系统",
+      "kind": "tender",
+      "reference_no": "LCT 9006/26(G)",
+      "closing_date": "2026-12-09",
+      "closing_text": "2026-12-09",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.lcsd.gov.hk/clpss/tc/webApp/TenderDetails.do?ref=LCT 9006/26(G)",
+      "document_url": "",
+      "source_ids": [
+        "directory_32"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-30T12:21:51+08:00",
+      "status": "正在招标",
+      "id": "fc04c3365f16d53786"
     }
   ]
 }

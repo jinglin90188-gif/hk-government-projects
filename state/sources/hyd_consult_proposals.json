@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-29T12:21:47+08:00",
+  "checked_at": "2026-10-30T12:21:51+08:00",
   "items": [
     {
       "department": "路政署",
@@ -16,7 +16,7 @@
         "hyd_consult_proposals"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "closing_at": "2026-07-24T12:00:00+08:00",
       "status": "已截标",
       "id": "e09bf45a3fac351d11"
@@ -36,7 +36,7 @@
         "hyd_consult_proposals"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "closing_at": "2026-11-20T12:00:00+08:00",
       "status": "正在招标",
       "id": "08b46f4d903b2cb731"

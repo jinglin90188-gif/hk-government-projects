@@ -1,0 +1,25 @@
+{
+  "checked_at": "2026-10-30T12:21:51+08:00",
+  "items": [
+    {
+      "department": "卫生署",
+      "title": "为卫生署供应黄热病疫苗",
+      "kind": "tender",
+      "reference_no": "DHD050826",
+      "closing_date": "2026-12-10",
+      "closing_text": "2026年12月10日12时（香港时间）",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.dh.gov.hk/tc_chi/tender/tender_302.html",
+      "document_url": "",
+      "source_ids": [
+        "directory_34"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-30T12:21:51+08:00",
+      "closing_at": "2026-12-10T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "afb0d223145d99b5a6"
+    }
+  ]
+}

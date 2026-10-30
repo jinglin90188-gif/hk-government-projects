@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-29T12:21:47+08:00",
+  "checked_at": "2026-10-30T12:21:51+08:00",
   "items": [
     {
       "department": "建筑署",
@@ -16,7 +16,7 @@
         "directory_96"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "status": "招标预报",
       "id": "ce8be5c0a5d4fb5916"
     },
@@ -35,7 +35,7 @@
         "directory_96"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "status": "招标预报",
       "id": "8694836490996d95dc"
     },
@@ -54,7 +54,7 @@
         "directory_96"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "status": "招标预报",
       "id": "1b7db25d3363567ce3"
     },
@@ -73,7 +73,7 @@
         "directory_96"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "status": "招标预报",
       "id": "fa8e7f21a43b446b1d"
     }

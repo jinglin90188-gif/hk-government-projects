@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-29T12:21:47+08:00",
+  "checked_at": "2026-10-30T12:21:51+08:00",
   "items": [
     {
       "department": "机电工程署",
@@ -16,7 +16,7 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "closing_at": "2026-11-06T12:00:00+08:00",
       "status": "正在招标",
       "id": "26fdced72a9acc0c6a"
@@ -36,7 +36,7 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "closing_at": "2026-11-06T12:00:00+08:00",
       "status": "正在招标",
       "id": "372e6495024dc7ecd9"
@@ -56,7 +56,7 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "closing_at": "2026-12-04T12:00:00+08:00",
       "status": "正在招标",
       "id": "8f60c7703321cb90af"
@@ -76,10 +76,30 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "closing_at": "2027-01-08T12:00:00+08:00",
       "status": "正在招标",
       "id": "021c54a905602d9199"
+    },
+    {
+      "department": "机电工程署",
+      "title": "为机电工程署供应狗只运载车，车辆须在合约生效日期起计18个月内可供使用。",
+      "kind": "tender",
+      "reference_no": "EMSSSD0126",
+      "closing_date": "2026-12-15",
+      "closing_text": "/时间 2026年12月15日 (星期二) 正午 12 时 。 (i) 如截标当天上午9 时至正午12 时期间的任何时段内，八号或以上的热带气旋警告信号悬挂，或黑色暴雨警告信号或政府公布的「极端情况」生效，截标时间会延至",
+      "forecast_date": "",
+      "publish_date": "2026-10-11",
+      "source_url": "https://www.emsd.gov.hk/tc/tenders_contracts_and_consultancies/tender_notices/tender_notices/index_id_6594.html",
+      "document_url": "",
+      "source_ids": [
+        "emsd_rss"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-30T12:21:51+08:00",
+      "closing_at": "2026-12-15T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "852edda54570d364f5"
     },
     {
       "department": "机电工程署",
@@ -96,30 +116,30 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "closing_at": "2026-11-12T12:00:00+08:00",
       "status": "正在招标",
       "id": "bb9f4570f199ed2487"
     },
     {
       "department": "机电工程署",
-      "title": "为机电工程署供应污水车及水车，车辆须在合约生效日期起计16个月内可供使用。",
+      "title": "为机电工程署供应电动快速应变急救车，车辆须在合约生效日期起计14个月内可供使用。",
       "kind": "tender",
-      "reference_no": "EMSSSD0925",
-      "closing_date": "2026-10-29",
-      "closing_text": "/时间 2026年10月29日 (星期四) 正午 12 时 。 (i) 如截标当天上午9 时至正午12 时期间的任何时段内，八号或以上的热带气旋警告信号悬挂，或黑色暴雨警告信号或政府公布的「极端情况」生效，截标时间会延至",
+      "reference_no": "EMSSSD0426",
+      "closing_date": "2026-12-15",
+      "closing_text": "/时间 2026年12月15日 (星期二) 正午 12 时 。 (i) 如截标当天上午9 时至正午12 时期间的任何时段内，八号或以上的热带气旋警告信号悬挂，或黑色暴雨警告信号或政府公布的「极端情况」生效，截标时间会延至",
       "forecast_date": "",
-      "publish_date": "2026-08-30",
-      "source_url": "https://www.emsd.gov.hk/tc/tenders_contracts_and_consultancies/tender_notices/tender_notices/index_id_6587.html",
+      "publish_date": "2026-10-11",
+      "source_url": "https://www.emsd.gov.hk/tc/tenders_contracts_and_consultancies/tender_notices/tender_notices/index_id_6595.html",
       "document_url": "",
       "source_ids": [
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
-      "closing_at": "2026-10-29T12:00:00+08:00",
-      "status": "已截标",
-      "id": "6e29516770d7359646"
+      "verified_at": "2026-10-30T12:21:51+08:00",
+      "closing_at": "2026-12-15T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "8f4b23acce51f18a82"
     }
   ]
 }

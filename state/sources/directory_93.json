@@ -1,6 +1,63 @@
 {
-  "checked_at": "2026-10-29T12:21:47+08:00",
+  "checked_at": "2026-10-30T12:21:51+08:00",
   "items": [
+    {
+      "department": "土木工程拓展署",
+      "title": "倾泻调查顾问合约 - 可行性研究",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026 Q4",
+      "publish_date": "",
+      "source_url": "https://www.cedd.gov.hk/tc/tender-notices/consultancy-agreements/forecast-of-consultancies/index.html",
+      "document_url": "https://www.cedd.gov.hk/filemanager/eng/content_290/FC_EA_202610_r1.pdf",
+      "source_ids": [
+        "directory_93"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-30T12:21:51+08:00",
+      "status": "招标预报",
+      "id": "4af245dabf295bcf83"
+    },
+    {
+      "department": "土木工程拓展署",
+      "title": "凹头新发展区及沙埔基础设施工程 – 设计及建造",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026 Q4",
+      "publish_date": "",
+      "source_url": "https://www.cedd.gov.hk/tc/tender-notices/consultancy-agreements/forecast-of-consultancies/index.html",
+      "document_url": "https://www.cedd.gov.hk/filemanager/eng/content_290/FC_EA_202610_r1.pdf",
+      "source_ids": [
+        "directory_93"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-30T12:21:51+08:00",
+      "status": "招标预报",
+      "id": "0c26d12e9f545bf0eb"
+    },
+    {
+      "department": "土木工程拓展署",
+      "title": "启德智慧绿色集体运输系统项目监察和控制– 勘查研究",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2026 Q4",
+      "publish_date": "",
+      "source_url": "https://www.cedd.gov.hk/tc/tender-notices/consultancy-agreements/forecast-of-consultancies/index.html",
+      "document_url": "https://www.cedd.gov.hk/filemanager/eng/content_290/FC_EA_202610_r1.pdf",
+      "source_ids": [
+        "directory_93"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-30T12:21:51+08:00",
+      "status": "招标预报",
+      "id": "07d79eb80bd2be8811"
+    },
     {
       "department": "土木工程拓展署",
       "title": "建立三宝树湿地保育公园 - 余下期数 - 设计及建造",
@@ -11,134 +68,109 @@
       "forecast_date": "2026 Q4",
       "publish_date": "",
       "source_url": "https://www.cedd.gov.hk/tc/tender-notices/consultancy-agreements/forecast-of-consultancies/index.html",
-      "document_url": "https://www.cedd.gov.hk/filemanager/eng/content_290/FC_EA_202607_r2.pdf",
+      "document_url": "https://www.cedd.gov.hk/filemanager/eng/content_290/FC_EA_202610_r1.pdf",
       "source_ids": [
         "directory_93"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "status": "招标预报",
       "id": "fb9a4172697d46cd38"
     },
     {
       "department": "土木工程拓展署",
-      "title": "新界北新市镇优先发展区 - 第一组- 设计及建造",
+      "title": "河套区发展 - 东面连接道路 - 独立环境查核人",
       "kind": "forecast",
       "reference_no": "",
       "closing_date": "",
       "closing_text": "",
-      "forecast_date": "2026 Q3",
+      "forecast_date": "2026 Q4",
       "publish_date": "",
       "source_url": "https://www.cedd.gov.hk/tc/tender-notices/consultancy-agreements/forecast-of-consultancies/index.html",
-      "document_url": "https://www.cedd.gov.hk/filemanager/eng/content_290/FC_EA_202607_r2.pdf",
+      "document_url": "https://www.cedd.gov.hk/filemanager/eng/content_290/FC_EA_202610_r1.pdf",
       "source_ids": [
         "directory_93"
       ],
-      "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "review_note": "",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "status": "招标预报",
-      "outdated": true,
-      "id": "13ee6704be0c0ed22b"
+      "id": "137964b951c5f193e0"
     },
     {
       "department": "土木工程拓展署",
-      "title": "新界北新市镇优先发展区 - 第二组- 设计及建造",
+      "title": "河套区发展 - 东面连接道路- 环境小组",
       "kind": "forecast",
       "reference_no": "",
       "closing_date": "",
       "closing_text": "",
-      "forecast_date": "2026 Q3",
+      "forecast_date": "2026 Q4",
       "publish_date": "",
       "source_url": "https://www.cedd.gov.hk/tc/tender-notices/consultancy-agreements/forecast-of-consultancies/index.html",
-      "document_url": "https://www.cedd.gov.hk/filemanager/eng/content_290/FC_EA_202607_r2.pdf",
+      "document_url": "https://www.cedd.gov.hk/filemanager/eng/content_290/FC_EA_202610_r1.pdf",
       "source_ids": [
         "directory_93"
       ],
-      "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "review_note": "",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "status": "招标预报",
-      "outdated": true,
-      "id": "ee43bc693a2a51f31d"
+      "id": "6a04376f1d3853a12c"
     },
     {
       "department": "土木工程拓展署",
-      "title": "洪水桥/厦村新发展区及元朗南新发展区智慧绿色集体运输系统余下阶段道路工程 - 勘查研究、设计及建造",
+      "title": "泥倾泻调查顾问合约 - 可行性研究",
       "kind": "forecast",
       "reference_no": "",
       "closing_date": "",
       "closing_text": "",
-      "forecast_date": "2026 Q3",
+      "forecast_date": "2026 Q4",
       "publish_date": "",
       "source_url": "https://www.cedd.gov.hk/tc/tender-notices/consultancy-agreements/forecast-of-consultancies/index.html",
-      "document_url": "https://www.cedd.gov.hk/filemanager/eng/content_290/FC_EA_202607_r2.pdf",
+      "document_url": "https://www.cedd.gov.hk/filemanager/eng/content_290/FC_EA_202610_r1.pdf",
       "source_ids": [
         "directory_93"
       ],
-      "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "review_note": "",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "status": "招标预报",
-      "outdated": true,
-      "id": "a9a77693bfb00b236e"
+      "id": "67c910d6f4424d31bc"
     },
     {
       "department": "土木工程拓展署",
-      "title": "港澳码头内外码头下部结构状况评估及修复研究－勘查研究",
+      "title": "牛潭尾新发展区独立环境查核人–勘查研究",
       "kind": "forecast",
       "reference_no": "",
       "closing_date": "",
       "closing_text": "",
-      "forecast_date": "2026 Q3",
+      "forecast_date": "2026 Q4",
       "publish_date": "",
       "source_url": "https://www.cedd.gov.hk/tc/tender-notices/consultancy-agreements/forecast-of-consultancies/index.html",
-      "document_url": "https://www.cedd.gov.hk/filemanager/eng/content_290/FC_EA_202607_r2.pdf",
+      "document_url": "https://www.cedd.gov.hk/filemanager/eng/content_290/FC_EA_202610_r1.pdf",
       "source_ids": [
         "directory_93"
       ],
-      "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "review_note": "",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "status": "招标预报",
-      "outdated": true,
-      "id": "02010b4efc8dc88778"
+      "id": "e7ab1fee1bf05861f5"
     },
     {
       "department": "土木工程拓展署",
-      "title": "牛潭尾新发展区 - 独立环境查核人",
+      "title": "牛潭尾新发展区环境小组–设计及建造",
       "kind": "forecast",
       "reference_no": "",
       "closing_date": "",
       "closing_text": "",
-      "forecast_date": "2026 Q3",
+      "forecast_date": "2026 Q4",
       "publish_date": "",
       "source_url": "https://www.cedd.gov.hk/tc/tender-notices/consultancy-agreements/forecast-of-consultancies/index.html",
-      "document_url": "https://www.cedd.gov.hk/filemanager/eng/content_290/FC_EA_202607_r2.pdf",
+      "document_url": "https://www.cedd.gov.hk/filemanager/eng/content_290/FC_EA_202610_r1.pdf",
       "source_ids": [
         "directory_93"
       ],
-      "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "review_note": "",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "status": "招标预报",
-      "outdated": true,
-      "id": "9685fb7511ae422603"
-    },
-    {
-      "department": "土木工程拓展署",
-      "title": "牛潭尾新发展区 - 环境小组",
-      "kind": "forecast",
-      "reference_no": "",
-      "closing_date": "",
-      "closing_text": "",
-      "forecast_date": "2026 Q3",
-      "publish_date": "",
-      "source_url": "https://www.cedd.gov.hk/tc/tender-notices/consultancy-agreements/forecast-of-consultancies/index.html",
-      "document_url": "https://www.cedd.gov.hk/filemanager/eng/content_290/FC_EA_202607_r2.pdf",
-      "source_ids": [
-        "directory_93"
-      ],
-      "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-29T12:21:47+08:00",
-      "status": "招标预报",
-      "outdated": true,
-      "id": "f8b5f2fdd4b5782e2b"
+      "id": "d4dfbe671e77615eaf"
     },
     {
       "department": "土木工程拓展署",
@@ -147,17 +179,16 @@
       "reference_no": "",
       "closing_date": "",
       "closing_text": "",
-      "forecast_date": "2026 Q3",
+      "forecast_date": "2026 Q4",
       "publish_date": "",
       "source_url": "https://www.cedd.gov.hk/tc/tender-notices/consultancy-agreements/forecast-of-consultancies/index.html",
-      "document_url": "https://www.cedd.gov.hk/filemanager/eng/content_290/FC_EA_202607_r2.pdf",
+      "document_url": "https://www.cedd.gov.hk/filemanager/eng/content_290/FC_EA_202610_r1.pdf",
       "source_ids": [
         "directory_93"
       ],
-      "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "review_note": "",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "status": "招标预报",
-      "outdated": true,
       "id": "7378fe5fa741db0992"
     },
     {
@@ -167,78 +198,17 @@
       "reference_no": "",
       "closing_date": "",
       "closing_text": "",
-      "forecast_date": "2026 Q3",
+      "forecast_date": "2026 Q4",
       "publish_date": "",
       "source_url": "https://www.cedd.gov.hk/tc/tender-notices/consultancy-agreements/forecast-of-consultancies/index.html",
-      "document_url": "https://www.cedd.gov.hk/filemanager/eng/content_290/FC_EA_202607_r2.pdf",
+      "document_url": "https://www.cedd.gov.hk/filemanager/eng/content_290/FC_EA_202610_r1.pdf",
       "source_ids": [
         "directory_93"
       ],
-      "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "review_note": "",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "status": "招标预报",
-      "outdated": true,
       "id": "0b604a2785aeba6dc5"
-    },
-    {
-      "department": "土木工程拓展署",
-      "title": "长远防治山泥倾泻计划， 九龙及新界东，第一阶段E组 - 勘查研究、设计及建造",
-      "kind": "forecast",
-      "reference_no": "",
-      "closing_date": "",
-      "closing_text": "",
-      "forecast_date": "2026 Q3",
-      "publish_date": "",
-      "source_url": "https://www.cedd.gov.hk/tc/tender-notices/consultancy-agreements/forecast-of-consultancies/index.html",
-      "document_url": "https://www.cedd.gov.hk/filemanager/eng/content_290/FC_EA_202607_r2.pdf",
-      "source_ids": [
-        "directory_93"
-      ],
-      "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-29T12:21:47+08:00",
-      "status": "招标预报",
-      "outdated": true,
-      "id": "768e4527ff71a7d3ba"
-    },
-    {
-      "department": "土木工程拓展署",
-      "title": "长远防治山泥倾泻计划， 九龙及新界西，第一阶段C组 - 勘查研究、设计及建造",
-      "kind": "forecast",
-      "reference_no": "",
-      "closing_date": "",
-      "closing_text": "",
-      "forecast_date": "2026 Q3",
-      "publish_date": "",
-      "source_url": "https://www.cedd.gov.hk/tc/tender-notices/consultancy-agreements/forecast-of-consultancies/index.html",
-      "document_url": "https://www.cedd.gov.hk/filemanager/eng/content_290/FC_EA_202607_r2.pdf",
-      "source_ids": [
-        "directory_93"
-      ],
-      "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-29T12:21:47+08:00",
-      "status": "招标预报",
-      "outdated": true,
-      "id": "8e4b0fab913e781e06"
-    },
-    {
-      "department": "土木工程拓展署",
-      "title": "长远防治山泥倾泻计划， 新界东及新界西，第一阶段E组 - 勘查研究、设计及建造",
-      "kind": "forecast",
-      "reference_no": "",
-      "closing_date": "",
-      "closing_text": "",
-      "forecast_date": "2026 Q3",
-      "publish_date": "",
-      "source_url": "https://www.cedd.gov.hk/tc/tender-notices/consultancy-agreements/forecast-of-consultancies/index.html",
-      "document_url": "https://www.cedd.gov.hk/filemanager/eng/content_290/FC_EA_202607_r2.pdf",
-      "source_ids": [
-        "directory_93"
-      ],
-      "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-29T12:21:47+08:00",
-      "status": "招标预报",
-      "outdated": true,
-      "id": "a40778416f20637946"
     },
     {
       "department": "土木工程拓展署",
@@ -250,12 +220,12 @@
       "forecast_date": "2026 Q4",
       "publish_date": "",
       "source_url": "https://www.cedd.gov.hk/tc/tender-notices/consultancy-agreements/forecast-of-consultancies/index.html",
-      "document_url": "https://www.cedd.gov.hk/filemanager/eng/content_290/FC_EA_202607_r2.pdf",
+      "document_url": "https://www.cedd.gov.hk/filemanager/eng/content_290/FC_EA_202610_r1.pdf",
       "source_ids": [
         "directory_93"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "status": "招标预报",
       "id": "218186056623ca52f4"
     },
@@ -269,59 +239,71 @@
       "forecast_date": "2026 Q4",
       "publish_date": "",
       "source_url": "https://www.cedd.gov.hk/tc/tender-notices/consultancy-agreements/forecast-of-consultancies/index.html",
-      "document_url": "https://www.cedd.gov.hk/filemanager/eng/content_290/FC_EA_202607_r2.pdf",
+      "document_url": "https://www.cedd.gov.hk/filemanager/eng/content_290/FC_EA_202610_r1.pdf",
       "source_ids": [
         "directory_93"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "status": "招标预报",
       "id": "0a70faa09e0f1ef56c"
     },
     {
       "department": "土木工程拓展署",
-      "title": "长远防治山泥倾泻计划， 香港岛及九龙，第一阶段C组 - 勘查研究、设计及建造",
+      "title": "长远防治山泥倾泻计划，人造斜坡及天然山坡的筛选及岩土评估，第一期 - 勘查研究",
       "kind": "forecast",
       "reference_no": "",
       "closing_date": "",
       "closing_text": "",
-      "forecast_date": "2026 Q3",
+      "forecast_date": "2027 Q1",
       "publish_date": "",
       "source_url": "https://www.cedd.gov.hk/tc/tender-notices/consultancy-agreements/forecast-of-consultancies/index.html",
-      "document_url": "https://www.cedd.gov.hk/filemanager/eng/content_290/FC_EA_202607_r2.pdf",
-      "source_ids": [
-        "directory_93"
-      ],
-      "review_note": "原预报时间已过；需核实是否已招标、延期或取消",
-      "verified_at": "2026-10-29T12:21:47+08:00",
-      "status": "招标预报",
-      "outdated": true,
-      "id": "1612c7dbd7f6915355"
-    },
-    {
-      "department": "土木工程拓展署",
-      "title": "优化港岛北维多利亚港海滨 – 设计及建造",
-      "kind": "forecast",
-      "reference_no": "CE 43/2026 (CE)",
-      "closing_date": "",
-      "closing_text": "",
-      "forecast_date": "2026 Q4",
-      "publish_date": "",
-      "source_url": "https://www.cedd.gov.hk/tc/tender-notices/consultancy-agreements/forecast-of-consultancies/index.html",
-      "document_url": "https://www.cedd.gov.hk/filemanager/eng/content_290/FC_EA_202607_r2.pdf",
+      "document_url": "https://www.cedd.gov.hk/filemanager/eng/content_290/FC_EA_202610_r1.pdf",
       "source_ids": [
         "directory_93"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
       "status": "招标预报",
-      "title_zh": "优化港岛北维多利亚港海滨 – 设计及建造",
-      "title_aliases": [
-        "优化港岛北维多利亚港海滨 – 设计及建造",
-        "Enhancement of Victoria Harbour Waterfront on Hong Kong Island North – Design and Construction"
+      "id": "4fcdbcc7fa245a1818"
+    },
+    {
+      "department": "土木工程拓展署",
+      "title": "长远防治山泥倾泻计划，新界西，第一阶段D组 - 勘查研究、设计及建造",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027 Q1",
+      "publish_date": "",
+      "source_url": "https://www.cedd.gov.hk/tc/tender-notices/consultancy-agreements/forecast-of-consultancies/index.html",
+      "document_url": "https://www.cedd.gov.hk/filemanager/eng/content_290/FC_EA_202610_r1.pdf",
+      "source_ids": [
+        "directory_93"
       ],
-      "identity_evidence_url": "https://www.cedd.gov.hk/eng/tender-notices/consultancy-agreements/invitation-for-technical-and-fee-proposals/index-id-1372.html",
-      "id": "29234eabc8933fd27c"
+      "review_note": "",
+      "verified_at": "2026-10-30T12:21:51+08:00",
+      "status": "招标预报",
+      "id": "576a764582e671ee1f"
+    },
+    {
+      "department": "土木工程拓展署",
+      "title": "长远防治山泥倾泻计划，香港岛及新界东，第一阶段C组 - 勘查研究、设计及建造",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027 Q1",
+      "publish_date": "",
+      "source_url": "https://www.cedd.gov.hk/tc/tender-notices/consultancy-agreements/forecast-of-consultancies/index.html",
+      "document_url": "https://www.cedd.gov.hk/filemanager/eng/content_290/FC_EA_202610_r1.pdf",
+      "source_ids": [
+        "directory_93"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-30T12:21:51+08:00",
+      "status": "招标预报",
+      "id": "b140702f6e4faf3f81"
     }
   ]
 }

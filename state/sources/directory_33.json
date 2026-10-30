@@ -1,13 +1,13 @@
 {
-  "checked_at": "2026-10-29T12:21:47+08:00",
+  "checked_at": "2026-10-30T12:21:51+08:00",
   "items": [
     {
       "department": "社会福利署",
       "title": "为社会福利署屯门儿童及青少年院院童提供餐饮服务",
       "kind": "tender",
       "reference_no": "SWDT062026",
-      "closing_date": "2026-11-27",
-      "closing_text": "2026年11月27日（星期五）正午12时（香港时间）",
+      "closing_date": "2026-11-05",
+      "closing_text": "2026年11月5日正午12时（香港时间）",
       "forecast_date": "",
       "publish_date": "",
       "source_url": "https://www.swd.gov.hk/tc/whatsnew/tenderinfo/tendernotice/",
@@ -16,8 +16,8 @@
         "directory_33"
       ],
       "review_note": "",
-      "verified_at": "2026-10-29T12:21:47+08:00",
-      "closing_at": "2026-11-27T12:00:00+08:00",
+      "verified_at": "2026-10-30T12:21:51+08:00",
+      "closing_at": "2026-11-05T12:00:00+08:00",
       "status": "正在招标",
       "id": "893a2b0fd249ac2871"
     }
