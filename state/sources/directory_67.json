@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-30T12:21:51+08:00",
+  "checked_at": "2026-10-31T12:00:42+08:00",
   "items": [
     {
       "department": "教育局",
@@ -16,7 +16,7 @@
         "directory_67"
       ],
       "review_note": "",
-      "verified_at": "2026-10-30T12:21:51+08:00",
+      "verified_at": "2026-10-31T12:00:42+08:00",
       "document_verified": true,
       "status": "状态待核实",
       "title_aliases": [
@@ -45,7 +45,7 @@
         "directory_67"
       ],
       "review_note": "",
-      "verified_at": "2026-10-30T12:21:51+08:00",
+      "verified_at": "2026-10-31T12:00:42+08:00",
       "document_verified": true,
       "status": "状态待核实",
       "title_aliases": [
@@ -74,7 +74,7 @@
         "directory_67"
       ],
       "review_note": "",
-      "verified_at": "2026-10-30T12:21:51+08:00",
+      "verified_at": "2026-10-31T12:00:42+08:00",
       "document_verified": true,
       "status": "状态待核实",
       "title_aliases": [
@@ -103,7 +103,7 @@
         "directory_67"
       ],
       "review_note": "",
-      "verified_at": "2026-10-30T12:21:51+08:00",
+      "verified_at": "2026-10-31T12:00:42+08:00",
       "document_verified": true,
       "closing_at": "2026-10-23T12:00:00+08:00",
       "status": "已截标",
@@ -132,7 +132,7 @@
         "directory_67"
       ],
       "review_note": "",
-      "verified_at": "2026-10-30T12:21:51+08:00",
+      "verified_at": "2026-10-31T12:00:42+08:00",
       "document_verified": true,
       "closing_at": "2026-11-06T12:00:00+08:00",
       "status": "正在招标",
@@ -161,7 +161,7 @@
         "directory_67"
       ],
       "review_note": "",
-      "verified_at": "2026-10-30T12:21:51+08:00",
+      "verified_at": "2026-10-31T12:00:42+08:00",
       "document_verified": true,
       "closing_at": "2026-11-20T12:00:00+08:00",
       "status": "正在招标",

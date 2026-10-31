@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T12:21:51+08:00",
+  "updated_at": "2026-10-31T12:00:42+08:00",
   "departments": [
     {
       "department": "保安局",
@@ -166,7 +166,7 @@
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 3
+        "exclude": 2
       },
       "unresolved_sources": []
     },
@@ -185,7 +185,7 @@
       "related_open": 0,
       "related_forecast": 1,
       "scope_counts": {
-        "exclude": 12,
+        "exclude": 11,
         "include": 1,
         "review": 1
       },
@@ -221,7 +221,7 @@
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 26,
+        "exclude": 25,
         "review": 1
       },
       "unresolved_sources": []
@@ -234,7 +234,7 @@
       "tender_sources": 1,
       "forecast_sources": 1,
       "source_status": {
-        "parsed": 1,
+        "documents": 1,
         "unparsed": 1
       },
       "open": 0,
@@ -244,6 +244,11 @@
         "review": 1
       },
       "unresolved_sources": [
+        {
+          "id": "directory_65",
+          "url": "https://www.devb.gov.hk/tc/tender_notices/index.html",
+          "status": "documents"
+        },
         {
           "id": "directory_90",
           "url": "https://www.devb.gov.hk/tc/tender_notices/Tender_Notice_on_Construction_Sector_Matters/forecast_of_consultancies_and_tenders/index.html",
@@ -265,10 +270,10 @@
       },
       "open": 1,
       "related_open": 1,
-      "related_forecast": 3,
+      "related_forecast": 2,
       "scope_counts": {
         "exclude": 4,
-        "include": 5,
+        "include": 4,
         "review": 1
       },
       "unresolved_sources": [
@@ -318,13 +323,13 @@
         "parsed": 4,
         "empty": 1
       },
-      "open": 9,
+      "open": 10,
       "related_open": 3,
       "related_forecast": 1,
       "scope_counts": {
-        "exclude": 35,
+        "exclude": 34,
         "include": 4,
-        "review": 3
+        "review": 4
       },
       "unresolved_sources": []
     },
@@ -342,7 +347,7 @@
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 5,
+        "exclude": 2,
         "review": 1
       },
       "unresolved_sources": []
@@ -870,10 +875,10 @@
       },
       "open": 2,
       "related_open": 2,
-      "related_forecast": 2,
+      "related_forecast": 0,
       "scope_counts": {
         "exclude": 1,
-        "include": 4
+        "include": 2
       },
       "unresolved_sources": [
         {
@@ -930,13 +935,13 @@
       "source_status": {
         "parsed": 3
       },
-      "open": 9,
-      "related_open": 6,
-      "related_forecast": 11,
+      "open": 11,
+      "related_open": 7,
+      "related_forecast": 10,
       "scope_counts": {
         "exclude": 76,
         "include": 22,
-        "review": 26
+        "review": 27
       },
       "unresolved_sources": []
     },
@@ -1026,7 +1031,7 @@
       "related_open": 1,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 33,
+        "exclude": 31,
         "review": 2,
         "include": 1
       },
@@ -1437,7 +1442,7 @@
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 2
+        "exclude": 1
       },
       "unresolved_sources": [
         {
@@ -1505,7 +1510,7 @@
       "related_open": 3,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 25,
+        "exclude": 21,
         "include": 3
       },
       "unresolved_sources": []

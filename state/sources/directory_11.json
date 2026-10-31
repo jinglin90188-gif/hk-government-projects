@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-30T12:21:51+08:00",
+  "checked_at": "2026-10-31T12:00:42+08:00",
   "items": [
     {
       "department": "土木工程拓展署",
@@ -16,7 +16,7 @@
         "directory_11"
       ],
       "review_note": "",
-      "verified_at": "2026-10-30T12:21:51+08:00",
+      "verified_at": "2026-10-31T12:00:42+08:00",
       "closing_at": "2026-11-18T12:00:00+08:00",
       "status": "正在招标",
       "id": "9b0ab032cb66e91b2e"
@@ -36,10 +36,30 @@
         "directory_11"
       ],
       "review_note": "",
-      "verified_at": "2026-10-30T12:21:51+08:00",
+      "verified_at": "2026-10-31T12:00:42+08:00",
       "closing_at": "2026-12-18T12:00:00+08:00",
       "status": "正在招标",
       "id": "9134834360b79b66b9"
+    },
+    {
+      "department": "土木工程拓展署",
+      "title": "水口教育中心建造工程",
+      "kind": "tender",
+      "reference_no": "IS/2026/01",
+      "closing_date": "2026-12-18",
+      "closing_text": "2026年12月18日, 星期五, 12:00 中午",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.cedd.gov.hk/tc/tender-notices/contracts/tender-notices/index.html",
+      "document_url": "https://www.cedd.gov.hk/tc/tender-notices/contracts/tender-notices/index-id-2443.html",
+      "source_ids": [
+        "directory_11"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-31T12:00:42+08:00",
+      "closing_at": "2026-12-18T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "bfcc809601f4928cc4"
     },
     {
       "department": "土木工程拓展署",
@@ -56,7 +76,7 @@
         "directory_11"
       ],
       "review_note": "",
-      "verified_at": "2026-10-30T12:21:51+08:00",
+      "verified_at": "2026-10-31T12:00:42+08:00",
       "closing_at": "2026-12-04T12:00:00+08:00",
       "status": "正在招标",
       "id": "45b8f12d14fabc1af0"
@@ -76,7 +96,7 @@
         "directory_11"
       ],
       "review_note": "",
-      "verified_at": "2026-10-30T12:21:51+08:00",
+      "verified_at": "2026-10-31T12:00:42+08:00",
       "closing_at": "2026-11-20T12:00:00+08:00",
       "status": "正在招标",
       "id": "b2f2e8b6a786bfdc63"

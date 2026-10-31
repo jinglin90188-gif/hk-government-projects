@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-10-30T12:21:51+08:00",
+  "checked_at": "2026-10-31T12:00:42+08:00",
   "items": [
     {
       "department": "机电工程署",
@@ -16,7 +16,7 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-10-30T12:21:51+08:00",
+      "verified_at": "2026-10-31T12:00:42+08:00",
       "closing_at": "2026-11-06T12:00:00+08:00",
       "status": "正在招标",
       "id": "26fdced72a9acc0c6a"
@@ -36,7 +36,7 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-10-30T12:21:51+08:00",
+      "verified_at": "2026-10-31T12:00:42+08:00",
       "closing_at": "2026-11-06T12:00:00+08:00",
       "status": "正在招标",
       "id": "372e6495024dc7ecd9"
@@ -56,10 +56,30 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-10-30T12:21:51+08:00",
+      "verified_at": "2026-10-31T12:00:42+08:00",
       "closing_at": "2026-12-04T12:00:00+08:00",
       "status": "正在招标",
       "id": "8f60c7703321cb90af"
+    },
+    {
+      "department": "机电工程署",
+      "title": "为深圳湾口岸扩建货车用的车辆自动清关支援系统",
+      "kind": "tender",
+      "reference_no": "2143EM25W",
+      "closing_date": "2026-12-11",
+      "closing_text": "/时间 2026年12月11日星期五中午12时递交投标书地点投标者必须在一式两份封密的投标表格信封面注明招标编号、投标项目(但不得有任何记认，使人认出投标者的身分)及「工务投标委员会主席收」。投标者必须把投标书放入香港金",
+      "forecast_date": "",
+      "publish_date": "2026-10-29",
+      "source_url": "https://www.emsd.gov.hk/tc/tenders_contracts_and_consultancies/tender_notices/tender_notices/index_id_6593.html",
+      "document_url": "",
+      "source_ids": [
+        "emsd_rss"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-31T12:00:42+08:00",
+      "closing_at": "2026-12-11T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "cce868d123e45cdec8"
     },
     {
       "department": "机电工程署",
@@ -76,7 +96,7 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-10-30T12:21:51+08:00",
+      "verified_at": "2026-10-31T12:00:42+08:00",
       "closing_at": "2027-01-08T12:00:00+08:00",
       "status": "正在招标",
       "id": "021c54a905602d9199"
@@ -96,7 +116,7 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-10-30T12:21:51+08:00",
+      "verified_at": "2026-10-31T12:00:42+08:00",
       "closing_at": "2026-12-15T12:00:00+08:00",
       "status": "正在招标",
       "id": "852edda54570d364f5"
@@ -116,7 +136,7 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-10-30T12:21:51+08:00",
+      "verified_at": "2026-10-31T12:00:42+08:00",
       "closing_at": "2026-11-12T12:00:00+08:00",
       "status": "正在招标",
       "id": "bb9f4570f199ed2487"
@@ -136,7 +156,7 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-10-30T12:21:51+08:00",
+      "verified_at": "2026-10-31T12:00:42+08:00",
       "closing_at": "2026-12-15T12:00:00+08:00",
       "status": "正在招标",
       "id": "8f4b23acce51f18a82"

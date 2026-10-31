@@ -1,0 +1,457 @@
+{
+  "date": "2026-10-31",
+  "last_run_at": "2026-10-31T12:00:42+08:00",
+  "new": [
+    {
+      "department": "土木工程拓展署",
+      "title": "水口教育中心建造工程",
+      "kind": "tender",
+      "reference_no": "IS/2026/01",
+      "closing_date": "2026-12-18",
+      "closing_text": "2026年12月18日, 星期五, 12:00 中午",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.cedd.gov.hk/tc/tender-notices/contracts/tender-notices/index.html",
+      "document_url": "https://www.cedd.gov.hk/tc/tender-notices/contracts/tender-notices/index-id-2443.html",
+      "source_ids": [
+        "directory_11"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-31T12:00:42+08:00",
+      "closing_at": "2026-12-18T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "bfcc809601f4928cc4",
+      "first_seen_at": "2026-10-31T12:00:42+08:00",
+      "change": "new",
+      "last_changed_at": "2026-10-31T12:00:42+08:00",
+      "company_fit": {
+        "decision": "review",
+        "categories": [],
+        "evidence": [],
+        "reason": "标题不足以确认业务范围，需阅读项目文件；不是判定为无关",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "机电工程署",
+      "title": "Triennial Term Contract for Operation and Maintenance of Air-conditioning Installations in Various Venues of the Government of the Hong Kong Special Administrative Region Maintained by Kowloon Maintenance Sub-division of General Engineering Services Division",
+      "kind": "tender",
+      "reference_no": "1804EM26T",
+      "closing_date": "2026-12-11",
+      "closing_text": "11.12.2026",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.emsd.gov.hk/en/tenders_contracts_and_consultancies/tender_notices/tender_notices/index_id_6602.html",
+      "document_url": "",
+      "source_ids": [
+        "directory_13"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-31T12:00:42+08:00",
+      "status": "正在招标",
+      "id": "76cc1d0664306c15ff",
+      "first_seen_at": "2026-10-31T12:00:42+08:00",
+      "change": "new",
+      "last_changed_at": "2026-10-31T12:00:42+08:00",
+      "company_fit": {
+        "decision": "review",
+        "categories": [],
+        "evidence": [],
+        "reason": "标题不足以确认业务范围，需阅读项目文件；不是判定为无关",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    }
+  ],
+  "updated": [
+    {
+      "department": "土木工程拓展署",
+      "title": "续订和提供建筑信息建模软件订购",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年10月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-31T12:00:42+08:00",
+      "notes": "2028年2月至2029年2月",
+      "status": "招标预报",
+      "id": "595f938b6b433bdb07",
+      "first_seen_at": "2026-10-26T13:00:02+08:00",
+      "change": "updated",
+      "last_changed_at": "2026-10-31T12:00:42+08:00",
+      "company_fit": {
+        "decision": "include",
+        "categories": [
+          "软件、平台及数字政府"
+        ],
+        "evidence": [
+          "软件"
+        ],
+        "reason": "采购标题明确涉及软件、平台及数字政府",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "在职家庭及学生资助事务处",
+      "title": "为在职家庭及学生资助事务处提供临时人力资源服务（计划行政助理）",
+      "kind": "tender",
+      "reference_no": "T001/26-27",
+      "closing_date": "2026-11-23",
+      "closing_text": "2026-11-23 12:00:00",
+      "forecast_date": "",
+      "publish_date": "2026-10-30",
+      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=T001/26-27",
+      "document_url": "https://www.wfsfaa.gov.hk/tc/about/tender/Website Tender Notice (Tender Ref. T001_26-27_SAA)_tc.pdf",
+      "source_ids": [
+        "directory_36",
+        "etb_xml"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-31T12:00:42+08:00",
+      "notes": "请参阅招标文件",
+      "closing_at": "2026-11-23T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "09721b67742425b8f5",
+      "title_aliases": [
+        "为在职家庭及学生资助事务处提供临时人力资源服务（计划行政助理）"
+      ],
+      "title_zh": "为在职家庭及学生资助事务处提供临时人力资源服务（计划行政助理）",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "first_seen_at": "2026-10-26T13:00:02+08:00",
+      "change": "updated",
+      "last_changed_at": "2026-10-31T12:00:42+08:00",
+      "company_fit": {
+        "decision": "review",
+        "categories": [],
+        "evidence": [],
+        "reason": "标题不足以确认业务范围，需阅读项目文件；不是判定为无关",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "机电工程署",
+      "title": "为机电工程营运基金供应轻型救护车",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年4月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_GLD-zh-hk.json",
+      "source_ids": [
+        "gld_central_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-31T12:00:42+08:00",
+      "notes": "紧急救护服务",
+      "status": "招标预报",
+      "id": "ba8093cf5a07195466",
+      "first_seen_at": "2026-10-26T13:00:02+08:00",
+      "change": "updated",
+      "last_changed_at": "2026-10-31T12:00:42+08:00",
+      "company_fit": {
+        "decision": "exclude",
+        "categories": [],
+        "evidence": [],
+        "reason": "采购内容属于一般服务及传统机电工程，未见相关数字化范围",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "机电工程署",
+      "title": "为机电工程营运基金供应非紧急救护运送服务救护车",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年4月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_GLD-zh-hk.json",
+      "source_ids": [
+        "gld_central_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-31T12:00:42+08:00",
+      "notes": "非紧急救护服务",
+      "status": "招标预报",
+      "id": "616f803cbecf12295e",
+      "first_seen_at": "2026-10-26T13:00:02+08:00",
+      "change": "updated",
+      "last_changed_at": "2026-10-31T12:00:42+08:00",
+      "company_fit": {
+        "decision": "exclude",
+        "categories": [],
+        "evidence": [],
+        "reason": "采购内容属于一般服务及传统机电工程，未见相关数字化范围",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "机电工程署",
+      "title": "Expansion of the Automatic Vehicle Clearance Support System for Goods Vehicles at Shenzhen Bay Control Point",
+      "kind": "tender",
+      "reference_no": "2143EM25W",
+      "closing_date": "2026-12-11",
+      "closing_text": "11.12.2026",
+      "forecast_date": "2026 Q4",
+      "publish_date": "2026-10-29",
+      "source_url": "https://www.emsd.gov.hk/en/tenders_contracts_and_consultancies/tender_notices/tender_notices/index_id_6593.html",
+      "document_url": "https://www.emsd.gov.hk/filemanager/en/content_402/Forecast_Invitations_to_Works_Tender.pdf",
+      "source_ids": [
+        "directory_102",
+        "directory_13",
+        "emsd_rss"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-31T12:00:42+08:00",
+      "status": "正在招标",
+      "title_aliases": [
+        "Expansion of the Automatic Vehicle Clearance Support System for Goods Vehicles at Shenzhen Bay Control Point",
+        "为深圳湾口岸扩建货车用的车辆自动清关支援系统",
+        "在深圳湾口岸供应及安装车辆自动清关支援系统"
+      ],
+      "closing_at": "2026-12-11T12:00:00+08:00",
+      "title_zh": "为深圳湾口岸扩建货车用的车辆自动清关支援系统",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "notes": "",
+      "id": "cce868d123e45cdec8",
+      "previous_forecast_date": "2026 Q4",
+      "stage_note": "已找到正式邀请公告，旧预报合并至此，不再作为独立预报展示",
+      "first_seen_at": "2026-10-26T13:00:02+08:00",
+      "change": "updated",
+      "last_changed_at": "2026-10-31T12:00:42+08:00",
+      "company_fit": {
+        "decision": "include",
+        "categories": [
+          "智慧交通及口岸系统"
+        ],
+        "evidence": [
+          "Vehicle Clearance Support System"
+        ],
+        "reason": "正在招标，明确涉及智慧交通及口岸系统",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "水务署",
+      "title": "为水务署供应液相色谱串联质谱仪",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年3月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_GLD-zh-hk.json",
+      "source_ids": [
+        "gld_central_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-31T12:00:42+08:00",
+      "notes": "辨认原水中非挥发性的新兴污染物及为现有的分析方法作技术转移",
+      "status": "招标预报",
+      "id": "fa526c8034a4f3cb37",
+      "first_seen_at": "2026-10-26T13:00:02+08:00",
+      "change": "updated",
+      "last_changed_at": "2026-10-31T12:00:42+08:00",
+      "company_fit": {
+        "decision": "exclude",
+        "categories": [],
+        "evidence": [],
+        "reason": "采购内容属于一般服务及传统机电工程，未见相关数字化范围",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "环境保护署",
+      "title": "提供厨余浆液收集服务",
+      "kind": "tender",
+      "reference_no": "FRR26001",
+      "closing_date": "2026-11-17",
+      "closing_text": "2026-11-17 12:00:00",
+      "forecast_date": "",
+      "publish_date": "2026-09-25",
+      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=FRR26001",
+      "document_url": "https://www.epd.gov.hk/epd/sites/default/files/epd/tc_chi/business_job/business_opp/files/FRR26001_chi.pdf",
+      "source_ids": [
+        "directory_22",
+        "etb_xml"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-31T12:00:42+08:00",
+      "notes": "请参阅招标文件",
+      "closing_at": "2026-11-17T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "dc5d5de79dbd7c58eb",
+      "title_aliases": [
+        "提供厨余浆液收集服务",
+        "提供厨余浆液收集服务招标简介会文件 (发出日期: 2026年10月8日) (只提供英文版本) 招标文件增编一 (发出日期: 2026年10月28日) (只提供英文版本) 回应有关招标文件的第一轮提问 (发出日期: 2026年10月28日) (只提供英文版本)"
+      ],
+      "title_zh": "提供厨余浆液收集服务",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "first_seen_at": "2026-10-26T13:00:02+08:00",
+      "change": "updated",
+      "last_changed_at": "2026-10-31T12:00:42+08:00",
+      "company_fit": {
+        "decision": "exclude",
+        "categories": [],
+        "evidence": [],
+        "reason": "采购内容属于非技术服务及一般建设，未见相关数字化范围",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "环境保护署",
+      "title": "为废电器电子产品处理及回收设施提供收集及营运服务招标简介会文件 (发出日期: 2026年9月10日) (只提供英文版本) 回应有关招标文件的第一轮提问 (发出日期: 2026年9月21日) (只提供英文版本) 回应有关招标文件的第二轮提问 (发出日期: 2026年9月30日) (只提供英文版本) 回应有关招标文件的第三轮提问 (发出日期: 2026年10月30日) (只提供英文版本) 招标文件增编一 (发出日期: 2026年10月2日) (只提供英文版本) 招标文件增编二 (发出日期: 2026年10月23日) (只提供英文版本)",
+      "kind": "tender",
+      "reference_no": "WMS25017",
+      "closing_date": "2026-11-20",
+      "closing_text": "2026年11月20日中午12时 (延期自原定日期及时间2026年10月30日中午12时)",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.epd.gov.hk/epd/tc_chi/business_job/business_opp/tender.html",
+      "document_url": "https://www.epd.gov.hk/epd/sites/default/files/epd/tc_chi/business_job/business_opp/files/WMS25017_chi.pdf",
+      "source_ids": [
+        "directory_22"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-31T12:00:42+08:00",
+      "closing_at": "2026-11-20T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "cba1bb366681486a58",
+      "first_seen_at": "2026-10-26T13:00:02+08:00",
+      "change": "updated",
+      "last_changed_at": "2026-10-31T12:00:42+08:00",
+      "company_fit": {
+        "decision": "include",
+        "categories": [],
+        "evidence": [
+          "电子"
+        ],
+        "reason": "正在招标，涉及相邻业务（电子），保留以核对可参与部分",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "规划署",
+      "title": "服务范畴是为规划署使用中的地理资讯系统软件提供保养服务，包括软件更新、错误纠正及提供技术支援服务",
+      "kind": "forecast",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "2027年10月",
+      "publish_date": "",
+      "source_url": "https://www.gld.gov.hk/zh-hk/our-services/procurement/forecast-purchase/",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-31T12:00:42+08:00",
+      "notes": "2028年1月至2028年12月",
+      "status": "招标预报",
+      "id": "a34d727a6c92b8b0a4",
+      "first_seen_at": "2026-10-26T13:00:02+08:00",
+      "change": "updated",
+      "last_changed_at": "2026-10-31T12:00:42+08:00",
+      "company_fit": {
+        "decision": "include",
+        "categories": [
+          "软件、平台及数字政府",
+          "GIS、数字孪生及工程数字化"
+        ],
+        "evidence": [
+          "资讯系统",
+          "地理资讯"
+        ],
+        "reason": "采购标题明确涉及软件、平台及数字政府、GIS、数字孪生及工程数字化",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "香港警务处",
+      "title": "为大埔警署、上水警署及大埔区少年警讯会所提供清洁及支援服务",
+      "kind": "tender",
+      "reference_no": "TPDIST CS 2026",
+      "closing_date": "2026-11-13",
+      "closing_text": "2026-11-13 12:00:00",
+      "forecast_date": "",
+      "publish_date": "2026-10-02",
+      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=TPDIST CS 2026",
+      "document_url": "",
+      "source_ids": [
+        "directory_38",
+        "etb_xml"
+      ],
+      "review_note": "",
+      "verified_at": "2026-10-31T12:00:42+08:00",
+      "notes": "请参阅招标文件",
+      "closing_at": "2026-11-13T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "fb3c2ad391ad1164eb",
+      "title_aliases": [
+        "为大埔警署、上水警署及大埔区少年警讯会所提供清洁及支援服务"
+      ],
+      "title_zh": "为大埔警署、上水警署及大埔区少年警讯会所提供清洁及支援服务",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "first_seen_at": "2026-10-26T13:00:02+08:00",
+      "change": "updated",
+      "last_changed_at": "2026-10-31T12:00:42+08:00",
+      "company_fit": {
+        "decision": "exclude",
+        "categories": [],
+        "evidence": [],
+        "reason": "采购内容属于非技术服务及一般建设，未见相关数字化范围",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    }
+  ],
+  "no_longer_seen_ids": [
+    "1476293384fab4c453",
+    "3a1ad6fd6070433ca7",
+    "4a95e402d160605944",
+    "5b7dfc96760a71859d",
+    "764d8070c9aa9171c3",
+    "769e1c91b33f5a01ed",
+    "816715207171177d7b",
+    "8668e4e43d22687260",
+    "a6ad0f4de2e9127406",
+    "ae0867d113b0a7e3d2",
+    "af0e28b07c5552f979",
+    "b0c2e2c301b0a83c06",
+    "dc5ce8bfcf1b98833c",
+    "e073657083ae439a51",
+    "e2b5d4e7bcacbf8d89",
+    "e76b1cd475449f9f18",
+    "ff57da6b22bf38d586"
+  ],
+  "note": "未再见到不等于取消或批出；需核实官方公告。"
+}
