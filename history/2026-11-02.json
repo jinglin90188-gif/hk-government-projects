@@ -1,0 +1,87 @@
+{
+  "date": "2026-11-02",
+  "last_run_at": "2026-11-02T08:37:11+08:00",
+  "new": [
+    {
+      "department": "康乐及文化事务署",
+      "title": "招标承投于湖山游乐场单车及三轮车租赁业务许可证",
+      "kind": "tender",
+      "reference_no": "LC/LS/T/BK/TM/WSRP/2026",
+      "closing_date": "2026-11-30",
+      "closing_text": "2026-11-30 12:00:00",
+      "forecast_date": "",
+      "publish_date": "2026-11-02",
+      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=LC/LS/T/BK/TM/WSRP/2026",
+      "document_url": "",
+      "source_ids": [
+        "directory_32",
+        "etb_xml"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-02T08:37:11+08:00",
+      "notes": "请参阅招标文件",
+      "closing_at": "2026-11-30T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "39621ceec040dfb46c",
+      "title_aliases": [
+        "招标承投于湖山游乐场单车及三轮车租赁业务许可证"
+      ],
+      "title_zh": "招标承投于湖山游乐场单车及三轮车租赁业务许可证",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "first_seen_at": "2026-11-02T08:37:11+08:00",
+      "change": "new",
+      "last_changed_at": "2026-11-02T08:37:11+08:00",
+      "company_fit": {
+        "decision": "review",
+        "categories": [],
+        "evidence": [],
+        "reason": "标题不足以确认业务范围，需阅读项目文件；不是判定为无关",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "规划署",
+      "title": "为规划署的地理资讯系统软件提供保养服务",
+      "kind": "tender",
+      "reference_no": "PLNT3/2026",
+      "closing_date": "2026-11-23",
+      "closing_text": "2026-11-23 12:00:00",
+      "forecast_date": "",
+      "publish_date": "2026-11-02",
+      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=PLNT3/2026",
+      "document_url": "",
+      "source_ids": [
+        "etb_xml"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-02T08:37:11+08:00",
+      "notes": "请参阅招标文件",
+      "closing_at": "2026-11-23T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "a9bb432626d1677d04",
+      "first_seen_at": "2026-11-02T08:37:11+08:00",
+      "change": "new",
+      "last_changed_at": "2026-11-02T08:37:11+08:00",
+      "company_fit": {
+        "decision": "include",
+        "categories": [
+          "软件、平台及数字政府",
+          "GIS、数字孪生及工程数字化"
+        ],
+        "evidence": [
+          "资讯系统",
+          "地理资讯"
+        ],
+        "reason": "正在招标，明确涉及软件、平台及数字政府、GIS、数字孪生及工程数字化",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    }
+  ],
+  "updated": [],
+  "no_longer_seen_ids": [],
+  "note": "未再见到不等于取消或批出；需核实官方公告。"
+}
