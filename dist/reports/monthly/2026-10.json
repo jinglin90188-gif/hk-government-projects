@@ -1,0 +1,102 @@
+{
+  "kind": "monthly",
+  "period": "2026-10",
+  "period_start": "2026-10-01",
+  "period_end_exclusive": "2026-11-01",
+  "included_report_dates": [
+    "2026-10-26"
+  ],
+  "coverage_note": "仅汇总已留存且核查日期落在本期的重点项目快照，以及发布日期落在本期的新闻；不代表全市场或完整自然期覆盖。当前仓库10月仅留存2026-10-26一份周报，故本汇总覆盖10月19日至25日新闻及10月26日项目状态核查；跨期新闻按发布日期归属。",
+  "distinct_tracked_projects": 3,
+  "projects": [
+    {
+      "department": "数字政策办公室",
+      "reference_no": "DPO-055-074-003-022",
+      "title": "数据备份系统硬件及相关服务",
+      "snapshots": [
+        {
+          "as_of": "2026-10-26",
+          "reference_no": "DPO-055-074-003-022",
+          "department": "数字政策办公室",
+          "title": "数据备份系统硬件及相关服务",
+          "status": "正在招标",
+          "closing_at": "2026-11-10T12:00:00+08:00",
+          "facts": "公开招标，项目H01为2件，须于发出订单起14星期内可供使用。金额未在所核公告中披露。",
+          "relevance": "直接涉及备份基础设施硬件及相关服务，与公司云、存储和系统集成业务相关。",
+          "boundary": "不是新建完整数据中心；具体型号、原厂授权、业绩及服务范围仍须以招标文件为准。",
+          "change_note": "本期复核仍在招标，不列作本周新标。",
+          "source_url": "https://www.digitalpolicy.gov.hk/sc/our_work/digital_infrastructure/business_window/tender_eoi_rfp/tender_dpo-055-074-003-022.html"
+        }
+      ]
+    },
+    {
+      "department": "数字政策办公室",
+      "reference_no": "DPO8566/4/31",
+      "title": "反恶意软件及相关服务",
+      "snapshots": [
+        {
+          "as_of": "2026-10-26",
+          "reference_no": "DPO8566/4/31",
+          "department": "数字政策办公室",
+          "title": "反恶意软件及相关服务",
+          "status": "正在招标",
+          "closing_at": "2026-11-23T12:00:00+08:00",
+          "facts": "公开招标，数量为4800套，须于发出订单起4星期内可供使用。金额未在所核公告中披露。",
+          "relevance": "涉及网络安全软件供货和相关服务，属于公司信息安全及信息系统服务方向。",
+          "boundary": "公告不能证明存在定制软件开发工作；需核对指定产品、授权渠道及支援要求。",
+          "change_note": "本期复核仍在招标，不列作本周新标。",
+          "source_url": "https://www.digitalpolicy.gov.hk/sc/our_work/digital_infrastructure/business_window/tender_eoi_rfp/tender_dpo8566_4_31.html"
+        }
+      ]
+    },
+    {
+      "department": "运输署",
+      "reference_no": "原公告未列独立招标编号",
+      "title": "易通行收费及系统保养服务意向征集",
+      "snapshots": [
+        {
+          "as_of": "2026-10-26",
+          "reference_no": "原公告未列独立招标编号",
+          "department": "运输署",
+          "title": "易通行收费及系统保养服务意向征集",
+          "status": "意向征集 并非正式招标",
+          "closing_at": null,
+          "facts": "运输署就整体易通行收费与保养服务收集市场意见。文件自2026年10月26日中午起可书面申请领取；原文预计未来服务于2029年5月7日开始，为期6年。公开邀请未列明本次回应截止日期。",
+          "relevance": "原公告明确系统采用RFID及自动车牌识别，并涉及整体收费和维护服务，与公司交通系统及系统集成方向相关。",
+          "boundary": "官方明确本次不是招标或正式申请，也不构成合约承诺；不能将6年服务期写成已批出合约。",
+          "change_note": "报告日补充进展：10月26日起可领取意向征集文件。",
+          "source_url": "https://www.td.gov.hk/en/tender_notices/notices_of_inviting_expression_of_interest/index.html",
+          "document_url": "https://www.td.gov.hk/filemanager/en/content_734/EOI%20Invitation%20on%20TD%20website_Eng_clean.pdf"
+        }
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "民安队披露无人机巡逻 山火侦测及应急物资运输试验方向",
+      "published_at": "2026-10-25",
+      "publisher": "香港政府新闻公报",
+      "facts": "民安队在山岭活动安全推广日介绍，将透过低空经济监管沙盒试行无人机巡逻、侦测山火，以及运送山岭装备或急救器材。",
+      "analysis": "可作为无人机、任务调度和应急场景的需求线索；是否另有平台、设备或服务采购，仍需后续公告确认。",
+      "stage": "应用试验线索 非招标公告",
+      "source_url": "https://www.info.gov.hk/gia/general/202610/25/P2026102300501.htm"
+    },
+    {
+      "title": "物流科技博览聚焦AI 智慧供应链及低空经济",
+      "published_at": "2026-10-23",
+      "publisher": "香港生产力促进局",
+      "facts": "生产力局公布物流科技博览将于10月29日在创新中心举行，汇聚超过50家企业，展示智慧物流应用，并设业界交流。",
+      "analysis": "更适合作为物流科技客户及合作伙伴的市场信息，不是政府采购项目，也不能据此推算合同金额。",
+      "stage": "行业活动 非招标公告",
+      "source_url": "https://www.hkpc.org/zh-CN/about-us/media-centre/media-message/2026/logtech-expo-2026"
+    }
+  ],
+  "interpretation_rules": [
+    "跟踪项目数不等于本期新增招标数",
+    "意向征集不计作正式招标或已获批项目",
+    "同一项目跨周重复出现只计一项，但保留状态变化",
+    "没有披露的金额保持未知，不能记0或相加",
+    "历史快照不代表当前仍可投标，需另查最新项目库",
+    "月报按自然月，季报按自然季度，年报按自然年，而非固定四周拼接"
+  ]
+}
