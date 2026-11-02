@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T08:37:11+08:00",
+  "updated_at": "2026-11-02T12:25:01+08:00",
   "departments": [
     {
       "department": "保安局",
@@ -1119,12 +1119,11 @@
       "source_status": {
         "unparsed": 1
       },
-      "open": 5,
-      "related_open": 1,
+      "open": 4,
+      "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 7,
-        "include": 1
+        "exclude": 7
       },
       "unresolved_sources": [
         {
@@ -1273,15 +1272,17 @@
     {
       "department": "规划署",
       "issues": [
-        "存在连接失败、待解析或部分解析来源"
+        "存在连接失败、待解析或部分解析来源",
+        "1项尚未核实截标日期或当前状态"
       ],
       "tender_sources": 1,
       "forecast_sources": 1,
       "source_status": {
-        "unparsed": 2
+        "unparsed": 1,
+        "parsed": 1
       },
-      "open": 1,
-      "related_open": 1,
+      "open": 0,
+      "related_open": 0,
       "related_forecast": 1,
       "scope_counts": {
         "include": 2
@@ -1290,11 +1291,6 @@
         {
           "id": "directory_107",
           "url": "https://www.pland.gov.hk/pland_tc/consultancies_and_tender/p_study/index.html",
-          "status": "unparsed"
-        },
-        {
-          "id": "directory_19",
-          "url": "https://www.pland.gov.hk/pland_tc/consultancies_and_tender/tender_notice/index.html",
           "status": "unparsed"
         }
       ]
@@ -1481,12 +1477,11 @@
       "source_status": {
         "failed": 1
       },
-      "open": 1,
-      "related_open": 1,
+      "open": 0,
+      "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 3,
-        "include": 1
+        "exclude": 3
       },
       "unresolved_sources": [
         {
@@ -1499,14 +1494,15 @@
     {
       "department": "香港警务处",
       "issues": [
-        "未登记独立预报入口，仅能依赖中央采购预报覆盖"
+        "未登记独立预报入口，仅能依赖中央采购预报覆盖",
+        "1项尚未核实截标日期或当前状态"
       ],
       "tender_sources": 1,
       "forecast_sources": 0,
       "source_status": {
         "parsed": 1
       },
-      "open": 8,
+      "open": 7,
       "related_open": 3,
       "related_forecast": 0,
       "scope_counts": {
