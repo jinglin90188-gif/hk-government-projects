@@ -1,13 +1,13 @@
 {
-  "checked_at": "2026-11-02T12:25:01+08:00",
+  "checked_at": "2026-11-03T13:21:09+08:00",
   "items": [
     {
       "department": "民政事务总署",
-      "title": "为西贡将军澳政府综合大楼提供保安及大厦管理服务",
+      "title": "为井财街政府服务大楼提供综合管理服务",
       "kind": "tender",
-      "reference_no": "HAD/SKDO/T01/2026",
-      "closing_date": "2026-11-09",
-      "closing_text": "2026年11月9日（星期一）中午12时",
+      "reference_no": "HADT012026",
+      "closing_date": "2026-11-24",
+      "closing_text": "2026年11月24日中午12时(香港时间)",
       "forecast_date": "",
       "publish_date": "",
       "source_url": "https://www.had.gov.hk/tc/other_information/tender_notices/general.htm",
@@ -16,10 +16,10 @@
         "directory_30"
       ],
       "review_note": "",
-      "verified_at": "2026-11-02T12:25:01+08:00",
-      "closing_at": "2026-11-09T12:00:00+08:00",
+      "verified_at": "2026-11-03T13:21:09+08:00",
+      "closing_at": "2026-11-24T12:00:00+08:00",
       "status": "正在招标",
-      "id": "d03fb1a3dc5c4c0fc2"
+      "id": "5639a2b922fbe21cae"
     }
   ]
 }

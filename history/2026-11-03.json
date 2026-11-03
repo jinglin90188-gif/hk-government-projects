@@ -1,0 +1,213 @@
+{
+  "date": "2026-11-03",
+  "last_run_at": "2026-11-03T13:21:09+08:00",
+  "new": [
+    {
+      "department": "库务署",
+      "title": "批出为公众提供在香港便利店缴付政府帐单的服务的合约",
+      "kind": "tender",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://egazette.gld.gov.hk/pdf?type=cgn&year=2026&volume=30&gno=35&notice_no=5455&extra=0",
+      "document_url": "",
+      "source_ids": [
+        "directory_52"
+      ],
+      "review_note": "需从原公告核实截标日期",
+      "verified_at": "2026-11-03T13:21:09+08:00",
+      "status": "状态待核实",
+      "id": "1f425065348863678a",
+      "first_seen_at": "2026-11-03T13:21:09+08:00",
+      "change": "new",
+      "last_changed_at": "2026-11-03T13:21:09+08:00",
+      "company_fit": {
+        "decision": "review",
+        "categories": [],
+        "evidence": [],
+        "reason": "标题不足以确认业务范围，需阅读项目文件；不是判定为无关",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "库务署",
+      "title": "批出为库务署提供活动式档案架及相关服务的合约",
+      "kind": "tender",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://egazette.gld.gov.hk/pdf?type=cgn&year=2023&volume=27&gno=13&notice_no=2033&extra=0",
+      "document_url": "",
+      "source_ids": [
+        "directory_52"
+      ],
+      "review_note": "需从原公告核实截标日期",
+      "verified_at": "2026-11-03T13:21:09+08:00",
+      "status": "状态待核实",
+      "id": "659af982e191160f46",
+      "first_seen_at": "2026-11-03T13:21:09+08:00",
+      "change": "new",
+      "last_changed_at": "2026-11-03T13:21:09+08:00",
+      "company_fit": {
+        "decision": "review",
+        "categories": [],
+        "evidence": [],
+        "reason": "标题不足以确认业务范围，需阅读项目文件；不是判定为无关",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "库务署",
+      "title": "批出为库务署提供由入境事务大楼搬迁到库务大楼的服务的合约",
+      "kind": "tender",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://egazette.gld.gov.hk/pdf?type=cgn&year=2023&volume=27&gno=26&notice_no=3977&extra=0",
+      "document_url": "",
+      "source_ids": [
+        "directory_52"
+      ],
+      "review_note": "需从原公告核实截标日期",
+      "verified_at": "2026-11-03T13:21:09+08:00",
+      "status": "状态待核实",
+      "id": "6186d009ada1cc0f2d",
+      "first_seen_at": "2026-11-03T13:21:09+08:00",
+      "change": "new",
+      "last_changed_at": "2026-11-03T13:21:09+08:00",
+      "company_fit": {
+        "decision": "review",
+        "categories": [],
+        "evidence": [],
+        "reason": "标题不足以确认业务范围，需阅读项目文件；不是判定为无关",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "库务署",
+      "title": "批出提供电子缴费服务的合约",
+      "kind": "tender",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.try.gov.hk/cinternet/chtender_ca.html",
+      "document_url": "",
+      "source_ids": [
+        "directory_52"
+      ],
+      "review_note": "需从原公告核实截标日期",
+      "verified_at": "2026-11-03T13:21:09+08:00",
+      "status": "状态待核实",
+      "id": "54d54a2041ff14dfdc",
+      "first_seen_at": "2026-11-03T13:21:09+08:00",
+      "change": "new",
+      "last_changed_at": "2026-11-03T13:21:09+08:00",
+      "company_fit": {
+        "decision": "review",
+        "categories": [],
+        "evidence": [],
+        "reason": "标题不足以确认业务范围，需阅读项目文件；不是判定为无关",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "民政事务总署",
+      "title": "为井财街政府服务大楼提供综合管理服务",
+      "kind": "tender",
+      "reference_no": "HADT012026",
+      "closing_date": "2026-11-24",
+      "closing_text": "2026-11-24 12:00:00",
+      "forecast_date": "",
+      "publish_date": "2026-11-03",
+      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=HADT012026",
+      "document_url": "",
+      "source_ids": [
+        "directory_30",
+        "etb_xml"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-03T13:21:09+08:00",
+      "notes": "请参阅招标文件",
+      "closing_at": "2026-11-24T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "5639a2b922fbe21cae",
+      "title_aliases": [
+        "为井财街政府服务大楼提供综合管理服务"
+      ],
+      "title_zh": "为井财街政府服务大楼提供综合管理服务",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "first_seen_at": "2026-11-03T13:21:09+08:00",
+      "change": "new",
+      "last_changed_at": "2026-11-03T13:21:09+08:00",
+      "company_fit": {
+        "decision": "review",
+        "categories": [],
+        "evidence": [],
+        "reason": "标题不足以确认业务范围，需阅读项目文件；不是判定为无关",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    }
+  ],
+  "updated": [
+    {
+      "department": "机电工程署",
+      "title": "Triennial Term Contract for Operation and Maintenance of Air-conditioning Installations in Various Venues of the Government of the Hong Kong Special Administrative Region Maintained by Kowloon Maintenance Sub-division of General Engineering Services Division",
+      "kind": "tender",
+      "reference_no": "1804EM26T",
+      "closing_date": "2026-12-11",
+      "closing_text": "11.12.2026",
+      "forecast_date": "",
+      "publish_date": "2026-10-28",
+      "source_url": "https://www.emsd.gov.hk/en/tenders_contracts_and_consultancies/tender_notices/tender_notices/index_id_6602.html",
+      "document_url": "",
+      "source_ids": [
+        "directory_13",
+        "emsd_rss"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-03T13:21:09+08:00",
+      "status": "正在招标",
+      "title_aliases": [
+        "Triennial Term Contract for Operation and Maintenance of Air-conditioning Installations in Various Venues of the Government of the Hong Kong Special Administrative Region Maintained by Kowloon Maintenance Sub-division of General Engineering Services Division",
+        "为各个香港特别行政区政府场地内综合工程部九龙区维修分部所保养维修的空调装置提供为期三年的操作及保养维修服务"
+      ],
+      "closing_at": "2026-12-11T12:00:00+08:00",
+      "title_zh": "为各个香港特别行政区政府场地内综合工程部九龙区维修分部所保养维修的空调装置提供为期三年的操作及保养维修服务",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "notes": "",
+      "id": "76cc1d0664306c15ff",
+      "first_seen_at": "2026-10-31T12:00:42+08:00",
+      "change": "updated",
+      "last_changed_at": "2026-11-03T13:21:09+08:00",
+      "company_fit": {
+        "decision": "exclude",
+        "categories": [],
+        "evidence": [],
+        "reason": "采购内容属于一般服务及传统机电工程，未见相关数字化范围",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    }
+  ],
+  "no_longer_seen_ids": [
+    "e2213d10ad3da7ab29"
+  ],
+  "note": "未再见到不等于取消或批出；需核实官方公告。"
+}

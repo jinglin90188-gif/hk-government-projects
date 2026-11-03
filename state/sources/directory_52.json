@@ -1,4 +1,81 @@
 {
-  "checked_at": "2026-10-26T15:22:44+08:00",
-  "items": []
+  "checked_at": "2026-11-03T13:21:09+08:00",
+  "items": [
+    {
+      "department": "库务署",
+      "title": "批出为公众提供在香港便利店缴付政府帐单的服务的合约",
+      "kind": "tender",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://egazette.gld.gov.hk/pdf?type=cgn&year=2026&volume=30&gno=35&notice_no=5455&extra=0",
+      "document_url": "",
+      "source_ids": [
+        "directory_52"
+      ],
+      "review_note": "需从原公告核实截标日期",
+      "verified_at": "2026-11-03T13:21:09+08:00",
+      "status": "状态待核实",
+      "id": "1f425065348863678a"
+    },
+    {
+      "department": "库务署",
+      "title": "批出为库务署提供活动式档案架及相关服务的合约",
+      "kind": "tender",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://egazette.gld.gov.hk/pdf?type=cgn&year=2023&volume=27&gno=13&notice_no=2033&extra=0",
+      "document_url": "",
+      "source_ids": [
+        "directory_52"
+      ],
+      "review_note": "需从原公告核实截标日期",
+      "verified_at": "2026-11-03T13:21:09+08:00",
+      "status": "状态待核实",
+      "id": "659af982e191160f46"
+    },
+    {
+      "department": "库务署",
+      "title": "批出为库务署提供由入境事务大楼搬迁到库务大楼的服务的合约",
+      "kind": "tender",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://egazette.gld.gov.hk/pdf?type=cgn&year=2023&volume=27&gno=26&notice_no=3977&extra=0",
+      "document_url": "",
+      "source_ids": [
+        "directory_52"
+      ],
+      "review_note": "需从原公告核实截标日期",
+      "verified_at": "2026-11-03T13:21:09+08:00",
+      "status": "状态待核实",
+      "id": "6186d009ada1cc0f2d"
+    },
+    {
+      "department": "库务署",
+      "title": "批出提供电子缴费服务的合约",
+      "kind": "tender",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.try.gov.hk/cinternet/chtender_ca.html",
+      "document_url": "",
+      "source_ids": [
+        "directory_52"
+      ],
+      "review_note": "需从原公告核实截标日期",
+      "verified_at": "2026-11-03T13:21:09+08:00",
+      "status": "状态待核实",
+      "id": "54d54a2041ff14dfdc"
+    }
+  ]
 }
