@@ -1,13 +1,13 @@
 {
-  "checked_at": "2026-11-04T12:49:59+08:00",
+  "checked_at": "2026-11-05T13:05:26+08:00",
   "items": [
     {
       "department": "社会福利署",
-      "title": "为社会福利署屯门儿童及青少年院院童提供餐饮服务",
+      "title": "于九龙观塘宏照道7号宏致苑喜致阁地下(部分)、一楼(部分) 及二楼(部分)的新合约院舍（附设有日间护理单位）（「宏照道7号处所」）提供安老服务（「服务」）",
       "kind": "tender",
-      "reference_no": "SWDT062026",
-      "closing_date": "2026-11-05",
-      "closing_text": "2026年11月5日正午12时（香港时间）",
+      "reference_no": "SWD1/5AZ/872/2026",
+      "closing_date": "2026-11-30",
+      "closing_text": "2026年11月30日（星期一）正午12时（香港时间）",
       "forecast_date": "",
       "publish_date": "",
       "source_url": "https://www.swd.gov.hk/tc/whatsnew/tenderinfo/tendernotice/",
@@ -16,10 +16,10 @@
         "directory_33"
       ],
       "review_note": "",
-      "verified_at": "2026-11-04T12:49:59+08:00",
-      "closing_at": "2026-11-05T12:00:00+08:00",
+      "verified_at": "2026-11-05T13:05:26+08:00",
+      "closing_at": "2026-11-30T12:00:00+08:00",
       "status": "正在招标",
-      "id": "893a2b0fd249ac2871"
+      "id": "adbf662c541d95038c"
     }
   ]
 }

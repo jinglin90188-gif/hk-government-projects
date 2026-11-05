@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-04T12:49:59+08:00",
+  "checked_at": "2026-11-05T13:05:26+08:00",
   "items": [
     {
       "department": "建筑署",
@@ -16,7 +16,7 @@
         "directory_14"
       ],
       "review_note": "",
-      "verified_at": "2026-11-04T12:49:59+08:00",
+      "verified_at": "2026-11-05T13:05:26+08:00",
       "closing_at": "2026-11-27T12:00:00+08:00",
       "status": "正在招标",
       "id": "ae5ee746f3548fecc1"
@@ -36,7 +36,7 @@
         "directory_14"
       ],
       "review_note": "",
-      "verified_at": "2026-11-04T12:49:59+08:00",
+      "verified_at": "2026-11-05T13:05:26+08:00",
       "closing_at": "2027-01-08T12:00:00+08:00",
       "status": "正在招标",
       "id": "ce8be5c0a5d4fb5916"
@@ -46,19 +46,31 @@
       "title": "新界葵涌医院路3-15号葵涌医院重建治疗/复康花园建造工程",
       "kind": "tender",
       "reference_no": "SS R506",
-      "closing_date": "2026-11-13",
-      "closing_text": "2026/11/13 12:00",
+      "closing_date": "2026-11-27",
+      "closing_text": "2026/11/27 12:00",
       "forecast_date": "",
-      "publish_date": "2026-10-02",
-      "source_url": "https://www.archsd.gov.hk/tc/tenders-notices/works/tender-notices-published-in-government-gazette/SS R506.html",
+      "publish_date": "2026-11-06",
+      "source_url": "https://www.archsd.gov.hk/tc/tenders-notices/works/tender-notices-published-in-government-gazette/SS R506 ext.html",
       "document_url": "",
       "source_ids": [
         "directory_14"
       ],
-      "review_note": "",
-      "verified_at": "2026-11-04T12:49:59+08:00",
-      "closing_at": "2026-11-13T12:00:00+08:00",
-      "status": "正在招标",
+      "review_note": "不同官方来源的截标日期不一致，需核对最新修订公告",
+      "verified_at": "2026-11-05T13:05:26+08:00",
+      "closing_at": "2026-11-27T12:00:00+08:00",
+      "status": "状态待核实",
+      "title_aliases": [
+        "新界葵涌医院路3-15号葵涌医院重建治疗/复康花园建造工程"
+      ],
+      "title_zh": "新界葵涌医院路3-15号葵涌医院重建治疗/复康花园建造工程",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "notes": "",
+      "deadline_options": [
+        "2026-11-13",
+        "2026-11-27"
+      ],
       "id": "8694836490996d95dc"
     }
   ]

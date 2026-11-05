@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T12:49:59+08:00",
+  "updated_at": "2026-11-05T13:05:26+08:00",
   "departments": [
     {
       "department": "保安局",
@@ -532,14 +532,14 @@
     {
       "department": "建筑署",
       "issues": [
-        "4项尚未核实截标日期或当前状态"
+        "5项尚未核实截标日期或当前状态"
       ],
       "tender_sources": 2,
       "forecast_sources": 2,
       "source_status": {
         "parsed": 4
       },
-      "open": 3,
+      "open": 2,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
@@ -758,12 +758,14 @@
       "tender_sources": 1,
       "forecast_sources": 0,
       "source_status": {
-        "empty": 1
+        "parsed": 1
       },
-      "open": 0,
+      "open": 1,
       "related_open": 0,
       "related_forecast": 0,
-      "scope_counts": {},
+      "scope_counts": {
+        "review": 1
+      },
       "unresolved_sources": []
     },
     {
@@ -1243,7 +1245,8 @@
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 2
+        "review": 1,
+        "exclude": 1
       },
       "unresolved_sources": []
     },
@@ -1471,7 +1474,7 @@
       "tender_sources": 1,
       "forecast_sources": 0,
       "source_status": {
-        "documents": 1
+        "failed": 1
       },
       "open": 0,
       "related_open": 0,
@@ -1483,15 +1486,14 @@
         {
           "id": "directory_49",
           "url": "https://app4.rthk.hk/tender/",
-          "status": "documents"
+          "status": "failed"
         }
       ]
     },
     {
       "department": "香港警务处",
       "issues": [
-        "未登记独立预报入口，仅能依赖中央采购预报覆盖",
-        "1项尚未核实截标日期或当前状态"
+        "未登记独立预报入口，仅能依赖中央采购预报覆盖"
       ],
       "tender_sources": 1,
       "forecast_sources": 0,
@@ -1502,7 +1504,7 @@
       "related_open": 3,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 21,
+        "exclude": 20,
         "include": 3
       },
       "unresolved_sources": []
@@ -1510,29 +1512,38 @@
     {
       "department": "香港邮政",
       "issues": [
-        "未登记独立预报入口，仅能依赖中央采购预报覆盖"
+        "未登记独立预报入口，仅能依赖中央采购预报覆盖",
+        "存在连接失败、待解析或部分解析来源"
       ],
       "tender_sources": 1,
       "forecast_sources": 0,
       "source_status": {
-        "empty": 1
+        "failed": 1
       },
       "open": 0,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {},
-      "unresolved_sources": []
+      "unresolved_sources": [
+        {
+          "id": "directory_48",
+          "url": "https://www.hongkongpost.hk/tc/about_us/tender/notice/index.html",
+          "status": "failed"
+        }
+      ]
     },
     {
       "department": "香港金融管理局",
       "issues": [
         "未登记独立预报入口，仅能依赖中央采购预报覆盖",
+        "存在连接失败、待解析或部分解析来源",
         "13项尚未核实截标日期或当前状态"
       ],
       "tender_sources": 2,
       "forecast_sources": 0,
       "source_status": {
-        "parsed": 2
+        "parsed": 1,
+        "failed": 1
       },
       "open": 0,
       "related_open": 0,
@@ -1541,7 +1552,13 @@
         "include": 12,
         "review": 1
       },
-      "unresolved_sources": []
+      "unresolved_sources": [
+        {
+          "id": "hkma_api",
+          "url": "https://api.hkma.gov.hk/public/tender-invitations?lang=tc&segment=tender",
+          "status": "failed"
+        }
+      ]
     }
   ],
   "note": "逐部门检查已登记来源、解析结果和当前状态；不等于每份招标文件已经人工逐页核实。中央平台不能代替部门来源补齐。"

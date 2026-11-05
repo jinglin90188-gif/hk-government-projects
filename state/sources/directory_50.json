@@ -1,4 +1,25 @@
 {
-  "checked_at": "2026-11-04T12:49:59+08:00",
-  "items": []
+  "checked_at": "2026-11-05T13:05:26+08:00",
+  "items": [
+    {
+      "department": "政府新闻处",
+      "title": "政府新闻处 - 招标公告 / 已批准订立的合约公告",
+      "kind": "tender",
+      "reference_no": "ISD/IP/Tender/02/26",
+      "closing_date": "2026-11-26",
+      "closing_text": "2026年11月26日（星期四）中午12时正（香港时间） 投标者必须于截标日期及时间前递交投标文件，逾期投标概不受理。 如截标当天（即2026年11月26日）上午9时至中午12时（香港时间）期间的任何时段内，八号或以上热带气旋警告信号悬挂，或黑色暴雨警告信号或政府公布的「极端情况",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.isd.gov.hk/chi/tender_ip_tender_02_26.htm",
+      "document_url": "",
+      "source_ids": [
+        "directory_50"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-05T13:05:26+08:00",
+      "closing_at": "2026-11-26T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "923775f5ccd0caab43"
+    }
+  ]
 }
