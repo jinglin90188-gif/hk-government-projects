@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T13:05:26+08:00",
+  "updated_at": "2026-11-06T13:04:49+08:00",
   "departments": [
     {
       "department": "保安局",
@@ -501,11 +501,11 @@
       "source_status": {
         "parsed": 1
       },
-      "open": 13,
+      "open": 16,
       "related_open": 2,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 7,
+        "exclude": 10,
         "review": 4,
         "include": 2
       },
@@ -779,12 +779,12 @@
       "source_status": {
         "unparsed": 1
       },
-      "open": 2,
+      "open": 3,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
         "exclude": 3,
-        "review": 1
+        "review": 2
       },
       "unresolved_sources": [
         {
@@ -837,7 +837,7 @@
       "department": "教育局",
       "issues": [
         "存在连接失败、待解析或部分解析来源",
-        "3项尚未核实截标日期或当前状态"
+        "5项尚未核实截标日期或当前状态"
       ],
       "tender_sources": 1,
       "forecast_sources": 1,
@@ -845,11 +845,11 @@
         "parsed": 1,
         "documents": 1
       },
-      "open": 2,
+      "open": 1,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 6
+        "exclude": 8
       },
       "unresolved_sources": [
         {
@@ -1069,10 +1069,12 @@
       "source_status": {
         "unparsed": 1
       },
-      "open": 0,
+      "open": 1,
       "related_open": 0,
       "related_forecast": 0,
-      "scope_counts": {},
+      "scope_counts": {
+        "review": 1
+      },
       "unresolved_sources": [
         {
           "id": "directory_24",
@@ -1117,7 +1119,7 @@
       "source_status": {
         "unparsed": 1
       },
-      "open": 4,
+      "open": 5,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
@@ -1241,11 +1243,11 @@
       "source_status": {
         "parsed": 1
       },
-      "open": 2,
+      "open": 3,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
-        "review": 1,
+        "review": 2,
         "exclude": 1
       },
       "unresolved_sources": []
@@ -1319,13 +1321,13 @@
         "parsed": 6,
         "empty": 1
       },
-      "open": 4,
+      "open": 5,
       "related_open": 2,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 19,
+        "exclude": 18,
         "include": 10,
-        "review": 6
+        "review": 7
       },
       "unresolved_sources": []
     },
@@ -1413,11 +1415,11 @@
       "source_status": {
         "parsed": 2
       },
-      "open": 5,
+      "open": 4,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 15,
+        "exclude": 14,
         "review": 1
       },
       "unresolved_sources": []
@@ -1537,7 +1539,7 @@
       "issues": [
         "未登记独立预报入口，仅能依赖中央采购预报覆盖",
         "存在连接失败、待解析或部分解析来源",
-        "13项尚未核实截标日期或当前状态"
+        "12项尚未核实截标日期或当前状态"
       ],
       "tender_sources": 2,
       "forecast_sources": 0,
@@ -1549,7 +1551,7 @@
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
-        "include": 12,
+        "include": 11,
         "review": 1
       },
       "unresolved_sources": [

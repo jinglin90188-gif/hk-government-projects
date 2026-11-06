@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-05T13:05:26+08:00",
+  "checked_at": "2026-11-06T13:04:49+08:00",
   "items": [
     {
       "department": "教育局",
@@ -16,7 +16,7 @@
         "directory_67"
       ],
       "review_note": "",
-      "verified_at": "2026-11-05T13:05:26+08:00",
+      "verified_at": "2026-11-06T13:04:49+08:00",
       "document_verified": true,
       "status": "状态待核实",
       "title_aliases": [
@@ -45,7 +45,7 @@
         "directory_67"
       ],
       "review_note": "",
-      "verified_at": "2026-11-05T13:05:26+08:00",
+      "verified_at": "2026-11-06T13:04:49+08:00",
       "document_verified": true,
       "status": "状态待核实",
       "title_aliases": [
@@ -74,7 +74,7 @@
         "directory_67"
       ],
       "review_note": "",
-      "verified_at": "2026-11-05T13:05:26+08:00",
+      "verified_at": "2026-11-06T13:04:49+08:00",
       "document_verified": true,
       "status": "状态待核实",
       "title_aliases": [
@@ -87,6 +87,64 @@
       "procurement_type": "",
       "notes": "",
       "id": "9a27767cd076ed245b"
+    },
+    {
+      "department": "教育局",
+      "title": "为教育局辖下官立学校提供窗户清洁服务，合约为期36个月",
+      "kind": "tender",
+      "reference_no": "EDB/ADMS/ WCS/ 20 26",
+      "closing_date": "",
+      "closing_text": "和时间 : 202 6 年 12 月 17 日正午 12 时 (香港时间 ) 逾期的投标概不受理。 查询 : 香港湾仔皇后大道东 213 号胡忠大厦 16 楼 1607 室教育局行政分部行政支援小组 ",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.edb.gov.hk/attachment/tc/public-admin/tender-notices/tender-notice/SchoolCS2026_TC.pdf",
+      "document_url": "https://www.edb.gov.hk/attachment/tc/public-admin/tender-notices/tender-notice/SchoolCS2026_TC.pdf",
+      "source_ids": [
+        "directory_67"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-06T13:04:49+08:00",
+      "document_verified": true,
+      "status": "状态待核实",
+      "title_aliases": [
+        "为教育局辖下官立学校提供窗户清洁服务，合约为期36个月"
+      ],
+      "closing_at": "",
+      "title_zh": "为教育局辖下官立学校提供窗户清洁服务，合约为期36个月",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "notes": "",
+      "id": "7f1908a5ff9af83cc5"
+    },
+    {
+      "department": "教育局",
+      "title": "为教育局辖下办公室提供清洁服务，合约为期36个月",
+      "kind": "tender",
+      "reference_no": "EDB/ADMS/C S/ 20 26",
+      "closing_date": "",
+      "closing_text": "和时间 : 202 6 年 12 月 17 日正午 12 时 (香港时间 ) 逾期的投标概不受理。 查询 : 香港湾仔皇后大道东 213 号胡忠大厦 16 楼 1607 室教育局行政分部行政支援小组 ",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.edb.gov.hk/attachment/tc/public-admin/tender-notices/tender-notice/OfficeCS2026_TC.pdf",
+      "document_url": "https://www.edb.gov.hk/attachment/tc/public-admin/tender-notices/tender-notice/OfficeCS2026_TC.pdf",
+      "source_ids": [
+        "directory_67"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-06T13:04:49+08:00",
+      "document_verified": true,
+      "status": "状态待核实",
+      "title_aliases": [
+        "为教育局辖下办公室提供清洁服务，合约为期36个月"
+      ],
+      "closing_at": "",
+      "title_zh": "为教育局辖下办公室提供清洁服务，合约为期36个月",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "notes": "",
+      "id": "c7ce772e20fe45e4d8"
     },
     {
       "department": "教育局",
@@ -103,7 +161,7 @@
         "directory_67"
       ],
       "review_note": "",
-      "verified_at": "2026-11-05T13:05:26+08:00",
+      "verified_at": "2026-11-06T13:04:49+08:00",
       "document_verified": true,
       "closing_at": "2026-10-23T12:00:00+08:00",
       "status": "已截标",
@@ -132,10 +190,10 @@
         "directory_67"
       ],
       "review_note": "",
-      "verified_at": "2026-11-05T13:05:26+08:00",
+      "verified_at": "2026-11-06T13:04:49+08:00",
       "document_verified": true,
       "closing_at": "2026-11-06T12:00:00+08:00",
-      "status": "正在招标",
+      "status": "已截标",
       "title_aliases": [
         "为中华基督教会桂华山中学、天主教新民书院、圣公会基荣小学及李升大坑学校的新升降机塔建造桩柱地基及准备工程 (合约编号PI SM007)"
       ],
@@ -161,7 +219,7 @@
         "directory_67"
       ],
       "review_note": "",
-      "verified_at": "2026-11-05T13:05:26+08:00",
+      "verified_at": "2026-11-06T13:04:49+08:00",
       "document_verified": true,
       "closing_at": "2026-11-20T12:00:00+08:00",
       "status": "正在招标",

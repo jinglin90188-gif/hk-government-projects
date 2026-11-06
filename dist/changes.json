@@ -1,57 +1,320 @@
 {
-  "updated_at": "2026-11-05T13:05:26+08:00",
+  "updated_at": "2026-11-06T13:04:49+08:00",
   "baseline": false,
-  "compared_with": "2026-11-04T12:49:59+08:00",
-  "new_count": 2,
-  "updated_count": 3,
-  "unchanged_count": 511,
-  "no_longer_seen_count": 2,
+  "compared_with": "2026-11-05T13:05:26+08:00",
+  "new_count": 10,
+  "updated_count": 6,
+  "unchanged_count": 506,
+  "no_longer_seen_count": 4,
   "new_ids": [
-    "923775f5ccd0caab43",
-    "adbf662c541d95038c"
+    "dd164485a4dce5b04e",
+    "269d76512b770342bd",
+    "00588b815fd4f31df8",
+    "d8342ac11d5598d9de",
+    "7f1908a5ff9af83cc5",
+    "c7ce772e20fe45e4d8",
+    "311eb305dd2d39e962",
+    "3b2bd18ca169d3fe41",
+    "587fa409c7f74cc36b",
+    "832ceda992d3d7f71c"
   ],
   "updated_ids": [
-    "ae5ee746f3548fecc1",
-    "ce8be5c0a5d4fb5916",
-    "8694836490996d95dc"
+    "8694836490996d95dc",
+    "06af53ef4912d56472",
+    "26fdced72a9acc0c6a",
+    "372e6495024dc7ecd9",
+    "5a77c60c45a0ae5989",
+    "e57be12d04769cb073"
   ],
   "no_longer_seen_ids": [
-    "893a2b0fd249ac2871",
-    "239f89a85aadc91af5"
+    "a05efd7d939c6187c6",
+    "ceea2958b94ca7cfb1",
+    "f853852b7eca3c0a1e",
+    "56925899605faaa99b"
   ],
   "new": [
     {
-      "department": "政府新闻处",
-      "title": "招标承投为庆祝香港特别行政区成立30周年纪念特刊提供设计及制作服务",
+      "department": "康乐及文化事务署",
+      "title": "为康乐及文化事务署辖下市区康乐场地提供护卫服务",
       "kind": "tender",
-      "reference_no": "ISD/IP/TENDER/02/26",
-      "closing_date": "2026-11-26",
-      "closing_text": "2026-11-26 12:00:00",
+      "reference_no": "LCT 5006/26(S)",
+      "closing_date": "2026-12-04",
+      "closing_text": "2026-12-04",
       "forecast_date": "",
-      "publish_date": "2026-11-05",
-      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=ISD/IP/TENDER/02/26",
+      "publish_date": "",
+      "source_url": "https://www.lcsd.gov.hk/clpss/tc/webApp/TenderDetails.do?ref=LCT 5006/26(S)",
       "document_url": "",
       "source_ids": [
-        "directory_50",
+        "directory_32"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-06T13:04:49+08:00",
+      "status": "正在招标",
+      "id": "dd164485a4dce5b04e",
+      "first_seen_at": "2026-11-06T13:04:49+08:00",
+      "change": "new",
+      "last_changed_at": "2026-11-06T13:04:49+08:00",
+      "company_fit": {
+        "decision": "exclude",
+        "categories": [],
+        "evidence": [],
+        "reason": "采购内容属于非技术服务及一般建设，未见相关数字化范围",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "康乐及文化事务署",
+      "title": "为屯门兆麟政府综合大楼提供大厦管理及保安服务",
+      "kind": "tender",
+      "reference_no": "LCT 5007/26(S)",
+      "closing_date": "2026-12-03",
+      "closing_text": "2026-12-03 12:00:00",
+      "forecast_date": "",
+      "publish_date": "2026-11-06",
+      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=LCT 5007/26(S)",
+      "document_url": "",
+      "source_ids": [
+        "directory_32",
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-05T13:05:26+08:00",
-      "notes": "请参阅招标文件。",
-      "closing_at": "2026-11-26T12:00:00+08:00",
+      "verified_at": "2026-11-06T13:04:49+08:00",
+      "notes": "为屯门兆麟政府综合大楼提供大厦管理及保安服务, 为期36个月, 由2027年5月1日起至2030年4月30日止。",
+      "closing_at": "2026-12-03T12:00:00+08:00",
       "status": "正在招标",
-      "id": "923775f5ccd0caab43",
+      "id": "269d76512b770342bd",
       "title_aliases": [
-        "招标承投为庆祝香港特别行政区成立30周年纪念特刊提供设计及制作服务",
-        "政府新闻处 - 招标公告 / 已批准订立的合约公告"
+        "为屯门兆麟政府综合大楼提供大厦管理及保安服务"
       ],
-      "title_zh": "招标承投为庆祝香港特别行政区成立30周年纪念特刊提供设计及制作服务",
+      "title_zh": "为屯门兆麟政府综合大楼提供大厦管理及保安服务",
       "eligibility_note": "",
       "eligibility_summary": "",
       "procurement_type": "",
-      "first_seen_at": "2026-11-05T13:05:26+08:00",
+      "first_seen_at": "2026-11-06T13:04:49+08:00",
       "change": "new",
-      "last_changed_at": "2026-11-05T13:05:26+08:00",
+      "last_changed_at": "2026-11-06T13:04:49+08:00",
+      "company_fit": {
+        "decision": "exclude",
+        "categories": [],
+        "evidence": [],
+        "reason": "采购内容属于一般服务及传统机电工程，未见相关数字化范围",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "康乐及文化事务署",
+      "title": "为康乐及文化事务署辖下的香港大会堂及香港文化中心提供洁净及辅助服务",
+      "kind": "tender",
+      "reference_no": "LCT 5008/26(S)",
+      "closing_date": "2026-12-18",
+      "closing_text": "2026-12-18",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.lcsd.gov.hk/clpss/tc/webApp/TenderDetails.do?ref=LCT 5008/26(S)",
+      "document_url": "",
+      "source_ids": [
+        "directory_32"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-06T13:04:49+08:00",
+      "status": "正在招标",
+      "id": "00588b815fd4f31df8",
+      "first_seen_at": "2026-11-06T13:04:49+08:00",
+      "change": "new",
+      "last_changed_at": "2026-11-06T13:04:49+08:00",
+      "company_fit": {
+        "decision": "exclude",
+        "categories": [],
+        "evidence": [],
+        "reason": "采购内容属于一般服务及传统机电工程，未见相关数字化范围",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "政府物流服务署",
+      "title": "为政府各部门供应电动多用途汽车，车辆须在发出订单日期起计12个月内启用",
+      "kind": "tender",
+      "reference_no": "A0600332026",
+      "closing_date": "2026-12-18",
+      "closing_text": "2026-12-18 12:00:00",
+      "forecast_date": "",
+      "publish_date": "2026-11-06",
+      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=A0600332026",
+      "document_url": "",
+      "source_ids": [
+        "etb_xml"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-06T13:04:49+08:00",
+      "notes": "政府各部门运载乘客及行李",
+      "closing_at": "2026-12-18T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "d8342ac11d5598d9de",
+      "first_seen_at": "2026-11-06T13:04:49+08:00",
+      "change": "new",
+      "last_changed_at": "2026-11-06T13:04:49+08:00",
+      "company_fit": {
+        "decision": "review",
+        "categories": [],
+        "evidence": [],
+        "reason": "标题不足以确认业务范围，需阅读项目文件；不是判定为无关",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "教育局",
+      "title": "为教育局辖下官立学校提供窗户清洁服务，合约为期36个月",
+      "kind": "tender",
+      "reference_no": "EDB/ADMS/ WCS/ 20 26",
+      "closing_date": "2026-12-17",
+      "closing_text": "和时间 : 202 6 年 12 月 17 日正午 12 时 (香港时间 ) 逾期的投标概不受理。 查询 : 香港湾仔皇后大道东 213 号胡忠大厦 16 楼 1607 室教育局行政分部行政支援小组 ",
+      "forecast_date": "",
+      "publish_date": "2026-11-06",
+      "source_url": "https://www.edb.gov.hk/attachment/tc/public-admin/tender-notices/tender-notice/SchoolCS2026_TC.pdf",
+      "document_url": "https://www.edb.gov.hk/attachment/tc/public-admin/tender-notices/tender-notice/SchoolCS2026_TC.pdf",
+      "source_ids": [
+        "directory_67",
+        "etb_xml"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-06T13:04:49+08:00",
+      "document_verified": true,
+      "status": "状态待核实",
+      "title_aliases": [
+        "为教育局辖下官立学校提供窗户清洁服务",
+        "为教育局辖下官立学校提供窗户清洁服务，合约为期36个月"
+      ],
+      "closing_at": "2026-12-17T12:00:00+08:00",
+      "title_zh": "为教育局辖下官立学校提供窗户清洁服务，合约为期36个月",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "notes": "为教育局辖下官立学校提供窗户清洁服务",
+      "id": "7f1908a5ff9af83cc5",
+      "first_seen_at": "2026-11-06T13:04:49+08:00",
+      "change": "new",
+      "last_changed_at": "2026-11-06T13:04:49+08:00",
+      "company_fit": {
+        "decision": "exclude",
+        "categories": [],
+        "evidence": [],
+        "reason": "采购内容属于清洁、保安人手及后勤，未见相关数字化范围",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "教育局",
+      "title": "为教育局辖下办公室提供清洁服务，合约为期36个月",
+      "kind": "tender",
+      "reference_no": "EDB/ADMS/C S/ 20 26",
+      "closing_date": "2026-12-17",
+      "closing_text": "和时间 : 202 6 年 12 月 17 日正午 12 时 (香港时间 ) 逾期的投标概不受理。 查询 : 香港湾仔皇后大道东 213 号胡忠大厦 16 楼 1607 室教育局行政分部行政支援小组 ",
+      "forecast_date": "",
+      "publish_date": "2026-11-06",
+      "source_url": "https://www.edb.gov.hk/attachment/tc/public-admin/tender-notices/tender-notice/OfficeCS2026_TC.pdf",
+      "document_url": "https://www.edb.gov.hk/attachment/tc/public-admin/tender-notices/tender-notice/OfficeCS2026_TC.pdf",
+      "source_ids": [
+        "directory_67",
+        "etb_xml"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-06T13:04:49+08:00",
+      "document_verified": true,
+      "status": "状态待核实",
+      "title_aliases": [
+        "为教育局辖下办公室提供清洁服务",
+        "为教育局辖下办公室提供清洁服务，合约为期36个月"
+      ],
+      "closing_at": "2026-12-17T12:00:00+08:00",
+      "title_zh": "为教育局辖下办公室提供清洁服务，合约为期36个月",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "notes": "为教育局辖下办公室提供清洁服务",
+      "id": "c7ce772e20fe45e4d8",
+      "first_seen_at": "2026-11-06T13:04:49+08:00",
+      "change": "new",
+      "last_changed_at": "2026-11-06T13:04:49+08:00",
+      "company_fit": {
+        "decision": "exclude",
+        "categories": [],
+        "evidence": [],
+        "reason": "采购内容属于清洁、保安人手及后勤，未见相关数字化范围",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "机电工程署",
+      "title": "Triennial Term Contract for Maintenance of Electronic and Control Systems at Various Sewage Treatment Works and Their Outstations for Drainage Services Department",
+      "kind": "tender",
+      "reference_no": "1610EM26T",
+      "closing_date": "2026-12-18",
+      "closing_text": "18.12.2026",
+      "forecast_date": "",
+      "publish_date": "2026-10-25",
+      "source_url": "https://www.emsd.gov.hk/en/tenders_contracts_and_consultancies/tender_notices/tender_notices/index_id_6600.html",
+      "document_url": "",
+      "source_ids": [
+        "directory_13",
+        "emsd_rss"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-06T13:04:49+08:00",
+      "status": "正在招标",
+      "title_aliases": [
+        "Triennial Term Contract for Maintenance of Electronic and Control Systems at Various Sewage Treatment Works and Their Outstations for Drainage Services Department",
+        "为渠务署各污水处理厂和其外站的电子及控制系统提供为期三年的保养服务。"
+      ],
+      "closing_at": "2026-12-18T12:00:00+08:00",
+      "title_zh": "为渠务署各污水处理厂和其外站的电子及控制系统提供为期三年的保养服务。",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "notes": "",
+      "id": "311eb305dd2d39e962",
+      "first_seen_at": "2026-11-06T13:04:49+08:00",
+      "change": "new",
+      "last_changed_at": "2026-11-06T13:04:49+08:00",
+      "company_fit": {
+        "decision": "include",
+        "categories": [],
+        "evidence": [
+          "Electronic"
+        ],
+        "reason": "正在招标，涉及相邻业务（Electronic），保留以核对可参与部分",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "海事处",
+      "title": "招标承投标志浮泡检修服务",
+      "kind": "tender",
+      "reference_no": "PASTR2026-02",
+      "closing_date": "2026-12-21",
+      "closing_text": "2026-12-21 12:00:00",
+      "forecast_date": "",
+      "publish_date": "2026-11-06",
+      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=PASTR2026-02",
+      "document_url": "",
+      "source_ids": [
+        "etb_xml"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-06T13:04:49+08:00",
+      "notes": "请参阅招标文件",
+      "closing_at": "2026-12-21T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "3b2bd18ca169d3fe41",
+      "first_seen_at": "2026-11-06T13:04:49+08:00",
+      "change": "new",
+      "last_changed_at": "2026-11-06T13:04:49+08:00",
       "company_fit": {
         "decision": "review",
         "categories": [],
@@ -63,31 +326,63 @@
     },
     {
       "department": "社会福利署",
-      "title": "于九龙观塘宏照道7号宏致苑喜致阁地下(部分)、一楼(部分) 及二楼(部分)的新合约院舍（附设有日间护理单位）（「宏照道7号处所」）提供安老服务（「服务」）",
+      "title": "为社会福利署供应桌上电脑和提供相关服务",
       "kind": "tender",
-      "reference_no": "SWD1/5AZ/872/2026",
-      "closing_date": "2026-11-30",
-      "closing_text": "2026年11月30日（星期一）正午12时（香港时间）",
+      "reference_no": "SWDT142026",
+      "closing_date": "2026-12-17",
+      "closing_text": "2026-12-17 12:00:00",
       "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.swd.gov.hk/tc/whatsnew/tenderinfo/tendernotice/",
+      "publish_date": "2026-11-06",
+      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=SWDT142026",
       "document_url": "",
       "source_ids": [
-        "directory_33"
+        "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-05T13:05:26+08:00",
-      "closing_at": "2026-11-30T12:00:00+08:00",
+      "verified_at": "2026-11-06T13:04:49+08:00",
+      "notes": "请参阅招标文件",
+      "closing_at": "2026-12-17T12:00:00+08:00",
       "status": "正在招标",
-      "id": "adbf662c541d95038c",
-      "first_seen_at": "2026-11-05T13:05:26+08:00",
+      "id": "587fa409c7f74cc36b",
+      "first_seen_at": "2026-11-06T13:04:49+08:00",
       "change": "new",
-      "last_changed_at": "2026-11-05T13:05:26+08:00",
+      "last_changed_at": "2026-11-06T13:04:49+08:00",
       "company_fit": {
         "decision": "review",
         "categories": [],
         "evidence": [],
         "reason": "标题不足以确认业务范围，需阅读项目文件；不是判定为无关",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "食物环境卫生署",
+      "title": "为全港各区提供清理淤泥及深宵清粪服务",
+      "kind": "tender",
+      "reference_no": "FEHQ 5011/26",
+      "closing_date": "2026-12-18",
+      "closing_text": "2026年12月18日 (日期) 中午12:00 (香港时间) (逾期的投标概不受理)",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.fehd.gov.hk/tc_chi/tenders/details/FEHQ%205011_26.html",
+      "document_url": "",
+      "source_ids": [
+        "directory_31"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-06T13:04:49+08:00",
+      "closing_at": "2026-12-18T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "832ceda992d3d7f71c",
+      "first_seen_at": "2026-11-06T13:04:49+08:00",
+      "change": "new",
+      "last_changed_at": "2026-11-06T13:04:49+08:00",
+      "company_fit": {
+        "decision": "exclude",
+        "categories": [],
+        "evidence": [],
+        "reason": "采购内容属于一般服务及传统机电工程，未见相关数字化范围",
         "rule_version": "2026-10-26-v2",
         "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
       }
@@ -96,94 +391,11 @@
   "updated": [
     {
       "department": "建筑署",
-      "title": "新界大埔北盛街公厕及浴室翻修工程",
-      "kind": "tender",
-      "reference_no": "RF P807",
-      "closing_date": "2026-11-27",
-      "closing_text": "2026/11/27 12:00",
-      "forecast_date": "",
-      "publish_date": "2026-10-30",
-      "source_url": "https://www.archsd.gov.hk/tc/tenders-notices.html",
-      "document_url": "https://www.archsd.gov.hk/tc/psi/tender.json",
-      "source_ids": [
-        "archsd_json",
-        "directory_14"
-      ],
-      "review_note": "",
-      "verified_at": "2026-11-05T13:05:26+08:00",
-      "closing_at": "2026-11-27T12:00:00+08:00",
-      "status": "正在招标",
-      "id": "ae5ee746f3548fecc1",
-      "title_aliases": [
-        "新界大埔北盛街公厕及浴室翻修工程"
-      ],
-      "title_zh": "新界大埔北盛街公厕及浴室翻修工程",
-      "eligibility_note": "",
-      "eligibility_summary": "",
-      "procurement_type": "",
-      "notes": "",
-      "first_seen_at": "2026-10-30T12:21:51+08:00",
-      "change": "updated",
-      "last_changed_at": "2026-11-05T13:05:26+08:00",
-      "company_fit": {
-        "decision": "review",
-        "categories": [],
-        "evidence": [],
-        "reason": "标题不足以确认业务范围，需阅读项目文件；不是判定为无关",
-        "rule_version": "2026-10-26-v2",
-        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
-      }
-    },
-    {
-      "department": "建筑署",
-      "title": "设计及建造沙头角口岸与相关工程",
-      "kind": "tender",
-      "reference_no": "SS R504",
-      "closing_date": "2027-01-08",
-      "closing_text": "2027/01/08 12:00",
-      "forecast_date": "2026 Q4",
-      "publish_date": "2026-10-30",
-      "source_url": "https://www.archsd.gov.hk/tc/tenders-notices.html",
-      "document_url": "https://www.archsd.gov.hk/tc/psi/tender.json",
-      "source_ids": [
-        "archsd_json",
-        "directory_14",
-        "directory_96"
-      ],
-      "review_note": "",
-      "verified_at": "2026-11-05T13:05:26+08:00",
-      "closing_at": "2027-01-08T12:00:00+08:00",
-      "status": "正在招标",
-      "id": "ce8be5c0a5d4fb5916",
-      "title_aliases": [
-        "设计及建造沙头角口岸与相关工程"
-      ],
-      "title_zh": "设计及建造沙头角口岸与相关工程",
-      "eligibility_note": "",
-      "eligibility_summary": "",
-      "procurement_type": "",
-      "notes": "",
-      "previous_forecast_date": "2026 Q4",
-      "stage_note": "已找到正式邀请公告，旧预报合并至此，不再作为独立预报展示",
-      "first_seen_at": "2026-10-26T13:00:02+08:00",
-      "change": "updated",
-      "last_changed_at": "2026-11-05T13:05:26+08:00",
-      "company_fit": {
-        "decision": "review",
-        "categories": [],
-        "evidence": [],
-        "reason": "标题不足以确认业务范围，需阅读项目文件；不是判定为无关",
-        "rule_version": "2026-10-26-v2",
-        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
-      }
-    },
-    {
-      "department": "建筑署",
       "title": "新界葵涌医院路3-15号葵涌医院重建治疗/复康花园建造工程",
       "kind": "tender",
       "reference_no": "SS R506",
-      "closing_date": "2026-11-13",
-      "closing_text": "2026/11/13 12:00",
+      "closing_date": "2026-11-06",
+      "closing_text": "2026/11/06 00:00",
       "forecast_date": "2026 Q4",
       "publish_date": "2026-11-06",
       "source_url": "https://www.archsd.gov.hk/tc/tenders-notices.html",
@@ -194,10 +406,9 @@
         "directory_96"
       ],
       "review_note": "不同官方来源的截标日期不一致，需核对最新修订公告",
-      "verified_at": "2026-11-05T13:05:26+08:00",
-      "closing_at": "2026-11-13T12:00:00+08:00",
+      "verified_at": "2026-11-06T13:04:49+08:00",
+      "closing_at": "2026-11-06T00:00:00+08:00",
       "status": "状态待核实",
-      "id": "8694836490996d95dc",
       "title_aliases": [
         "新界葵涌医院路3-15号葵涌医院重建治疗/复康花园建造工程",
         "新界葵涌医院道3-15号葵涌医院重建治疗/复康花园建造工程"
@@ -208,19 +419,224 @@
       "procurement_type": "",
       "notes": "",
       "deadline_options": [
-        "2026-11-13",
+        "2026-11-06",
         "2026-11-27"
       ],
+      "id": "8694836490996d95dc",
       "previous_forecast_date": "2026 Q4",
       "stage_note": "已找到正式邀请公告，旧预报合并至此，不再作为独立预报展示",
       "first_seen_at": "2026-10-26T13:00:02+08:00",
       "change": "updated",
-      "last_changed_at": "2026-11-05T13:05:26+08:00",
+      "last_changed_at": "2026-11-06T13:04:49+08:00",
       "company_fit": {
         "decision": "exclude",
         "categories": [],
         "evidence": [],
         "reason": "采购内容属于非技术服务及一般建设，未见相关数字化范围",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "教育局",
+      "title": "为中华基督教会桂华山中学、天主教新民书院、圣公会基荣小学及李升大坑学校的新升降机塔建造桩柱地基及准备工程 (合约编号PI SM007)",
+      "kind": "tender",
+      "reference_no": "PI SM007",
+      "closing_date": "2026-11-06",
+      "closing_text": "及时间 ： 2026 年 11 月 6 日星期五中午 12 时递交标书 ： 投标者必须填具一式两份的投标表格，将填妥的投标表格放置信封内密封 ，并在信封面清楚注明招标编号、投标项目 （但不得有任何记认",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.edb.gov.hk/attachment/tc/public-admin/tender-notices/works/02_EDB_Website_PISM007%20(Chi).pdf",
+      "document_url": "https://www.edb.gov.hk/attachment/tc/public-admin/tender-notices/works/02_EDB_Website_PISM007%20(Chi).pdf",
+      "source_ids": [
+        "directory_67"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-06T13:04:49+08:00",
+      "document_verified": true,
+      "closing_at": "2026-11-06T12:00:00+08:00",
+      "status": "已截标",
+      "title_aliases": [
+        "为中华基督教会桂华山中学、天主教新民书院、圣公会基荣小学及李升大坑学校的新升降机塔建造桩柱地基及准备工程 (合约编号PI SM007)"
+      ],
+      "title_zh": "为中华基督教会桂华山中学、天主教新民书院、圣公会基荣小学及李升大坑学校的新升降机塔建造桩柱地基及准备工程 (合约编号PI SM007)",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "notes": "",
+      "id": "06af53ef4912d56472",
+      "first_seen_at": "2026-10-26T13:00:02+08:00",
+      "change": "updated",
+      "last_changed_at": "2026-11-06T13:04:49+08:00",
+      "company_fit": {
+        "decision": "exclude",
+        "categories": [],
+        "evidence": [],
+        "reason": "采购内容属于非技术服务及一般建设、一般服务及传统机电工程，未见相关数字化范围",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "机电工程署",
+      "title": "Three Years Term Contract for Replacement of Energy Efficient Lighting at Various Venues of Hospital Authority (Batch 4)",
+      "kind": "tender",
+      "reference_no": "1122EM26T",
+      "closing_date": "2026-11-06",
+      "closing_text": "6.11.2026",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.emsd.gov.hk/en/tenders_contracts_and_consultancies/tender_notices/tender_notices/index_id_6591.html",
+      "document_url": "",
+      "source_ids": [
+        "directory_13"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-06T13:04:49+08:00",
+      "status": "正在招标",
+      "title_aliases": [
+        "Three Years Term Contract for Replacement of Energy Efficient Lighting at Various Venues of Hospital Authority (Batch 4)",
+        "为医院管理局各物业提供为期3年的节能照明系统更换工程(第四期)"
+      ],
+      "closing_at": "",
+      "title_zh": "为医院管理局各物业提供为期3年的节能照明系统更换工程(第四期)",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "notes": "",
+      "id": "26fdced72a9acc0c6a",
+      "first_seen_at": "2026-10-26T13:00:02+08:00",
+      "change": "updated",
+      "last_changed_at": "2026-11-06T13:04:49+08:00",
+      "company_fit": {
+        "decision": "exclude",
+        "categories": [],
+        "evidence": [],
+        "reason": "采购内容属于一般服务及传统机电工程，未见相关数字化范围",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "机电工程署",
+      "title": "Quadrennial Term Contract for the Comprehensive Maintenance and Repair of Lift Installations at Various Premises of the Government of the Hong Kong Special Administrative Region (Package One of HT26)",
+      "kind": "tender",
+      "reference_no": "1460EM26T",
+      "closing_date": "2026-11-06",
+      "closing_text": "6.11.2026",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.emsd.gov.hk/en/tenders_contracts_and_consultancies/tender_notices/tender_notices/index_id_6590.html",
+      "document_url": "",
+      "source_ids": [
+        "directory_13"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-06T13:04:49+08:00",
+      "status": "正在招标",
+      "title_aliases": [
+        "Quadrennial Term Contract for the Comprehensive Maintenance and Repair of Lift Installations at Various Premises of the Government of the Hong Kong Special Administrative Region (Package One of HT26)",
+        "为香港特别行政区政府各场地内的升降机装置提供为期 4 年的全面保养及维修服务（第一期 HT26）"
+      ],
+      "closing_at": "",
+      "title_zh": "为香港特别行政区政府各场地内的升降机装置提供为期 4 年的全面保养及维修服务（第一期 HT26）",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "notes": "",
+      "id": "372e6495024dc7ecd9",
+      "first_seen_at": "2026-10-26T13:00:02+08:00",
+      "change": "updated",
+      "last_changed_at": "2026-11-06T13:04:49+08:00",
+      "company_fit": {
+        "decision": "exclude",
+        "categories": [],
+        "evidence": [],
+        "reason": "采购内容属于一般服务及传统机电工程，未见相关数字化范围",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "渔农自然护理署",
+      "title": "为香港湿地公园提供保安服务",
+      "kind": "tender",
+      "reference_no": "AFCD/WP/02/26",
+      "closing_date": "2026-12-04",
+      "closing_text": "2026-12-04 12:00:00",
+      "forecast_date": "2026年11月",
+      "publish_date": "2026-11-06",
+      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=AFCD/WP/02/26",
+      "document_url": "https://www.gld.gov.hk/assets/gld/download-files/forecast-of-major-purchases/Major_Purchases_by_BDs-zh-hk.json",
+      "source_ids": [
+        "etb_xml",
+        "gld_bd_json"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-06T13:04:49+08:00",
+      "notes": "请参阅招标文件",
+      "closing_at": "2026-12-04T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "5a77c60c45a0ae5989",
+      "title_aliases": [
+        "为香港湿地公园提供保安服务"
+      ],
+      "previous_forecast_date": "2026年11月",
+      "stage_note": "已找到正式邀请公告，旧预报合并至此，不再作为独立预报展示",
+      "title_zh": "为香港湿地公园提供保安服务",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "first_seen_at": "2026-10-26T13:00:02+08:00",
+      "change": "updated",
+      "last_changed_at": "2026-11-06T13:04:49+08:00",
+      "company_fit": {
+        "decision": "exclude",
+        "categories": [],
+        "evidence": [],
+        "reason": "采购内容属于一般服务及传统机电工程，未见相关数字化范围",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "路政署",
+      "title": "路政署定期合约（荃湾及葵青区（快速公路及高速道路除外）之植物护养，以及香港之园境绿化工程2027-2030）",
+      "kind": "tender",
+      "reference_no": "07/HY/2026",
+      "closing_date": "2026-12-18",
+      "closing_text": "2026年12月18日星期五中午12时",
+      "forecast_date": "2026 Q4",
+      "publish_date": "",
+      "source_url": "https://www.hyd.gov.hk/tc/tender_notices/contracts/prequalifications_and_tender_notices/2026/07HY2026.html",
+      "document_url": "https://www.hyd.gov.hk/tc/tender_notices/contracts/forecast_of_invitation/doc/HyD.pdf",
+      "source_ids": [
+        "directory_12",
+        "directory_94"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-06T13:04:49+08:00",
+      "closing_at": "2026-12-18T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "e57be12d04769cb073",
+      "title_aliases": [
+        "路政署定期合约（荃湾及葵青区（快速公路及高速道路除外）之植物护养，以及香港之园境绿化工程2027-2030）"
+      ],
+      "previous_forecast_date": "2026 Q4",
+      "stage_note": "已找到正式邀请公告，旧预报合并至此，不再作为独立预报展示",
+      "title_zh": "路政署定期合约（荃湾及葵青区（快速公路及高速道路除外）之植物护养，以及香港之园境绿化工程2027-2030）",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "notes": "",
+      "first_seen_at": "2026-10-26T13:00:02+08:00",
+      "change": "updated",
+      "last_changed_at": "2026-11-06T13:04:49+08:00",
+      "company_fit": {
+        "decision": "review",
+        "categories": [],
+        "evidence": [],
+        "reason": "标题不足以确认业务范围，需阅读项目文件；不是判定为无关",
         "rule_version": "2026-10-26-v2",
         "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
       }

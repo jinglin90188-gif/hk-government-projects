@@ -1,26 +1,6 @@
 {
-  "checked_at": "2026-11-05T13:05:26+08:00",
+  "checked_at": "2026-11-06T13:04:49+08:00",
   "items": [
-    {
-      "department": "食物环境卫生署",
-      "title": "为深水埗区、九龙城区及油尖区政府场地提供洁净服务",
-      "kind": "tender",
-      "reference_no": "FEHQ 1011/26",
-      "closing_date": "2026-11-06",
-      "closing_text": "2026年11月6日 (日期 ) 中午12:00 (香港时间) (逾期的投标概不受理)",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.fehd.gov.hk/tc_chi/tenders/details/FEHQ%201011_26.html",
-      "document_url": "",
-      "source_ids": [
-        "directory_31"
-      ],
-      "review_note": "",
-      "verified_at": "2026-11-05T13:05:26+08:00",
-      "closing_at": "2026-11-06T12:00:00+08:00",
-      "status": "正在招标",
-      "id": "f853852b7eca3c0a1e"
-    },
     {
       "department": "食物环境卫生署",
       "title": "为南区、油尖区、深水埗区及北区的指定废物收集站以流动垃圾压缩机、太阳能流动垃圾压缩机、垃圾收集箱及环保斗提供废物收集服务",
@@ -36,7 +16,7 @@
         "directory_31"
       ],
       "review_note": "",
-      "verified_at": "2026-11-05T13:05:26+08:00",
+      "verified_at": "2026-11-06T13:04:49+08:00",
       "closing_at": "2026-12-11T12:00:00+08:00",
       "status": "正在招标",
       "id": "befaaa9c2e006b9c79"
@@ -56,7 +36,7 @@
         "directory_31"
       ],
       "review_note": "",
-      "verified_at": "2026-11-05T13:05:26+08:00",
+      "verified_at": "2026-11-06T13:04:49+08:00",
       "closing_at": "2026-11-13T12:00:00+08:00",
       "status": "正在招标",
       "id": "f9956652bf1689e28c"
@@ -76,10 +56,30 @@
         "directory_31"
       ],
       "review_note": "",
-      "verified_at": "2026-11-05T13:05:26+08:00",
+      "verified_at": "2026-11-06T13:04:49+08:00",
       "closing_at": "2026-11-13T12:00:00+08:00",
       "status": "正在招标",
       "id": "0c76ac4f39320de92e"
+    },
+    {
+      "department": "食物环境卫生署",
+      "title": "为全港各区提供清理淤泥及深宵清粪服务",
+      "kind": "tender",
+      "reference_no": "FEHQ 5011/26",
+      "closing_date": "2026-12-18",
+      "closing_text": "2026年12月18日 (日期) 中午12:00 (香港时间) (逾期的投标概不受理)",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.fehd.gov.hk/tc_chi/tenders/details/FEHQ%205011_26.html",
+      "document_url": "",
+      "source_ids": [
+        "directory_31"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-06T13:04:49+08:00",
+      "closing_at": "2026-12-18T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "832ceda992d3d7f71c"
     }
   ]
 }
