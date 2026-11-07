@@ -1,6 +1,26 @@
 {
-  "checked_at": "2026-11-06T13:04:49+08:00",
+  "checked_at": "2026-11-07T12:38:22+08:00",
   "items": [
+    {
+      "department": "机电工程署",
+      "title": "为香港特别行政区政府各场地内的自动梯装置提供为期三年的全面保养及维修服务(KO27)",
+      "kind": "tender",
+      "reference_no": "1335EM26T",
+      "closing_date": "2026-12-18",
+      "closing_text": "/时间 2026年12月18日（星期五）中午12时。 递交投标书地点投标者必须透过电子投标系统（工程合约）递交电子投标书。逾期递交的投标书，概不受理。 除了递交电子投标书外，投标者也可以选择同时以印本形式递交投标书。递交",
+      "forecast_date": "",
+      "publish_date": "2026-11-02",
+      "source_url": "https://www.emsd.gov.hk/tc/tenders_contracts_and_consultancies/tender_notices/tender_notices/index_id_6607.html",
+      "document_url": "",
+      "source_ids": [
+        "emsd_rss"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-07T12:38:22+08:00",
+      "closing_at": "2026-12-18T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "5dc498fabdd2da7407"
+    },
     {
       "department": "机电工程署",
       "title": "更换大老山隧道通风系统",
@@ -16,7 +36,7 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-11-06T13:04:49+08:00",
+      "verified_at": "2026-11-07T12:38:22+08:00",
       "closing_at": "2026-12-04T12:00:00+08:00",
       "status": "正在招标",
       "id": "8f60c7703321cb90af"
@@ -36,7 +56,7 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-11-06T13:04:49+08:00",
+      "verified_at": "2026-11-07T12:38:22+08:00",
       "closing_at": "2026-12-18T12:00:00+08:00",
       "status": "正在招标",
       "id": "311eb305dd2d39e962"
@@ -56,7 +76,7 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-11-06T13:04:49+08:00",
+      "verified_at": "2026-11-07T12:38:22+08:00",
       "closing_at": "2026-12-11T12:00:00+08:00",
       "status": "正在招标",
       "id": "76cc1d0664306c15ff"
@@ -76,7 +96,7 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-11-06T13:04:49+08:00",
+      "verified_at": "2026-11-07T12:38:22+08:00",
       "closing_at": "2026-12-11T12:00:00+08:00",
       "status": "正在招标",
       "id": "cce868d123e45cdec8"
@@ -96,7 +116,7 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-11-06T13:04:49+08:00",
+      "verified_at": "2026-11-07T12:38:22+08:00",
       "closing_at": "2027-01-08T12:00:00+08:00",
       "status": "正在招标",
       "id": "021c54a905602d9199"
@@ -116,7 +136,7 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-11-06T13:04:49+08:00",
+      "verified_at": "2026-11-07T12:38:22+08:00",
       "closing_at": "2026-12-15T12:00:00+08:00",
       "status": "正在招标",
       "id": "852edda54570d364f5"
@@ -136,7 +156,7 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-11-06T13:04:49+08:00",
+      "verified_at": "2026-11-07T12:38:22+08:00",
       "closing_at": "2026-11-12T12:00:00+08:00",
       "status": "正在招标",
       "id": "bb9f4570f199ed2487"
@@ -156,7 +176,7 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-11-06T13:04:49+08:00",
+      "verified_at": "2026-11-07T12:38:22+08:00",
       "closing_at": "2026-12-15T12:00:00+08:00",
       "status": "正在招标",
       "id": "8f4b23acce51f18a82"

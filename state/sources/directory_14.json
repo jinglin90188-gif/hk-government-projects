@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-06T13:04:49+08:00",
+  "checked_at": "2026-11-07T12:38:22+08:00",
   "items": [
     {
       "department": "建筑署",
@@ -16,7 +16,7 @@
         "directory_14"
       ],
       "review_note": "",
-      "verified_at": "2026-11-06T13:04:49+08:00",
+      "verified_at": "2026-11-07T12:38:22+08:00",
       "closing_at": "2026-11-27T12:00:00+08:00",
       "status": "正在招标",
       "id": "ae5ee746f3548fecc1"
@@ -36,7 +36,7 @@
         "directory_14"
       ],
       "review_note": "",
-      "verified_at": "2026-11-06T13:04:49+08:00",
+      "verified_at": "2026-11-07T12:38:22+08:00",
       "closing_at": "2027-01-08T12:00:00+08:00",
       "status": "正在招标",
       "id": "ce8be5c0a5d4fb5916"
@@ -56,7 +56,7 @@
         "directory_14"
       ],
       "review_note": "不同官方来源的截标日期不一致，需核对最新修订公告",
-      "verified_at": "2026-11-06T13:04:49+08:00",
+      "verified_at": "2026-11-07T12:38:22+08:00",
       "closing_at": "2026-11-27T12:00:00+08:00",
       "status": "状态待核实",
       "title_aliases": [

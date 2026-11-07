@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T13:04:49+08:00",
+  "updated_at": "2026-11-07T12:38:22+08:00",
   "departments": [
     {
       "department": "保安局",
@@ -261,7 +261,7 @@
       "issues": [
         "未登记独立预报入口，仅能依赖中央采购预报覆盖",
         "存在连接失败、待解析或部分解析来源",
-        "5项尚未核实截标日期或当前状态"
+        "4项尚未核实截标日期或当前状态"
       ],
       "tender_sources": 1,
       "forecast_sources": 0,
@@ -272,7 +272,7 @@
       "related_open": 1,
       "related_forecast": 2,
       "scope_counts": {
-        "exclude": 4,
+        "exclude": 3,
         "include": 4,
         "review": 1
       },
@@ -501,12 +501,12 @@
       "source_status": {
         "parsed": 1
       },
-      "open": 16,
+      "open": 17,
       "related_open": 2,
       "related_forecast": 0,
       "scope_counts": {
+        "review": 5,
         "exclude": 10,
-        "review": 4,
         "include": 2
       },
       "unresolved_sources": []
@@ -932,7 +932,7 @@
       "source_status": {
         "parsed": 3
       },
-      "open": 11,
+      "open": 10,
       "related_open": 7,
       "related_forecast": 10,
       "scope_counts": {
@@ -966,12 +966,12 @@
       "source_status": {
         "parsed": 2
       },
-      "open": 2,
+      "open": 3,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
         "exclude": 8,
-        "review": 1
+        "review": 2
       },
       "unresolved_sources": []
     },
