@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-08",
+  "last_run_at": "2026-11-08T12:25:51+08:00",
+  "new": [
+    {
+      "department": "香港金融管理局",
+      "title": "承投低程式码开发平台保养及支援服务",
+      "kind": "tender",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "2026-11-06",
+      "source_url": "https://egazette.gld.gov.hk/pdf?type=cgn&year=2026&volume=30&gno=45&notice_no=7214&extra=0",
+      "document_url": "",
+      "source_ids": [
+        "hkma_api"
+      ],
+      "review_note": "API未提供截标日，需查公告",
+      "verified_at": "2026-11-08T12:25:51+08:00",
+      "status": "状态待核实",
+      "id": "87a662db0113e19c10",
+      "first_seen_at": "2026-11-08T12:25:51+08:00",
+      "change": "new",
+      "last_changed_at": "2026-11-08T12:25:51+08:00",
+      "company_fit": {
+        "decision": "review",
+        "categories": [],
+        "evidence": [],
+        "reason": "标题不足以确认业务范围，需阅读项目文件；不是判定为无关",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "香港金融管理局",
+      "title": "承投建立跨行支付数据分析平台以缓减金融罪行风险的服务",
+      "kind": "tender",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "2026-11-06",
+      "source_url": "https://egazette.gld.gov.hk/pdf?type=cgn&year=2026&volume=30&gno=45&notice_no=7215&extra=0",
+      "document_url": "",
+      "source_ids": [
+        "hkma_api"
+      ],
+      "review_note": "API未提供截标日，需查公告",
+      "verified_at": "2026-11-08T12:25:51+08:00",
+      "status": "状态待核实",
+      "id": "7e3beac14978940247",
+      "first_seen_at": "2026-11-08T12:25:51+08:00",
+      "change": "new",
+      "last_changed_at": "2026-11-08T12:25:51+08:00",
+      "company_fit": {
+        "decision": "include",
+        "categories": [
+          "人工智能及数据治理"
+        ],
+        "evidence": [
+          "数据分析"
+        ],
+        "reason": "采购标题明确涉及人工智能及数据治理",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    }
+  ],
+  "updated": [],
+  "no_longer_seen_ids": [],
+  "note": "未再见到不等于取消或批出；需核实官方公告。"
+}
