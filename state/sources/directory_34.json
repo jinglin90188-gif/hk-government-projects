@@ -1,6 +1,45 @@
 {
-  "checked_at": "2026-11-09T08:27:37+08:00",
+  "checked_at": "2026-11-09T12:39:30+08:00",
   "items": [
+    {
+      "department": "卫生署",
+      "title": "为卫生署胸肺服务辖下胸肺科诊所提供X光诊断报告服务",
+      "kind": "tender",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.dh.gov.hk/tc_chi/tender/tender_303.html",
+      "document_url": "",
+      "source_ids": [
+        "directory_34"
+      ],
+      "review_note": "需从原公告核实截标日期",
+      "verified_at": "2026-11-09T12:39:30+08:00",
+      "status": "状态待核实",
+      "id": "3d86747a9c24339413"
+    },
+    {
+      "department": "卫生署",
+      "title": "招标公告/已批准订立的合约公告",
+      "kind": "tender",
+      "reference_no": "DH/TBC/029/2026-2027",
+      "closing_date": "2026-11-30",
+      "closing_text": "及时间 : 2026年11月30日12时（香港时间） 递交标书 : 标书的信封面必须注明招标编号、投标项目（但不得有任何记认，使人认出投标者的身分）及「政府物流服务署开标委员会主席收」。投标者必须于上述截标日期中午12时（香港时间）前，把标书投入香港北角渣华道333号北角政府合署",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.dh.gov.hk/tc_chi/tender/tender_303.html",
+      "document_url": "",
+      "source_ids": [
+        "directory_34"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-09T12:39:30+08:00",
+      "closing_at": "2026-11-30T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "e4c05258c7270001ce"
+    },
     {
       "department": "卫生署",
       "title": "为卫生署供应黄热病疫苗",
@@ -16,7 +55,7 @@
         "directory_34"
       ],
       "review_note": "",
-      "verified_at": "2026-11-09T08:27:37+08:00",
+      "verified_at": "2026-11-09T12:39:30+08:00",
       "closing_at": "2026-12-10T12:00:00+08:00",
       "status": "正在招标",
       "id": "afb0d223145d99b5a6"

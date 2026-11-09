@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T08:27:37+08:00",
+  "updated_at": "2026-11-09T12:39:30+08:00",
   "departments": [
     {
       "department": "保安局",
@@ -966,11 +966,11 @@
       "source_status": {
         "parsed": 2
       },
-      "open": 3,
+      "open": 2,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 8,
+        "exclude": 7,
         "review": 2
       },
       "unresolved_sources": []
@@ -1538,12 +1538,14 @@
       "department": "香港金融管理局",
       "issues": [
         "未登记独立预报入口，仅能依赖中央采购预报覆盖",
+        "存在连接失败、待解析或部分解析来源",
         "14项尚未核实截标日期或当前状态"
       ],
       "tender_sources": 2,
       "forecast_sources": 0,
       "source_status": {
-        "parsed": 2
+        "parsed": 1,
+        "failed": 1
       },
       "open": 0,
       "related_open": 0,
@@ -1552,7 +1554,13 @@
         "include": 12,
         "review": 2
       },
-      "unresolved_sources": []
+      "unresolved_sources": [
+        {
+          "id": "hkma_api",
+          "url": "https://api.hkma.gov.hk/public/tender-invitations?lang=tc&segment=tender",
+          "status": "failed"
+        }
+      ]
     }
   ],
   "note": "逐部门检查已登记来源、解析结果和当前状态；不等于每份招标文件已经人工逐页核实。中央平台不能代替部门来源补齐。"
