@@ -1,16 +1,88 @@
 {
-  "updated_at": "2026-11-09T12:39:30+08:00",
+  "updated_at": "2026-11-10T13:55:51+08:00",
   "baseline": false,
-  "compared_with": "2026-11-09T08:27:37+08:00",
+  "compared_with": "2026-11-09T12:39:30+08:00",
   "new_count": 0,
-  "updated_count": 0,
-  "unchanged_count": 524,
+  "updated_count": 2,
+  "unchanged_count": 521,
   "no_longer_seen_count": 1,
   "new_ids": [],
-  "updated_ids": [],
+  "updated_ids": [
+    "bec409170977a57a4c",
+    "26d4ebf2aabdde0428"
+  ],
   "no_longer_seen_ids": [
-    "d03fb1a3dc5c4c0fc2"
+    "24ba87271e94a24fa9"
   ],
   "new": [],
-  "updated": []
+  "updated": [
+    {
+      "department": "数字政策办公室",
+      "title": "招标承投为数字政策办公室的数据备份系统供应硬件和提供相关服务",
+      "kind": "tender",
+      "reference_no": "DPO-055-074-003-022",
+      "closing_date": "2026-11-10",
+      "closing_text": "2026年11月10日正午12时（香港时间）",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.digitalpolicy.gov.hk/tc/our_work/digital_infrastructure/business_window/tender_eoi_rfp/tender_dpo-055-074-003-022.html",
+      "document_url": "",
+      "source_ids": [
+        "directory_25"
+      ],
+      "review_note": "本次来源未能完整提取，保留上次成功记录；当前状态待核实",
+      "verified_at": "2026-10-26T13:22:04+08:00",
+      "closing_at": "2026-11-10T12:00:00+08:00",
+      "status": "状态待核实",
+      "id": "bec409170977a57a4c",
+      "stale": true,
+      "last_success_at": "2026-10-26T13:22:04+08:00",
+      "first_seen_at": "2026-10-26T13:00:02+08:00",
+      "change": "updated",
+      "last_changed_at": "2026-11-10T13:55:51+08:00",
+      "company_fit": {
+        "decision": "include",
+        "categories": [
+          "算力、云及数据中心"
+        ],
+        "evidence": [
+          "备份系统"
+        ],
+        "reason": "采购标题明确涉及算力、云及数据中心",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "环境保护署",
+      "title": "为九龙东及九龙西提供厨余回收流动点营运及厨余回收宣传推广服务招标简介会文件 (发出日期: 2026年10月23日) (只提供英文版本 ) 招标文件增编一 (发出日期: 2026年10月29日) (只提供英文版本) 回应有关招标文件的第一轮提问 (发出日期: 2026年11月05日) (只提供英文版本)",
+      "kind": "tender",
+      "reference_no": "FRR26011",
+      "closing_date": "2026-11-10",
+      "closing_text": "2026年11月10日中午12时",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.epd.gov.hk/epd/tc_chi/business_job/business_opp/tender.html",
+      "document_url": "https://www.epd.gov.hk/epd/sites/default/files/epd/tc_chi/business_job/business_opp/files/FRR26011_chi.pdf",
+      "source_ids": [
+        "directory_22"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-10T13:55:51+08:00",
+      "closing_at": "2026-11-10T12:00:00+08:00",
+      "status": "已截标",
+      "id": "26d4ebf2aabdde0428",
+      "first_seen_at": "2026-10-26T13:00:02+08:00",
+      "change": "updated",
+      "last_changed_at": "2026-11-10T13:55:51+08:00",
+      "company_fit": {
+        "decision": "exclude",
+        "categories": [],
+        "evidence": [],
+        "reason": "采购内容属于非技术服务及一般建设，未见相关数字化范围",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    }
+  ]
 }
