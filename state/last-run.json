@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T10:20:25+08:00",
+  "updated_at": "2026-11-11T12:42:13+08:00",
   "stats": {
     "records": 522,
     "open": 91,
@@ -24,21 +24,17 @@
     ],
     "sources_needing_review": 33,
     "core_sources_ok": 3,
-    "checked_at": "2026-11-11T10:20:25+08:00"
+    "checked_at": "2026-11-11T12:42:13+08:00"
   },
   "changes": {
     "baseline": false,
-    "compared_with": "2026-11-10T13:55:51+08:00",
+    "compared_with": "2026-11-11T10:20:25+08:00",
     "new_count": 0,
-    "updated_count": 1,
-    "unchanged_count": 521,
-    "no_longer_seen_count": 1,
+    "updated_count": 0,
+    "unchanged_count": 522,
+    "no_longer_seen_count": 0,
     "new_ids": [],
-    "updated_ids": [
-      "bec409170977a57a4c"
-    ],
-    "no_longer_seen_ids": [
-      "26d4ebf2aabdde0428"
-    ]
+    "updated_ids": [],
+    "no_longer_seen_ids": []
   }
 }
