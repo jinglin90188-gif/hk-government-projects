@@ -1,0 +1,48 @@
+{
+  "date": "2026-11-11",
+  "last_run_at": "2026-11-11T10:20:25+08:00",
+  "new": [],
+  "updated": [
+    {
+      "department": "数字政策办公室",
+      "title": "招标承投为数字政策办公室的数据备份系统供应硬件和提供相关服务",
+      "kind": "tender",
+      "reference_no": "DPO-055-074-003-022",
+      "closing_date": "2026-11-10",
+      "closing_text": "2026年11月10日正午12时（香港时间）",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.digitalpolicy.gov.hk/tc/our_work/digital_infrastructure/business_window/tender_eoi_rfp/tender_dpo-055-074-003-022.html",
+      "document_url": "",
+      "source_ids": [
+        "directory_25"
+      ],
+      "review_note": "本次来源未能完整提取，保留上次成功记录；当前状态待核实",
+      "verified_at": "2026-10-26T13:22:04+08:00",
+      "closing_at": "2026-11-10T12:00:00+08:00",
+      "status": "已截标",
+      "id": "bec409170977a57a4c",
+      "stale": true,
+      "last_success_at": "2026-10-26T13:22:04+08:00",
+      "first_seen_at": "2026-10-26T13:00:02+08:00",
+      "change": "updated",
+      "last_changed_at": "2026-11-11T10:20:25+08:00",
+      "company_fit": {
+        "decision": "include",
+        "categories": [
+          "算力、云及数据中心"
+        ],
+        "evidence": [
+          "备份系统"
+        ],
+        "reason": "采购标题明确涉及算力、云及数据中心",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    }
+  ],
+  "no_longer_seen_ids": [
+    "26d4ebf2aabdde0428"
+  ],
+  "note": "未再见到不等于取消或批出；需核实官方公告。"
+}

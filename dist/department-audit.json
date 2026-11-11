@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T13:55:51+08:00",
+  "updated_at": "2026-11-11T10:20:25+08:00",
   "departments": [
     {
       "department": "保安局",
@@ -863,8 +863,7 @@
       "department": "数字政策办公室",
       "issues": [
         "未登记独立预报入口，仅能依赖中央采购预报覆盖",
-        "存在连接失败、待解析或部分解析来源",
-        "1项尚未核实截标日期或当前状态"
+        "存在连接失败、待解析或部分解析来源"
       ],
       "tender_sources": 1,
       "forecast_sources": 0,
@@ -1174,7 +1173,7 @@
       "related_open": 1,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 8,
+        "exclude": 7,
         "include": 1
       },
       "unresolved_sources": []
