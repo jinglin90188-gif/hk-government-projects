@@ -79,11 +79,30 @@ def collect(spec):
         if sid=='institution_airport':
             rows=parse_airport(soup,spec['url'],make_record)
             if not rows:raise ValueError('未识别机场列表结构，不能判定暂无项目')
+            try:
+                chinese=get(spec['url'].replace('/en/','/tc/'))
+                for box in chinese.select('div.data'):
+                    ref=box.select_one('.contractData');title=box.select_one('.titleData')
+                    if not ref or not title:continue
+                    text=title.get_text(' ',strip=True)
+                    if not re.search(r'[\u4e00-\u9fff]',text):continue
+                    for r in rows:
+                        if r['reference_no']==ref.get_text(' ',strip=True):r.update(title_zh=text,title_source='机构中文原文')
+            except Exception:report['chinese_note']='中文页暂不可用，保留已核实译述及英文原题'
         elif sid=='institution_mtr':
             errors=[]
             for name in ['or','new_projects','property_services','marketing','others','sales']:
                 url='https://www.mtr.com.hk/en/corporate/tenders/'+name+'.html'
-                try:rows.extend(parse_mtr(get(url),url))
+                try:
+                    found=parse_mtr(get(url),url)
+                    try:
+                        chinese=get(url.replace('/en/','/ch/'))
+                        titles={b.select_one('.reference_info_title').get_text(' ',strip=True).replace('編號','').strip():b.select_one('table td:nth-of-type(2)').get_text(' ',strip=True) for b in chinese.select('.reference_info') if b.select_one('.reference_info_title') and b.select_one('table td:nth-of-type(2)')}
+                        for r in found:
+                            if r['reference_no'] in titles:
+                                r.update(title_zh=titles[r['reference_no']],title_source='机构中文原文',source_url=url.replace('/en/','/ch/'))
+                    except Exception as e:errors.append('中文标题核查失败：'+str(e)[:100])
+                    rows.extend(found)
                 except Exception as e:errors.append(str(e)[:150])
             if errors:report['errors']=errors
             if not rows:raise ValueError('未取得港铁采购计划')
@@ -107,8 +126,9 @@ def collect(spec):
             'Q118570':'港铁智能动态列车检测系统采购计划',
             'Q118440':'港铁新列车驾驶室模拟器及车站、车务人员培训设施采购计划',
             'Q121245':'港铁高铁紧急通信系统更换采购计划',
+            'Q119427':'供应电动私家车',
         }
-        if r['reference_no'] in translations:r['title_zh']=translations[r['reference_no']]
+        if r['reference_no'] in translations and not r.get('title_zh'):r.update(title_zh=translations[r['reference_no']],title_source='中文译述')
         if r['reference_no']=='ACDM/RFI/2026':
             # Verify exact deadline against the public detail, never infer a time from a date-only list.
             try:
@@ -117,7 +137,28 @@ def collect(spec):
             except Exception: r['detail_unverified']=True
             r['title_zh']='香港国际机场协同决策系统（ACDM）供应、实施及综合保养服务信息征询'
         if r.get('closing_at') and datetime.fromisoformat(r['closing_at'])<=NOW:r['status']='已截标'
+        if spec['id']=='institution_airport' and not r.get('title_zh'):
+            airport_titles={
+                'RAD/26-027 & RAD/26-028':'烟酒产品及香水与化妆品经营牌照',
+                'RAD/ 26-032':'生活精品经营牌照', 'RAD/ 26-026':'二号客运大楼客运廊咖啡店经营牌照',
+                'RAD/ 26-031':'玩具及生活精品／包装食品经营牌照',
+                'PRO/T569/26/SW':'机场一般土木工程保养、改善及翻新定期合约',
+                'RAD/ 26-029':'西式快餐经营牌照','RAD/ 26-030':'美食广场经营牌照',
+                'PRO/T594/26/TC':'香港国际机场媒体投放服务框架协议',
+                'Contract E3010':'机场城市海湾区海滨长廊工程（含标志性行人桥）资格预审',
+            }
+            if r['reference_no'] in airport_titles:r.update(title_zh=airport_titles[r['reference_no']],title_source='中文译述')
+        r['business_categories']=business_categories(r)
+        r['forecast_display']=re.sub(r'([1-4])Q/(20\d{2})',lambda m:f'{m[2]}年第{m[1]}季',r.get('forecast_date','')).replace('Completed','已完成').replace('Not Applicable','不适用').replace('TBA','待公布')
+        r['notes']=r.get('notes','').replace('Completed','已完成').replace('Not Applicable','不适用')
     return report,rows
+
+def business_categories(row):
+    text=' '.join(str(row.get(k,'') or '') for k in ['title','title_zh'])
+    categories=[]
+    if re.search(r'系统|系統|软件|軟件|數據|数据|數碼|数字|網絡|网络|通信|通訊|智能|智慧|仿真|模擬|模拟|信息|資訊|system|software|platform|network|digital|data|cyber|simulator|telemetry|IoT|DESFire',text,re.I):categories.append('系统与数字化')
+    if re.search(r'工程|建造|土木|建筑|建築|設備|设备|裝置|装置|機械|机械|列車|列车|車輛|车辆|供電|供电|安装|安裝|翻新|冷氣|空調|work[s]?\b|construction|equipment|installation|machine|train|vehicle|electrical',text,re.I):categories.append('工程与设备')
+    return categories or ['其他采购与服务']
 
 def main():
     specs=[dict(s) for s in SOURCES]

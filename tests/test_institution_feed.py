@@ -7,6 +7,10 @@ spec=importlib.util.spec_from_file_location('feed',Path(__file__).resolve().pare
 feed=importlib.util.module_from_spec(spec);spec.loader.exec_module(feed)
 
 class FeedTests(unittest.TestCase):
+    def test_systems_not_hidden_by_old_business_fit(self):
+        self.assertIn('系统与数字化',feed.business_categories({'title':'Building Automation System'}))
+        self.assertIn('工程与设备',feed.business_categories({'title':'Civil construction works'}))
+        self.assertEqual(feed.business_categories({'title':'Catering concession'}),['其他采购与服务'])
     def test_completed_mtr_is_not_open_or_future(self):
         soup=BeautifulSoup('<div class="reference_info"><div class="reference_info_title">Reference No. Q1</div><table><tr><td>Title or Scope</td><td>Smart Dynamic Train Inspection System</td></tr><tr><td>Anticipated Date for Invitation to Tender</td><td>Completed</td></tr></table></div>','html.parser')
         rows=feed.parse_mtr(soup,'https://www.mtr.com.hk/')
