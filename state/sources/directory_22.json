@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-12T17:54:38+08:00",
+  "checked_at": "2026-11-13T13:02:07+08:00",
   "items": [
     {
       "department": "环境保护署",
@@ -16,18 +16,18 @@
         "directory_22"
       ],
       "review_note": "",
-      "verified_at": "2026-11-12T17:54:38+08:00",
+      "verified_at": "2026-11-13T13:02:07+08:00",
       "closing_at": "2026-11-17T12:00:00+08:00",
       "status": "正在招标",
       "id": "dc5d5de79dbd7c58eb"
     },
     {
       "department": "环境保护署",
-      "title": "为废电器电子产品处理及回收设施提供收集及营运服务招标简介会文件 (发出日期: 2026年9月10日) (只提供英文版本) 回应有关招标文件的第一轮提问 (发出日期: 2026年9月21日) (只提供英文版本) 回应有关招标文件的第二轮提问 (发出日期: 2026年9月30日) (只提供英文版本) 回应有关招标文件的第三轮提问 (发出日期: 2026年10月30日) (只提供英文版本) 招标文件增编一 (发出日期: 2026年10月2日) (只提供英文版本) 招标文件增编二 (发出日期: 2026年10月23日) (只提供英文版本)",
+      "title": "为废电器电子产品处理及回收设施提供收集及营运服务招标简介会文件 (发出日期: 2026年9月10日) (只提供英文版本) 回应有关招标文件的第一轮提问 (发出日期: 2026年9月21日) (只提供英文版本) 回应有关招标文件的第二轮提问 (发出日期: 2026年9月30日) (只提供英文版本) 回应有关招标文件的第三轮提问 (发出日期: 2026年10月30日) (只提供英文版本) 回应有关招标文件的第四轮提问 (发出日期: 2026年11月13日) (只提供英文版本) 招标文件增编一 (发出日期: 2026年10月2日) (只提供英文版本) 招标文件增编二 (发出日期: 2026年10月23日) (只提供英文版本) 招标文件增编三 (发出日期: 2026年11月13日) (只提供英文版本)",
       "kind": "tender",
       "reference_no": "WMS25017",
-      "closing_date": "2026-11-20",
-      "closing_text": "2026年11月20日中午12时 (延期自原定日期及时间2026年10月30日中午12时)",
+      "closing_date": "2026-12-04",
+      "closing_text": "2026年12月4日中午12时 (延期自原定日期和时间2026年11月20日中午12时)",
       "forecast_date": "",
       "publish_date": "",
       "source_url": "https://www.epd.gov.hk/epd/tc_chi/business_job/business_opp/tender.html",
@@ -36,10 +36,30 @@
         "directory_22"
       ],
       "review_note": "",
-      "verified_at": "2026-11-12T17:54:38+08:00",
-      "closing_at": "2026-11-20T12:00:00+08:00",
+      "verified_at": "2026-11-13T13:02:07+08:00",
+      "closing_at": "2026-12-04T12:00:00+08:00",
       "status": "正在招标",
       "id": "cba1bb366681486a58"
+    },
+    {
+      "department": "环境保护署",
+      "title": "为设立及营运区域性社区回收网络提供服务招标简介会登记表格 (只提供英文版本)",
+      "kind": "tender",
+      "reference_no": "WRR26047",
+      "closing_date": "2026-12-31",
+      "closing_text": "2026年12月31日中午12时",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.epd.gov.hk/epd/tc_chi/business_job/business_opp/tender.html",
+      "document_url": "https://www.epd.gov.hk/epd/sites/default/files/epd/tc_chi/business_job/business_opp/files/WRR26047_chi.pdf",
+      "source_ids": [
+        "directory_22"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-13T13:02:07+08:00",
+      "closing_at": "2026-12-31T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "33f0922992178e025f"
     }
   ]
 }

@@ -1,0 +1,339 @@
+{
+  "date": "2026-11-13",
+  "last_run_at": "2026-11-13T13:02:07+08:00",
+  "new": [
+    {
+      "department": "康乐及文化事务署",
+      "title": "为康乐及文化事务署辖下的香港公共图书馆提供改装货车的租赁服务",
+      "kind": "tender",
+      "reference_no": "LCT 6005/26(S)",
+      "closing_date": "2026-12-29",
+      "closing_text": "2026-12-29 12:00:00",
+      "forecast_date": "",
+      "publish_date": "2026-11-13",
+      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=LCT 6005/26(S)",
+      "document_url": "",
+      "source_ids": [
+        "directory_32",
+        "etb_xml"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-13T13:02:07+08:00",
+      "notes": "为康乐及文化事务署辖下的香港公共图书馆提供改装货车的租赁服务, 为期36个月, 由2027年5月1日起至2030年4月30日止。",
+      "closing_at": "2026-12-29T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "98be8a08c6cfef33a4",
+      "title_aliases": [
+        "为康乐及文化事务署辖下的香港公共图书馆提供改装货车的租赁服务"
+      ],
+      "title_zh": "为康乐及文化事务署辖下的香港公共图书馆提供改装货车的租赁服务",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "first_seen_at": "2026-11-13T13:02:07+08:00",
+      "change": "new",
+      "last_changed_at": "2026-11-13T13:02:07+08:00",
+      "company_fit": {
+        "decision": "exclude",
+        "categories": [],
+        "evidence": [],
+        "reason": "采购内容属于一般服务及传统机电工程，未见相关数字化范围",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "康乐及文化事务署",
+      "title": "为石塘咀市政大厦提供洁净及辅助服务",
+      "kind": "tender",
+      "reference_no": "LCT 6007/26(S)",
+      "closing_date": "2026-12-29",
+      "closing_text": "2026-12-29 12:00:00",
+      "forecast_date": "",
+      "publish_date": "2026-11-13",
+      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=LCT 6007/26(S)",
+      "document_url": "",
+      "source_ids": [
+        "directory_32",
+        "etb_xml"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-13T13:02:07+08:00",
+      "notes": "为石塘咀市政大厦提供洁净及辅助服务, 为期36个月, 由2027年6月1日起至2030年5月31日止。",
+      "closing_at": "2026-12-29T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "1bc1b151532c1f8c09",
+      "title_aliases": [
+        "为石塘咀市政大厦提供洁净及辅助服务"
+      ],
+      "title_zh": "为石塘咀市政大厦提供洁净及辅助服务",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "first_seen_at": "2026-11-13T13:02:07+08:00",
+      "change": "new",
+      "last_changed_at": "2026-11-13T13:02:07+08:00",
+      "company_fit": {
+        "decision": "exclude",
+        "categories": [],
+        "evidence": [],
+        "reason": "采购内容属于一般服务及传统机电工程，未见相关数字化范围",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "建筑署",
+      "title": "九龙黄大仙摩士公园(三号公园)4号足球场翻修工程",
+      "kind": "tender",
+      "reference_no": "RF P801",
+      "closing_date": "2026-12-11",
+      "closing_text": "2026/12/11 12:00",
+      "forecast_date": "",
+      "publish_date": "2026-11-13",
+      "source_url": "https://www.archsd.gov.hk/tc/tenders-notices/works/tender-notices-not-published-in-government-gazette/RF P801.html",
+      "document_url": "",
+      "source_ids": [
+        "directory_14"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-13T13:02:07+08:00",
+      "closing_at": "2026-12-11T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "8c020658bff7078010",
+      "first_seen_at": "2026-11-13T13:02:07+08:00",
+      "change": "new",
+      "last_changed_at": "2026-11-13T13:02:07+08:00",
+      "company_fit": {
+        "decision": "review",
+        "categories": [],
+        "evidence": [],
+        "reason": "标题不足以确认业务范围，需阅读项目文件；不是判定为无关",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "水务署",
+      "title": "为水务署供应 15 毫米水表",
+      "kind": "tender",
+      "reference_no": "WSDT26B004",
+      "closing_date": "2026-12-30",
+      "closing_text": "2026-12-30 12:00:00",
+      "forecast_date": "",
+      "publish_date": "2026-11-13",
+      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=WSDT26B004",
+      "document_url": "",
+      "source_ids": [
+        "etb_xml"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-13T13:02:07+08:00",
+      "notes": "用于计量供给用户的食水用量",
+      "closing_at": "2026-12-30T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "d1d541f1bf92b381ab",
+      "first_seen_at": "2026-11-13T13:02:07+08:00",
+      "change": "new",
+      "last_changed_at": "2026-11-13T13:02:07+08:00",
+      "company_fit": {
+        "decision": "review",
+        "categories": [],
+        "evidence": [],
+        "reason": "标题不足以确认业务范围，需阅读项目文件；不是判定为无关",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "渔农自然护理署",
+      "title": "为九龙启德承佑街16号动物管理及动物福利综合大楼提供大厦管理服务",
+      "kind": "tender",
+      "reference_no": "AFCD/IQ/AMO/01/26",
+      "closing_date": "2027-01-08",
+      "closing_text": "2027-01-08 12:00:00",
+      "forecast_date": "",
+      "publish_date": "2026-11-13",
+      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=AFCD/IQ/AMO/01/26",
+      "document_url": "",
+      "source_ids": [
+        "etb_xml"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-13T13:02:07+08:00",
+      "notes": "请参阅招标文件",
+      "closing_at": "2027-01-08T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "c4bbf523304aa26c68",
+      "first_seen_at": "2026-11-13T13:02:07+08:00",
+      "change": "new",
+      "last_changed_at": "2026-11-13T13:02:07+08:00",
+      "company_fit": {
+        "decision": "review",
+        "categories": [],
+        "evidence": [],
+        "reason": "标题不足以确认业务范围，需阅读项目文件；不是判定为无关",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "环境保护署",
+      "title": "为设立及营运区域性社区回收网络提供服务招标简介会登记表格 (只提供英文版本)",
+      "kind": "tender",
+      "reference_no": "WRR26047",
+      "closing_date": "2026-12-31",
+      "closing_text": "2026年12月31日中午12时",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.epd.gov.hk/epd/tc_chi/business_job/business_opp/tender.html",
+      "document_url": "https://www.epd.gov.hk/epd/sites/default/files/epd/tc_chi/business_job/business_opp/files/WRR26047_chi.pdf",
+      "source_ids": [
+        "directory_22"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-13T13:02:07+08:00",
+      "closing_at": "2026-12-31T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "33f0922992178e025f",
+      "first_seen_at": "2026-11-13T13:02:07+08:00",
+      "change": "new",
+      "last_changed_at": "2026-11-13T13:02:07+08:00",
+      "company_fit": {
+        "decision": "review",
+        "categories": [],
+        "evidence": [],
+        "reason": "标题不足以确认业务范围，需阅读项目文件；不是判定为无关",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    }
+  ],
+  "updated": [
+    {
+      "department": "律政司",
+      "title": "为律政司辖下的律政中心和前法国外方传道会大楼提供物业及设施管理服务",
+      "kind": "tender",
+      "reference_no": "DOJ/T/02/2026",
+      "closing_date": "2026-11-13",
+      "closing_text": "及时间: 2026 年 11 月 13 日正午 12 时（香港时间） 递交标书: 电子投标 (i) 电子形式标书必须于截止投标日期正午 12:00（香港时间） 前 ， 根据招标文件内指明的要求以及使用",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.doj.gov.hk/tc/tender/pdf/tender_dojt022026c.pdf",
+      "document_url": "https://www.doj.gov.hk/tc/tender/pdf/tender_dojt022026c.pdf",
+      "source_ids": [
+        "directory_80"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-13T13:02:07+08:00",
+      "document_verified": true,
+      "closing_at": "2026-11-13T12:00:00+08:00",
+      "status": "已截标",
+      "title_aliases": [
+        "为律政司辖下的律政中心和前法国外方传道会大楼提供物业及设施管理服务"
+      ],
+      "title_zh": "为律政司辖下的律政中心和前法国外方传道会大楼提供物业及设施管理服务",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "notes": "",
+      "id": "f70141acc8d4f7f6ff",
+      "first_seen_at": "2026-10-26T13:00:02+08:00",
+      "change": "updated",
+      "last_changed_at": "2026-11-13T13:02:07+08:00",
+      "company_fit": {
+        "decision": "exclude",
+        "categories": [],
+        "evidence": [],
+        "reason": "采购内容属于一般服务及传统机电工程，未见相关数字化范围",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "机电工程署",
+      "title": "Supply of large saloon cars (special duties) to the Electrical and Mechanical Services Department, the vehicles to be ready for use within 12 months from the contract date.",
+      "kind": "tender",
+      "reference_no": "EMSSSD0226",
+      "closing_date": "2026-11-12",
+      "closing_text": "12.11.2026",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.emsd.gov.hk/en/tenders_contracts_and_consultancies/tender_notices/tender_notices/index_id_6589.html",
+      "document_url": "",
+      "source_ids": [
+        "directory_13"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-13T13:02:07+08:00",
+      "status": "已截标",
+      "title_aliases": [
+        "Supply of large saloon cars (special duties) to the Electrical and Mechanical Services Department, the vehicles to be ready for use within 12 months from the contract date.",
+        "为机电工程署供应大型房车(特别职务)，车辆须在合约生效日期起计12个月内可供使用。"
+      ],
+      "closing_at": "",
+      "title_zh": "为机电工程署供应大型房车(特别职务)，车辆须在合约生效日期起计12个月内可供使用。",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "notes": "",
+      "id": "bb9f4570f199ed2487",
+      "first_seen_at": "2026-10-26T13:00:02+08:00",
+      "change": "updated",
+      "last_changed_at": "2026-11-13T13:02:07+08:00",
+      "company_fit": {
+        "decision": "exclude",
+        "categories": [],
+        "evidence": [],
+        "reason": "采购内容属于一般服务及传统机电工程，未见相关数字化范围",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "环境保护署",
+      "title": "为废电器电子产品处理及回收设施提供收集及营运服务招标简介会文件 (发出日期: 2026年9月10日) (只提供英文版本) 回应有关招标文件的第一轮提问 (发出日期: 2026年9月21日) (只提供英文版本) 回应有关招标文件的第二轮提问 (发出日期: 2026年9月30日) (只提供英文版本) 回应有关招标文件的第三轮提问 (发出日期: 2026年10月30日) (只提供英文版本) 回应有关招标文件的第四轮提问 (发出日期: 2026年11月13日) (只提供英文版本) 招标文件增编一 (发出日期: 2026年10月2日) (只提供英文版本) 招标文件增编二 (发出日期: 2026年10月23日) (只提供英文版本) 招标文件增编三 (发出日期: 2026年11月13日) (只提供英文版本)",
+      "kind": "tender",
+      "reference_no": "WMS25017",
+      "closing_date": "2026-12-04",
+      "closing_text": "2026年12月4日中午12时 (延期自原定日期和时间2026年11月20日中午12时)",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.epd.gov.hk/epd/tc_chi/business_job/business_opp/tender.html",
+      "document_url": "https://www.epd.gov.hk/epd/sites/default/files/epd/tc_chi/business_job/business_opp/files/WMS25017_chi.pdf",
+      "source_ids": [
+        "directory_22"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-13T13:02:07+08:00",
+      "closing_at": "2026-12-04T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "cba1bb366681486a58",
+      "first_seen_at": "2026-10-26T13:00:02+08:00",
+      "change": "updated",
+      "last_changed_at": "2026-11-13T13:02:07+08:00",
+      "company_fit": {
+        "decision": "include",
+        "categories": [],
+        "evidence": [
+          "电子"
+        ],
+        "reason": "正在招标，涉及相邻业务（电子），保留以核对可参与部分",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    }
+  ],
+  "no_longer_seen_ids": [
+    "0c76ac4f39320de92e",
+    "3ef367ad694d7e98b5",
+    "66f9bc252ca0b497d6",
+    "8f58cf714da23bacc3",
+    "9924038f0d74b8b698",
+    "9d7d3e5dda923bdee7",
+    "ad508f8480e2f00fdb",
+    "f9956652bf1689e28c",
+    "fb3c2ad391ad1164eb"
+  ],
+  "note": "未再见到不等于取消或批出；需核实官方公告。"
+}

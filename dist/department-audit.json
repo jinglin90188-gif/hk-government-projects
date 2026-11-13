@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T12:42:13+08:00",
+  "updated_at": "2026-11-13T13:02:07+08:00",
   "departments": [
     {
       "department": "保安局",
@@ -71,14 +71,12 @@
       "tender_sources": 1,
       "forecast_sources": 0,
       "source_status": {
-        "parsed": 1
+        "empty": 1
       },
-      "open": 1,
+      "open": 0,
       "related_open": 0,
       "related_forecast": 0,
-      "scope_counts": {
-        "exclude": 1
-      },
+      "scope_counts": {},
       "unresolved_sources": []
     },
     {
@@ -502,12 +500,12 @@
         "parsed": 1
       },
       "open": 17,
-      "related_open": 2,
+      "related_open": 1,
       "related_forecast": 0,
       "scope_counts": {
         "review": 5,
-        "exclude": 10,
-        "include": 2
+        "exclude": 11,
+        "include": 1
       },
       "unresolved_sources": []
     },
@@ -539,12 +537,12 @@
       "source_status": {
         "parsed": 4
       },
-      "open": 2,
+      "open": 3,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
         "exclude": 14,
-        "review": 14
+        "review": 15
       },
       "unresolved_sources": []
     },
@@ -558,11 +556,11 @@
       "source_status": {
         "parsed": 1
       },
-      "open": 1,
-      "related_open": 1,
+      "open": 0,
+      "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
-        "include": 1
+        "exclude": 1
       },
       "unresolved_sources": []
     },
@@ -577,11 +575,10 @@
       "source_status": {
         "unparsed": 1
       },
-      "open": 2,
+      "open": 1,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
-        "review": 1,
         "exclude": 1
       },
       "unresolved_sources": [
@@ -932,12 +929,12 @@
       "source_status": {
         "parsed": 3
       },
-      "open": 10,
-      "related_open": 7,
+      "open": 9,
+      "related_open": 6,
       "related_forecast": 10,
       "scope_counts": {
-        "exclude": 77,
-        "include": 22,
+        "exclude": 78,
+        "include": 21,
         "review": 26
       },
       "unresolved_sources": []
@@ -1025,12 +1022,12 @@
         "parsed": 2,
         "empty": 1
       },
-      "open": 1,
+      "open": 2,
       "related_open": 1,
       "related_forecast": 0,
       "scope_counts": {
         "exclude": 31,
-        "review": 2,
+        "review": 3,
         "include": 1
       },
       "unresolved_sources": []
@@ -1119,11 +1116,12 @@
       "source_status": {
         "unparsed": 1
       },
-      "open": 5,
+      "open": 6,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 7
+        "exclude": 7,
+        "review": 1
       },
       "unresolved_sources": [
         {
@@ -1169,12 +1167,13 @@
       "source_status": {
         "parsed": 2
       },
-      "open": 2,
+      "open": 3,
       "related_open": 1,
       "related_forecast": 0,
       "scope_counts": {
         "exclude": 7,
-        "include": 1
+        "include": 1,
+        "review": 1
       },
       "unresolved_sources": []
     },
@@ -1415,11 +1414,11 @@
       "source_status": {
         "parsed": 2
       },
-      "open": 4,
+      "open": 2,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 14,
+        "exclude": 12,
         "review": 1
       },
       "unresolved_sources": []
@@ -1502,12 +1501,12 @@
       "source_status": {
         "parsed": 1
       },
-      "open": 7,
-      "related_open": 3,
+      "open": 4,
+      "related_open": 2,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 20,
-        "include": 3
+        "exclude": 18,
+        "include": 2
       },
       "unresolved_sources": []
     },

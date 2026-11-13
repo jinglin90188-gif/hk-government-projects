@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-12T17:54:38+08:00",
+  "checked_at": "2026-11-13T13:02:07+08:00",
   "items": [
     {
       "department": "食物环境卫生署",
@@ -16,50 +16,10 @@
         "directory_31"
       ],
       "review_note": "",
-      "verified_at": "2026-11-12T17:54:38+08:00",
+      "verified_at": "2026-11-13T13:02:07+08:00",
       "closing_at": "2026-12-11T12:00:00+08:00",
       "status": "正在招标",
       "id": "befaaa9c2e006b9c79"
-    },
-    {
-      "department": "食物环境卫生署",
-      "title": "为东区提供街道洁净及公厕洁净与相关服务",
-      "kind": "tender",
-      "reference_no": "FEHQ 5009/26",
-      "closing_date": "2026-11-13",
-      "closing_text": "2026年 11 月 13 日 ( 日期 ) 中午 12:00 ( 香港时间 ) ( 逾期的投标概不受理 )",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.fehd.gov.hk/tc_chi/tenders/details/FEHQ%205009_26.html",
-      "document_url": "",
-      "source_ids": [
-        "directory_31"
-      ],
-      "review_note": "",
-      "verified_at": "2026-11-12T17:54:38+08:00",
-      "closing_at": "2026-11-13T12:00:00+08:00",
-      "status": "正在招标",
-      "id": "f9956652bf1689e28c"
-    },
-    {
-      "department": "食物环境卫生署",
-      "title": "为深水埗区提供街道洁净及公厕洁净与相关服务",
-      "kind": "tender",
-      "reference_no": "FEHQ 5010/26",
-      "closing_date": "2026-11-13",
-      "closing_text": "2026年 11 月 13 日 ( 日期 ) 中午 12:00 ( 香港时间 ) ( 逾期的投标概不受理 )",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.fehd.gov.hk/tc_chi/tenders/details/FEHQ%205010_26.html",
-      "document_url": "",
-      "source_ids": [
-        "directory_31"
-      ],
-      "review_note": "",
-      "verified_at": "2026-11-12T17:54:38+08:00",
-      "closing_at": "2026-11-13T12:00:00+08:00",
-      "status": "正在招标",
-      "id": "0c76ac4f39320de92e"
     },
     {
       "department": "食物环境卫生署",
@@ -76,7 +36,7 @@
         "directory_31"
       ],
       "review_note": "",
-      "verified_at": "2026-11-12T17:54:38+08:00",
+      "verified_at": "2026-11-13T13:02:07+08:00",
       "closing_at": "2026-12-18T12:00:00+08:00",
       "status": "正在招标",
       "id": "832ceda992d3d7f71c"
