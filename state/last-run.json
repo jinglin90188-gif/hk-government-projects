@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T13:02:07+08:00",
+  "updated_at": "2026-11-14T12:54:45+08:00",
   "stats": {
     "records": 519,
     "open": 86,
@@ -24,38 +24,17 @@
     ],
     "sources_needing_review": 33,
     "core_sources_ok": 3,
-    "checked_at": "2026-11-13T13:02:07+08:00"
+    "checked_at": "2026-11-14T12:54:45+08:00"
   },
   "changes": {
     "baseline": false,
-    "compared_with": "2026-11-11T12:42:13+08:00",
-    "new_count": 6,
-    "updated_count": 3,
-    "unchanged_count": 510,
-    "no_longer_seen_count": 9,
-    "new_ids": [
-      "98be8a08c6cfef33a4",
-      "1bc1b151532c1f8c09",
-      "8c020658bff7078010",
-      "d1d541f1bf92b381ab",
-      "c4bbf523304aa26c68",
-      "33f0922992178e025f"
-    ],
-    "updated_ids": [
-      "f70141acc8d4f7f6ff",
-      "bb9f4570f199ed2487",
-      "cba1bb366681486a58"
-    ],
-    "no_longer_seen_ids": [
-      "9924038f0d74b8b698",
-      "3ef367ad694d7e98b5",
-      "8f58cf714da23bacc3",
-      "ad508f8480e2f00fdb",
-      "f9956652bf1689e28c",
-      "0c76ac4f39320de92e",
-      "66f9bc252ca0b497d6",
-      "9d7d3e5dda923bdee7",
-      "fb3c2ad391ad1164eb"
-    ]
+    "compared_with": "2026-11-13T13:02:07+08:00",
+    "new_count": 0,
+    "updated_count": 0,
+    "unchanged_count": 519,
+    "no_longer_seen_count": 0,
+    "new_ids": [],
+    "updated_ids": [],
+    "no_longer_seen_ids": []
   }
 }
