@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-11-15T12:48:13+08:00",
+  "updated_at": "2026-11-16T08:35:53+08:00",
   "stats": {
-    "records": 519,
-    "open": 86,
+    "records": 520,
+    "open": 87,
     "forecast": 276,
     "departments": 76,
     "sources": 118,
     "source_status": {
       "parsed": 54,
-      "documents": 9,
-      "failed": 1,
+      "documents": 8,
       "unparsed": 21,
-      "empty": 32,
+      "failed": 3,
+      "empty": 31,
       "partial": 1
     }
   },
@@ -20,20 +20,22 @@
     "publish_allowed": true,
     "errors": [],
     "warnings": [
-      "32个来源需继续核对；来源明细已列出"
+      "33个来源需继续核对；来源明细已列出"
     ],
-    "sources_needing_review": 32,
+    "sources_needing_review": 33,
     "core_sources_ok": 3,
-    "checked_at": "2026-11-15T12:48:13+08:00"
+    "checked_at": "2026-11-16T08:35:53+08:00"
   },
   "changes": {
     "baseline": false,
-    "compared_with": "2026-11-14T12:54:45+08:00",
-    "new_count": 0,
+    "compared_with": "2026-11-15T12:48:13+08:00",
+    "new_count": 1,
     "updated_count": 0,
     "unchanged_count": 519,
     "no_longer_seen_count": 0,
-    "new_ids": [],
+    "new_ids": [
+      "518ba48af48c32960b"
+    ],
     "updated_ids": [],
     "no_longer_seen_ids": []
   }
