@@ -1,49 +1,14 @@
 {
-  "updated_at": "2026-11-16T08:35:53+08:00",
+  "updated_at": "2026-11-16T08:39:22+08:00",
   "baseline": false,
-  "compared_with": "2026-11-15T12:48:13+08:00",
-  "new_count": 1,
+  "compared_with": "2026-11-16T08:35:53+08:00",
+  "new_count": 0,
   "updated_count": 0,
-  "unchanged_count": 519,
+  "unchanged_count": 520,
   "no_longer_seen_count": 0,
-  "new_ids": [
-    "518ba48af48c32960b"
-  ],
+  "new_ids": [],
   "updated_ids": [],
   "no_longer_seen_ids": [],
-  "new": [
-    {
-      "department": "香港邮政",
-      "title": "为香港邮政设施提供广告宣传代理服务",
-      "kind": "tender",
-      "reference_no": "HKP 202605",
-      "closing_date": "2026-12-08",
-      "closing_text": "2026-12-08 12:00:00",
-      "forecast_date": "",
-      "publish_date": "2026-11-16",
-      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=HKP 202605",
-      "document_url": "",
-      "source_ids": [
-        "etb_xml"
-      ],
-      "review_note": "",
-      "verified_at": "2026-11-16T08:35:53+08:00",
-      "notes": "为香港邮政设施提供广告宣传代理服务",
-      "closing_at": "2026-12-08T12:00:00+08:00",
-      "status": "正在招标",
-      "id": "518ba48af48c32960b",
-      "first_seen_at": "2026-11-16T08:35:53+08:00",
-      "change": "new",
-      "last_changed_at": "2026-11-16T08:35:53+08:00",
-      "company_fit": {
-        "decision": "review",
-        "categories": [],
-        "evidence": [],
-        "reason": "标题不足以确认业务范围，需阅读项目文件；不是判定为无关",
-        "rule_version": "2026-10-26-v2",
-        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
-      }
-    }
-  ],
+  "new": [],
   "updated": []
 }
