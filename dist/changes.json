@@ -1,14 +1,107 @@
 {
-  "updated_at": "2026-11-16T12:44:07+08:00",
+  "updated_at": "2026-11-17T14:31:24+08:00",
   "baseline": false,
-  "compared_with": "2026-11-16T08:39:22+08:00",
-  "new_count": 0,
+  "compared_with": "2026-11-16T12:44:07+08:00",
+  "new_count": 2,
   "updated_count": 0,
-  "unchanged_count": 520,
-  "no_longer_seen_count": 0,
-  "new_ids": [],
+  "unchanged_count": 514,
+  "no_longer_seen_count": 6,
+  "new_ids": [
+    "cda0e8039e1621c349",
+    "bdf31bc59f3d639b9c"
+  ],
   "updated_ids": [],
-  "no_longer_seen_ids": [],
-  "new": [],
+  "no_longer_seen_ids": [
+    "07c3ed36ac815a0df6",
+    "fbf5c3dbc9768d568f",
+    "bec409170977a57a4c",
+    "4d470d221ac3a0af01",
+    "2237202a383e4a0d5d",
+    "dc5d5de79dbd7c58eb"
+  ],
+  "new": [
+    {
+      "department": "政府新闻处",
+      "title": "为庆祝香港特别行政区成立30周年宣传片及电视宣传短片／电台宣传声带提供制作服务",
+      "kind": "tender",
+      "reference_no": "ISD/IP/TENDER/03/26",
+      "closing_date": "2026-12-08",
+      "closing_text": "2026-12-08 12:00:00",
+      "forecast_date": "",
+      "publish_date": "2026-11-17",
+      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=ISD/IP/TENDER/03/26",
+      "document_url": "",
+      "source_ids": [
+        "directory_50",
+        "etb_xml"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-17T14:31:24+08:00",
+      "notes": "请参阅招标文件。",
+      "closing_at": "2026-12-08T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "cda0e8039e1621c349",
+      "title_aliases": [
+        "为庆祝香港特别行政区成立30周年宣传片及电视宣传短片／电台宣传声带提供制作服务",
+        "政府新闻处 - 招标公告 / 已批准订立的合约公告"
+      ],
+      "title_zh": "为庆祝香港特别行政区成立30周年宣传片及电视宣传短片／电台宣传声带提供制作服务",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "first_seen_at": "2026-11-17T14:31:24+08:00",
+      "change": "new",
+      "last_changed_at": "2026-11-17T14:31:24+08:00",
+      "company_fit": {
+        "decision": "review",
+        "categories": [],
+        "evidence": [],
+        "reason": "标题不足以确认业务范围，需阅读项目文件；不是判定为无关",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "政府新闻处",
+      "title": "为庆祝香港特别行政区成立30周年微电影提供制作服务",
+      "kind": "tender",
+      "reference_no": "ISD/IP/TENDER/04/26",
+      "closing_date": "2026-12-08",
+      "closing_text": "2026-12-08 12:00:00",
+      "forecast_date": "",
+      "publish_date": "2026-11-17",
+      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=ISD/IP/TENDER/04/26",
+      "document_url": "",
+      "source_ids": [
+        "directory_50",
+        "etb_xml"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-17T14:31:24+08:00",
+      "notes": "请参阅招标文件。",
+      "closing_at": "2026-12-08T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "bdf31bc59f3d639b9c",
+      "title_aliases": [
+        "为庆祝香港特别行政区成立30周年微电影提供制作服务",
+        "政府新闻处 - 招标公告 / 已批准订立的合约公告"
+      ],
+      "title_zh": "为庆祝香港特别行政区成立30周年微电影提供制作服务",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "first_seen_at": "2026-11-17T14:31:24+08:00",
+      "change": "new",
+      "last_changed_at": "2026-11-17T14:31:24+08:00",
+      "company_fit": {
+        "decision": "review",
+        "categories": [],
+        "evidence": [],
+        "reason": "标题不足以确认业务范围，需阅读项目文件；不是判定为无关",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    }
+  ],
   "updated": []
 }

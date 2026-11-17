@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T12:44:07+08:00",
+  "updated_at": "2026-11-17T14:31:24+08:00",
   "departments": [
     {
       "department": "保安局",
@@ -499,12 +499,12 @@
       "source_status": {
         "parsed": 1
       },
-      "open": 17,
+      "open": 15,
       "related_open": 1,
       "related_forecast": 0,
       "scope_counts": {
         "review": 5,
-        "exclude": 11,
+        "exclude": 9,
         "include": 1
       },
       "unresolved_sources": []
@@ -757,11 +757,11 @@
       "source_status": {
         "parsed": 1
       },
-      "open": 1,
+      "open": 3,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
-        "review": 1
+        "review": 3
       },
       "unresolved_sources": []
     },
@@ -859,28 +859,21 @@
     {
       "department": "数字政策办公室",
       "issues": [
-        "未登记独立预报入口，仅能依赖中央采购预报覆盖",
-        "存在连接失败、待解析或部分解析来源"
+        "未登记独立预报入口，仅能依赖中央采购预报覆盖"
       ],
       "tender_sources": 1,
       "forecast_sources": 0,
       "source_status": {
-        "failed": 1
+        "parsed": 1
       },
       "open": 1,
       "related_open": 1,
       "related_forecast": 0,
       "scope_counts": {
         "exclude": 1,
-        "include": 2
+        "include": 1
       },
-      "unresolved_sources": [
-        {
-          "id": "directory_25",
-          "url": "https://www.digitalpolicy.gov.hk/tc/our_work/digital_infrastructure/business_window/tender_eoi_rfp/",
-          "status": "failed"
-        }
-      ]
+      "unresolved_sources": []
     },
     {
       "department": "文化体育及旅游局",
@@ -929,12 +922,12 @@
       "source_status": {
         "parsed": 3
       },
-      "open": 9,
-      "related_open": 6,
+      "open": 8,
+      "related_open": 5,
       "related_forecast": 10,
       "scope_counts": {
         "exclude": 78,
-        "include": 21,
+        "include": 20,
         "review": 26
       },
       "unresolved_sources": []
@@ -1116,11 +1109,11 @@
       "source_status": {
         "unparsed": 1
       },
-      "open": 6,
+      "open": 5,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 7,
+        "exclude": 6,
         "review": 1
       },
       "unresolved_sources": [
@@ -1167,11 +1160,11 @@
       "source_status": {
         "parsed": 2
       },
-      "open": 3,
+      "open": 2,
       "related_open": 1,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 7,
+        "exclude": 6,
         "include": 1,
         "review": 1
       },
