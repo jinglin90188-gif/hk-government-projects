@@ -4,7 +4,15 @@ on:
   schedule:
     - cron: '0 8 * * *'
       timezone: Asia/Hong_Kong
+    - cron: '0 14 * * *'
+      timezone: Asia/Hong_Kong
   workflow_dispatch:
+    inputs:
+      mode:
+        description: 更新范围
+        type: choice
+        default: all
+        options: [all, news, projects]
   push:
     branches: [main]
     paths:
@@ -25,6 +33,9 @@ on:
       - 'dist/directory.*'
       - 'dist/institution-merge.js'
       - 'dist/links.json'
+      - 'dist/news.html'
+      - 'dist/news.js'
+      - 'dist/news.css'
 
 concurrency:
   group: daily-government-projects
@@ -39,6 +50,8 @@ jobs:
     timeout-minutes: 30
     permissions:
       contents: write
+    outputs:
+      news: ${{ steps.mode.outputs.news }}
     steps:
       - name: 读取项目代码及上次成功数据
         uses: actions/checkout@v6
@@ -52,13 +65,23 @@ jobs:
           cache-dependency-path: requirements.txt
       - name: 安装采集依赖
         run: python -m pip install -r requirements.txt
+      - name: 确定本次更新范围
+        id: mode
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          SCHEDULE: ${{ github.event.schedule }}
+          RUN_MODE: ${{ inputs.mode }}
+        run: |
+          python scripts/news_run_mode.py >> "$GITHUB_OUTPUT"
       - name: 检查解析、日期与历史保留规则
         run: python -m unittest discover -s tests -p 'test_*.py' -v
       - name: 重新采集全部官方来源
+        if: steps.mode.outputs.projects == 'true'
         run: |
           mkdir -p cache
           python collect_projects.py --fresh --workers 8 2>&1 | tee cache/collection.log
       - name: 核对发布数据并保存每日变化记录
+        if: steps.mode.outputs.projects == 'true'
         run: |
           python scripts/validate_release.py
           python scripts/audit_departments.py
@@ -66,6 +89,13 @@ jobs:
           python scripts/collect_institutions.py
           python scripts/archive_run.py
           python scripts/write_run_summary.py >> "$GITHUB_STEP_SUMMARY"
+      - name: 收集近48小时相关新闻并生成中文摘要
+        if: steps.mode.outputs.news == 'true'
+        env:
+          NEWS_AI_API_KEY: ${{ secrets.NEWS_AI_API_KEY }}
+          NEWS_AI_BASE_URL: ${{ vars.NEWS_AI_BASE_URL }}
+          NEWS_AI_MODEL: ${{ vars.NEWS_AI_MODEL }}
+        run: python scripts/daily_news.py
       - name: 保存项目清单和可恢复的来源状态
         run: python scripts/save_collected_data.py
       - name: 上传网站文件
@@ -101,3 +131,31 @@ jobs:
       - name: 发布项目库网站
         id: deployment
         uses: actions/deploy-pages@v4
+
+  email:
+    needs: [collect, publish]
+    if: needs.collect.outputs.news == 'true' && vars.NEWS_MAIL_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r requirements.txt
+      - name: 发送每日新闻邮件
+        env:
+          NEWS_MAIL_ENABLED: ${{ vars.NEWS_MAIL_ENABLED }}
+          SMTP_HOST: ${{ vars.SMTP_HOST }}
+          SMTP_PORT: ${{ vars.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          NEWS_MAIL_TO: ${{ secrets.NEWS_MAIL_TO }}
+        run: python scripts/send_daily_news.py
+      - name: 保存已发送记录
+        run: python scripts/save_collected_data.py

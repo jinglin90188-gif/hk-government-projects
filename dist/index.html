@@ -2,12 +2,13 @@
 <html lang="zh-CN"><head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="description" content="按政府部门查阅香港公开招标、采购预报及原始项目文件，并检查各来源的采集情况。">
-<title>香港项目库 · 招标与采购预报</title><link rel="stylesheet" href="dashboard.css"><link rel="stylesheet" href="directory.css">
+<title>香港项目库 · 招标与采购预报</title><link rel="stylesheet" href="dashboard.css"><link rel="stylesheet" href="directory.css"><link rel="stylesheet" href="news.css">
 </head><body>
 <header class="topbar"><a class="brand" href="#"><span class="brand-mark">港</span><span>香港政府项目库<small>PUBLIC PROCUREMENT MONITOR</small></span></a><span id="timestamp" class="updated">正在读取数据</span></header>
 <main>
 <section class="intro"><div><span class="eyebrow">香港公开采购</span><h1>查项目，跟进采购进展。</h1><p>正在招标、采购预报与前期征询。按部门、项目类型和截止时间查找，保留每项官方原文。</p></div><div class="intro-note"><a href="institutions.html">机构采购来源与覆盖情况 ↗</a><a href="reports/latest.html">最新项目商机周报 ↗</a><a href="reports/index.html">历期周报 ↗</a></div></section>
 <section class="stats" id="stats" aria-label="数据概况"></section>
+<section class="news-preview" id="newsPreview"><div class="news-preview-head"><h2>每日新闻</h2><a href="news.html">查看全部新闻与历史记录 →</a></div><p class="news-preview-status" id="newsPreviewStatus">正在读取新闻……</p><div class="news-preview-grid" id="newsPreviewList"></div></section>
 <div id="updateNote" class="notice update-note" aria-live="polite"></div>
 <nav class="view-tabs" aria-label="网站栏目"><button data-view="projects" class="active">项目清单</button><button data-view="departments">按部门查看</button><button data-view="coverage">采集情况 <span id="reviewCount"></span></button><button data-view="links">官方入口</button></nav>
 <section id="view-projects" class="view">
@@ -26,4 +27,4 @@
 </main>
 <footer><span><a href="institutions.html">机构采购与前期商机 →</a> · 香港政府项目库</span><span>内容与最新修订以发标机构公告为准 · <a href="projects.csv" download>下载政府原始CSV</a></span></footer>
 <dialog id="projectDialog"><button id="closeDialog" class="dialog-close" aria-label="关闭详情">×</button><div id="dialogContent"></div></dialog>
-<script src="institution-merge.js" defer></script><script src="dashboard.js" defer></script><script src="directory.js" defer></script></body></html>
+<script src="institution-merge.js" defer></script><script src="dashboard.js" defer></script><script src="directory.js" defer></script><script src="news.js" defer></script></body></html>

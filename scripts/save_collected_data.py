@@ -8,6 +8,7 @@ import time
 from pathlib import Path
 
 OUTPUTS = [
+    "dist/news.json", "dist/news-archive",
     "dist/institutions.json",
     "dist/projects.json", "dist/projects.csv", "dist/changes.json",
     "dist/department-audit.json", "dist/department-audit.html", "dist/reports",
