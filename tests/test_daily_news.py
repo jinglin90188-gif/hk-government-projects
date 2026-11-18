@@ -42,6 +42,31 @@ class NewsTests(unittest.TestCase):
         self.assertEqual(a['id'], b['id'])
         self.assertEqual(len(news.select_news([a, b], NOW)), 1)
 
+    def test_same_headline_different_project_numbers_remain_separate(self):
+        self.assertEqual(len(news.select_news([
+            row('自动驾驶第1期项目计划', url='https://www.info.gov.hk/1'),
+            row('自动驾驶第2期项目计划', url='https://www.info.gov.hk/2')], NOW)), 2)
+
+    def test_non_official_and_script_links_are_not_collected(self):
+        self.assertEqual(news.canonical_url('javascript:alert(1)'), '')
+        self.assertEqual(news.canonical_url('https://127.0.0.1/internal'), '')
+
+    def test_government_body_without_paragraph_tags_is_read(self):
+        response = MagicMock()
+        response.headers = {'Content-Type': 'text/html'}
+        response.content = '<span id="pressrelease">運輸署啟動智慧交通系統測試。<br>將分階段進行。</span>'.encode()
+        with patch.object(news, 'get', return_value=response):
+            self.assertIn('运输署启动智慧交通系统测试', news.article_text(row()))
+
+    def test_legislative_brief_uses_answer_not_question(self):
+        response = MagicMock()
+        response.headers = {'Content-Type': 'text/html'}
+        response.content = '<span id="pressrelease">以下是議員提問和局長答覆：問題：機場有什麼安排？答覆：機場管理局正測試智能接駁系統，並將於明年檢視成效。</span>'.encode()
+        with patch.object(news, 'get', return_value=response):
+            body = news.article_text(row())
+        self.assertNotIn('问题', body)
+        self.assertTrue(news.source_excerpt(body).startswith('机场管理局'))
+
     def test_translated_duplicate_headlines(self):
         a = row('無人機任務管理系統啟動測試')
         b = row('无人机任务管理系统启动测试', url='https://news.rthk.hk/other')

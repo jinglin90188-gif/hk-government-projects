@@ -172,7 +172,9 @@ def select_news(rows, now, known=None, limit=10):
         if not category:
             continue
         fp = fingerprint(row['title'])
-        if any(row['source_url'] == p['source_url'] or SequenceMatcher(None, fp, fingerprint(p['title'])).ratio() > .90 for p in selected):
+        if any(row['source_url'] == p['source_url'] or
+               (SequenceMatcher(None, fp, fingerprint(p['title'])).ratio() > .90
+                and re.findall(r'\d+', fp) == re.findall(r'\d+', fingerprint(p['title']))) for p in selected):
             continue
         old = known.get(row['id'], {})
         row = {**row, 'category': category, 'first_seen': old.get('first_seen', now.isoformat()), 'new': not bool(old)}
@@ -196,20 +198,40 @@ def article_text(row):
     soup = BeautifulSoup(response.content, 'html.parser')
     for node in soup.select('script,style,nav,footer,header,aside'):
         node.decompose()
-    body = soup.select_one('#pressrelease, .pressrelease, #newsContent, .news-content, article, .news-text, main')
+    body = soup.select_one('#pressrelease, .pressrelease, #newsContent, .news-content, [itemprop="articleBody"], .itemFullText, .itemFullContent, .newsdetail, .news-detail, article, .news-text, main')
     if body is None:
         return ''
     paragraphs = [clean(p.get_text(' ', strip=True)) for p in body.find_all('p')]
-    return '\n'.join(p for p in paragraphs if len(p) > 20)[:2800]
+    text = '\n'.join(p for p in paragraphs if len(p) > 20) or clean(body.get_text(' ', strip=True))
+    # Legislative Q&A often starts with a long question. The government's
+    # substantive answer, not the question, is the basis for the brief.
+    parts = re.split(r'答复\s*[:：]', text)
+    if len(parts) > 1:
+        text = parts[-1]
+    return text[:6000]
+
+
+def source_excerpt(body, fallback=''):
+    sentences = [s.strip(' \n\u200b') for s in re.split(r'(?<=[。！？；])|\n+', body) if len(s.strip()) > 12]
+    meaningful = [s for s in sentences if not re.match(r'以下是|下稿代|问题\s*[:：]|主席[，：]|各位嘉宾|多谢|谢谢', s)]
+    # Extract complete source sentences, without generating new claims.
+    candidates = [s for s in meaningful if TECH.search(s)] or meaningful or sentences
+    chosen = []
+    for sentence in candidates:
+        if len(' '.join(chosen + [sentence])) <= 160:
+            chosen.append(sentence)
+        if len(' '.join(chosen)) >= 90:
+            break
+    return ' '.join(chosen) or ((candidates[0][:159] + '…') if candidates else fallback)
 
 
 def summarize(row, body, config=None):
     config = os.environ if config is None else config
     if row.get('summary_kind') == 'ai':
         return row
-    row.update(summary=row.get('excerpt') or '暂未提取到可靠正文，请点击原文查看。', summary_kind='excerpt')
+    row.update(summary=source_excerpt(row.get('excerpt', '')) or '暂未提取到可靠正文，请点击原文查看。', summary_kind='excerpt')
     if body:
-        row['summary'] = body.replace('\n', ' ')[:160]
+        row['summary'] = source_excerpt(body, row['summary'])
     key, base, model = (config.get(k, '') for k in ['NEWS_AI_API_KEY', 'NEWS_AI_BASE_URL', 'NEWS_AI_MODEL'])
     if not key or not base or not model or not body:
         return row
