@@ -1,4 +1,25 @@
 {
-  "checked_at": "2026-11-15T12:48:13+08:00",
-  "items": []
+  "checked_at": "2026-11-18T18:59:51+08:00",
+  "items": [
+    {
+      "department": "香港邮政",
+      "title": "为香港邮政设施提供广告宣传代理服务",
+      "kind": "tender",
+      "reference_no": "HKP 202605",
+      "closing_date": "2026-12-08",
+      "closing_text": "2026年12月8日中午12时（香港时间）",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.hongkongpost.hk/tc/about_us/tender/notice/index.html",
+      "document_url": "",
+      "source_ids": [
+        "directory_48"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-18T18:59:51+08:00",
+      "closing_at": "2026-12-08T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "518ba48af48c32960b"
+    }
+  ]
 }
