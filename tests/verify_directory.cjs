@@ -11,18 +11,25 @@ for(const id of ['department','sort','deadline']){
 document.getElementById('projectDialog').showModal=function(){this.open=true;};
 document.getElementById('projectDialog').close=function(){this.open=false;};
 window.scrollTo=()=>{};
-const context={document,window,console,Blob,URL,URLSearchParams,setTimeout,location,
+const context={document,window,console,Blob,URL,URLSearchParams,setTimeout,location,structuredClone,
  history:{replaceState:(_,__,url)=>{location.href=url;}},
  localStorage:{getItem:k=>storage.get(k)||null,setItem:(k,v)=>storage.set(k,v)},
  navigator:{clipboard:{writeText:async text=>{context.copied=text;}}},
  fetch:async url=>({ok:true,json:async()=>JSON.parse(fs.readFileSync(path.join(root,'dist',url)))})};
 vm.createContext(context);
-for(const f of ['dashboard.js','directory.js'])vm.runInContext(fs.readFileSync(path.join(root,'dist',f),'utf8'),context);
+for(const f of ['institution-merge.js','dashboard.js','directory.js'])vm.runInContext(fs.readFileSync(path.join(root,'dist',f),'utf8'),context);
 setImmediate(async()=>{
  assert.equal(document.querySelectorAll('.stat').length,4);
  assert.equal(document.querySelectorAll('[data-family]').length,6);
  const count=()=>document.querySelectorAll('.project-card').length;
  assert.ok(count()>0);
+ assert.ok([...document.querySelectorAll('#department option')].some(n=>n.value==='港铁公司'));
+ document.querySelector('#search').value='ACDM/RFI/2026';document.querySelector('#search').dispatchEvent(new window.Event('input'));
+ assert.equal(count(),1);assert.equal(document.querySelector('.project-card .badge').textContent,'信息征询中');
+ document.querySelector('[data-kind="tender"]').click();assert.equal(count(),0);
+ document.querySelector('[data-kind="engagement"]').click();assert.equal(count(),1);
+ document.querySelector('[data-project]').click();assert.ok(document.querySelector('#dialogContent').textContent.includes('香港机场管理局'));
+ document.querySelector('#closeDialog').click();document.querySelector('#resetFilters').click();
  document.querySelector('[data-family="systems"]').click();
  assert.equal(location.searchParams.get('category'),'systems');
  assert.ok([...document.querySelectorAll('.row-category')].every(n=>n.textContent==='系统与设备'));

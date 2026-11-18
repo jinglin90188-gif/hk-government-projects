@@ -42,7 +42,7 @@ renderProjects=function(){
    family=categoryDefs.some(([id])=>id===q.get('category'))?q.get('category'):'all';
    $('#search').value=q.get('q')||'';
    if([...$('#department').options].some(o=>o.value===q.get('department')))$('#department').value=q.get('department');
-   if(['tender','forecast','uncertain','business_review','new','updated'].includes(q.get('status')))activeKind=q.get('status');
+   if(['tender','forecast','engagement','uncertain','business_review','new','updated'].includes(q.get('status')))activeKind=q.get('status');
    $('#includeClosed').checked=q.get('closed')==='1';$('#savedOnly').checked=q.get('saved')==='1';
    $('#deadline').value=['7','14','30'].includes(q.get('days'))?q.get('days'):'';
    if(['recent','department'].includes(q.get('sort')))$('#sort').value=q.get('sort');
@@ -78,5 +78,6 @@ showProject=function(id){
 };
 $('#closeDialog').addEventListener('click',()=>{if(globalThis.location?.hash.startsWith('#project=')){const u=new URL(location.href);u.hash='';history.replaceState(null,'',u.href);}});
 $('#projectDialog').addEventListener('click',e=>{if(e.target===$('#projectDialog')&&globalThis.location?.hash.startsWith('#project=')){const u=new URL(location.href);u.hash='';history.replaceState(null,'',u.href);}});
+$('#projectDialog').addEventListener('close',()=>{if(globalThis.location?.hash.startsWith('#project=')){const u=new URL(location.href);u.hash='';history.replaceState(null,'',u.href);}});
 for(const id of ['deadline','savedOnly'])$('#'+id).addEventListener('change',()=>{page=1;renderProjects();});
 $('#resetFilters').addEventListener('click',()=>{family='all';activeKind='all';page=1;$('#search').value='';$('#department').value='';$('#sort').value='closing';$('#deadline').value='';$('#savedOnly').checked=false;$('#includeClosed').checked=false;renderKinds();renderProjects();});

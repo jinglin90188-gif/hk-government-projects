@@ -22,6 +22,8 @@ on:
       - 'tests/**'
       - 'dist/index.html'
       - 'dist/dashboard.*'
+      - 'dist/directory.*'
+      - 'dist/institution-merge.js'
       - 'dist/links.json'
 
 concurrency:

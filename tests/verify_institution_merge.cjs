@@ -1,0 +1,13 @@
+const fs=require('node:fs'),vm=require('node:vm'),assert=require('node:assert/strict');
+const context={structuredClone};vm.createContext(context);
+vm.runInContext(fs.readFileSync('dist/institution-merge.js','utf8'),context);
+const base={projects:[],sources:[],departments:[],stats:{}};
+const p={id:'a',department:'港铁公司',reference_no:'Q-123',kind:'forecast',status:'采购计划',source_id:'mtr'};
+const source={id:'mtr',department:'港铁公司',count:2,note:'采购计划不是招标公告'};
+let d=context.mergeInstitutionFeed(base,{updated_at:'2026-11-18',sources:[source],projects:[p,{...p,id:'b',reference_no:'Q 123',kind:'tender',status:'正在招标',source_id:'official'}]});
+assert.equal(base.projects.length,0);assert.equal(d.projects.length,1);assert.equal(d.projects[0].kind,'tender');assert.equal(d.projects[0].source_ids.length,2);
+assert.equal(d.departments.length,1);assert.equal(d.sources[0].status,'partial');
+d=context.mergeInstitutionFeed(base,{sources:[source],projects:[{...p,status:'历史／阶段待核实'},{...p,id:'c',reference_no:'Q456',stale:true}]});
+assert.equal(d.projects[0].outdated,true);assert.equal(d.projects[1].status,'状态待核实');
+assert.ok(context.mergeInstitutionFeed(base,null).institution_feed.error);
+console.log('Institution merge verified: stage precedence, reference deduplication, provenance, history, stale data and optional-feed failure.');
