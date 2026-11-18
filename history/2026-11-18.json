@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-18",
+  "last_run_at": "2026-11-18T13:53:36+08:00",
+  "new": [
+    {
+      "department": "建筑署",
+      "title": "大屿山昂平路昂平路公厕翻修工程",
+      "kind": "tender",
+      "reference_no": "RF N801",
+      "closing_date": "2026-12-18",
+      "closing_text": "2026/12/18 12:00",
+      "forecast_date": "",
+      "publish_date": "2026-11-20",
+      "source_url": "https://www.archsd.gov.hk/tc/tenders-notices/works/tender-notices-not-published-in-government-gazette/RF N801.html",
+      "document_url": "",
+      "source_ids": [
+        "directory_14"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-18T13:53:36+08:00",
+      "closing_at": "2026-12-18T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "717939e8526fe635e1",
+      "first_seen_at": "2026-11-18T13:53:36+08:00",
+      "change": "new",
+      "last_changed_at": "2026-11-18T13:53:36+08:00",
+      "company_fit": {
+        "decision": "review",
+        "categories": [],
+        "evidence": [],
+        "reason": "标题不足以确认业务范围，需阅读项目文件；不是判定为无关",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "建筑署",
+      "title": "中央采购组装合成建筑组件",
+      "kind": "tender",
+      "reference_no": "SS R507",
+      "closing_date": "2027-01-08",
+      "closing_text": "2027/01/08 12:00",
+      "forecast_date": "",
+      "publish_date": "2026-11-20",
+      "source_url": "https://www.archsd.gov.hk/tc/tenders-notices/works/tender-notices-published-in-government-gazette/SS-R507.html",
+      "document_url": "",
+      "source_ids": [
+        "directory_14"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-18T13:53:36+08:00",
+      "closing_at": "2027-01-08T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "54f241e5cb24a53fbf",
+      "first_seen_at": "2026-11-18T13:53:36+08:00",
+      "change": "new",
+      "last_changed_at": "2026-11-18T13:53:36+08:00",
+      "company_fit": {
+        "decision": "review",
+        "categories": [],
+        "evidence": [],
+        "reason": "标题不足以确认业务范围，需阅读项目文件；不是判定为无关",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    }
+  ],
+  "updated": [
+    {
+      "department": "建筑署",
+      "title": "九龙黄大仙摩士公园(三号公园)4号足球场翻修工程",
+      "kind": "tender",
+      "reference_no": "RF P801",
+      "closing_date": "2026-12-11",
+      "closing_text": "2026/12/11 12:00",
+      "forecast_date": "",
+      "publish_date": "2026-11-13",
+      "source_url": "https://www.archsd.gov.hk/tc/tenders-notices.html",
+      "document_url": "https://www.archsd.gov.hk/tc/psi/tender.json",
+      "source_ids": [
+        "archsd_json",
+        "directory_14"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-18T13:53:36+08:00",
+      "closing_at": "2026-12-11T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "8c020658bff7078010",
+      "title_aliases": [
+        "九龙黄大仙摩士公园(三号公园)4号足球场翻修工程"
+      ],
+      "title_zh": "九龙黄大仙摩士公园(三号公园)4号足球场翻修工程",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "notes": "",
+      "first_seen_at": "2026-11-13T13:02:07+08:00",
+      "change": "updated",
+      "last_changed_at": "2026-11-18T13:53:36+08:00",
+      "company_fit": {
+        "decision": "review",
+        "categories": [],
+        "evidence": [],
+        "reason": "标题不足以确认业务范围，需阅读项目文件；不是判定为无关",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    }
+  ],
+  "no_longer_seen_ids": [
+    "06eab3e4c4c5191ade",
+    "95b9f418af6637c4d9",
+    "9b0ab032cb66e91b2e"
+  ],
+  "note": "未再见到不等于取消或批出；需核实官方公告。"
+}

@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-17T14:31:24+08:00",
+  "updated_at": "2026-11-18T13:53:36+08:00",
   "stats": {
-    "records": 516,
-    "open": 84,
+    "records": 515,
+    "open": 83,
     "forecast": 276,
     "departments": 76,
     "sources": 118,
@@ -24,27 +24,26 @@
     ],
     "sources_needing_review": 32,
     "core_sources_ok": 3,
-    "checked_at": "2026-11-17T14:31:24+08:00"
+    "checked_at": "2026-11-18T13:53:36+08:00"
   },
   "changes": {
     "baseline": false,
-    "compared_with": "2026-11-16T12:44:07+08:00",
+    "compared_with": "2026-11-17T14:31:24+08:00",
     "new_count": 2,
-    "updated_count": 0,
-    "unchanged_count": 514,
-    "no_longer_seen_count": 6,
+    "updated_count": 1,
+    "unchanged_count": 512,
+    "no_longer_seen_count": 3,
     "new_ids": [
-      "cda0e8039e1621c349",
-      "bdf31bc59f3d639b9c"
+      "717939e8526fe635e1",
+      "54f241e5cb24a53fbf"
     ],
-    "updated_ids": [],
+    "updated_ids": [
+      "8c020658bff7078010"
+    ],
     "no_longer_seen_ids": [
-      "07c3ed36ac815a0df6",
-      "fbf5c3dbc9768d568f",
-      "bec409170977a57a4c",
-      "4d470d221ac3a0af01",
-      "2237202a383e4a0d5d",
-      "dc5d5de79dbd7c58eb"
+      "9b0ab032cb66e91b2e",
+      "06eab3e4c4c5191ade",
+      "95b9f418af6637c4d9"
     ]
   }
 }

@@ -1,6 +1,26 @@
 {
-  "checked_at": "2026-11-17T14:31:24+08:00",
+  "checked_at": "2026-11-18T13:53:36+08:00",
   "items": [
+    {
+      "department": "建筑署",
+      "title": "大屿山昂平路昂平路公厕翻修工程",
+      "kind": "tender",
+      "reference_no": "RF N801",
+      "closing_date": "2026-12-18",
+      "closing_text": "2026/12/18 12:00",
+      "forecast_date": "",
+      "publish_date": "2026-11-20",
+      "source_url": "https://www.archsd.gov.hk/tc/tenders-notices/works/tender-notices-not-published-in-government-gazette/RF N801.html",
+      "document_url": "",
+      "source_ids": [
+        "directory_14"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-18T13:53:36+08:00",
+      "closing_at": "2026-12-18T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "717939e8526fe635e1"
+    },
     {
       "department": "建筑署",
       "title": "九龙黄大仙摩士公园(三号公园)4号足球场翻修工程",
@@ -16,7 +36,7 @@
         "directory_14"
       ],
       "review_note": "",
-      "verified_at": "2026-11-17T14:31:24+08:00",
+      "verified_at": "2026-11-18T13:53:36+08:00",
       "closing_at": "2026-12-11T12:00:00+08:00",
       "status": "正在招标",
       "id": "8c020658bff7078010"
@@ -36,7 +56,7 @@
         "directory_14"
       ],
       "review_note": "",
-      "verified_at": "2026-11-17T14:31:24+08:00",
+      "verified_at": "2026-11-18T13:53:36+08:00",
       "closing_at": "2026-11-27T12:00:00+08:00",
       "status": "正在招标",
       "id": "ae5ee746f3548fecc1"
@@ -56,7 +76,7 @@
         "directory_14"
       ],
       "review_note": "",
-      "verified_at": "2026-11-17T14:31:24+08:00",
+      "verified_at": "2026-11-18T13:53:36+08:00",
       "closing_at": "2027-01-08T12:00:00+08:00",
       "status": "正在招标",
       "id": "ce8be5c0a5d4fb5916"
@@ -75,23 +95,31 @@
       "source_ids": [
         "directory_14"
       ],
-      "review_note": "不同官方来源的截标日期不一致，需核对最新修订公告",
-      "verified_at": "2026-11-17T14:31:24+08:00",
+      "review_note": "",
+      "verified_at": "2026-11-18T13:53:36+08:00",
       "closing_at": "2026-11-27T12:00:00+08:00",
-      "status": "状态待核实",
-      "title_aliases": [
-        "新界葵涌医院路3-15号葵涌医院重建治疗/复康花园建造工程"
-      ],
-      "title_zh": "新界葵涌医院路3-15号葵涌医院重建治疗/复康花园建造工程",
-      "eligibility_note": "",
-      "eligibility_summary": "",
-      "procurement_type": "",
-      "notes": "",
-      "deadline_options": [
-        "2026-11-06",
-        "2026-11-27"
-      ],
+      "status": "正在招标",
       "id": "8694836490996d95dc"
+    },
+    {
+      "department": "建筑署",
+      "title": "中央采购组装合成建筑组件",
+      "kind": "tender",
+      "reference_no": "SS R507",
+      "closing_date": "2027-01-08",
+      "closing_text": "2027/01/08 12:00",
+      "forecast_date": "",
+      "publish_date": "2026-11-20",
+      "source_url": "https://www.archsd.gov.hk/tc/tenders-notices/works/tender-notices-published-in-government-gazette/SS-R507.html",
+      "document_url": "",
+      "source_ids": [
+        "directory_14"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-18T13:53:36+08:00",
+      "closing_at": "2027-01-08T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "54f241e5cb24a53fbf"
     }
   ]
 }

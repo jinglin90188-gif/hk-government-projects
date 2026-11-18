@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T14:31:24+08:00",
+  "updated_at": "2026-11-18T13:53:36+08:00",
   "departments": [
     {
       "department": "保安局",
@@ -321,12 +321,12 @@
         "parsed": 4,
         "empty": 1
       },
-      "open": 10,
-      "related_open": 3,
+      "open": 9,
+      "related_open": 2,
       "related_forecast": 1,
       "scope_counts": {
         "exclude": 34,
-        "include": 4,
+        "include": 3,
         "review": 4
       },
       "unresolved_sources": []
@@ -537,12 +537,12 @@
       "source_status": {
         "parsed": 4
       },
-      "open": 3,
+      "open": 5,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
         "exclude": 14,
-        "review": 15
+        "review": 17
       },
       "unresolved_sources": []
     },
@@ -1015,13 +1015,12 @@
         "parsed": 2,
         "empty": 1
       },
-      "open": 2,
-      "related_open": 1,
+      "open": 1,
+      "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
         "exclude": 31,
-        "review": 3,
-        "include": 1
+        "review": 3
       },
       "unresolved_sources": []
     },
@@ -1109,11 +1108,11 @@
       "source_status": {
         "unparsed": 1
       },
-      "open": 5,
+      "open": 4,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 6,
+        "exclude": 5,
         "review": 1
       },
       "unresolved_sources": [
