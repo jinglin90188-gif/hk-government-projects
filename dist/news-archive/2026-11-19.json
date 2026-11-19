@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-19T17:10:33.372733+08:00",
-  "last_attempt_at": "2026-11-19T17:10:33.372733+08:00",
+  "updated_at": "2026-11-19T17:56:20.119144+08:00",
+  "last_attempt_at": "2026-11-19T17:56:20.119144+08:00",
   "date": "2026-11-19",
   "status": "ok",
   "sources": [
@@ -9,7 +9,7 @@
       "name": "香港政府新闻公报",
       "type": "rss",
       "url": "https://www.info.gov.hk/gia/rss/general_zh.xml",
-      "checked_at": "2026-11-19T17:10:33.372733+08:00",
+      "checked_at": "2026-11-19T17:56:20.119144+08:00",
       "status": "parsed",
       "count": 100
     },
@@ -18,7 +18,7 @@
       "name": "香港政府新闻网",
       "type": "rss",
       "url": "https://www.news.gov.hk/tc/common/html/topstories.rss.xml",
-      "checked_at": "2026-11-19T17:10:33.372733+08:00",
+      "checked_at": "2026-11-19T17:56:20.119144+08:00",
       "status": "parsed",
       "count": 15
     },
@@ -27,7 +27,7 @@
       "name": "香港电台",
       "type": "rss",
       "url": "https://rthk.hk/rthk/news/rss/c_expressnews_clocal.xml",
-      "checked_at": "2026-11-19T17:10:33.372733+08:00",
+      "checked_at": "2026-11-19T17:56:20.119144+08:00",
       "status": "parsed",
       "count": 20
     },
@@ -36,7 +36,7 @@
       "name": "香港机场管理局",
       "type": "airport",
       "url": "https://www.hongkongairport.com/tc/media-centre/press-release/",
-      "checked_at": "2026-11-19T17:10:33.372733+08:00",
+      "checked_at": "2026-11-19T17:56:20.119144+08:00",
       "status": "parsed",
       "count": 320
     },
@@ -45,7 +45,7 @@
       "name": "港铁公司",
       "type": "mtr",
       "url": "https://www.mtr.com.hk/ch/corporate/news/corporate.php",
-      "checked_at": "2026-11-19T17:10:33.372733+08:00",
+      "checked_at": "2026-11-19T17:56:20.119144+08:00",
       "status": "parsed",
       "count": 30
     }
