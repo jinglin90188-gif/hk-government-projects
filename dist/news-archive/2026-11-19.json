@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-19T16:43:27.500661+08:00",
-  "last_attempt_at": "2026-11-19T16:43:27.500661+08:00",
+  "updated_at": "2026-11-19T16:54:37.962916+08:00",
+  "last_attempt_at": "2026-11-19T16:54:37.962916+08:00",
   "date": "2026-11-19",
   "status": "ok",
   "sources": [
@@ -9,7 +9,7 @@
       "name": "香港政府新闻公报",
       "type": "rss",
       "url": "https://www.info.gov.hk/gia/rss/general_zh.xml",
-      "checked_at": "2026-11-19T16:43:27.500661+08:00",
+      "checked_at": "2026-11-19T16:54:37.962916+08:00",
       "status": "parsed",
       "count": 100
     },
@@ -18,7 +18,7 @@
       "name": "香港政府新闻网",
       "type": "rss",
       "url": "https://www.news.gov.hk/tc/common/html/topstories.rss.xml",
-      "checked_at": "2026-11-19T16:43:27.500661+08:00",
+      "checked_at": "2026-11-19T16:54:37.962916+08:00",
       "status": "parsed",
       "count": 15
     },
@@ -27,7 +27,7 @@
       "name": "香港电台",
       "type": "rss",
       "url": "https://rthk.hk/rthk/news/rss/c_expressnews_clocal.xml",
-      "checked_at": "2026-11-19T16:43:27.500661+08:00",
+      "checked_at": "2026-11-19T16:54:37.962916+08:00",
       "status": "parsed",
       "count": 20
     },
@@ -36,7 +36,7 @@
       "name": "香港机场管理局",
       "type": "airport",
       "url": "https://www.hongkongairport.com/tc/media-centre/press-release/",
-      "checked_at": "2026-11-19T16:43:27.500661+08:00",
+      "checked_at": "2026-11-19T16:54:37.962916+08:00",
       "status": "parsed",
       "count": 320
     },
@@ -45,7 +45,7 @@
       "name": "港铁公司",
       "type": "mtr",
       "url": "https://www.mtr.com.hk/ch/corporate/news/corporate.php",
-      "checked_at": "2026-11-19T16:43:27.500661+08:00",
+      "checked_at": "2026-11-19T16:54:37.962916+08:00",
       "status": "parsed",
       "count": 30
     }
@@ -61,9 +61,10 @@
       "excerpt": "中九龙绕道九龙湾段下月6日通车，标志著整条6号干线将会全线开通。运输署表示，6号干线配备多项设施管理隧道交通，确保有效管理及交通畅顺。 署方在社交网页表示，6号干线全线采用「交通管制及监察系统」，结合闭路电视、自动事故探测器、行车线管制灯号，以及可变速度限制或信息标志，24小时实时监察隧道及路面情况。6号干线分别于启德",
       "category": "交通与基建",
       "first_seen": "2026-11-19T16:43:27.500661+08:00",
-      "new": true,
+      "new": false,
       "summary": "运输署表示，6号干线配备多项设施管理隧道交通，确保有效管理及交通畅顺。 署方在社交网页表示，6号干线全线采用「交通管制及监察系统」，结合闭路电视、自动事故探测器、行车线管制灯号，以及可变速度限制或信息标志，24小时实时监察隧道及路面情况。",
-      "summary_kind": "excerpt"
+      "summary_kind": "excerpt",
+      "summary_note": "正文或AI暂未成功读取，保留原文提要"
     },
     {
       "id": "25b0e1c314ef378b8893",
@@ -77,7 +78,8 @@
       "first_seen": "2026-11-18T19:28:40.312415+08:00",
       "new": false,
       "summary": "运输及物流局今日（十一月十八日）宣布，已与业界携手成立绿色船用燃料交易平台发展专责小组，并与多家业界及研究机构签署合作备忘录，共同推动香港发展成为面向全球、多元开放的绿色船用燃料贸易中心。",
-      "summary_kind": "excerpt"
+      "summary_kind": "excerpt",
+      "summary_note": "正文或AI暂未成功读取，保留原文提要"
     },
     {
       "id": "59dc5dd2b6b3bdefc7a1",
@@ -90,8 +92,9 @@
       "category": "机场与铁路",
       "first_seen": "2026-11-18T19:28:40.312415+08:00",
       "new": false,
-      "summary": "就重点市场而言，政府一直透过政策引导，既强化传统市场，亦开拓高潜力的新兴市场，为香港国际航空枢纽注入长远增长动力。 此外，连接港珠澳大桥香港口岸及航天城的「航天走廊」无人驾驶运输系统即将投入服务，未来服务更会扩展至东涌市区，届时旅客会有更便捷的方式前往东涌再接驳到大屿山南部的景点。",
-      "summary_kind": "excerpt"
+      "summary": "机场的转机网络、地面接驳效率，以及机场与大屿山其他地区的协同发展，均关乎本港国际航空枢纽",
+      "summary_kind": "excerpt",
+      "summary_note": "正文或AI暂未成功读取，保留原文提要"
     },
     {
       "id": "543881e132d8b27a9527",
@@ -104,11 +107,27 @@
       "category": "城市数字化",
       "first_seen": "2026-11-18T19:28:40.312415+08:00",
       "new": false,
-      "summary": "医管局代表亦介绍了局方在AI方面的发展策略、管治及应用，透过推行数字化、数据运用及AI，推动公营医院在智慧医疗、智慧医院管理和智慧医院支援等五大领域的数字化转型。 议员随后参观人工智能实验室，进一步了解医管局近年开发及应用的多项AI技术。",
-      "summary_kind": "excerpt"
+      "summary": "在创新科技及工业局副局长张曼莉陪同下，议员首先到访资讯科技创新实验室，听取医管局代表介绍正筹备成立的医创融汇办公室。",
+      "summary_kind": "excerpt",
+      "summary_note": "正文或AI暂未成功读取，保留原文提要"
+    },
+    {
+      "id": "4776d00b58b41756a585",
+      "title": "深圳APEC｜两男子涉嫌在新界北临时禁飞区放无人机被捕",
+      "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1878457-20261119.htm",
+      "publisher": "香港电台",
+      "source_id": "rthk",
+      "published_at": "2026-11-19T16:36:15+08:00",
+      "excerpt": "警方再拘捕两人，涉嫌在新界北临时禁飞区「未经许可在限制飞行区以内飞行」和「操作期间违反操作规定」。 警方上午分别在上水凤凰岭邨和粉岭乐鸣街拘捕两名男子，两人分别27岁和65岁，共检获两部小型无人机。 警方提醒，为配合于深圳举行的亚太经合组织第33次领导人非正式会议，由11月17日十凌晨至11月20日晚上11时59分期间",
+      "category": "低空与无人驾驶",
+      "first_seen": "2026-11-19T16:54:37.962916+08:00",
+      "new": true,
+      "summary": "警方上午分别在上水凤凰岭邨和粉岭乐鸣街拘捕两名男子，两人分别27岁和65岁，共检获两部小型无人机。",
+      "summary_kind": "excerpt",
+      "summary_note": "正文或AI暂未成功读取，保留原文提要"
     }
   ],
   "new_count": 1,
-  "ai_configured": false,
+  "ai_configured": true,
   "message": ""
 }
