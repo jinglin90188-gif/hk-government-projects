@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-19T16:54:37.962916+08:00",
-  "last_attempt_at": "2026-11-19T16:54:37.962916+08:00",
+  "updated_at": "2026-11-19T17:10:33.372733+08:00",
+  "last_attempt_at": "2026-11-19T17:10:33.372733+08:00",
   "date": "2026-11-19",
   "status": "ok",
   "sources": [
@@ -9,7 +9,7 @@
       "name": "香港政府新闻公报",
       "type": "rss",
       "url": "https://www.info.gov.hk/gia/rss/general_zh.xml",
-      "checked_at": "2026-11-19T16:54:37.962916+08:00",
+      "checked_at": "2026-11-19T17:10:33.372733+08:00",
       "status": "parsed",
       "count": 100
     },
@@ -18,7 +18,7 @@
       "name": "香港政府新闻网",
       "type": "rss",
       "url": "https://www.news.gov.hk/tc/common/html/topstories.rss.xml",
-      "checked_at": "2026-11-19T16:54:37.962916+08:00",
+      "checked_at": "2026-11-19T17:10:33.372733+08:00",
       "status": "parsed",
       "count": 15
     },
@@ -27,7 +27,7 @@
       "name": "香港电台",
       "type": "rss",
       "url": "https://rthk.hk/rthk/news/rss/c_expressnews_clocal.xml",
-      "checked_at": "2026-11-19T16:54:37.962916+08:00",
+      "checked_at": "2026-11-19T17:10:33.372733+08:00",
       "status": "parsed",
       "count": 20
     },
@@ -36,7 +36,7 @@
       "name": "香港机场管理局",
       "type": "airport",
       "url": "https://www.hongkongairport.com/tc/media-centre/press-release/",
-      "checked_at": "2026-11-19T16:54:37.962916+08:00",
+      "checked_at": "2026-11-19T17:10:33.372733+08:00",
       "status": "parsed",
       "count": 320
     },
@@ -45,7 +45,7 @@
       "name": "港铁公司",
       "type": "mtr",
       "url": "https://www.mtr.com.hk/ch/corporate/news/corporate.php",
-      "checked_at": "2026-11-19T16:54:37.962916+08:00",
+      "checked_at": "2026-11-19T17:10:33.372733+08:00",
       "status": "parsed",
       "count": 30
     }
@@ -58,11 +58,11 @@
       "publisher": "香港电台",
       "source_id": "rthk",
       "published_at": "2026-11-19T16:36:15+08:00",
-      "excerpt": "警方再拘捕两人，涉嫌在新界北临时禁飞区「未经许可在限制飞行区以内飞行」和「操作期间违反操作规定」。 警方上午分别在上水凤凰岭邨和粉岭乐鸣街拘捕两名男子，两人分别27岁和65岁，共检获两部小型无人机。 警方提醒，为配合于深圳举行的亚太经合组织第33次领导人非正式会议，由11月17日十凌晨至11月20日晚上11时59分期间",
+      "excerpt": "警方再拘捕两人，涉嫌在新界北临时禁飞区「未经许可在限制飞行区以内飞行」和「操作期间违反操作规定」。 警方上午分别在上水凤凰岭邨和粉岭乐鸣街拘捕两名男子，分别27岁和65岁，共检获两部小型无人机。 警方提醒，为配合于深圳举行的亚太经合组织第33次领导人非正式会议，由11月17日凌晨至11月20日晚上11时59分期间，新界",
       "category": "低空与无人驾驶",
       "first_seen": "2026-11-19T16:54:37.962916+08:00",
-      "new": true,
-      "summary": "警方上午分别在上水凤凰岭邨和粉岭乐鸣街拘捕两名男子，两人分别27岁和65岁，共检获两部小型无人机。",
+      "new": false,
+      "summary": "警方上午分别在上水凤凰岭邨和粉岭乐鸣街拘捕两名男子，分别27岁和65岁，共检获两部小型无人机。",
       "summary_kind": "excerpt",
       "summary_note": "正文或AI暂未成功读取，保留原文提要"
     },
@@ -127,7 +127,7 @@
       "summary_note": "正文或AI暂未成功读取，保留原文提要"
     }
   ],
-  "new_count": 1,
+  "new_count": 0,
   "ai_configured": true,
   "message": ""
 }
