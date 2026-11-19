@@ -134,7 +134,8 @@ jobs:
 
   email:
     needs: [collect, publish]
-    if: needs.collect.outputs.news == 'true' && vars.NEWS_MAIL_ENABLED == 'true'
+    # 用户要求暂不发送邮件；恢复前须再次确认。
+    if: ${{ false }}
     runs-on: ubuntu-latest
     timeout-minutes: 5
     permissions:
