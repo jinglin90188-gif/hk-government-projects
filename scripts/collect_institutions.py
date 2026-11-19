@@ -7,6 +7,7 @@ import sys
 from datetime import datetime
 from pathlib import Path
 from urllib.parse import urljoin
+from dateutil.parser import parse as parse_date
 from zoneinfo import ZoneInfo
 import requests
 from bs4 import BeautifulSoup
@@ -18,7 +19,7 @@ NOW=datetime.now(ZoneInfo('Asia/Hong_Kong'))
 PATH=ROOT/'dist/institutions.json'
 NOTES={
  'institution_airport':'公开列表可匿名查看；RFI按公告邮件索取文件，部分投标操作需ePROS。',
- 'institution_mtr':'匿名可查看六类采购计划；计划不等于正式邀请，文件及递交可能需供应商平台。',
+ 'institution_mtr':'同时检查六类采购计划及独立招标／意向邀请栏目；计划、资格预审及正式招标分开记录，递交可能需供应商平台。',
  'institution_hkstp':'官网说明可访客登入招标平台；当前官网只覆盖少量公告，访客平台本次返回503，清单不完整。',
  'institution_hsitp':'公开页可见项目、编号、刊登及截止日期，并有部分文件链接。',
  'institution_awe':'公开页当前为ePROS供应商入口，未取得公开项目清单，不表示无采购。',
@@ -54,6 +55,36 @@ def parse_mtr(soup,url):
         r['status']='计划日期已过／需核实' if q and (int(q[2]),int(q[1]))<(NOW.year,(NOW.month-1)//3+1) else '采购计划' if q else '历史／阶段待核实'
         rows.append(r)
     return rows
+
+def mtr_invitation_links(soup,url):
+    result={}
+    for a in soup.find_all('a',href=True):
+        target=urljoin(url,a['href']).split('#')[0]
+        if re.fullmatch(r'https://www\.mtr\.com\.hk/en/corporate/tenders/[A-Za-z0-9_-]+\.html',target) and re.search(r'Contract No|Agreement No|Consultancy|Prequalification|Simulator|Replacement',a.get_text(' ',strip=True),re.I):
+            result[target]=a.get_text(' ',strip=True)
+    return result
+
+def parse_mtr_invitation(soup,url):
+    text=soup.get_text(' ',strip=True)
+    heading=soup.find(['h1','h2'])
+    title=heading.get_text(' ',strip=True) if heading else ''
+    ref=re.search(r'(?:Contract|(?:Consultancy\s+)?Agreement)\s+No\.?\s*[:：]\s*([A-Z0-9][A-Z0-9/-]*)',title or text,re.I)
+    if not ref:return None
+    kind='prequalification' if re.search(r'prequalif',text,re.I) else 'eoi' if re.search(r'expressions? of interest',text,re.I) else 'tender'
+    dates=list(re.finditer(r'(?:no later than|not later than|on or before|by)\s+(?:(\d{1,2})(?::(\d{2}))?\s*([ap])\.?m\.?\s*(?:on)?\s*)?(\d{1,2}\s+[A-Za-z]+\s+20\d{2})',text,re.I))
+    closing='';closing_at=''
+    if dates:
+        d=dates[-1];closing=parse_date(d[4]).date().isoformat()
+        if d[1]:
+            hour=int(d[1])%12+(12 if d[3].lower()=='p' else 0)
+            closing_at=f'{closing}T{hour:02}:{int(d[2] or 0):02}:00+08:00'
+    link=next((a for a in soup.find_all('a',href=True) if re.search(r'questionnaire|tender document|application',a.get_text(' ',strip=True),re.I)),None)
+    r=make_record('港铁公司',title or ref[0],kind,url,reference_no=ref[1],closing_date=closing,closing_at=closing_at,
+                  document_url=urljoin(url,link['href']) if link else '',notes='独立招标／意向邀请公告；资格、服务范围及时间以详情原文为准。')
+    r['status']='已截标' if closing and (closing<NOW.date().isoformat() or closing_at and datetime.fromisoformat(closing_at)<=NOW) else {'prequalification':'资格预审中','eoi':'意向征集中','tender':'正在招标'}[kind] if closing else '状态待核实'
+    if ref[1]=='1075':
+        r.update(title_zh='港铁车厢电视广告销售代理服务（资格预审）',title_source='中文译述',eligibility_note='核心工作为新闻资讯内容、广告销售及媒体运营；不是列车电视系统建设或软件采购，不能仅凭TV或数据分析字眼判定为对口系统项目。')
+    return r
 
 def parse_hsitp(soup,url):
     rows=[]
@@ -91,6 +122,18 @@ def collect(spec):
             except Exception:report['chinese_note']='中文页暂不可用，保留已核实译述及英文原题'
         elif sid=='institution_mtr':
             errors=[]
+            invitation_url='https://www.mtr.com.hk/en/corporate/tenders/invitation.html'
+            try:
+                invitations=mtr_invitation_links(get(invitation_url),invitation_url)
+                if not invitations:raise ValueError('独立邀请栏目未识别项目链接')
+                report['invitation_links']=len(invitations)
+                for detail_url in invitations:
+                    try:
+                        entry=parse_mtr_invitation(get(detail_url),detail_url)
+                        if entry:rows.append(entry)
+                        else:errors.append('详情待解析：'+detail_url)
+                    except Exception:errors.append('详情读取失败：'+detail_url)
+            except Exception:errors.append('独立招标／意向邀请栏目未成功读取')
             for name in ['or','new_projects','property_services','marketing','others','sales']:
                 url='https://www.mtr.com.hk/en/corporate/tenders/'+name+'.html'
                 try:
@@ -115,6 +158,8 @@ def collect(spec):
         r['id']=hashlib.sha256((r['department']+'|'+r['reference_no']).encode()).hexdigest()[:18]
         r['source_id']=spec['id'];r['access_note']=report['note']
         r['company_fit']=classify(r)
+        if spec['id']=='institution_mtr' and r['reference_no']=='1075':
+            r['company_fit'].update(decision='review',reason='广告销售及媒体运营为主，不是电视系统建设采购；需另核合作范围')
         if re.search('ACDM|AWMS|Digital Displays|DESFire',r['title'],re.I):r['company_fit'].update(decision='include',reason='机场业务系统、数字显示或身份识别设备相关，具体资格待核实')
         if re.search(r'Smart Dynamic Train Inspection System|Cab Simulator|Emergency Communication System',r['title'],re.I):
             r['company_fit'].update(decision='include',reason='明确涉及智能检测、仿真训练或通信系统，资质及实际阶段须核实')
@@ -168,10 +213,16 @@ def main():
     with concurrent.futures.ThreadPoolExecutor(max_workers=5) as pool:
         for report,found in pool.map(collect,specs):
             if '失败' in report['status']:
-                found=[dict(r,stale=True) for r in previous.get('projects',[]) if r.get('source_id')==report['id']]
-                report['retained_count']=len(found)
+                current_ids={r['id'] for r in found}
+                retained=[dict(r,stale=True) for r in previous.get('projects',[]) if r.get('source_id')==report['id'] and r['id'] not in current_ids]
+                found.extend(retained)
+                report['retained_count']=len(retained)
             reports.append(report);rows.extend(found)
-    unique={r['id']:r for r in rows}
+    unique={}
+    for r in rows:
+        old=unique.get(r['id'])
+        if old and old['kind']!='forecast' and r['kind']=='forecast':continue
+        unique[r['id']]=r
     data=dict(updated_at=NOW.isoformat(),scope='仅匿名公开资料；不使用供应商账号；访问失败不等于无项目',sources=reports,projects=list(unique.values()))
     PATH.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n')
     print(json.dumps({'sources':len(reports),'records':len(unique),'related':sum(r['company_fit']['decision']=='include' for r in unique.values())},ensure_ascii=False))
