@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-19T17:56:20.119144+08:00",
-  "last_attempt_at": "2026-11-19T17:56:20.119144+08:00",
+  "updated_at": "2026-11-19T23:13:09.011083+08:00",
+  "last_attempt_at": "2026-11-19T23:13:09.011083+08:00",
   "date": "2026-11-19",
   "status": "ok",
   "sources": [
@@ -9,7 +9,7 @@
       "name": "香港政府新闻公报",
       "type": "rss",
       "url": "https://www.info.gov.hk/gia/rss/general_zh.xml",
-      "checked_at": "2026-11-19T17:56:20.119144+08:00",
+      "checked_at": "2026-11-19T23:13:09.011083+08:00",
       "status": "parsed",
       "count": 100
     },
@@ -18,7 +18,7 @@
       "name": "香港政府新闻网",
       "type": "rss",
       "url": "https://www.news.gov.hk/tc/common/html/topstories.rss.xml",
-      "checked_at": "2026-11-19T17:56:20.119144+08:00",
+      "checked_at": "2026-11-19T23:13:09.011083+08:00",
       "status": "parsed",
       "count": 15
     },
@@ -27,7 +27,7 @@
       "name": "香港电台",
       "type": "rss",
       "url": "https://rthk.hk/rthk/news/rss/c_expressnews_clocal.xml",
-      "checked_at": "2026-11-19T17:56:20.119144+08:00",
+      "checked_at": "2026-11-19T23:13:09.011083+08:00",
       "status": "parsed",
       "count": 20
     },
@@ -36,7 +36,7 @@
       "name": "香港机场管理局",
       "type": "airport",
       "url": "https://www.hongkongairport.com/tc/media-centre/press-release/",
-      "checked_at": "2026-11-19T17:56:20.119144+08:00",
+      "checked_at": "2026-11-19T23:13:09.011083+08:00",
       "status": "parsed",
       "count": 320
     },
@@ -45,7 +45,7 @@
       "name": "港铁公司",
       "type": "mtr",
       "url": "https://www.mtr.com.hk/ch/corporate/news/corporate.php",
-      "checked_at": "2026-11-19T17:56:20.119144+08:00",
+      "checked_at": "2026-11-19T23:13:09.011083+08:00",
       "status": "parsed",
       "count": 30
     }
@@ -125,9 +125,39 @@
       "summary": "警方上午分别在上水凤凰岭邨和粉岭乐鸣街拘捕两名男子，分别27岁和65岁，共检获两部小型无人机。",
       "summary_kind": "excerpt",
       "summary_note": "正文或AI暂未成功读取，保留原文提要"
+    },
+    {
+      "id": "9adec6c6ed1014d5674a",
+      "title": "政府关注港铁香港大学站接连信号故障 机电署初步指不涉铁路安全",
+      "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1878502-20261119.htm",
+      "publisher": "香港电台",
+      "source_id": "rthk",
+      "published_at": "2026-11-19T21:44:19+08:00",
+      "excerpt": "就港铁香港大学站连续两日出现信号设备故障，影响列车服务，政府发言人表示关注，已要求港铁公司深入调查事故原因，并全面报告跟进工作和改善措施，以防止同类情况再次发生。 发言人说，机电工程署已派员前往事故现场了解有关情况及展开事故调查，初步显示不涉及铁路安全事宜。 编辑：钟慧仪",
+      "category": "机场与铁路",
+      "first_seen": "2026-11-19T23:13:09.011083+08:00",
+      "new": true,
+      "summary": "发言人说，机电工程署已派员前往事故现场了解有关情况及展开事故调查，初步显示不涉及铁路安全事宜。",
+      "summary_kind": "excerpt",
+      "summary_note": "正文或AI暂未成功读取，保留原文提要"
+    },
+    {
+      "id": "766f2623317943242d05",
+      "title": "范婉儿料人工智能相关需求持续支持本港出口",
+      "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1878492-20261119.htm",
+      "publisher": "香港电台",
+      "source_id": "rthk",
+      "published_at": "2026-11-19T20:20:08+08:00",
+      "excerpt": "政府之前公布，今年第3季香港本地生产总值（GDP）按年增速加快至5.2%，并将全年GDP预测向上修订至4.8%。 政府经济顾问范婉儿接受本台节目《财经新思维》访问时表示，出口、投资及消费「三头马车」支持香港经济，其中外贸表现受惠于人工智能（AI）相关电子产品需求。 提到近期人工智能行业表现波动，范婉儿表示，AI是全球科",
+      "category": "城市数字化",
+      "first_seen": "2026-11-19T23:13:09.011083+08:00",
+      "new": true,
+      "summary": "政府经济顾问范婉儿接受本台节目《财经新思维》访问时表示，出口、投资及消费「三头马车」支持香港经济，其中外贸表现受惠于人工智能（AI）相关电子产品需求。 提到近期人工智能行业表现波动，范婉儿表示，AI是全球科",
+      "summary_kind": "excerpt",
+      "summary_note": "正文或AI暂未成功读取，保留原文提要"
     }
   ],
-  "new_count": 0,
+  "new_count": 2,
   "ai_configured": true,
   "message": ""
 }
