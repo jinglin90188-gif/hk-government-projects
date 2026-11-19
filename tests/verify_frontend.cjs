@@ -20,10 +20,14 @@ vm.runInContext(fs.readFileSync(path.join(root,'dist/dashboard.js'),'utf8'),cont
 setImmediate(()=>{
  assert.equal(document.querySelectorAll('.stat').length,4);
  assert.ok(document.querySelectorAll('.project-card').length>0,'projects render from actual snapshot');
+ const allCount=vm.runInContext('selection().length',context);
+ assert.ok(vm.runInContext('selection().some(r=>r.company_fit?.decision!=="include")',context));
+ assert.equal(document.querySelector('[data-kind="business_review"]'),null);
+ assert.equal(document.querySelector('[data-kind="uncertain"]'),null);
+ document.querySelector('[data-scope="business"]').click();
  for(const button of document.querySelectorAll('[data-project]'))assert.equal(snapshot.projects.find(r=>r.id===button.dataset.project).company_fit.decision,'include');
- document.querySelector('[data-kind="business_review"]').click();
- for(const button of document.querySelectorAll('[data-project]'))assert.equal(snapshot.projects.find(r=>r.id===button.dataset.project).company_fit.decision,'review');
- document.querySelector('[data-kind="all"]').click();
+ assert.ok(vm.runInContext('selection().length',context)<allCount);
+ document.querySelector('[data-scope="all"]').click();
  const search=document.getElementById('search');search.value='NO-SUCH-TENDER-100000';search.dispatchEvent(new window.Event('input'));
  assert.equal(document.querySelectorAll('.project-card').length,0);
  assert.ok(document.getElementById('emptyCoverage'));

@@ -23,6 +23,16 @@ setImmediate(async()=>{
  assert.equal(document.querySelectorAll('[data-family]').length,6);
  const count=()=>document.querySelectorAll('.project-card').length;
  assert.ok(count()>0);
+ assert.ok(vm.runInContext("selection().some(r=>r.company_fit?.decision==='exclude')",context),'all projects retain records previously excluded');
+ assert.equal(document.querySelector('[data-kind="business_review"]'),null);
+ assert.equal(document.querySelector('[data-kind="uncertain"]'),null);
+ document.querySelector('[data-scope="business"]').click();
+ assert.ok(vm.runInContext('selection().every(inScope)',context));
+ assert.equal(location.searchParams.get('scope'),'business');
+ document.querySelector('[data-kind="forecast"]').click();
+ assert.ok(vm.runInContext("selection().every(r=>inScope(r)&&r.kind==='forecast')",context));
+ document.querySelector('#resetFilters').click();
+ assert.equal(location.searchParams.get('scope'),null);
  assert.ok([...document.querySelectorAll('#department option')].some(n=>n.value==='港铁公司'));
  document.querySelector('#search').value='ACDM/RFI/2026';document.querySelector('#search').dispatchEvent(new window.Event('input'));
  assert.equal(count(),1);assert.equal(document.querySelector('.project-card .badge').textContent,'信息征询中');
