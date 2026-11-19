@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T19:30:51+08:00",
+  "updated_at": "2026-11-19T13:54:02+08:00",
   "departments": [
     {
       "department": "保安局",
@@ -499,13 +499,12 @@
       "source_status": {
         "parsed": 1
       },
-      "open": 15,
-      "related_open": 1,
+      "open": 12,
+      "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
-        "review": 5,
-        "exclude": 9,
-        "include": 1
+        "review": 3,
+        "exclude": 9
       },
       "unresolved_sources": []
     },
@@ -1351,14 +1350,14 @@
       "tender_sources": 3,
       "forecast_sources": 1,
       "source_status": {
-        "parsed": 3,
-        "empty": 1
+        "parsed": 2,
+        "empty": 2
       },
       "open": 1,
       "related_open": 1,
-      "related_forecast": 3,
+      "related_forecast": 2,
       "scope_counts": {
-        "include": 7,
+        "include": 6,
         "exclude": 2
       },
       "unresolved_sources": []
@@ -1486,14 +1485,15 @@
     {
       "department": "香港警务处",
       "issues": [
-        "未登记独立预报入口，仅能依赖中央采购预报覆盖"
+        "未登记独立预报入口，仅能依赖中央采购预报覆盖",
+        "1项尚未核实截标日期或当前状态"
       ],
       "tender_sources": 1,
       "forecast_sources": 0,
       "source_status": {
         "parsed": 1
       },
-      "open": 4,
+      "open": 3,
       "related_open": 2,
       "related_forecast": 0,
       "scope_counts": {

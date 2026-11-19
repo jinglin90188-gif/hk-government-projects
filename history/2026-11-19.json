@@ -1,0 +1,44 @@
+{
+  "date": "2026-11-19",
+  "last_run_at": "2026-11-19T13:54:02+08:00",
+  "new": [],
+  "updated": [
+    {
+      "department": "香港警务处",
+      "title": "为红磡警署及九龙城警署(包括九龙城区少年警讯会所)提供清洁及支援服务",
+      "kind": "tender",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.police.gov.hk/ppp_tc/11_useful_info/tenders_2026_38.html",
+      "document_url": "",
+      "source_ids": [
+        "directory_38"
+      ],
+      "review_note": "需从原公告核实截标日期",
+      "verified_at": "2026-11-19T13:54:02+08:00",
+      "status": "状态待核实",
+      "id": "e508a8f93e2b5360db",
+      "first_seen_at": "2026-10-26T13:00:02+08:00",
+      "change": "updated",
+      "last_changed_at": "2026-11-19T13:54:02+08:00",
+      "company_fit": {
+        "decision": "exclude",
+        "categories": [],
+        "evidence": [],
+        "reason": "采购内容属于非技术服务及一般建设，未见相关数字化范围",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    }
+  ],
+  "no_longer_seen_ids": [
+    "6b29a72d330da98e6f",
+    "f33339cefe76bea821",
+    "f4c45927b5b347c25d",
+    "fedfa93bdbdd2669a1"
+  ],
+  "note": "未再见到不等于取消或批出；需核实官方公告。"
+}
