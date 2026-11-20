@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-19T17:54:52+08:00",
+  "checked_at": "2026-11-20T13:42:42+08:00",
   "items": [
     {
       "department": "食物环境卫生署",
@@ -16,10 +16,30 @@
         "directory_31"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "closing_at": "2026-12-11T12:00:00+08:00",
       "status": "正在招标",
       "id": "befaaa9c2e006b9c79"
+    },
+    {
+      "department": "食物环境卫生署",
+      "title": "为湾仔区骆克道市政大厦及皇后大道东258号部分提供保安员服务",
+      "kind": "tender",
+      "reference_no": "FEHQ 1014/26",
+      "closing_date": "2026-12-30",
+      "closing_text": "2026年12月30日 (日期) 中午12:00 (香港时间) (逾期的投标概不受理)",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.fehd.gov.hk/tc_chi/tenders/details/FEHQ%201014_26.html",
+      "document_url": "",
+      "source_ids": [
+        "directory_31"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-20T13:42:42+08:00",
+      "closing_at": "2026-12-30T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "ff976073ba780ef6db"
     },
     {
       "department": "食物环境卫生署",
@@ -36,7 +56,7 @@
         "directory_31"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "closing_at": "2026-12-18T12:00:00+08:00",
       "status": "正在招标",
       "id": "832ceda992d3d7f71c"

@@ -1,6 +1,35 @@
 {
-  "checked_at": "2026-11-19T17:54:52+08:00",
+  "checked_at": "2026-11-20T13:42:42+08:00",
   "items": [
+    {
+      "department": "教育局",
+      "title": "在2027/28、2028/29及2029/30学年为普通中、小学校的特殊教育需要统筹主任提供专业培训课程服务，所有服务及可交付成果须在2030年10月31日或之前完成",
+      "kind": "tender",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "和时间 : 202 7 年 1 月 12 日正午 12 时 (香港时间 ) 逾期的投标概不受理。 查询 : 九龙九龙塘沙福道 19 号教育局九龙塘教育服务中心东座2 楼 E201 室教育局特殊教育分部",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.edb.gov.hk/attachment/tc/public-admin/tender-notices/tender-notice/SENCO2730_TC.pdf",
+      "document_url": "https://www.edb.gov.hk/attachment/tc/public-admin/tender-notices/tender-notice/SENCO2730_TC.pdf",
+      "source_ids": [
+        "directory_67"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-20T13:42:42+08:00",
+      "document_verified": true,
+      "status": "状态待核实",
+      "title_aliases": [
+        "在2027/28、2028/29及2029/30学年为普通中、小学校的特殊教育需要统筹主任提供专业培训课程服务，所有服务及可交付成果须在2030年10月31日或之前完成"
+      ],
+      "closing_at": "",
+      "title_zh": "在2027/28、2028/29及2029/30学年为普通中、小学校的特殊教育需要统筹主任提供专业培训课程服务，所有服务及可交付成果须在2030年10月31日或之前完成",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "notes": "",
+      "id": "8c7168b07edd76cce7"
+    },
     {
       "department": "教育局",
       "title": "为中、小学教师提供学生训育及辅导证书课程服务，所有服务及可交付成果须不迟于2030年12月31日完成",
@@ -16,7 +45,7 @@
         "directory_67"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "document_verified": true,
       "status": "状态待核实",
       "title_aliases": [
@@ -45,7 +74,7 @@
         "directory_67"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "document_verified": true,
       "status": "状态待核实",
       "title_aliases": [
@@ -74,7 +103,7 @@
         "directory_67"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "document_verified": true,
       "status": "状态待核实",
       "title_aliases": [
@@ -103,7 +132,7 @@
         "directory_67"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "document_verified": true,
       "status": "状态待核实",
       "title_aliases": [
@@ -132,7 +161,7 @@
         "directory_67"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "document_verified": true,
       "status": "状态待核实",
       "title_aliases": [
@@ -161,7 +190,7 @@
         "directory_67"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "document_verified": true,
       "closing_at": "2026-10-23T12:00:00+08:00",
       "status": "已截标",
@@ -190,7 +219,7 @@
         "directory_67"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "document_verified": true,
       "closing_at": "2026-11-06T12:00:00+08:00",
       "status": "已截标",
@@ -219,10 +248,10 @@
         "directory_67"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "document_verified": true,
       "closing_at": "2026-11-20T12:00:00+08:00",
-      "status": "正在招标",
+      "status": "已截标",
       "title_aliases": [
         "为玛利诺修院学校(中学部)、嘉诺撒圣玛利书院及中华基督教会基华小学(九龙塘)的新升降机塔建造地基及准备工程 (合约编号PI SM008)"
       ],

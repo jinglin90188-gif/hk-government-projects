@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-19T17:54:52+08:00",
+  "checked_at": "2026-11-20T13:42:42+08:00",
   "items": [
     {
       "department": "劳工处",
@@ -16,32 +16,11 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "请参阅招标文件",
       "closing_at": "2026-12-04T12:00:00+08:00",
       "status": "正在招标",
       "id": "2de9af20181a985d9c"
-    },
-    {
-      "department": "卫生署",
-      "title": "为卫生署供应人类乳头瘤病毒9价疫苗，合约为期24个月",
-      "kind": "tender",
-      "reference_no": "A4100182026",
-      "closing_date": "2026-11-20",
-      "closing_text": "2026-11-20 12:00:00",
-      "forecast_date": "",
-      "publish_date": "2026-10-09",
-      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=A4100182026",
-      "document_url": "",
-      "source_ids": [
-        "etb_xml"
-      ],
-      "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
-      "notes": "此人类乳头瘤病毒9价疫苗用于「香港儿童免疫接种计划」并为小学五及六年级的女学生接种。",
-      "closing_at": "2026-11-20T12:00:00+08:00",
-      "status": "正在招标",
-      "id": "b64fb7099bfcc24038"
     },
     {
       "department": "卫生署",
@@ -58,7 +37,7 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "此药品用于治疗或预防流行性感冒。",
       "closing_at": "2026-12-15T12:00:00+08:00",
       "status": "正在招标",
@@ -79,7 +58,7 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "请参阅招标文件",
       "closing_at": "2026-11-30T12:00:00+08:00",
       "status": "正在招标",
@@ -100,7 +79,7 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "有关疫苗用作预防黄热病。",
       "closing_at": "2026-12-10T12:00:00+08:00",
       "status": "正在招标",
@@ -121,11 +100,32 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "请参阅招标文件",
       "closing_at": "2026-11-23T12:00:00+08:00",
       "status": "正在招标",
       "id": "09721b67742425b8f5"
+    },
+    {
+      "department": "地政总署",
+      "title": "地政总署软件程式系统升级和软件程式维护服务年度计划",
+      "kind": "tender",
+      "reference_no": "LD SMO/HQ/2026/52",
+      "closing_date": "2026-12-14",
+      "closing_text": "2026-12-14 12:00:00",
+      "forecast_date": "",
+      "publish_date": "2026-11-20",
+      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=LD SMO/HQ/2026/52",
+      "document_url": "",
+      "source_ids": [
+        "etb_xml"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-20T13:42:42+08:00",
+      "notes": "为地政总署提供地理信息系统软件程式升级和软件程式维护服务。",
+      "closing_at": "2026-12-14T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "91d93e5518e3782f0d"
     },
     {
       "department": "康乐及文化事务署",
@@ -142,7 +142,7 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "请参阅招标文件",
       "closing_at": "2026-11-30T12:00:00+08:00",
       "status": "正在招标",
@@ -163,7 +163,7 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "请参阅招标文件",
       "closing_at": "2026-11-23T12:00:00+08:00",
       "status": "正在招标",
@@ -184,7 +184,7 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "为屯门兆麟政府综合大楼提供大厦管理及保安服务, 为期36个月, 由2027年5月1日起至2030年4月30日止。",
       "closing_at": "2026-12-03T12:00:00+08:00",
       "status": "正在招标",
@@ -205,7 +205,7 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "为康乐及文化事务署辖下的香港公共图书馆提供改装货车的租赁服务, 为期36个月, 由2027年5月1日起至2030年4月30日止。",
       "closing_at": "2026-12-29T12:00:00+08:00",
       "status": "正在招标",
@@ -226,7 +226,7 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "为康乐及文化事务署辖下的香港中央图书馆(借阅服务)提供图书馆资料整理及上架服务, 为期36个月, 由2027年5月1日起至2030年4月30日止。",
       "closing_at": "2026-11-27T12:00:00+08:00",
       "status": "正在招标",
@@ -247,7 +247,7 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "为石塘咀市政大厦提供洁净及辅助服务, 为期36个月, 由2027年6月1日起至2030年5月31日止。",
       "closing_at": "2026-12-29T12:00:00+08:00",
       "status": "正在招标",
@@ -268,7 +268,7 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "为康乐及文化事务署辖下的香港文化中心大剧院供应聚光灯",
       "closing_at": "2026-12-03T12:00:00+08:00",
       "status": "正在招标",
@@ -289,11 +289,32 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "为康乐及文化事务署辖下的香港文化中心音乐厅提供及安装音响扬声器系统",
       "closing_at": "2026-12-09T12:00:00+08:00",
       "status": "正在招标",
       "id": "fc04c3365f16d53786"
+    },
+    {
+      "department": "廉政公署",
+      "title": "为廉政公署训练营提供组合式货柜训练塔",
+      "kind": "tender",
+      "reference_no": "ICAC/TG1/2025",
+      "closing_date": "2027-01-05",
+      "closing_text": "2027-01-05 12:00:00",
+      "forecast_date": "",
+      "publish_date": "2026-11-20",
+      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=ICAC/TG1/2025",
+      "document_url": "",
+      "source_ids": [
+        "etb_xml"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-20T13:42:42+08:00",
+      "notes": "为廉政公署训练营提供组合式货柜训练塔",
+      "closing_at": "2027-01-05T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "2e1bca5e970de178d0"
     },
     {
       "department": "惩教署",
@@ -310,11 +331,32 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "为惩教署香港惩教学院弹药库提供保安服务",
       "closing_at": "2026-11-24T12:00:00+08:00",
       "status": "正在招标",
       "id": "b3383fd332e401ef37"
+    },
+    {
+      "department": "惩教署",
+      "title": "为惩教署供应个人电脑，合约为期24个月",
+      "kind": "tender",
+      "reference_no": "PTCSU0062026",
+      "closing_date": "2027-01-05",
+      "closing_text": "2027-01-05 12:00:00",
+      "forecast_date": "",
+      "publish_date": "2026-11-20",
+      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=PTCSU0062026",
+      "document_url": "",
+      "source_ids": [
+        "etb_xml"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-20T13:42:42+08:00",
+      "notes": "为惩教署供应个人电脑",
+      "closing_at": "2027-01-05T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "2d87d19cd7bf613fa6"
     },
     {
       "department": "政府新闻处",
@@ -331,7 +373,7 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "请参阅招标文件。",
       "closing_at": "2026-11-26T12:00:00+08:00",
       "status": "正在招标",
@@ -352,7 +394,7 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "请参阅招标文件。",
       "closing_at": "2026-12-08T12:00:00+08:00",
       "status": "正在招标",
@@ -373,7 +415,7 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "请参阅招标文件。",
       "closing_at": "2026-12-08T12:00:00+08:00",
       "status": "正在招标",
@@ -394,11 +436,32 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "*",
       "closing_at": "2026-12-03T12:00:00+08:00",
       "status": "正在招标",
       "id": "c97f0624467ab97ed7"
+    },
+    {
+      "department": "政府物流服务署",
+      "title": "为政府物流服务署供应每平方米80克和每平方米100克的再造白色道林纸（书纸），合约为期24个月",
+      "kind": "tender",
+      "reference_no": "A0600222026",
+      "closing_date": "2026-12-31",
+      "closing_text": "2026-12-31 12:00:00",
+      "forecast_date": "",
+      "publish_date": "2026-11-20",
+      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=A0600222026",
+      "document_url": "",
+      "source_ids": [
+        "etb_xml"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-20T13:42:42+08:00",
+      "notes": "有关货品用作支援政府物流服务署印务科的印制工作，以印制一般的政府及部门表格、海报、单张、小册子、报告等。",
+      "closing_at": "2026-12-31T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "811c59ebd9b36edc35"
     },
     {
       "department": "政府物流服务署",
@@ -415,7 +478,7 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "政府各部门运载乘客及行李",
       "closing_at": "2026-12-18T12:00:00+08:00",
       "status": "正在招标",
@@ -436,11 +499,32 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "供应大卷装卫生纸予政府各局 / 部门使用",
       "closing_at": "2026-12-11T12:00:00+08:00",
       "status": "正在招标",
       "id": "ae9d82070bd0c74d15"
+    },
+    {
+      "department": "教育局",
+      "title": "在2027/28、2028/29及2029/30学年为普通中、小学校的特殊教育需要统筹主任提供专业培训课程服务，所有服务及可交付成果须在2030年10月31日或之前完成",
+      "kind": "tender",
+      "reference_no": "(012) IN 0003-0005-8055-9030-0030-0003-P001",
+      "closing_date": "2027-01-12",
+      "closing_text": "2027-01-12 12:00:00",
+      "forecast_date": "",
+      "publish_date": "2026-11-20",
+      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=(012) IN 0003-0005-8055-9030-0030-0003-P001",
+      "document_url": "",
+      "source_ids": [
+        "etb_xml"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-20T13:42:42+08:00",
+      "notes": "请参阅招标文件",
+      "closing_at": "2027-01-12T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "58e8166fec1a190991"
     },
     {
       "department": "教育局",
@@ -457,7 +541,7 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "请参阅招标文件",
       "closing_at": "2026-12-10T12:00:00+08:00",
       "status": "正在招标",
@@ -478,7 +562,7 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "为教育局九龙塘教育服务中心提供清洁服务",
       "closing_at": "2026-12-04T12:00:00+08:00",
       "status": "正在招标",
@@ -499,7 +583,7 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "为教育局九龙塘教育服务中心提供护卫服务",
       "closing_at": "2026-11-27T12:00:00+08:00",
       "status": "正在招标",
@@ -520,7 +604,7 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "为教育局辖下办公室提供清洁服务",
       "closing_at": "2026-12-17T12:00:00+08:00",
       "status": "正在招标",
@@ -541,7 +625,7 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "为教育局辖下官立学校提供窗户清洁服务",
       "closing_at": "2026-12-17T12:00:00+08:00",
       "status": "正在招标",
@@ -562,11 +646,32 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "招标承投为数字政策办公室供应反恶意软件并提供相关服务",
       "closing_at": "2026-11-23T12:00:00+08:00",
       "status": "正在招标",
       "id": "bcd21c2b5d7d4a8ed6"
+    },
+    {
+      "department": "数字政策办公室",
+      "title": "招标承投为数字政策办公室供应端点侦测与回应软件并提供相关服务",
+      "kind": "tender",
+      "reference_no": "DPO8566/4/32",
+      "closing_date": "2027-01-05",
+      "closing_text": "2027-01-05 12:00:00",
+      "forecast_date": "",
+      "publish_date": "2026-11-20",
+      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=DPO8566/4/32",
+      "document_url": "",
+      "source_ids": [
+        "etb_xml"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-20T13:42:42+08:00",
+      "notes": "招标承投为数字政策办公室供应端点侦测与回应软件并提供相关服务",
+      "closing_at": "2027-01-05T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "30612d2e41dfaec9d8"
     },
     {
       "department": "机电工程署",
@@ -583,11 +688,32 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "此招标项目为采购狗只运载车，以供香港警务处为香港警犬队运载狗只。",
       "closing_at": "2026-12-15T12:00:00+08:00",
       "status": "正在招标",
       "id": "852edda54570d364f5"
+    },
+    {
+      "department": "机电工程署",
+      "title": "为机电工程署供应轻型救援车辆，车辆须在合约生效日期起计20个月内可供使用。",
+      "kind": "tender",
+      "reference_no": "EMSSSD0326",
+      "closing_date": "2027-01-07",
+      "closing_text": "2027-01-07 12:00:00",
+      "forecast_date": "",
+      "publish_date": "2026-11-20",
+      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=EMSSSD0326",
+      "document_url": "",
+      "source_ids": [
+        "etb_xml"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-20T13:42:42+08:00",
+      "notes": "此招标项目为采购轻型救援车辆，以供运输署于隧道及管制区提供车辆救援服务。",
+      "closing_at": "2027-01-07T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "ecca2bccc0d3f5772c"
     },
     {
       "department": "机电工程署",
@@ -604,7 +730,7 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "此招标项目为采购电动快速应变急救车，以供消防处为市民提供迅速的进阶院前辅助医疗救护服务，并执行临床服务质素监管及事故现场指挥支援工作。",
       "closing_at": "2026-12-15T12:00:00+08:00",
       "status": "正在招标",
@@ -625,7 +751,7 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "请参阅招标文件",
       "closing_at": "2026-11-24T12:00:00+08:00",
       "status": "正在招标",
@@ -646,7 +772,7 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "用于计量供给用户的食水用量",
       "closing_at": "2026-12-30T12:00:00+08:00",
       "status": "正在招标",
@@ -667,7 +793,7 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "请参阅招标文件",
       "closing_at": "2026-12-21T12:00:00+08:00",
       "status": "正在招标",
@@ -688,7 +814,7 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "请参阅投标文件",
       "closing_at": "2026-11-23T12:00:00+08:00",
       "status": "正在招标",
@@ -709,7 +835,7 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "请参阅招标文件",
       "closing_at": "2027-01-08T12:00:00+08:00",
       "status": "正在招标",
@@ -730,7 +856,7 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "请参阅招标文件",
       "closing_at": "2026-11-24T12:00:00+08:00",
       "status": "正在招标",
@@ -751,7 +877,7 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "请参阅招标文件",
       "closing_at": "2026-12-04T12:00:00+08:00",
       "status": "正在招标",
@@ -772,7 +898,7 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "请参阅招标文件",
       "closing_at": "2026-12-11T12:00:00+08:00",
       "status": "正在招标",
@@ -793,7 +919,7 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "请参阅招标文件",
       "closing_at": "2026-11-30T12:00:00+08:00",
       "status": "正在招标",
@@ -814,7 +940,7 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "请参阅招标文件",
       "closing_at": "2026-12-17T12:00:00+08:00",
       "status": "正在招标",
@@ -835,11 +961,32 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "请参阅招标文件",
       "closing_at": "2026-11-23T12:00:00+08:00",
       "status": "正在招标",
       "id": "a9bb432626d1677d04"
+    },
+    {
+      "department": "食物环境卫生署",
+      "title": "为湾仔区骆克道市政大厦及皇后大道东258号部分提供保安员服务",
+      "kind": "tender",
+      "reference_no": "FEHQ 1014/26",
+      "closing_date": "2026-12-30",
+      "closing_text": "2026-12-30 12:00:00",
+      "forecast_date": "",
+      "publish_date": "2026-11-20",
+      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=FEHQ 1014/26",
+      "document_url": "",
+      "source_ids": [
+        "etb_xml"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-20T13:42:42+08:00",
+      "notes": "提供保安员服务",
+      "closing_at": "2026-12-30T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "ff976073ba780ef6db"
     },
     {
       "department": "香港海关",
@@ -856,7 +1003,7 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "为香港海关提供巴士的租赁服务，合约为期36个月",
       "closing_at": "2026-12-04T12:00:00+08:00",
       "status": "正在招标",
@@ -877,7 +1024,7 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "请参阅招标文件",
       "closing_at": "2026-11-26T12:00:00+08:00",
       "status": "正在招标",
@@ -885,24 +1032,24 @@
     },
     {
       "department": "香港警务处",
-      "title": "为香港警务处提供第三代指挥及控制系统维修服务",
+      "title": "为香港警务处提供数位数据线路服务",
       "kind": "tender",
-      "reference_no": "OSS03/2026",
-      "closing_date": "2026-11-20",
-      "closing_text": "2026-11-20 12:00:00",
+      "reference_no": "OSS04/2026",
+      "closing_date": "2027-01-08",
+      "closing_text": "2027-01-08 12:00:00",
       "forecast_date": "",
-      "publish_date": "2026-09-11",
-      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=OSS03/2026",
+      "publish_date": "2026-11-20",
+      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=OSS04/2026",
       "document_url": "",
       "source_ids": [
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "请参阅招标文件",
-      "closing_at": "2026-11-20T12:00:00+08:00",
+      "closing_at": "2027-01-08T12:00:00+08:00",
       "status": "正在招标",
-      "id": "a42186dd9fd06b746b"
+      "id": "12524fc38b3f4784fa"
     },
     {
       "department": "香港警务处",
@@ -919,7 +1066,7 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "用于通过手动和自动方法，对直径为 0.5 微米或更小的枪弹残留物进行分析。",
       "closing_at": "2026-12-01T12:00:00+08:00",
       "status": "正在招标",
@@ -940,7 +1087,7 @@
         "etb_xml"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "notes": "为香港邮政设施提供广告宣传代理服务",
       "closing_at": "2026-12-08T12:00:00+08:00",
       "status": "正在招标",

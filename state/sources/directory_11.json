@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-19T17:54:52+08:00",
+  "checked_at": "2026-11-20T13:42:42+08:00",
   "items": [
     {
       "department": "土木工程拓展署",
@@ -16,7 +16,7 @@
         "directory_11"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "closing_at": "2026-12-18T12:00:00+08:00",
       "status": "正在招标",
       "id": "9134834360b79b66b9"
@@ -36,7 +36,7 @@
         "directory_11"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "closing_at": "2026-12-18T12:00:00+08:00",
       "status": "正在招标",
       "id": "bfcc809601f4928cc4"
@@ -56,30 +56,10 @@
         "directory_11"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "closing_at": "2026-12-04T12:00:00+08:00",
       "status": "正在招标",
       "id": "45b8f12d14fabc1af0"
-    },
-    {
-      "department": "土木工程拓展署",
-      "title": "河套区发展 — 东面连接道路",
-      "kind": "tender",
-      "reference_no": "YL/2025/02",
-      "closing_date": "2026-11-20",
-      "closing_text": "2026年11月20日, 星期五, 12:00 中午",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.cedd.gov.hk/tc/tender-notices/contracts/tender-notices/index.html",
-      "document_url": "https://www.cedd.gov.hk/tc/tender-notices/contracts/tender-notices/index-id-2441.html",
-      "source_ids": [
-        "directory_11"
-      ],
-      "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
-      "closing_at": "2026-11-20T12:00:00+08:00",
-      "status": "正在招标",
-      "id": "b2f2e8b6a786bfdc63"
     }
   ]
 }

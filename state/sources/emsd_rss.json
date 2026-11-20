@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-19T17:54:52+08:00",
+  "checked_at": "2026-11-20T13:42:42+08:00",
   "items": [
     {
       "department": "机电工程署",
@@ -16,10 +16,70 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "closing_at": "2026-12-18T12:00:00+08:00",
       "status": "正在招标",
       "id": "5dc498fabdd2da7407"
+    },
+    {
+      "department": "机电工程署",
+      "title": "启德区域供冷系统综合操作及保养服务合约",
+      "kind": "tender",
+      "reference_no": "1407M26T",
+      "closing_date": "2027-02-19",
+      "closing_text": "/时间 2027年2月19日(星期五)中午12时。 递交投标书地点投标者必须透过电子投标系统（工程合约）递交电子投标书。逾期递交的投标书，概不受理。 除了递交电子投标书外，投标者也可以选择同时以印本形式递交投标书。递交印",
+      "forecast_date": "",
+      "publish_date": "2026-11-20",
+      "source_url": "https://www.emsd.gov.hk/tc/tenders_contracts_and_consultancies/tender_notices/tender_notices/index_id_6614.html",
+      "document_url": "",
+      "source_ids": [
+        "emsd_rss"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-20T13:42:42+08:00",
+      "closing_at": "2027-02-19T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "3e1f7f697ea913d0ad"
+    },
+    {
+      "department": "机电工程署",
+      "title": "为香港特别行政区政府客运码头、政府船坞、启德邮轮码头及市政场地内的电机、机械及其他装置提供操作及保养维修服务，合约为期三年。",
+      "kind": "tender",
+      "reference_no": "1486EM26T",
+      "closing_date": "2027-01-08",
+      "closing_text": "/时间 2027年1月8日星期五中午12时递交投标书地点投标者必须透过电子投标系统（工程合约）递交电子投标书。逾期递交的投标书，概不受理。 除了递交电子投标书外，投标者也可以选择同时以印本形式递交投标书。递交印本形式的投",
+      "forecast_date": "",
+      "publish_date": "2026-11-16",
+      "source_url": "https://www.emsd.gov.hk/tc/tenders_contracts_and_consultancies/tender_notices/tender_notices/index_id_6612.html",
+      "document_url": "",
+      "source_ids": [
+        "emsd_rss"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-20T13:42:42+08:00",
+      "closing_at": "2027-01-08T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "70e882efb9e1c58ea4"
+    },
+    {
+      "department": "机电工程署",
+      "title": "采用机电装备合成法（MiMEP）及建筑信息模拟技术为博爱医院更换水冷式冷水机组及相关设施",
+      "kind": "tender",
+      "reference_no": "1490EM26W",
+      "closing_date": "2026-12-18",
+      "closing_text": "/时间 2026年12月18日（星期五）中午12时递交投标书地点投标者必须在一式两份封密的投标表格信封面注明招标编号、投标项目(但不得有任何记认，使人认出投标者的身分)及「工务投标委员会主席收」。投标者必须把投标书放入香",
+      "forecast_date": "",
+      "publish_date": "2026-11-15",
+      "source_url": "https://www.emsd.gov.hk/tc/tenders_contracts_and_consultancies/tender_notices/tender_notices/index_id_6609.html",
+      "document_url": "",
+      "source_ids": [
+        "emsd_rss"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-20T13:42:42+08:00",
+      "closing_at": "2026-12-18T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "76ff403001cad20937"
     },
     {
       "department": "机电工程署",
@@ -36,7 +96,7 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "closing_at": "2026-12-04T12:00:00+08:00",
       "status": "正在招标",
       "id": "8f60c7703321cb90af"
@@ -56,10 +116,30 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "closing_at": "2026-12-18T12:00:00+08:00",
       "status": "正在招标",
       "id": "311eb305dd2d39e962"
+    },
+    {
+      "department": "机电工程署",
+      "title": "为香港特别行政区政府运输署的流动闭路电视系统提供保养及操作服务，合约为期五年",
+      "kind": "tender",
+      "reference_no": "1669EM24T",
+      "closing_date": "2027-01-08",
+      "closing_text": "/时间 2027 年 1 月 8 日（星期五）中午 12 时。 递交投标书地点投标者必须透过电子投标系统（工程合约） 递交电子投标书。逾期递交的投标书，概不受理。 除了递交电子投标书外，投标者也可以选择同时以印本形式递交",
+      "forecast_date": "",
+      "publish_date": "2026-10-29",
+      "source_url": "https://www.emsd.gov.hk/tc/tenders_contracts_and_consultancies/tender_notices/tender_notices/index_id_6605.html",
+      "document_url": "",
+      "source_ids": [
+        "emsd_rss"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-20T13:42:42+08:00",
+      "closing_at": "2027-01-08T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "15eed51c98f848c812"
     },
     {
       "department": "机电工程署",
@@ -76,7 +156,7 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "closing_at": "2026-12-11T12:00:00+08:00",
       "status": "正在招标",
       "id": "76cc1d0664306c15ff"
@@ -96,7 +176,7 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "closing_at": "2026-12-11T12:00:00+08:00",
       "status": "正在招标",
       "id": "cce868d123e45cdec8"
@@ -116,7 +196,7 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "closing_at": "2027-01-08T12:00:00+08:00",
       "status": "正在招标",
       "id": "021c54a905602d9199"
@@ -136,10 +216,30 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "closing_at": "2026-12-15T12:00:00+08:00",
       "status": "正在招标",
       "id": "852edda54570d364f5"
+    },
+    {
+      "department": "机电工程署",
+      "title": "为机电工程署供应轻型救援车辆，车辆须在合约生效日期起计20个月内可供使用。",
+      "kind": "tender",
+      "reference_no": "EMSSSD0326",
+      "closing_date": "2027-01-07",
+      "closing_text": "/时间 2027年1月7日 (星期四) 正午 12 时 。 (i) 如截标当天上午9 时至正午12 时期间的任何时段内，八号或以上的热带气旋警告信号悬挂，或黑色暴雨警告信号或政府公布的「极端情况」生效，截标时间会延至八号",
+      "forecast_date": "",
+      "publish_date": "2026-11-09",
+      "source_url": "https://www.emsd.gov.hk/tc/tenders_contracts_and_consultancies/tender_notices/tender_notices/index_id_6608.html",
+      "document_url": "",
+      "source_ids": [
+        "emsd_rss"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-20T13:42:42+08:00",
+      "closing_at": "2027-01-07T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "ecca2bccc0d3f5772c"
     },
     {
       "department": "机电工程署",
@@ -156,7 +256,7 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "closing_at": "2026-12-15T12:00:00+08:00",
       "status": "正在招标",
       "id": "8f4b23acce51f18a82"

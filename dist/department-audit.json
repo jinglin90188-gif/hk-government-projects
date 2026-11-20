@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T17:54:52+08:00",
+  "updated_at": "2026-11-20T13:42:42+08:00",
   "departments": [
     {
       "department": "保安局",
@@ -215,11 +215,11 @@
       "source_status": {
         "parsed": 1
       },
-      "open": 4,
+      "open": 3,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 24,
+        "exclude": 23,
         "review": 2
       },
       "unresolved_sources": []
@@ -321,13 +321,13 @@
         "parsed": 4,
         "empty": 1
       },
-      "open": 9,
+      "open": 8,
       "related_open": 2,
       "related_forecast": 1,
       "scope_counts": {
         "exclude": 34,
         "include": 3,
-        "review": 4
+        "review": 3
       },
       "unresolved_sources": []
     },
@@ -363,11 +363,11 @@
         "documents": 1,
         "parsed": 1
       },
-      "open": 0,
-      "related_open": 0,
+      "open": 1,
+      "related_open": 1,
       "related_forecast": 1,
       "scope_counts": {
-        "include": 1,
+        "include": 2,
         "exclude": 1,
         "review": 1
       },
@@ -511,20 +511,27 @@
     {
       "department": "廉政公署",
       "issues": [
-        "未登记独立预报入口，仅能依赖中央采购预报覆盖"
+        "未登记独立预报入口，仅能依赖中央采购预报覆盖",
+        "存在连接失败、待解析或部分解析来源"
       ],
       "tender_sources": 1,
       "forecast_sources": 0,
       "source_status": {
-        "parsed": 1
+        "documents": 1
       },
-      "open": 0,
+      "open": 1,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 1
+        "review": 1
       },
-      "unresolved_sources": []
+      "unresolved_sources": [
+        {
+          "id": "directory_85",
+          "url": "https://www.icac.org.hk/tc/about/general/so/tender/index.html",
+          "status": "documents"
+        }
+      ]
     },
     {
       "department": "建筑署",
@@ -574,11 +581,12 @@
       "source_status": {
         "unparsed": 1
       },
-      "open": 1,
+      "open": 2,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 1
+        "exclude": 1,
+        "review": 1
       },
       "unresolved_sources": [
         {
@@ -775,12 +783,12 @@
       "source_status": {
         "unparsed": 1
       },
-      "open": 3,
+      "open": 4,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
         "exclude": 3,
-        "review": 2
+        "review": 3
       },
       "unresolved_sources": [
         {
@@ -833,7 +841,7 @@
       "department": "教育局",
       "issues": [
         "存在连接失败、待解析或部分解析来源",
-        "5项尚未核实截标日期或当前状态"
+        "6项尚未核实截标日期或当前状态"
       ],
       "tender_sources": 1,
       "forecast_sources": 1,
@@ -841,10 +849,11 @@
         "parsed": 1,
         "documents": 1
       },
-      "open": 1,
+      "open": 0,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
+        "review": 1,
         "exclude": 8
       },
       "unresolved_sources": [
@@ -865,12 +874,12 @@
       "source_status": {
         "parsed": 1
       },
-      "open": 1,
-      "related_open": 1,
+      "open": 2,
+      "related_open": 2,
       "related_forecast": 0,
       "scope_counts": {
         "exclude": 1,
-        "include": 1
+        "include": 2
       },
       "unresolved_sources": []
     },
@@ -921,12 +930,12 @@
       "source_status": {
         "parsed": 3
       },
-      "open": 8,
-      "related_open": 5,
-      "related_forecast": 10,
+      "open": 13,
+      "related_open": 9,
+      "related_forecast": 8,
       "scope_counts": {
         "exclude": 78,
-        "include": 20,
+        "include": 22,
         "review": 26
       },
       "unresolved_sources": []
@@ -1311,13 +1320,13 @@
         "parsed": 6,
         "empty": 1
       },
-      "open": 5,
-      "related_open": 2,
+      "open": 4,
+      "related_open": 1,
       "related_forecast": 0,
       "scope_counts": {
         "exclude": 18,
-        "include": 10,
-        "review": 7
+        "include": 9,
+        "review": 8
       },
       "unresolved_sources": []
     },
@@ -1405,11 +1414,11 @@
       "source_status": {
         "parsed": 2
       },
-      "open": 2,
+      "open": 3,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 12,
+        "exclude": 13,
         "review": 1
       },
       "unresolved_sources": []
@@ -1494,11 +1503,12 @@
         "parsed": 1
       },
       "open": 3,
-      "related_open": 2,
+      "related_open": 1,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 18,
-        "include": 2
+        "exclude": 17,
+        "include": 2,
+        "review": 1
       },
       "unresolved_sources": []
     },

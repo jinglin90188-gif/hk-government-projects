@@ -1,25 +1,6 @@
 {
-  "checked_at": "2026-11-19T17:54:52+08:00",
+  "checked_at": "2026-11-20T13:42:42+08:00",
   "items": [
-    {
-      "department": "香港警务处",
-      "title": "为红磡警署及九龙城警署(包括九龙城区少年警讯会所)提供清洁及支援服务",
-      "kind": "tender",
-      "reference_no": "",
-      "closing_date": "",
-      "closing_text": "",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.police.gov.hk/ppp_tc/11_useful_info/tenders_2026_38.html",
-      "document_url": "",
-      "source_ids": [
-        "directory_38"
-      ],
-      "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-11-19T17:54:52+08:00",
-      "status": "状态待核实",
-      "id": "e508a8f93e2b5360db"
-    },
     {
       "department": "香港警务处",
       "title": "为西九龙总区总部提供清洁及支援服务",
@@ -35,7 +16,7 @@
         "directory_38"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "status": "状态待核实",
       "id": "bdb78d69c761f75ab7"
     },
@@ -54,9 +35,28 @@
         "directory_38"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "status": "状态待核实",
       "id": "c1ab4635421febe6b2"
+    },
+    {
+      "department": "香港警务处",
+      "title": "为香港警务处提供数位数据线路服务",
+      "kind": "tender",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.police.gov.hk/ppp_tc/11_useful_info/tenders_2026_43.html",
+      "document_url": "",
+      "source_ids": [
+        "directory_38"
+      ],
+      "review_note": "需从原公告核实截标日期",
+      "verified_at": "2026-11-20T13:42:42+08:00",
+      "status": "状态待核实",
+      "id": "8056df59c2be8be25d"
     },
     {
       "department": "香港警务处",
@@ -73,7 +73,7 @@
         "directory_38"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-11-19T17:54:52+08:00",
+      "verified_at": "2026-11-20T13:42:42+08:00",
       "status": "状态待核实",
       "id": "7f6de078de8b0ae5eb"
     }
