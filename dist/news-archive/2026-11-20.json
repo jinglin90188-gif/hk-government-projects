@@ -1,0 +1,118 @@
+{
+  "updated_at": "2026-11-20T22:51:49.758215+08:00",
+  "last_attempt_at": "2026-11-20T22:51:49.758215+08:00",
+  "date": "2026-11-20",
+  "status": "ok",
+  "sources": [
+    {
+      "id": "gov",
+      "name": "香港政府新闻公报",
+      "type": "rss",
+      "url": "https://www.info.gov.hk/gia/rss/general_zh.xml",
+      "checked_at": "2026-11-20T22:51:49.758215+08:00",
+      "status": "parsed",
+      "count": 100
+    },
+    {
+      "id": "news_gov",
+      "name": "香港政府新闻网",
+      "type": "rss",
+      "url": "https://www.news.gov.hk/tc/common/html/topstories.rss.xml",
+      "checked_at": "2026-11-20T22:51:49.758215+08:00",
+      "status": "parsed",
+      "count": 15
+    },
+    {
+      "id": "rthk",
+      "name": "香港电台",
+      "type": "rss",
+      "url": "https://rthk.hk/rthk/news/rss/c_expressnews_clocal.xml",
+      "checked_at": "2026-11-20T22:51:49.758215+08:00",
+      "status": "parsed",
+      "count": 20
+    },
+    {
+      "id": "airport",
+      "name": "香港机场管理局",
+      "type": "airport",
+      "url": "https://www.hongkongairport.com/tc/media-centre/press-release/",
+      "checked_at": "2026-11-20T22:51:49.758215+08:00",
+      "status": "parsed",
+      "count": 320
+    },
+    {
+      "id": "mtr",
+      "name": "港铁公司",
+      "type": "mtr",
+      "url": "https://www.mtr.com.hk/ch/corporate/news/corporate.php",
+      "checked_at": "2026-11-20T22:51:49.758215+08:00",
+      "status": "parsed",
+      "count": 30
+    }
+  ],
+  "items": [
+    {
+      "id": "db2863cca9d204884bb5",
+      "title": "尖沙咀私家车遇路障拒停车撞4的士后逃去 警拘两男子明提堂",
+      "source_url": "https://news.rthk.hk/rthk/ch/component/k2/1878608-20261120.htm",
+      "publisher": "香港电台",
+      "source_id": "rthk",
+      "published_at": "2026-11-20T16:39:41+08:00",
+      "excerpt": "本周二在尖沙咀发生的一宗疯狂驾驶案件，警方拘捕两名男子，涉嫌狂乱驾驶及行使虚假文书，明日于西九龙裁判法院提堂。 油尖警区重案组高级督察曾智皓表示，星期二凌晨1时许，一架私家车驶到尖沙咀弥敦道与山林道交界时，遇到警方设置的路障，警员观察到司机神情紧张，要求司机接受调查，但司机无视警方指示，突然急速倒车，撞到后面四部的士。",
+      "category": "的士与网约车",
+      "first_seen": "2026-11-20T22:51:49.758215+08:00",
+      "new": true,
+      "summary": "本周二在尖沙咀发生的一宗疯狂驾驶案件，警方拘捕两名男子，涉嫌狂乱驾驶及行使虚假文书，明日于西九龙裁判法院提堂。 油尖警区重案组高级督察曾智皓表示，星期二凌晨1时许，一架私家车驶到尖沙咀弥敦道与山林道交界时，遇到警方设置的路障，警员观察到司机神情紧张，要求司机接受调查，但司机无视警方指示，突然急速倒车，撞到后面四部的士。",
+      "summary_kind": "excerpt",
+      "summary_note": "正文或AI暂未成功读取，保留原文提要"
+    },
+    {
+      "id": "26bc885e782d22230096",
+      "title": "政务司司长主持人工智能风险管治统筹工作组首次会议（附图）",
+      "source_url": "https://www.info.gov.hk/gia/general/202611/20/P2026112000406.htm",
+      "publisher": "香港政府新闻公报",
+      "source_id": "gov",
+      "published_at": "2026-11-20T13:13:00+08:00",
+      "excerpt": "行政长官在二○二六年《施政报告》宣布，由政务司司长陈国基统筹各政策局推进人工智能（AI）风险治理策略的工作。陈国基今日（十一月二十日）召开人工智能风险管治统筹工作组（工作组）首次会议，全面推进AI风险治理策略的统筹协调工作。 陈国基表示，AI发展迅速，在推动产业升级、便利生活的同时，其对社会各领域所带来的影响，以及风险",
+      "category": "城市数字化",
+      "first_seen": "2026-11-20T22:51:49.758215+08:00",
+      "new": true,
+      "summary": "行政长官在二○二六年《施政报告》宣布，由政务司司长陈国基统筹各政策局推进人工智能（AI）风险治理策略的工作。 陈国基今日（十一月二十日）召开人工智能风险管治统筹工作组（工作组）首次会议，全面推进AI风险治理策略的统筹协调工作。",
+      "summary_kind": "excerpt",
+      "summary_note": "正文或AI暂未成功读取，保留原文提要"
+    },
+    {
+      "id": "724d5cb2fa1fa1959ef7",
+      "title": "运输及物流局副局长在立法会交通事务委员会会议就三条过海隧道及大榄隧道分时段收费的成效检视及中九龙绕道的最新交通情况开场发言（只有中文）",
+      "source_url": "https://www.info.gov.hk/gia/general/202611/20/P2026112000362.htm",
+      "publisher": "香港政府新闻公报",
+      "source_id": "gov",
+      "published_at": "2026-11-20T12:15:00+08:00",
+      "excerpt": "以下是运输及物流局副局长廖振新今日（十一月二十日）在立法会交通事务委员会会议，就三条过海隧道及大榄隧道分时段收费的成效检视及中九龙绕道的最新交通情况的开场发言： 主席、各位委员： ​ 今日我们向交通事务委员会报告三条过海隧道和大榄隧道实施分时段收费后的交通表现，以及中九龙绕道的最新交通情况。 政府自二○二三年十二月起在",
+      "category": "交通与基建",
+      "first_seen": "2026-11-20T22:51:49.758215+08:00",
+      "new": true,
+      "summary": "政府自二○二三年十二月起在",
+      "summary_kind": "excerpt",
+      "summary_note": "正文或AI暂未成功读取，保留原文提要"
+    },
+    {
+      "id": "36dbeb0fee04e067ab6c",
+      "title": "工作组开会统筹人工智能风险治理",
+      "source_url": "https://www.news.gov.hk/chi/2026/11/20261120/20261120_132136_249.html",
+      "publisher": "香港政府新闻网",
+      "source_id": "news_gov",
+      "published_at": "2026-11-20T00:00:00+08:00",
+      "excerpt": "政务司司长陈国基今日召开人工智能风险管治统筹工作组首次会议，全面推进人工智能（AI）风险治理策略的统筹协调工作。 陈国基表示，AI发展迅速，在推动产业升级、便利生活的同时，对社会各领域所带来的影响，以及风险治理和应用安全同样至关重要。工作组将督导和统筹各政策局及部门检视AI发展风险、治理和安全等议题，强化风险意识，研究",
+      "category": "城市数字化",
+      "first_seen": "2026-11-20T22:51:49.758215+08:00",
+      "new": true,
+      "summary": "政务司司长陈国基今日召开人工智能风险管治统筹工作组首次会议，全面推进人工智能（AI）风险治理策略的统筹协调工作。 工作组将督导和统筹各政策局及部门检视AI发展风险、治理和安全等议题，强化风险意识，研究",
+      "summary_kind": "excerpt",
+      "summary_note": "正文或AI暂未成功读取，保留原文提要"
+    }
+  ],
+  "new_count": 4,
+  "ai_configured": true,
+  "message": ""
+}
