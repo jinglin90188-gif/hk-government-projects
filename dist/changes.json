@@ -1,254 +1,53 @@
 {
-  "updated_at": "2026-11-20T13:42:42+08:00",
+  "updated_at": "2026-11-21T13:37:34+08:00",
   "baseline": false,
-  "compared_with": "2026-11-19T17:54:52+08:00",
-  "new_count": 9,
-  "updated_count": 7,
-  "unchanged_count": 501,
-  "no_longer_seen_count": 3,
+  "compared_with": "2026-11-20T13:42:42+08:00",
+  "new_count": 1,
+  "updated_count": 1,
+  "unchanged_count": 514,
+  "no_longer_seen_count": 1,
   "new_ids": [
-    "91d93e5518e3782f0d",
-    "2d87d19cd7bf613fa6",
-    "811c59ebd9b36edc35",
-    "58e8166fec1a190991",
-    "30612d2e41dfaec9d8",
-    "3e1f7f697ea913d0ad",
-    "ecca2bccc0d3f5772c",
-    "ff976073ba780ef6db",
-    "12524fc38b3f4784fa"
+    "48e5842d288dd1668e"
   ],
   "updated_ids": [
-    "2e1bca5e970de178d0",
-    "fd0745857c941a70ce",
-    "70e882efb9e1c58ea4",
-    "76ff403001cad20937",
-    "15eed51c98f848c812",
-    "08b46f4d903b2cb731",
-    "7f6de078de8b0ae5eb"
+    "768e60b7fedf55eaae"
   ],
   "no_longer_seen_ids": [
-    "b64fb7099bfcc24038",
-    "b2f2e8b6a786bfdc63",
-    "e508a8f93e2b5360db"
+    "f70141acc8d4f7f6ff"
   ],
   "new": [
     {
-      "department": "地政总署",
-      "title": "地政总署软件程式系统升级和软件程式维护服务年度计划",
-      "kind": "tender",
-      "reference_no": "LD SMO/HQ/2026/52",
-      "closing_date": "2026-12-14",
-      "closing_text": "2026-12-14 12:00:00",
-      "forecast_date": "",
-      "publish_date": "2026-11-20",
-      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=LD SMO/HQ/2026/52",
-      "document_url": "",
-      "source_ids": [
-        "etb_xml"
-      ],
-      "review_note": "",
-      "verified_at": "2026-11-20T13:42:42+08:00",
-      "notes": "为地政总署提供地理信息系统软件程式升级和软件程式维护服务。",
-      "closing_at": "2026-12-14T12:00:00+08:00",
-      "status": "正在招标",
-      "id": "91d93e5518e3782f0d",
-      "first_seen_at": "2026-11-20T13:42:42+08:00",
-      "change": "new",
-      "last_changed_at": "2026-11-20T13:42:42+08:00",
-      "company_fit": {
-        "decision": "include",
-        "categories": [
-          "软件、平台及数字政府"
-        ],
-        "evidence": [
-          "软件"
-        ],
-        "reason": "正在招标，明确涉及软件、平台及数字政府",
-        "rule_version": "2026-10-26-v2",
-        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
-      }
-    },
-    {
-      "department": "惩教署",
-      "title": "为惩教署供应个人电脑，合约为期24个月",
-      "kind": "tender",
-      "reference_no": "PTCSU0062026",
-      "closing_date": "2027-01-05",
-      "closing_text": "2027-01-05 12:00:00",
-      "forecast_date": "",
-      "publish_date": "2026-11-20",
-      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=PTCSU0062026",
-      "document_url": "",
-      "source_ids": [
-        "etb_xml"
-      ],
-      "review_note": "",
-      "verified_at": "2026-11-20T13:42:42+08:00",
-      "notes": "为惩教署供应个人电脑",
-      "closing_at": "2027-01-05T12:00:00+08:00",
-      "status": "正在招标",
-      "id": "2d87d19cd7bf613fa6",
-      "first_seen_at": "2026-11-20T13:42:42+08:00",
-      "change": "new",
-      "last_changed_at": "2026-11-20T13:42:42+08:00",
-      "company_fit": {
-        "decision": "review",
-        "categories": [],
-        "evidence": [],
-        "reason": "标题不足以确认业务范围，需阅读项目文件；不是判定为无关",
-        "rule_version": "2026-10-26-v2",
-        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
-      }
-    },
-    {
-      "department": "政府物流服务署",
-      "title": "为政府物流服务署供应每平方米80克和每平方米100克的再造白色道林纸（书纸），合约为期24个月",
-      "kind": "tender",
-      "reference_no": "A0600222026",
-      "closing_date": "2026-12-31",
-      "closing_text": "2026-12-31 12:00:00",
-      "forecast_date": "",
-      "publish_date": "2026-11-20",
-      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=A0600222026",
-      "document_url": "",
-      "source_ids": [
-        "etb_xml"
-      ],
-      "review_note": "",
-      "verified_at": "2026-11-20T13:42:42+08:00",
-      "notes": "有关货品用作支援政府物流服务署印务科的印制工作，以印制一般的政府及部门表格、海报、单张、小册子、报告等。",
-      "closing_at": "2026-12-31T12:00:00+08:00",
-      "status": "正在招标",
-      "id": "811c59ebd9b36edc35",
-      "first_seen_at": "2026-11-20T13:42:42+08:00",
-      "change": "new",
-      "last_changed_at": "2026-11-20T13:42:42+08:00",
-      "company_fit": {
-        "decision": "review",
-        "categories": [],
-        "evidence": [],
-        "reason": "标题不足以确认业务范围，需阅读项目文件；不是判定为无关",
-        "rule_version": "2026-10-26-v2",
-        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
-      }
-    },
-    {
-      "department": "教育局",
-      "title": "在2027/28、2028/29及2029/30学年为普通中、小学校的特殊教育需要统筹主任提供专业培训课程服务，所有服务及可交付成果须在2030年10月31日或之前完成",
-      "kind": "tender",
-      "reference_no": "(012) IN 0003-0005-8055-9030-0030-0003-P001",
-      "closing_date": "2027-01-12",
-      "closing_text": "和时间 : 202 7 年 1 月 12 日正午 12 时 (香港时间 ) 逾期的投标概不受理。 查询 : 九龙九龙塘沙福道 19 号教育局九龙塘教育服务中心东座2 楼 E201 室教育局特殊教育分部",
-      "forecast_date": "",
-      "publish_date": "2026-11-20",
-      "source_url": "https://www.edb.gov.hk/attachment/tc/public-admin/tender-notices/tender-notice/SENCO2730_TC.pdf",
-      "document_url": "https://www.edb.gov.hk/attachment/tc/public-admin/tender-notices/tender-notice/SENCO2730_TC.pdf",
-      "source_ids": [
-        "directory_67",
-        "etb_xml"
-      ],
-      "review_note": "",
-      "verified_at": "2026-11-20T13:42:42+08:00",
-      "document_verified": true,
-      "status": "状态待核实",
-      "title_aliases": [
-        "在2027/28、2028/29及2029/30学年为普通中、小学校的特殊教育需要统筹主任提供专业培训课程服务，所有服务及可交付成果须在2030年10月31日或之前完成"
-      ],
-      "closing_at": "2027-01-12T12:00:00+08:00",
-      "title_zh": "在2027/28、2028/29及2029/30学年为普通中、小学校的特殊教育需要统筹主任提供专业培训课程服务，所有服务及可交付成果须在2030年10月31日或之前完成",
-      "eligibility_note": "",
-      "eligibility_summary": "",
-      "procurement_type": "",
-      "notes": "请参阅招标文件",
-      "id": "58e8166fec1a190991",
-      "first_seen_at": "2026-11-20T13:42:42+08:00",
-      "change": "new",
-      "last_changed_at": "2026-11-20T13:42:42+08:00",
-      "company_fit": {
-        "decision": "review",
-        "categories": [],
-        "evidence": [],
-        "reason": "标题不足以确认业务范围，需阅读项目文件；不是判定为无关",
-        "rule_version": "2026-10-26-v2",
-        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
-      }
-    },
-    {
-      "department": "数字政策办公室",
-      "title": "招标承投为数字政策办公室供应端点侦测与回应软件并提供相关服务",
-      "kind": "tender",
-      "reference_no": "DPO8566/4/32",
-      "closing_date": "2027-01-05",
-      "closing_text": "2027-01-05 12:00:00",
-      "forecast_date": "",
-      "publish_date": "2026-11-20",
-      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=DPO8566/4/32",
-      "document_url": "",
-      "source_ids": [
-        "directory_25",
-        "etb_xml"
-      ],
-      "review_note": "",
-      "verified_at": "2026-11-20T13:42:42+08:00",
-      "notes": "招标承投为数字政策办公室供应端点侦测与回应软件并提供相关服务",
-      "closing_at": "2027-01-05T12:00:00+08:00",
-      "status": "正在招标",
-      "id": "30612d2e41dfaec9d8",
-      "title_aliases": [
-        "招标承投为数字政策办公室供应端点侦测与回应软件并提供相关服务"
-      ],
-      "title_zh": "招标承投为数字政策办公室供应端点侦测与回应软件并提供相关服务",
-      "eligibility_note": "",
-      "eligibility_summary": "",
-      "procurement_type": "",
-      "first_seen_at": "2026-11-20T13:42:42+08:00",
-      "change": "new",
-      "last_changed_at": "2026-11-20T13:42:42+08:00",
-      "company_fit": {
-        "decision": "include",
-        "categories": [
-          "软件、平台及数字政府"
-        ],
-        "evidence": [
-          "软件"
-        ],
-        "reason": "正在招标，明确涉及软件、平台及数字政府",
-        "rule_version": "2026-10-26-v2",
-        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
-      }
-    },
-    {
       "department": "机电工程署",
-      "title": "Integrated Operation and Maintenance Service Contract for Kai Tak District Cooling System (KTDCS)",
+      "title": "District Cooling System (DCS) at Kai Tak Development (KTD) Phase IIIR - Extension of DCS Pipe Network and Associated Works",
       "kind": "tender",
-      "reference_no": "1407M26T",
-      "closing_date": "2027-02-19",
-      "closing_text": "19.2.2027",
+      "reference_no": "2171EM26W",
+      "closing_date": "2026-12-11",
+      "closing_text": "11.12.2026",
       "forecast_date": "",
       "publish_date": "2026-11-20",
-      "source_url": "https://www.emsd.gov.hk/en/tenders_contracts_and_consultancies/tender_notices/tender_notices/index_id_6614.html",
+      "source_url": "https://www.emsd.gov.hk/en/tenders_contracts_and_consultancies/tender_notices/tender_notices/index_id_6616.html",
       "document_url": "",
       "source_ids": [
         "directory_13",
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-11-20T13:42:42+08:00",
+      "verified_at": "2026-11-21T13:37:34+08:00",
       "status": "正在招标",
       "title_aliases": [
-        "Integrated Operation and Maintenance Service Contract for Kai Tak District Cooling System (KTDCS)",
-        "启德区域供冷系统综合操作及保养服务合约"
+        "District Cooling System (DCS) at Kai Tak Development (KTD) Phase IIIR - Extension of DCS Pipe Network and Associated Works",
+        "启德发展计划区域供冷系统第三期（余下工程）– 延伸冷冻水喉管及相关工程"
       ],
-      "closing_at": "2027-02-19T12:00:00+08:00",
-      "title_zh": "启德区域供冷系统综合操作及保养服务合约",
+      "closing_at": "2026-12-11T12:00:00+08:00",
+      "title_zh": "启德发展计划区域供冷系统第三期（余下工程）– 延伸冷冻水喉管及相关工程",
       "eligibility_note": "",
       "eligibility_summary": "",
       "procurement_type": "",
       "notes": "",
-      "id": "3e1f7f697ea913d0ad",
-      "first_seen_at": "2026-11-20T13:42:42+08:00",
+      "id": "48e5842d288dd1668e",
+      "first_seen_at": "2026-11-21T13:37:34+08:00",
       "change": "new",
-      "last_changed_at": "2026-11-20T13:42:42+08:00",
+      "last_changed_at": "2026-11-21T13:37:34+08:00",
       "company_fit": {
         "decision": "exclude",
         "categories": [],
@@ -257,420 +56,50 @@
         "rule_version": "2026-10-26-v2",
         "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
       }
-    },
-    {
-      "department": "机电工程署",
-      "title": "为机电工程署供应轻型救援车辆，车辆须在合约生效日期起计20个月内可供使用。",
-      "kind": "tender",
-      "reference_no": "EMSSSD0326",
-      "closing_date": "2027-01-07",
-      "closing_text": "2027-01-07 12:00:00",
-      "forecast_date": "",
-      "publish_date": "2026-11-20",
-      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=EMSSSD0326",
-      "document_url": "",
-      "source_ids": [
-        "directory_13",
-        "emsd_rss",
-        "etb_xml"
-      ],
-      "review_note": "",
-      "verified_at": "2026-11-20T13:42:42+08:00",
-      "notes": "此招标项目为采购轻型救援车辆，以供运输署于隧道及管制区提供车辆救援服务。",
-      "closing_at": "2027-01-07T12:00:00+08:00",
-      "status": "正在招标",
-      "id": "ecca2bccc0d3f5772c",
-      "title_aliases": [
-        "Supply of light recovery vehicles to the Electrical and Mechanical Services Department, the vehicles to be ready for use within 20 months from the contract date.",
-        "为机电工程署供应轻型救援车辆，车辆须在合约生效日期起计20个月内可供使用。"
-      ],
-      "title_zh": "为机电工程署供应轻型救援车辆，车辆须在合约生效日期起计20个月内可供使用。",
-      "eligibility_note": "",
-      "eligibility_summary": "",
-      "procurement_type": "",
-      "first_seen_at": "2026-11-20T13:42:42+08:00",
-      "change": "new",
-      "last_changed_at": "2026-11-20T13:42:42+08:00",
-      "company_fit": {
-        "decision": "include",
-        "categories": [],
-        "evidence": [
-          "机电"
-        ],
-        "reason": "正在招标，涉及相邻业务（机电），保留以核对可参与部分",
-        "rule_version": "2026-10-26-v2",
-        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
-      }
-    },
-    {
-      "department": "食物环境卫生署",
-      "title": "为湾仔区骆克道市政大厦及皇后大道东258号部分提供保安员服务",
-      "kind": "tender",
-      "reference_no": "FEHQ 1014/26",
-      "closing_date": "2026-12-30",
-      "closing_text": "2026-12-30 12:00:00",
-      "forecast_date": "",
-      "publish_date": "2026-11-20",
-      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=FEHQ 1014/26",
-      "document_url": "",
-      "source_ids": [
-        "directory_31",
-        "etb_xml"
-      ],
-      "review_note": "",
-      "verified_at": "2026-11-20T13:42:42+08:00",
-      "notes": "提供保安员服务",
-      "closing_at": "2026-12-30T12:00:00+08:00",
-      "status": "正在招标",
-      "id": "ff976073ba780ef6db",
-      "title_aliases": [
-        "为湾仔区骆克道市政大厦及皇后大道东258号部分提供保安员服务"
-      ],
-      "title_zh": "为湾仔区骆克道市政大厦及皇后大道东258号部分提供保安员服务",
-      "eligibility_note": "",
-      "eligibility_summary": "",
-      "procurement_type": "",
-      "first_seen_at": "2026-11-20T13:42:42+08:00",
-      "change": "new",
-      "last_changed_at": "2026-11-20T13:42:42+08:00",
-      "company_fit": {
-        "decision": "exclude",
-        "categories": [],
-        "evidence": [],
-        "reason": "采购内容属于清洁、保安人手及后勤，未见相关数字化范围",
-        "rule_version": "2026-10-26-v2",
-        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
-      }
-    },
-    {
-      "department": "香港警务处",
-      "title": "为香港警务处提供数位数据线路服务",
-      "kind": "tender",
-      "reference_no": "OSS04/2026",
-      "closing_date": "2027-01-08",
-      "closing_text": "2027-01-08 12:00:00",
-      "forecast_date": "",
-      "publish_date": "2026-11-20",
-      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=OSS04/2026",
-      "document_url": "",
-      "source_ids": [
-        "directory_38",
-        "etb_xml"
-      ],
-      "review_note": "",
-      "verified_at": "2026-11-20T13:42:42+08:00",
-      "notes": "请参阅招标文件",
-      "closing_at": "2027-01-08T12:00:00+08:00",
-      "status": "正在招标",
-      "id": "12524fc38b3f4784fa",
-      "title_aliases": [
-        "为香港警务处提供数位数据线路服务"
-      ],
-      "title_zh": "为香港警务处提供数位数据线路服务",
-      "eligibility_note": "",
-      "eligibility_summary": "",
-      "procurement_type": "",
-      "first_seen_at": "2026-11-20T13:42:42+08:00",
-      "change": "new",
-      "last_changed_at": "2026-11-20T13:42:42+08:00",
-      "company_fit": {
-        "decision": "review",
-        "categories": [],
-        "evidence": [],
-        "reason": "标题不足以确认业务范围，需阅读项目文件；不是判定为无关",
-        "rule_version": "2026-10-26-v2",
-        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
-      }
     }
   ],
   "updated": [
     {
-      "department": "廉政公署",
-      "title": "为廉政公署训练营提供组合式货柜训练塔",
+      "department": "机电工程署",
+      "title": "Integrated Operation and Maintenance Service Contract for Kai Tak District Cooling System (KTDCS)",
       "kind": "tender",
-      "reference_no": "ICAC/TG1/2025",
-      "closing_date": "2027-01-05",
-      "closing_text": "2027-01-05 12:00:00",
-      "forecast_date": "官方未注明",
+      "reference_no": "1407EM26T",
+      "closing_date": "2027-02-19",
+      "closing_text": "19.2.2027",
+      "forecast_date": "2026 Q4",
       "publish_date": "2026-11-20",
-      "source_url": "https://pcms2.gld.gov.hk/iprod/#/STA00303?tenderReferenceNumber=ICAC/TG1/2025",
-      "document_url": "",
+      "source_url": "https://www.emsd.gov.hk/en/tenders_contracts_and_consultancies/tender_notices/tender_notices/index_id_6614.html",
+      "document_url": "https://www.emsd.gov.hk/filemanager/en/content_402/Forecast_Invitations_to_Works_Tender.pdf",
       "source_ids": [
-        "directory_85",
-        "etb_xml"
+        "directory_102",
+        "directory_13",
+        "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-11-20T13:42:42+08:00",
-      "notes": "为廉政公署训练营提供组合式货柜训练塔",
-      "closing_at": "2027-01-05T12:00:00+08:00",
+      "verified_at": "2026-11-21T13:37:34+08:00",
       "status": "正在招标",
-      "id": "2e1bca5e970de178d0",
       "title_aliases": [
-        "为廉政公署训练营提供组合式货柜训练塔"
+        "Integrated Operation and Maintenance Service Contract for Kai Tak District Cooling System (KTDCS)",
+        "启德区域供冷系统综合操作及保养服务合约",
+        "启德区域供冷系统综合管理，操作及保养服务合约"
       ],
-      "previous_forecast_date": "官方未注明",
-      "stage_note": "已找到正式邀请公告，旧预报合并至此，不再作为独立预报展示",
-      "title_zh": "为廉政公署训练营提供组合式货柜训练塔",
-      "eligibility_note": "",
-      "eligibility_summary": "",
-      "procurement_type": "",
-      "first_seen_at": "2026-10-26T13:00:02+08:00",
-      "change": "updated",
-      "last_changed_at": "2026-11-20T13:42:42+08:00",
-      "company_fit": {
-        "decision": "review",
-        "categories": [],
-        "evidence": [],
-        "reason": "标题不足以确认业务范围，需阅读项目文件；不是判定为无关",
-        "rule_version": "2026-10-26-v2",
-        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
-      }
-    },
-    {
-      "department": "教育局",
-      "title": "为玛利诺修院学校(中学部)、嘉诺撒圣玛利书院及中华基督教会基华小学(九龙塘)的新升降机塔建造地基及准备工程 (合约编号PI SM008)",
-      "kind": "tender",
-      "reference_no": "PI SM008",
-      "closing_date": "2026-11-20",
-      "closing_text": "及时间 ： 2026 年 11 月 20 日星期五中午 12 时递交标书 ： 投标者必须填具一式两份的投标表格，将填妥的投标表格放置信封内密封 ，并在信封面清楚注明招标编号、投标项目 （但不得有任何记",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.edb.gov.hk/attachment/tc/public-admin/tender-notices/works/02_EDB_Website_PISM008%20(Chi).pdf",
-      "document_url": "https://www.edb.gov.hk/attachment/tc/public-admin/tender-notices/works/02_EDB_Website_PISM008%20(Chi).pdf",
-      "source_ids": [
-        "directory_67"
-      ],
-      "review_note": "",
-      "verified_at": "2026-11-20T13:42:42+08:00",
-      "document_verified": true,
-      "closing_at": "2026-11-20T12:00:00+08:00",
-      "status": "已截标",
-      "title_aliases": [
-        "为玛利诺修院学校(中学部)、嘉诺撒圣玛利书院及中华基督教会基华小学(九龙塘)的新升降机塔建造地基及准备工程 (合约编号PI SM008)"
-      ],
-      "title_zh": "为玛利诺修院学校(中学部)、嘉诺撒圣玛利书院及中华基督教会基华小学(九龙塘)的新升降机塔建造地基及准备工程 (合约编号PI SM008)",
+      "closing_at": "2027-02-19T12:00:00+08:00",
+      "title_zh": "启德区域供冷系统综合操作及保养服务合约",
       "eligibility_note": "",
       "eligibility_summary": "",
       "procurement_type": "",
       "notes": "",
-      "id": "fd0745857c941a70ce",
+      "id": "768e60b7fedf55eaae",
+      "previous_forecast_date": "2026 Q4",
+      "stage_note": "已找到正式邀请公告，旧预报合并至此，不再作为独立预报展示",
       "first_seen_at": "2026-10-26T13:00:02+08:00",
       "change": "updated",
-      "last_changed_at": "2026-11-20T13:42:42+08:00",
+      "last_changed_at": "2026-11-21T13:37:34+08:00",
       "company_fit": {
         "decision": "exclude",
         "categories": [],
         "evidence": [],
-        "reason": "采购内容属于非技术服务及一般建设、一般服务及传统机电工程，未见相关数字化范围",
-        "rule_version": "2026-10-26-v2",
-        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
-      }
-    },
-    {
-      "department": "机电工程署",
-      "title": "Triennial Term Contract for Operation and Maintenance of Electrical, Mechanical and Other Installations at Marine Ferry Terminals, Government Dockyard, Kai Tak Cruise Terminal and Municipal Venues of the Government of the Hong Kong Special Administrative Region",
-      "kind": "tender",
-      "reference_no": "1486EM26T",
-      "closing_date": "2027-01-08",
-      "closing_text": "8.1.2027",
-      "forecast_date": "2026 Q4",
-      "publish_date": "2026-11-16",
-      "source_url": "https://www.emsd.gov.hk/en/tenders_contracts_and_consultancies/tender_notices/tender_notices/index_id_6612.html",
-      "document_url": "https://www.emsd.gov.hk/filemanager/en/content_402/Forecast_Invitations_to_Works_Tender.pdf",
-      "source_ids": [
-        "directory_102",
-        "directory_13",
-        "emsd_rss"
-      ],
-      "review_note": "",
-      "verified_at": "2026-11-20T13:42:42+08:00",
-      "status": "正在招标",
-      "title_aliases": [
-        "Triennial Term Contract for Operation and Maintenance of Electrical, Mechanical and Other Installations at Marine Ferry Terminals, Government Dockyard, Kai Tak Cruise Terminal and Municipal Venues of the Government of the Hong Kong Special Administrative Region",
-        "为香港特别行政区政府客运码头、政府船坞、启德邮轮码头及市政场地内的电机、机械及其他装置提供操作及保养维修服务，合约为期三年",
-        "为香港特别行政区政府客运码头、政府船坞、启德邮轮码头及市政场地内的电机、机械及其他装置提供操作及保养维修服务，合约为期三年。"
-      ],
-      "closing_at": "2027-01-08T12:00:00+08:00",
-      "title_zh": "为香港特别行政区政府客运码头、政府船坞、启德邮轮码头及市政场地内的电机、机械及其他装置提供操作及保养维修服务，合约为期三年。",
-      "eligibility_note": "",
-      "eligibility_summary": "",
-      "procurement_type": "",
-      "notes": "",
-      "id": "70e882efb9e1c58ea4",
-      "previous_forecast_date": "2026 Q4",
-      "stage_note": "已找到正式邀请公告，旧预报合并至此，不再作为独立预报展示",
-      "first_seen_at": "2026-10-26T13:00:02+08:00",
-      "change": "updated",
-      "last_changed_at": "2026-11-20T13:42:42+08:00",
-      "company_fit": {
-        "decision": "include",
-        "categories": [],
-        "evidence": [
-          "Electrical"
-        ],
-        "reason": "正在招标，涉及相邻业务（Electrical），保留以核对可参与部分",
-        "rule_version": "2026-10-26-v2",
-        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
-      }
-    },
-    {
-      "department": "机电工程署",
-      "title": "Replacement of Water-cooled Chillers and Associated Installations with Multi-trade Integrated MEP (MiMEP) and Building Information Modelling at Pok Oi Hospital",
-      "kind": "tender",
-      "reference_no": "1490EM26W",
-      "closing_date": "2026-12-18",
-      "closing_text": "18.12.2026",
-      "forecast_date": "2026 Q4",
-      "publish_date": "2026-11-15",
-      "source_url": "https://www.emsd.gov.hk/en/tenders_contracts_and_consultancies/tender_notices/tender_notices/index_id_6609.html",
-      "document_url": "https://www.emsd.gov.hk/filemanager/en/content_402/Forecast_Invitations_to_Works_Tender.pdf",
-      "source_ids": [
-        "directory_102",
-        "directory_13",
-        "emsd_rss"
-      ],
-      "review_note": "",
-      "verified_at": "2026-11-20T13:42:42+08:00",
-      "status": "正在招标",
-      "title_aliases": [
-        "Replacement of Water-cooled Chillers and Associated Installations with Multi-trade Integrated MEP (MiMEP) and Building Information Modelling at Pok Oi Hospital",
-        "采用机电装备合成法（MiMEP）及建筑信息模拟技术为博爱医院更换水冷式冷水机组及相关设施"
-      ],
-      "closing_at": "2026-12-18T12:00:00+08:00",
-      "title_zh": "采用机电装备合成法（MiMEP）及建筑信息模拟技术为博爱医院更换水冷式冷水机组及相关设施",
-      "eligibility_note": "",
-      "eligibility_summary": "",
-      "procurement_type": "",
-      "notes": "",
-      "id": "76ff403001cad20937",
-      "previous_forecast_date": "2026 Q4",
-      "stage_note": "已找到正式邀请公告，旧预报合并至此，不再作为独立预报展示",
-      "first_seen_at": "2026-10-26T13:00:02+08:00",
-      "change": "updated",
-      "last_changed_at": "2026-11-20T13:42:42+08:00",
-      "company_fit": {
-        "decision": "include",
-        "categories": [
-          "通信与基础软件补充"
-        ],
-        "evidence": [
-          "建筑信息模拟"
-        ],
-        "reason": "正在招标，明确涉及通信与基础软件补充",
-        "rule_version": "2026-10-26-v2",
-        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
-      }
-    },
-    {
-      "department": "机电工程署",
-      "title": "Five-year Term Contract for Provision of Maintenance and Operation of Mobile Closed Circuit Television System for Transport Department of the Government of Hong Kong Special Administrative Region",
-      "kind": "tender",
-      "reference_no": "1669EM24T",
-      "closing_date": "2027-01-08",
-      "closing_text": "8.1.2027",
-      "forecast_date": "2026 Q4",
-      "publish_date": "2026-10-29",
-      "source_url": "https://www.emsd.gov.hk/en/tenders_contracts_and_consultancies/tender_notices/tender_notices/index_id_6604.html",
-      "document_url": "https://www.emsd.gov.hk/filemanager/en/content_402/Forecast_Invitations_to_Works_Tender.pdf",
-      "source_ids": [
-        "directory_102",
-        "directory_13",
-        "emsd_rss"
-      ],
-      "review_note": "",
-      "verified_at": "2026-11-20T13:42:42+08:00",
-      "status": "正在招标",
-      "title_aliases": [
-        "Five-year Term Contract for Provision of Maintenance and Operation of Mobile Closed Circuit Television System for Transport Department of the Government of Hong Kong Special Administrative Region",
-        "为运输署的流动闭路电视系统提供操作及保养服务，合约为期五年。",
-        "为香港特别行政区政府运输署的流动闭路电视系统提供保养及操作服务，合约为期五年"
-      ],
-      "closing_at": "2027-01-08T12:00:00+08:00",
-      "title_zh": "为香港特别行政区政府运输署的流动闭路电视系统提供保养及操作服务，合约为期五年",
-      "eligibility_note": "",
-      "eligibility_summary": "",
-      "procurement_type": "",
-      "notes": "",
-      "id": "15eed51c98f848c812",
-      "previous_forecast_date": "2026 Q4",
-      "stage_note": "已找到正式邀请公告，旧预报合并至此，不再作为独立预报展示",
-      "first_seen_at": "2026-10-26T13:00:02+08:00",
-      "change": "updated",
-      "last_changed_at": "2026-11-20T13:42:42+08:00",
-      "company_fit": {
-        "decision": "include",
-        "categories": [
-          "视频、安防及物联感知"
-        ],
-        "evidence": [
-          "闭路电视"
-        ],
-        "reason": "正在招标，明确涉及视频、安防及物联感知",
-        "rule_version": "2026-10-26-v2",
-        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
-      }
-    },
-    {
-      "department": "路政署",
-      "title": "Agreement No. CE 42/2026 (CE) Southern Extension of Hong Kong – Shenzhen Western Rail Link – Investigation",
-      "kind": "tender",
-      "reference_no": "",
-      "closing_date": "2026-11-20",
-      "closing_text": "12:00 noon on 20 November 2026 (Friday)",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.hyd.gov.hk/en/tender_notices/consultancies/technical_and_fee_proposal/index.html",
-      "document_url": "https://www.hyd.gov.hk/en/tender_notices/consultancies/technical_and_fee_proposal/doc/2026/CE42_2026CE.pdf",
-      "source_ids": [
-        "hyd_consult_proposals"
-      ],
-      "review_note": "",
-      "verified_at": "2026-11-20T13:42:42+08:00",
-      "closing_at": "2026-11-20T12:00:00+08:00",
-      "status": "已截标",
-      "id": "08b46f4d903b2cb731",
-      "first_seen_at": "2026-10-26T13:00:02+08:00",
-      "change": "updated",
-      "last_changed_at": "2026-11-20T13:42:42+08:00",
-      "company_fit": {
-        "decision": "review",
-        "categories": [],
-        "evidence": [],
-        "reason": "标题不足以确认业务范围，需阅读项目文件；不是判定为无关",
-        "rule_version": "2026-10-26-v2",
-        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
-      }
-    },
-    {
-      "department": "香港警务处",
-      "title": "为香港警务处提供第三代指挥及控制系统维修服务",
-      "kind": "tender",
-      "reference_no": "",
-      "closing_date": "",
-      "closing_text": "",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.police.gov.hk/ppp_tc/11_useful_info/tenders_2026_34.html",
-      "document_url": "",
-      "source_ids": [
-        "directory_38"
-      ],
-      "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-11-20T13:42:42+08:00",
-      "status": "状态待核实",
-      "id": "7f6de078de8b0ae5eb",
-      "first_seen_at": "2026-10-26T13:00:02+08:00",
-      "change": "updated",
-      "last_changed_at": "2026-11-20T13:42:42+08:00",
-      "company_fit": {
-        "decision": "include",
-        "categories": [
-          "交通、口岸及城市感知补充"
-        ],
-        "evidence": [
-          "指挥及控制系统"
-        ],
-        "reason": "采购标题明确涉及交通、口岸及城市感知补充",
+        "reason": "采购内容属于一般服务及传统机电工程，未见相关数字化范围",
         "rule_version": "2026-10-26-v2",
         "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
       }
