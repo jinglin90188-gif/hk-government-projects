@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T13:02:26+08:00",
+  "updated_at": "2026-11-23T08:31:24+08:00",
   "departments": [
     {
       "department": "保安局",
@@ -1473,7 +1473,7 @@
       "tender_sources": 1,
       "forecast_sources": 0,
       "source_status": {
-        "failed": 1
+        "documents": 1
       },
       "open": 0,
       "related_open": 0,
@@ -1485,7 +1485,7 @@
         {
           "id": "directory_49",
           "url": "https://app4.rthk.hk/tender/",
-          "status": "failed"
+          "status": "documents"
         }
       ]
     },
@@ -1513,13 +1513,12 @@
     {
       "department": "香港邮政",
       "issues": [
-        "未登记独立预报入口，仅能依赖中央采购预报覆盖",
-        "存在连接失败、待解析或部分解析来源"
+        "未登记独立预报入口，仅能依赖中央采购预报覆盖"
       ],
       "tender_sources": 1,
       "forecast_sources": 0,
       "source_status": {
-        "failed": 1
+        "parsed": 1
       },
       "open": 1,
       "related_open": 0,
@@ -1527,13 +1526,7 @@
       "scope_counts": {
         "review": 1
       },
-      "unresolved_sources": [
-        {
-          "id": "directory_48",
-          "url": "https://www.hongkongpost.hk/tc/about_us/tender/notice/index.html",
-          "status": "failed"
-        }
-      ]
+      "unresolved_sources": []
     },
     {
       "department": "香港金融管理局",

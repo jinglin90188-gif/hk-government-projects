@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-22T21:59:55.287950+08:00",
-  "last_attempt_at": "2026-11-22T21:59:55.287950+08:00",
-  "date": "2026-11-22",
+  "updated_at": "2026-11-23T08:32:37.167644+08:00",
+  "last_attempt_at": "2026-11-23T08:32:37.167644+08:00",
+  "date": "2026-11-23",
   "status": "ok",
   "sources": [
     {
@@ -9,7 +9,7 @@
       "name": "香港政府新闻公报",
       "type": "rss",
       "url": "https://www.info.gov.hk/gia/rss/general_zh.xml",
-      "checked_at": "2026-11-22T21:59:55.287950+08:00",
+      "checked_at": "2026-11-23T08:32:37.167644+08:00",
       "status": "parsed",
       "count": 100
     },
@@ -18,7 +18,7 @@
       "name": "香港政府新闻网",
       "type": "rss",
       "url": "https://www.news.gov.hk/tc/common/html/topstories.rss.xml",
-      "checked_at": "2026-11-22T21:59:55.287950+08:00",
+      "checked_at": "2026-11-23T08:32:37.167644+08:00",
       "status": "parsed",
       "count": 15
     },
@@ -27,7 +27,7 @@
       "name": "香港电台",
       "type": "rss",
       "url": "https://rthk.hk/rthk/news/rss/c_expressnews_clocal.xml",
-      "checked_at": "2026-11-22T21:59:55.287950+08:00",
+      "checked_at": "2026-11-23T08:32:37.167644+08:00",
       "status": "parsed",
       "count": 20
     },
@@ -36,7 +36,7 @@
       "name": "香港机场管理局",
       "type": "airport",
       "url": "https://www.hongkongairport.com/tc/media-centre/press-release/",
-      "checked_at": "2026-11-22T21:59:55.287950+08:00",
+      "checked_at": "2026-11-23T08:32:37.167644+08:00",
       "status": "parsed",
       "count": 320
     },
@@ -45,7 +45,7 @@
       "name": "港铁公司",
       "type": "mtr",
       "url": "https://www.mtr.com.hk/ch/corporate/news/corporate.php",
-      "checked_at": "2026-11-22T21:59:55.287950+08:00",
+      "checked_at": "2026-11-23T08:32:37.167644+08:00",
       "status": "parsed",
       "count": 30
     }
@@ -61,7 +61,7 @@
       "excerpt": "​香港海关一连两日（十一月二十日及二十一日）在香港国际机场侦破两宗行李藏毒的贩毒案件，两宗案件合共检获约三十七点三公斤怀疑大麻花，估计市值约八百万元。 首宗案件中，一名四十六岁英国籍过境男旅客于十一月二十日从泰国曼谷飞抵本港，准备转机前往英国伦敦。海关人员清关时，在他的两个行李箱内检获约三十五公斤怀疑大麻花，遂把他拘捕",
       "category": "机场与铁路",
       "first_seen": "2026-11-22T21:59:55.287950+08:00",
-      "new": true,
+      "new": false,
       "summary": "香港海关一连两日（十一月二十日及二十一日）在香港国际机场侦破两宗行李藏毒的贩毒案件，两宗案件合共检获约三十七点三公斤怀疑大麻花，估计市值约八百万元。 首宗案件中，一名四十六岁英国籍过境男旅客于十一月二十日从泰国曼谷飞抵本港，准备转机前往英国伦敦。",
       "summary_kind": "excerpt",
       "summary_note": "正文或AI暂未成功读取，保留原文提要"
@@ -82,7 +82,7 @@
       "summary_note": "正文或AI暂未成功读取，保留原文提要"
     }
   ],
-  "new_count": 1,
+  "new_count": 0,
   "ai_configured": true,
   "message": ""
 }
