@@ -1,8 +1,93 @@
 {
   "date": "2026-11-23",
-  "last_run_at": "2026-11-23T08:34:04+08:00",
+  "last_run_at": "2026-11-23T13:44:56+08:00",
   "new": [],
-  "updated": [],
-  "no_longer_seen_ids": [],
+  "updated": [
+    {
+      "department": "在职家庭及学生资助事务处",
+      "title": "为在职家庭及学生资助事务处提供临时人力资源服务（计划行政助理）",
+      "kind": "tender",
+      "reference_no": "T001/26-27",
+      "closing_date": "2026-11-23",
+      "closing_text": "2026年11月23日正午12:00（香港时间）",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.wfsfaa.gov.hk/tc/about/tender/tender.htm",
+      "document_url": "https://www.wfsfaa.gov.hk/tc/about/tender/Website Tender Notice (Tender Ref. T001_26-27_SAA)_tc.pdf",
+      "source_ids": [
+        "directory_36"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-23T13:44:56+08:00",
+      "closing_at": "2026-11-23T12:00:00+08:00",
+      "status": "已截标",
+      "id": "09721b67742425b8f5",
+      "first_seen_at": "2026-10-26T13:00:02+08:00",
+      "change": "updated",
+      "last_changed_at": "2026-11-23T13:44:56+08:00",
+      "company_fit": {
+        "decision": "review",
+        "categories": [],
+        "evidence": [],
+        "reason": "标题不足以确认业务范围，需阅读项目文件；不是判定为无关",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    },
+    {
+      "department": "规划署",
+      "title": "为规划署的地理资讯系统软件提供保养服务",
+      "kind": "tender",
+      "reference_no": "PLNT3/2026",
+      "closing_date": "",
+      "closing_text": "及时间 2026 年 11 月 23 日中午 12 时正（香港时间） 如截标当天上午 9 时至中午 12 时 （香港时间） 期间 ， 八号或以上的热带气旋警告信号悬挂，或黑色暴雨警告信号或政府公布的「",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.pland.gov.hk/file/consultancies_and_tender/tender_notice/pdf/PLNT3_2026_Tender_Notice_tc.pdf",
+      "document_url": "https://www.pland.gov.hk/file/consultancies_and_tender/tender_notice/pdf/PLNT3_2026_Tender_Notice_tc.pdf",
+      "source_ids": [
+        "directory_19"
+      ],
+      "review_note": "本次来源未能完整提取，保留上次成功记录；当前状态待核实",
+      "verified_at": "2026-11-23T08:34:04+08:00",
+      "document_verified": true,
+      "status": "状态待核实",
+      "title_aliases": [
+        "为规划署的地理资讯系统软件提供保养服务"
+      ],
+      "closing_at": "",
+      "title_zh": "为规划署的地理资讯系统软件提供保养服务",
+      "eligibility_note": "",
+      "eligibility_summary": "",
+      "procurement_type": "",
+      "notes": "",
+      "id": "a9bb432626d1677d04",
+      "stale": true,
+      "last_success_at": "2026-11-23T08:34:04+08:00",
+      "first_seen_at": "2026-11-02T08:37:11+08:00",
+      "change": "updated",
+      "last_changed_at": "2026-11-23T13:44:56+08:00",
+      "company_fit": {
+        "decision": "include",
+        "categories": [
+          "软件、平台及数字政府",
+          "GIS、数字孪生及工程数字化"
+        ],
+        "evidence": [
+          "资讯系统",
+          "地理资讯"
+        ],
+        "reason": "采购标题明确涉及软件、平台及数字政府、GIS、数字孪生及工程数字化",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    }
+  ],
+  "no_longer_seen_ids": [
+    "7f6de078de8b0ae5eb",
+    "bcd21c2b5d7d4a8ed6",
+    "ddd4a877a2cb5c7310",
+    "e1c3e67e941a5ad9d5"
+  ],
   "note": "未再见到不等于取消或批出；需核实官方公告。"
 }

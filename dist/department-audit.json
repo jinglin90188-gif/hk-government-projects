@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T08:34:04+08:00",
+  "updated_at": "2026-11-23T13:44:56+08:00",
   "departments": [
     {
       "department": "保安局",
@@ -341,7 +341,7 @@
       "source_status": {
         "parsed": 1
       },
-      "open": 1,
+      "open": 0,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
@@ -499,12 +499,12 @@
       "source_status": {
         "parsed": 1
       },
-      "open": 12,
+      "open": 11,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
         "review": 3,
-        "exclude": 9
+        "exclude": 8
       },
       "unresolved_sources": []
     },
@@ -872,12 +872,12 @@
       "source_status": {
         "parsed": 1
       },
-      "open": 2,
-      "related_open": 2,
+      "open": 1,
+      "related_open": 1,
       "related_forecast": 0,
       "scope_counts": {
         "exclude": 1,
-        "include": 2
+        "include": 1
       },
       "unresolved_sources": []
     },
@@ -1089,12 +1089,10 @@
       "source_status": {
         "documents": 1
       },
-      "open": 1,
+      "open": 0,
       "related_open": 0,
       "related_forecast": 0,
-      "scope_counts": {
-        "exclude": 1
-      },
+      "scope_counts": {},
       "unresolved_sources": [
         {
           "id": "directory_39",
@@ -1276,8 +1274,7 @@
       "tender_sources": 1,
       "forecast_sources": 1,
       "source_status": {
-        "unparsed": 1,
-        "parsed": 1
+        "unparsed": 2
       },
       "open": 0,
       "related_open": 0,
@@ -1289,6 +1286,11 @@
         {
           "id": "directory_107",
           "url": "https://www.pland.gov.hk/pland_tc/consultancies_and_tender/p_study/index.html",
+          "status": "unparsed"
+        },
+        {
+          "id": "directory_19",
+          "url": "https://www.pland.gov.hk/pland_tc/consultancies_and_tender/tender_notice/index.html",
           "status": "unparsed"
         }
       ]
@@ -1492,8 +1494,7 @@
     {
       "department": "香港警务处",
       "issues": [
-        "未登记独立预报入口，仅能依赖中央采购预报覆盖",
-        "1项尚未核实截标日期或当前状态"
+        "未登记独立预报入口，仅能依赖中央采购预报覆盖"
       ],
       "tender_sources": 1,
       "forecast_sources": 0,
@@ -1505,8 +1506,8 @@
       "related_forecast": 0,
       "scope_counts": {
         "exclude": 17,
-        "include": 2,
-        "review": 1
+        "review": 1,
+        "include": 1
       },
       "unresolved_sources": []
     },

@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-23T08:34:04+08:00",
+  "checked_at": "2026-11-23T13:44:56+08:00",
   "items": [
     {
       "department": "香港警务处",
@@ -16,7 +16,7 @@
         "directory_38"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-11-23T08:34:04+08:00",
+      "verified_at": "2026-11-23T13:44:56+08:00",
       "status": "状态待核实",
       "id": "bdb78d69c761f75ab7"
     },
@@ -35,7 +35,7 @@
         "directory_38"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-11-23T08:34:04+08:00",
+      "verified_at": "2026-11-23T13:44:56+08:00",
       "status": "状态待核实",
       "id": "c1ab4635421febe6b2"
     },
@@ -54,28 +54,9 @@
         "directory_38"
       ],
       "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-11-23T08:34:04+08:00",
+      "verified_at": "2026-11-23T13:44:56+08:00",
       "status": "状态待核实",
       "id": "8056df59c2be8be25d"
-    },
-    {
-      "department": "香港警务处",
-      "title": "为香港警务处提供第三代指挥及控制系统维修服务",
-      "kind": "tender",
-      "reference_no": "",
-      "closing_date": "",
-      "closing_text": "",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.police.gov.hk/ppp_tc/11_useful_info/tenders_2026_34.html",
-      "document_url": "",
-      "source_ids": [
-        "directory_38"
-      ],
-      "review_note": "需从原公告核实截标日期",
-      "verified_at": "2026-11-23T08:34:04+08:00",
-      "status": "状态待核实",
-      "id": "7f6de078de8b0ae5eb"
     }
   ]
 }
