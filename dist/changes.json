@@ -1,16 +1,90 @@
 {
-  "updated_at": "2026-11-25T14:58:27+08:00",
+  "updated_at": "2026-11-26T14:50:45+08:00",
   "baseline": false,
-  "compared_with": "2026-11-24T16:22:54+08:00",
-  "new_count": 0,
-  "updated_count": 0,
-  "unchanged_count": 508,
-  "no_longer_seen_count": 1,
-  "new_ids": [],
-  "updated_ids": [],
-  "no_longer_seen_ids": [
-    "09721b67742425b8f5"
+  "compared_with": "2026-11-25T14:58:27+08:00",
+  "new_count": 1,
+  "updated_count": 1,
+  "unchanged_count": 503,
+  "no_longer_seen_count": 4,
+  "new_ids": [
+    "b9123d24f3ba68691e"
   ],
-  "new": [],
-  "updated": []
+  "updated_ids": [
+    "33f0922992178e025f"
+  ],
+  "no_longer_seen_ids": [
+    "54d54a2041ff14dfdc",
+    "9c0b038d86d5690b2f",
+    "923775f5ccd0caab43",
+    "defc0a6a5cc7590e0b"
+  ],
+  "new": [
+    {
+      "department": "库务署",
+      "title": "批出为政府提供「转数快」和内地电子钱包柜台或自助服务站非帐单缴费服务的合约",
+      "kind": "tender",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.try.gov.hk/cinternet/chtender_ca.html",
+      "document_url": "",
+      "source_ids": [
+        "directory_52"
+      ],
+      "review_note": "需从原公告核实截标日期",
+      "verified_at": "2026-11-26T14:50:45+08:00",
+      "status": "状态待核实",
+      "id": "b9123d24f3ba68691e",
+      "first_seen_at": "2026-11-26T14:50:45+08:00",
+      "change": "new",
+      "last_changed_at": "2026-11-26T14:50:45+08:00",
+      "company_fit": {
+        "decision": "include",
+        "categories": [
+          "交通、口岸及城市感知补充"
+        ],
+        "evidence": [
+          "电子钱包"
+        ],
+        "reason": "采购标题明确涉及交通、口岸及城市感知补充",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    }
+  ],
+  "updated": [
+    {
+      "department": "环境保护署",
+      "title": "为设立及营运区域性社区回收网络提供服务",
+      "kind": "tender",
+      "reference_no": "WRR26047",
+      "closing_date": "2026-12-31",
+      "closing_text": "2026年12月31日中午12时",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.epd.gov.hk/epd/tc_chi/business_job/business_opp/tender.html",
+      "document_url": "https://www.epd.gov.hk/epd/sites/default/files/epd/tc_chi/business_job/business_opp/files/WRR26047_chi.pdf",
+      "source_ids": [
+        "directory_22"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-26T14:50:45+08:00",
+      "closing_at": "2026-12-31T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "33f0922992178e025f",
+      "first_seen_at": "2026-11-13T13:02:07+08:00",
+      "change": "updated",
+      "last_changed_at": "2026-11-26T14:50:45+08:00",
+      "company_fit": {
+        "decision": "review",
+        "categories": [],
+        "evidence": [],
+        "reason": "标题不足以确认业务范围，需阅读项目文件；不是判定为无关",
+        "rule_version": "2026-10-26-v2",
+        "eligibility": "仅判断业务相关性；资质、原厂授权及业绩要求须另查招标文件"
+      }
+    }
+  ]
 }

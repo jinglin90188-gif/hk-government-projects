@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T14:58:27+08:00",
+  "updated_at": "2026-11-26T14:50:45+08:00",
   "departments": [
     {
       "department": "保安局",
@@ -482,9 +482,9 @@
       "related_open": 0,
       "related_forecast": 1,
       "scope_counts": {
-        "include": 1,
+        "include": 2,
         "exclude": 1,
-        "review": 4
+        "review": 3
       },
       "unresolved_sources": []
     },
@@ -498,12 +498,12 @@
       "source_status": {
         "parsed": 1
       },
-      "open": 11,
+      "open": 10,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
-        "review": 3,
-        "exclude": 8
+        "exclude": 8,
+        "review": 2
       },
       "unresolved_sources": []
     },
@@ -760,11 +760,11 @@
       "source_status": {
         "parsed": 1
       },
-      "open": 3,
+      "open": 2,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
-        "review": 3
+        "review": 2
       },
       "unresolved_sources": []
     },
@@ -1473,7 +1473,7 @@
       "tender_sources": 1,
       "forecast_sources": 0,
       "source_status": {
-        "failed": 1
+        "documents": 1
       },
       "open": 0,
       "related_open": 0,
@@ -1485,7 +1485,7 @@
         {
           "id": "directory_49",
           "url": "https://app4.rthk.hk/tender/",
-          "status": "failed"
+          "status": "documents"
         }
       ]
     },
@@ -1499,11 +1499,11 @@
       "source_status": {
         "parsed": 1
       },
-      "open": 3,
+      "open": 2,
       "related_open": 1,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 17,
+        "exclude": 16,
         "review": 1,
         "include": 1
       },
@@ -1512,13 +1512,12 @@
     {
       "department": "香港邮政",
       "issues": [
-        "未登记独立预报入口，仅能依赖中央采购预报覆盖",
-        "存在连接失败、待解析或部分解析来源"
+        "未登记独立预报入口，仅能依赖中央采购预报覆盖"
       ],
       "tender_sources": 1,
       "forecast_sources": 0,
       "source_status": {
-        "failed": 1
+        "parsed": 1
       },
       "open": 1,
       "related_open": 0,
@@ -1526,13 +1525,7 @@
       "scope_counts": {
         "review": 1
       },
-      "unresolved_sources": [
-        {
-          "id": "directory_48",
-          "url": "https://www.hongkongpost.hk/tc/about_us/tender/notice/index.html",
-          "status": "failed"
-        }
-      ]
+      "unresolved_sources": []
     },
     {
       "department": "香港金融管理局",
