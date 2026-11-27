@@ -34,6 +34,7 @@ SOURCES = [
     {'id': 'mtr', 'name': '港铁公司', 'type': 'mtr', 'url': 'https://www.mtr.com.hk/ch/corporate/news/corporate.php'},
 ]
 TOPICS = [
+    ('网络与数据安全', r'网络安全|网络保安|数据安全|数据保护|资料外泄|资料泄露|数据泄露|个人资料|私隐|隐私|勒索软件|黑客|资讯安全|信息安全|API.{0,8}(漏洞|安全)|医健通.{0,12}吊销'),
     ('低空与无人驾驶', r'低空|无人机|无人车|自动驾驶|无人驾驶|eVTOL|遥距接管|远程接管|无人系统'),
     ('的士与网约车', r'的士|网约车|网约出租|出租车|网约驾驶'),
     ('智慧交通', r'智慧交通|智能交通|交通管理|交通管制|交通监[察控]|智能运输|车路协同|车联网|智慧公路|电子道路收费|易通行|智慧绿色集体运输|交通数据'),
@@ -77,6 +78,11 @@ def stamp(value):
 
 def topic(title, excerpt=''):
     title = clean(title)
+    security = TOPICS[0]
+    if re.search(security[1], title+' '+clean(excerpt), re.I):
+        return security[0]
+    if re.search(r'大麻|贩毒|毒品|走私|检获|被捕|拘捕|航班延误|税务宽减',title):
+        return ''
     # A closure or an accident is not a technology opportunity.
     if NOISE.search(title) and not TECH.search(title):
         return ''
@@ -159,10 +165,19 @@ def fingerprint(title):
     return re.sub(r'[^\w\u4e00-\u9fff]', '', clean(title).lower())
 
 
+def event_key(row):
+    text=clean(row.get('title',''))
+    if all(w in text for w in ['网约车','驾驶','许可','申请']):
+        return 'ride-hailing-driver-permit-application'
+    if '港怡' in text and re.search(r'未经授权|未获授权|外泄|泄露|吊销|黑客',text+' '+clean(row.get('excerpt',''))):
+        return 'gleneagles-app-security-incident'
+    return ''
+
+
 def select_news(rows, now, known=None, limit=10):
     known = known or {}
     selected = []
-    for row in sorted(rows, key=lambda r: r.get('published_at', ''), reverse=True):
+    for row in sorted(rows, key=lambda r: (r.get('published_at','')[:10],r.get('source_id')=='gov',r.get('published_at','')), reverse=True):
         if not row['source_url'] or not row['published_at'] or not row['title']:
             continue
         date = datetime.fromisoformat(row['published_at'])
@@ -172,7 +187,7 @@ def select_news(rows, now, known=None, limit=10):
         if not category:
             continue
         fp = fingerprint(row['title'])
-        if any(row['source_url'] == p['source_url'] or
+        if any(row['source_url'] == p['source_url'] or (event_key(row) and event_key(row)==event_key(p)) or
                (SequenceMatcher(None, fp, fingerprint(p['title'])).ratio() > .90
                 and re.findall(r'\d+', fp) == re.findall(r'\d+', fingerprint(p['title']))) for p in selected):
             continue

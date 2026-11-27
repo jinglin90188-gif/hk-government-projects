@@ -1,10 +1,10 @@
-"""Keep the 08:00 project run independent from the 14:00 news run."""
+"""News runs at 07:00 UTC / 15:00 Hong Kong; accept legacy queued events."""
 import os
 
 
 def mode(event, schedule='', requested=''):
     if event == 'schedule':
-        return {'projects': schedule == '0 8 * * *', 'news': schedule == '0 14 * * *'}
+        return {'projects': schedule == '0 8 * * *', 'news': schedule in ('0 7 * * *','0 14 * * *')}
     if event == 'workflow_dispatch':
         return {'projects': requested in ('', 'all', 'projects'), 'news': requested in ('', 'all', 'news')}
     return {'projects': True, 'news': True}

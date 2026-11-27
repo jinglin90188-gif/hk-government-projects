@@ -19,6 +19,18 @@ def row(title='运输署推出自动驾驶测试平台', url='https://www.info.g
 
 
 class NewsTests(unittest.TestCase):
+    def test_security_and_privacy_are_business_news(self):
+        for title in ['警方公布API漏洞引致资料外泄','港怡医院医健通登记暂吊销','勒索软件与个人资料保护','政府网络保安安排']:
+            self.assertEqual(news.topic(title),'网络与数据安全')
+        self.assertEqual(news.topic('机场检获大麻花一男子被捕'),'')
+        self.assertEqual(news.topic('香港海关于机场检获怀疑毒品'),'')
+        self.assertEqual(news.topic('机场数字显示系统升级'),'机场与铁路')
+
+    def test_same_permit_event_collapses_different_headlines(self):
+        a=row('网约车驾驶许可证下周一起接受申请')
+        b=row('运输署十一月三十日起接受申请网约车车辆驾驶许可证',url='https://news.rthk.hk/permit')
+        self.assertEqual(len(news.select_news([a,b],NOW)),1)
+        self.assertEqual(mode('schedule','0 7 * * *'),{'projects':False,'news':True})
     def test_rss_parses_publisher_date_and_chinese(self):
         xml = '<rss><channel><item><title>無人機測試</title><link>https://www.info.gov.hk/a.htm</link><pubDate>Wed, 18 Nov 2026 04:00:00 GMT</pubDate><description>&lt;p&gt;測試安排&lt;/p&gt;</description></item></channel></rss>'
         r = news.parse_rss(xml, news.SOURCES[0])[0]
