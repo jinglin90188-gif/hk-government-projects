@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-27T17:58:49.932028+08:00",
-  "scope": "仅匿名公开资料；不使用供应商账号；访问失败不等于无项目",
+  "updated_at": "2026-11-27T18:04:55.836860+08:00",
+  "scope": "仅匿名公开资料；不使用供应商账号；访问失败不等于无项目；未检出项目保留历史记录",
   "sources": [
     {
       "id": "institution_airport",
@@ -8,7 +8,7 @@
       "url": "https://www.hongkongairport.com/en/airport-authority/tender-notices/",
       "parser": "airport",
       "note": "公开列表可匿名查看；RFI按公告邮件索取文件，部分投标操作需ePROS。",
-      "checked_at": "2026-11-27T17:58:49.932028+08:00",
+      "checked_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "已提取公开记录（非全覆盖）",
       "count": 18
     },
@@ -17,7 +17,7 @@
       "department": "港铁公司",
       "url": "https://www.mtr.com.hk/en/corporate/tenders/Latest_advertisement.html",
       "note": "同时检查六类采购计划及独立招标／意向邀请栏目；计划、资格预审及正式招标分开记录，递交可能需供应商平台。",
-      "checked_at": "2026-11-27T17:58:49.932028+08:00",
+      "checked_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "已提取公开记录（非全覆盖）",
       "count": 106,
       "invitation_links": 10
@@ -27,7 +27,7 @@
       "department": "香港科技园公司",
       "url": "https://www.hkstp.org/zh-hk/tender-notice",
       "note": "官网说明可访客登入招标平台；当前官网只覆盖少量公告，访客平台本次返回503，清单不完整。",
-      "checked_at": "2026-11-27T17:58:49.932028+08:00",
+      "checked_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "公开入口可见／清单待核查",
       "count": 0
     },
@@ -36,7 +36,7 @@
       "department": "港深创新及科技园",
       "url": "https://www.hsitp.org/tc/tender-notices",
       "note": "公开页可见项目、编号、刊登及截止日期，并有部分文件链接。",
-      "checked_at": "2026-11-27T17:58:49.932028+08:00",
+      "checked_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "已提取公开记录（非全覆盖）",
       "count": 4
     },
@@ -45,7 +45,7 @@
       "department": "亚洲国际博览馆",
       "url": "https://www.asiaworld-expo.com/zh-tc/about-us/tender-n-notices/",
       "note": "公开页当前为ePROS供应商入口，未取得公开项目清单，不表示无采购。",
-      "checked_at": "2026-11-27T17:58:49.932028+08:00",
+      "checked_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "公开入口可见／清单待核查",
       "count": 0
     },
@@ -54,7 +54,7 @@
       "department": "西九文化区管理局",
       "url": "https://www.westkowloon.hk/en/business-opportunities",
       "note": "公开商机入口存在；自动请求被拒绝，未提取项目，未尝试绕过。",
-      "checked_at": "2026-11-27T17:58:49.932028+08:00",
+      "checked_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "访问或解析失败／需人工核查",
       "count": 0,
       "error": "403 Client Error: Forbidden for url: https://www.westk.hk/en/business-opportunities",
@@ -65,7 +65,7 @@
       "department": "市区重建局",
       "url": "https://www.ura.org.hk/tc/announcement-and-notices",
       "note": "公开意向及招标栏目存在；自动请求被拒绝时保留覆盖缺口。",
-      "checked_at": "2026-11-27T17:58:49.932028+08:00",
+      "checked_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "访问或解析失败／需人工核查",
       "count": 0,
       "error": "403 Client Error: Forbidden for url: https://www.ura.org.hk/tc/announcement-and-notices",
@@ -77,7 +77,7 @@
       "url": "https://www.linkreit.com/en/contact-us/",
       "manual": true,
       "note": "尚未确认可匿名采集的项目清单，供应商采购渠道需人工核实。",
-      "checked_at": "2026-11-27T17:58:49.932028+08:00",
+      "checked_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "待深入核查",
       "count": 0
     },
@@ -87,7 +87,7 @@
       "url": "https://www.oceanpark.com.hk/en",
       "manual": true,
       "note": "此前招标页请求返回403，未继续尝试；公开入口及授权渠道待人工核实。",
-      "checked_at": "2026-11-27T17:58:49.932028+08:00",
+      "checked_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "待深入核查",
       "count": 0
     }
@@ -102,7 +102,7 @@
       "closing_date": "2027-01-19",
       "forecast_date": "",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "正在招标",
       "procurement_type": "tender",
       "notes": "",
@@ -122,7 +122,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": ""
+      "forecast_display": "",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "香港机场管理局",
@@ -133,7 +134,7 @@
       "closing_date": "2027-01-08",
       "forecast_date": "",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "正在招标",
       "procurement_type": "tender",
       "notes": "",
@@ -153,7 +154,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": ""
+      "forecast_display": "",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "香港机场管理局",
@@ -164,7 +166,7 @@
       "closing_date": "2027-01-05",
       "forecast_date": "",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "正在招标",
       "procurement_type": "tender",
       "notes": "",
@@ -184,7 +186,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": ""
+      "forecast_display": "",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "香港机场管理局",
@@ -195,7 +198,7 @@
       "closing_date": "2027-01-05",
       "forecast_date": "",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "正在招标",
       "procurement_type": "tender",
       "notes": "",
@@ -216,7 +219,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": ""
+      "forecast_display": "",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "香港机场管理局",
@@ -227,7 +231,7 @@
       "closing_date": "2027-01-05",
       "forecast_date": "",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "正在招标",
       "procurement_type": "tender",
       "notes": "",
@@ -248,7 +252,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": ""
+      "forecast_display": "",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "香港机场管理局",
@@ -259,7 +264,7 @@
       "closing_date": "2026-12-23",
       "forecast_date": "",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "正在招标",
       "procurement_type": "tender",
       "notes": "",
@@ -279,7 +284,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": ""
+      "forecast_display": "",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "香港机场管理局",
@@ -290,7 +296,7 @@
       "closing_date": "2026-12-22",
       "forecast_date": "",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "正在招标",
       "procurement_type": "tender",
       "notes": "",
@@ -308,7 +314,8 @@
       "business_categories": [
         "系统与数字化"
       ],
-      "forecast_display": ""
+      "forecast_display": "",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "香港机场管理局",
@@ -319,7 +326,7 @@
       "closing_date": "2026-12-22",
       "forecast_date": "",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "正在招标",
       "procurement_type": "tender",
       "notes": "",
@@ -337,7 +344,8 @@
       "business_categories": [
         "工程与设备"
       ],
-      "forecast_display": ""
+      "forecast_display": "",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "香港机场管理局",
@@ -348,7 +356,7 @@
       "closing_date": "2026-12-21",
       "forecast_date": "",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "正在招标",
       "procurement_type": "tender",
       "notes": "",
@@ -368,7 +376,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": ""
+      "forecast_display": "",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "香港机场管理局",
@@ -379,7 +388,7 @@
       "closing_date": "2026-12-18",
       "forecast_date": "",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "正在招标",
       "procurement_type": "tender",
       "notes": "",
@@ -397,7 +406,8 @@
       "business_categories": [
         "工程与设备"
       ],
-      "forecast_display": ""
+      "forecast_display": "",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "香港机场管理局",
@@ -408,7 +418,7 @@
       "closing_date": "2026-12-11",
       "forecast_date": "",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "正在招标",
       "procurement_type": "tender",
       "notes": "",
@@ -426,7 +436,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": ""
+      "forecast_display": "",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "香港机场管理局",
@@ -437,7 +448,7 @@
       "closing_date": "2026-12-09",
       "forecast_date": "",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "正在招标",
       "procurement_type": "tender",
       "notes": "",
@@ -457,7 +468,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": ""
+      "forecast_display": "",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "香港机场管理局",
@@ -468,7 +480,7 @@
       "closing_date": "2026-12-04",
       "forecast_date": "",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "正在招标",
       "procurement_type": "tender",
       "notes": "",
@@ -488,7 +500,8 @@
       "business_categories": [
         "工程与设备"
       ],
-      "forecast_display": ""
+      "forecast_display": "",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "香港机场管理局",
@@ -499,7 +512,7 @@
       "closing_date": "2026-12-02",
       "forecast_date": "",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "正在招标",
       "procurement_type": "tender",
       "notes": "",
@@ -519,7 +532,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": ""
+      "forecast_display": "",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "香港机场管理局",
@@ -530,7 +544,7 @@
       "closing_date": "2026-12-02",
       "forecast_date": "",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "正在招标",
       "procurement_type": "tender",
       "notes": "",
@@ -550,7 +564,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": ""
+      "forecast_display": "",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "香港机场管理局",
@@ -561,7 +576,7 @@
       "closing_date": "2026-12-01",
       "forecast_date": "",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "信息征询中",
       "procurement_type": "rfi",
       "notes": "信息征询不构成合约承诺；索取及回覆条件须查详情原文。",
@@ -581,7 +596,8 @@
       "business_categories": [
         "系统与数字化"
       ],
-      "forecast_display": ""
+      "forecast_display": "",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "香港机场管理局",
@@ -592,7 +608,7 @@
       "closing_date": "2026-12-01",
       "forecast_date": "",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "资格预审中",
       "procurement_type": "prequalification",
       "notes": "",
@@ -612,7 +628,8 @@
       "business_categories": [
         "工程与设备"
       ],
-      "forecast_display": ""
+      "forecast_display": "",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "香港机场管理局",
@@ -623,7 +640,7 @@
       "closing_date": "2026-11-30",
       "forecast_date": "",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "正在招标",
       "procurement_type": "tender",
       "notes": "",
@@ -644,7 +661,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": ""
+      "forecast_display": "",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -655,7 +673,7 @@
       "closing_date": "2026-11-30",
       "forecast_date": "",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "资格预审中",
       "closing_at": "2026-11-30T14:00:00+08:00",
       "notes": "独立招标／意向邀请公告；资格、服务范围及时间以详情原文为准。",
@@ -673,7 +691,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": ""
+      "forecast_display": "",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -684,7 +703,7 @@
       "closing_date": "2026-11-30",
       "forecast_date": "",
       "document_url": "https://www.mtr.com.hk/archive/corporate/en/tenders/1075_PQ_Questionnaire_2026_In-train_TV.docx",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "资格预审中",
       "closing_at": "2026-11-30T14:00:00+08:00",
       "notes": "独立招标／意向邀请公告；资格、服务范围及时间以详情原文为准。",
@@ -705,7 +724,8 @@
       "business_categories": [
         "工程与设备"
       ],
-      "forecast_display": ""
+      "forecast_display": "",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -716,7 +736,7 @@
       "closing_date": "2026-12-01",
       "forecast_date": "",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "资格预审中",
       "closing_at": "",
       "notes": "独立招标／意向邀请公告；资格、服务范围及时间以详情原文为准。",
@@ -734,7 +754,8 @@
       "business_categories": [
         "工程与设备"
       ],
-      "forecast_display": ""
+      "forecast_display": "",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -745,7 +766,7 @@
       "closing_date": "2026-11-30",
       "forecast_date": "",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "资格预审中",
       "closing_at": "2026-11-30T14:00:00+08:00",
       "notes": "独立招标／意向邀请公告；资格、服务范围及时间以详情原文为准。",
@@ -763,7 +784,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": ""
+      "forecast_display": "",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -774,7 +796,7 @@
       "closing_date": "2026-12-04",
       "forecast_date": "",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "资格预审中",
       "closing_at": "",
       "notes": "独立招标／意向邀请公告；资格、服务范围及时间以详情原文为准。",
@@ -792,7 +814,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": ""
+      "forecast_display": "",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -803,7 +826,7 @@
       "closing_date": "2026-12-05",
       "forecast_date": "",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "资格预审中",
       "closing_at": "",
       "notes": "独立招标／意向邀请公告；资格、服务范围及时间以详情原文为准。",
@@ -821,7 +844,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": ""
+      "forecast_display": "",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -832,7 +856,7 @@
       "closing_date": "2026-12-14",
       "forecast_date": "",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "资格预审中",
       "closing_at": "",
       "notes": "独立招标／意向邀请公告；资格、服务范围及时间以详情原文为准。",
@@ -850,7 +874,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": ""
+      "forecast_display": "",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -861,7 +886,7 @@
       "closing_date": "2026-11-29",
       "forecast_date": "",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "资格预审中",
       "closing_at": "",
       "notes": "独立招标／意向邀请公告；资格、服务范围及时间以详情原文为准。",
@@ -879,7 +904,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": ""
+      "forecast_display": "",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -890,7 +916,7 @@
       "closing_date": "2026-12-21",
       "forecast_date": "",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "资格预审中",
       "closing_at": "",
       "notes": "独立招标／意向邀请公告；资格、服务范围及时间以详情原文为准。",
@@ -908,7 +934,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": ""
+      "forecast_display": "",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -919,7 +946,7 @@
       "closing_date": "2026-12-14",
       "forecast_date": "",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "资格预审中",
       "closing_at": "",
       "notes": "独立招标／意向邀请公告；资格、服务范围及时间以详情原文为准。",
@@ -937,7 +964,8 @@
       "business_categories": [
         "工程与设备"
       ],
-      "forecast_display": ""
+      "forecast_display": "",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -948,7 +976,7 @@
       "closing_date": "",
       "forecast_date": "4Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "車站商舖基本及智慧形式裝修工程合約",
@@ -968,7 +996,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": "2026年第4季"
+      "forecast_display": "2026年第4季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -979,7 +1008,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "制冷機組更換工程顧問服務",
@@ -998,7 +1027,8 @@
       "business_categories": [
         "工程与设备"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -1009,7 +1039,7 @@
       "closing_date": "",
       "forecast_date": "4Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "港鐵沿線隧道消防栓喉管更換工程",
@@ -1028,7 +1058,8 @@
       "business_categories": [
         "工程与设备"
       ],
-      "forecast_display": "2026年第4季"
+      "forecast_display": "2026年第4季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -1039,7 +1070,7 @@
       "closing_date": "",
       "forecast_date": "4Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "巿區綫環境控制系統遠端終端裝置更換工程 (第一階段)",
@@ -1059,7 +1090,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": "2026年第4季"
+      "forecast_display": "2026年第4季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -1070,7 +1102,7 @@
       "closing_date": "",
       "forecast_date": "1Q/2027",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：4Q/2026",
       "title_zh": "觀塘綫, 將軍澳綫及大圍車廠保安門禁管理系統更換工程",
@@ -1090,7 +1122,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": "2027年第1季"
+      "forecast_display": "2027年第1季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -1101,7 +1134,7 @@
       "closing_date": "",
       "forecast_date": "4Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "港鐡車站內自動梯更換工程 (第二批)",
@@ -1120,7 +1153,8 @@
       "business_categories": [
         "工程与设备"
       ],
-      "forecast_display": "2026年第4季"
+      "forecast_display": "2026年第4季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -1131,7 +1165,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "車務控制中心顯示板系統更新工程",
@@ -1151,7 +1185,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -1162,7 +1197,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "不間斷供電系統及電池更換工程 (E2批次第1階段)",
@@ -1182,7 +1217,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -1193,7 +1229,7 @@
       "closing_date": "",
       "forecast_date": "4Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "港鐵機場站欣澳站及屯馬綫通風樓之火警偵測和警報系統更換工程",
@@ -1213,7 +1249,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": "2026年第4季"
+      "forecast_display": "2026年第4季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -1224,7 +1261,7 @@
       "closing_date": "",
       "forecast_date": "4Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "港鐵機場快綫及東涌綫火警偵測和警報系統更換工程",
@@ -1244,7 +1281,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": "2026年第4季"
+      "forecast_display": "2026年第4季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -1255,7 +1293,7 @@
       "closing_date": "",
       "forecast_date": "1Q/2027",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：4Q/2026",
       "title_zh": "為迪士尼綫新信號系統提供 5G／LTE 私有 APN 通訊網絡服務",
@@ -1275,7 +1313,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": "2027年第1季"
+      "forecast_display": "2027年第1季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -1286,7 +1325,7 @@
       "closing_date": "",
       "forecast_date": "1Q/2027",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "新迪士尼綫信號系統於機場快綫／及東涌綫互連路段無線區域網絡（WLAN）通訊系統設備的安裝與佈線工程",
@@ -1306,7 +1345,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": "2027年第1季"
+      "forecast_display": "2027年第1季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -1317,7 +1357,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "港鐵屯馬綫(屯門站至尖東站)主控系統更換工程",
@@ -1337,7 +1377,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -1348,7 +1389,7 @@
       "closing_date": "",
       "forecast_date": "4Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "屯馬綫（河背通風樓至屯門站）露天路段無線電分配網絡改裝工程",
@@ -1368,7 +1409,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": "2026年第4季"
+      "forecast_display": "2026年第4季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -1379,7 +1421,7 @@
       "closing_date": "",
       "forecast_date": "4Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "將軍澳綫及屯馬綫NABCO型月台幕門組件更換工程（安裝合約）",
@@ -1399,7 +1441,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": "2026年第4季"
+      "forecast_display": "2026年第4季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -1410,7 +1453,7 @@
       "closing_date": "",
       "forecast_date": "4Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "提供新綫路項目的綜合監察平台",
@@ -1429,7 +1472,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": "2026年第4季"
+      "forecast_display": "2026年第4季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -1440,7 +1484,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "輕鐵乘客資訊顯示系統維修服務",
@@ -1459,7 +1503,8 @@
       "business_categories": [
         "系统与数字化"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -1470,7 +1515,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "軌旁門禁系統維修保養服務合約",
@@ -1489,7 +1534,8 @@
       "business_categories": [
         "系统与数字化"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -1500,7 +1546,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "隧道和車站的物聯網和遙測基礎設施維修服務",
@@ -1523,7 +1569,8 @@
       "business_categories": [
         "系统与数字化"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -1534,7 +1581,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "輕鐵綫無線電系統維修保養服務",
@@ -1553,7 +1600,8 @@
       "business_categories": [
         "系统与数字化"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -1564,7 +1612,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "輕鐵列車軌道監察及診斷系統維修服務",
@@ -1584,7 +1632,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -1595,7 +1644,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "第五代流動電話的維修保養合約 (選定的港鐵站)",
@@ -1615,7 +1664,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -1626,7 +1676,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "機場快綫、東涌綫及迪士尼綫主控系統、環境控制系統及電力監控系統維修保養服務合約",
@@ -1645,7 +1695,8 @@
       "business_categories": [
         "系统与数字化"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -1656,7 +1707,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "重鐵綫軌道旁檢修門檢測系統維修保養服務合約",
@@ -1675,7 +1726,8 @@
       "business_categories": [
         "系统与数字化"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -1686,7 +1738,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "車務控制中心顯示板系統修保養服務合約",
@@ -1705,7 +1757,8 @@
       "business_categories": [
         "系统与数字化"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -1716,7 +1769,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "火炭鐵路大樓(FTH)網络時間同步系統維修服務",
@@ -1736,7 +1789,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -1747,7 +1801,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "月台幕門及自動月台閘門保養服務合約",
@@ -1766,7 +1820,8 @@
       "business_categories": [
         "系统与数字化"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -1777,7 +1832,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "市區綫環境控制系統/電力遠端監控系統維修服務",
@@ -1796,7 +1851,8 @@
       "business_categories": [
         "系统与数字化"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -1807,7 +1863,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "不間斷供電系統及中央電池系統電池維修服務 (E2批次第1階段)",
@@ -1827,7 +1883,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -1838,7 +1895,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "不間斷供電系統及電池維修服務 (E2批次第1階段)",
@@ -1858,7 +1915,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -1869,7 +1927,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "港島綫、觀塘綫、荃灣綫及將軍澳綫傳輸系統之維修服務",
@@ -1888,7 +1946,8 @@
       "business_categories": [
         "系统与数字化"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -1899,7 +1958,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "高速鐵路數據網路系統維修服務",
@@ -1919,7 +1978,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -1930,7 +1990,7 @@
       "closing_date": "",
       "forecast_date": "1Q/2027",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：4Q/2026",
       "title_zh": "香港鐵路企業數據網絡維修服務",
@@ -1950,7 +2010,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": "2027年第1季"
+      "forecast_display": "2027年第1季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -1961,7 +2022,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "環境控制系統中央設備及通風系統維修服務",
@@ -1981,7 +2042,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -1992,7 +2054,7 @@
       "closing_date": "",
       "forecast_date": "4Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "自動火警警報系統,大廈自動化及保安系統維修服務",
@@ -2015,7 +2077,8 @@
       "business_categories": [
         "系统与数字化"
       ],
-      "forecast_display": "2026年第4季"
+      "forecast_display": "2026年第4季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -2026,7 +2089,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "港鐵供水及排水系統維修服務",
@@ -2045,7 +2108,8 @@
       "business_categories": [
         "系统与数字化"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -2056,7 +2120,7 @@
       "closing_date": "",
       "forecast_date": "1Q/2027",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：4Q/2026",
       "title_zh": "港鐵及警察及消防無線電系統網絡覆蓋維修服務",
@@ -2076,7 +2140,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": "2027年第1季"
+      "forecast_display": "2027年第1季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -2087,7 +2152,7 @@
       "closing_date": "",
       "forecast_date": "4Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：4Q/2026",
       "title_zh": "不間斷電源供應系統, 中央電池供應系統及電池維修工程合約",
@@ -2107,7 +2172,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": "2026年第4季"
+      "forecast_display": "2026年第4季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -2118,7 +2184,7 @@
       "closing_date": "",
       "forecast_date": "4Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "主控系統維修服務",
@@ -2137,7 +2203,8 @@
       "business_categories": [
         "系统与数字化"
       ],
-      "forecast_display": "2026年第4季"
+      "forecast_display": "2026年第4季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -2148,7 +2215,7 @@
       "closing_date": "",
       "forecast_date": "4Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "為港鐵車站及場所內提供冷水機及無油冷水機維修保養服務",
@@ -2167,7 +2234,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": "2026年第4季"
+      "forecast_display": "2026年第4季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -2178,7 +2246,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "利東至海怡半島線冷凍水管道升級改善合約",
@@ -2197,7 +2265,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -2208,7 +2277,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "將軍澳饋電支站(TTI)及鰂魚涌饋電支站(QIS)低壓進線櫃更換工程",
@@ -2227,7 +2296,8 @@
       "business_categories": [
         "工程与设备"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -2238,7 +2308,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "港鐵車站商業設施小型維修工程",
@@ -2257,7 +2327,8 @@
       "business_categories": [
         "工程与设备"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -2268,7 +2339,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "港鐵西港島綫,觀塘綫延綫及南港島綫的車站及場所提供低壓掣櫃維修保養服務",
@@ -2287,7 +2358,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -2298,7 +2370,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "荃灣線及港島線低壓電纜資產狀況評估顧問服務",
@@ -2317,7 +2389,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -2328,7 +2401,7 @@
       "closing_date": "",
       "forecast_date": "4Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：4Q/2026",
       "title_zh": "港鐵車站商舖隔油缸維修保養服務合約",
@@ -2347,7 +2420,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": "2026年第4季"
+      "forecast_display": "2026年第4季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -2358,7 +2432,7 @@
       "closing_date": "",
       "forecast_date": "4Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "更換電動機控制中心電氣配件及測量機場快綫、東涌綫及迪士尼綫及附屬建築之空氣流量的定期合約",
@@ -2377,7 +2451,8 @@
       "business_categories": [
         "工程与设备"
       ],
-      "forecast_display": "2026年第4季"
+      "forecast_display": "2026年第4季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -2388,7 +2463,7 @@
       "closing_date": "",
       "forecast_date": "4Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "港鐵車站及處所冷水機組翻新工程合約",
@@ -2407,7 +2482,8 @@
       "business_categories": [
         "工程与设备"
       ],
-      "forecast_display": "2026年第4季"
+      "forecast_display": "2026年第4季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -2418,7 +2494,7 @@
       "closing_date": "",
       "forecast_date": "4Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "為港鐵車站及附屬建築物內更換環境控制系統管道工程期限合約",
@@ -2438,7 +2514,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": "2026年第4季"
+      "forecast_display": "2026年第4季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -2449,7 +2526,7 @@
       "closing_date": "",
       "forecast_date": "4Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：4Q/2026",
       "title_zh": "港鐵車站及附屬大樓給排水系統更換工程",
@@ -2469,7 +2546,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": "2026年第4季"
+      "forecast_display": "2026年第4季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -2480,7 +2558,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "智能動態列車檢測系統 (何東樓車廠)",
@@ -2500,7 +2578,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -2511,7 +2590,7 @@
       "closing_date": "",
       "forecast_date": "4Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "處理或出售九廣鐵路直通機車及列車",
@@ -2530,7 +2609,8 @@
       "business_categories": [
         "工程与设备"
       ],
-      "forecast_display": "2026年第4季"
+      "forecast_display": "2026年第4季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -2541,7 +2621,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "C3492為九龍灣車廠和荃灣車廠提供轉轍器設備",
@@ -2560,7 +2640,8 @@
       "business_categories": [
         "工程与设备"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -2571,7 +2652,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "供應路軌銑磨車",
@@ -2590,7 +2671,8 @@
       "business_categories": [
         "工程与设备"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -2601,7 +2683,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "為屯馬綫及東涌綫提供架空電纜警報分類系統和儀錶板",
@@ -2620,7 +2702,8 @@
       "business_categories": [
         "系统与数字化"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -2631,7 +2714,7 @@
       "closing_date": "",
       "forecast_date": "3Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "计划日期已过／需核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "K2489 供應一部雙層電動巴士",
@@ -2650,7 +2733,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": "2026年第3季"
+      "forecast_display": "2026年第3季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -2661,7 +2745,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "提供模擬列車駕駛室設備用於列車培訓",
@@ -2681,7 +2765,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -2692,7 +2777,7 @@
       "closing_date": "",
       "forecast_date": "1Q/2027",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：4Q/2026",
       "title_zh": "提供智能列車檢測系統(小蠔灣車廠)",
@@ -2712,7 +2797,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": "2027年第1季"
+      "forecast_display": "2027年第1季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -2723,7 +2809,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "東鐵綫網路安全基礎設施擴展工程",
@@ -2743,7 +2829,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -2754,7 +2841,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "更換火炭軌道維修車廠鋼軌試壓機",
@@ -2773,7 +2860,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -2784,7 +2872,7 @@
       "closing_date": "",
       "forecast_date": "3Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "计划日期已过／需核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "更換鐵路專用架空電綫檢查作業車",
@@ -2803,7 +2891,8 @@
       "business_categories": [
         "工程与设备"
       ],
-      "forecast_display": "2026年第3季"
+      "forecast_display": "2026年第3季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -2814,7 +2903,7 @@
       "closing_date": "",
       "forecast_date": "4Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "為輕鐵高壓電力系統設備狀況提供評估顧問服務",
@@ -2834,7 +2923,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": "2026年第4季"
+      "forecast_display": "2026年第4季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -2845,7 +2935,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "市區綫、大嶼山機場鐵路、屯馬綫及東鐵綫網絡安全偵測及響應系統更換工程",
@@ -2865,7 +2955,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -2876,7 +2967,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "八鄉車廠第二軌道滾筒系統供應",
@@ -2895,7 +2986,8 @@
       "business_categories": [
         "系统与数字化"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -2906,7 +2998,7 @@
       "closing_date": "",
       "forecast_date": "4Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "更換屯馬綫及高鐵工程車柴油發電機",
@@ -2925,7 +3017,8 @@
       "business_categories": [
         "工程与设备"
       ],
-      "forecast_display": "2026年第4季"
+      "forecast_display": "2026年第4季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -2936,7 +3029,7 @@
       "closing_date": "",
       "forecast_date": "3Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "计划日期已过／需核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "更換鐵路專用臂架式起重機作業車",
@@ -2955,7 +3048,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": "2026年第3季"
+      "forecast_display": "2026年第3季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -2966,7 +3060,7 @@
       "closing_date": "",
       "forecast_date": "4Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "軌道及架空電纜測量車",
@@ -2985,7 +3079,8 @@
       "business_categories": [
         "工程与设备"
       ],
-      "forecast_display": "2026年第4季"
+      "forecast_display": "2026年第4季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -2996,7 +3091,7 @@
       "closing_date": "",
       "forecast_date": "4Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "為九龍灣車廠和荃灣車廠提供車軸計數器系統",
@@ -3015,7 +3110,8 @@
       "business_categories": [
         "系统与数字化"
       ],
-      "forecast_display": "2026年第4季"
+      "forecast_display": "2026年第4季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -3026,7 +3122,7 @@
       "closing_date": "",
       "forecast_date": "1Q/2027",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "高速鐵路 (香港段) 應急通信系統更換工程",
@@ -3046,7 +3142,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": "2027年第1季"
+      "forecast_display": "2027年第1季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -3057,7 +3154,7 @@
       "closing_date": "",
       "forecast_date": "4Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：不适用",
       "title_zh": "供應列車輔助系統蓄鎳鎘電池組",
@@ -3077,7 +3174,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": "2026年第4季"
+      "forecast_display": "2026年第4季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -3088,7 +3186,7 @@
       "closing_date": "",
       "forecast_date": "4Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "供應及安裝輪對壓裝機",
@@ -3107,7 +3205,8 @@
       "business_categories": [
         "工程与设备"
       ],
-      "forecast_display": "2026年第4季"
+      "forecast_display": "2026年第4季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -3118,7 +3217,7 @@
       "closing_date": "",
       "forecast_date": "4Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：4Q/2026",
       "title_zh": "為何東樓車廠及將軍澳車廠提供列車空調裝置機械人清洗系統",
@@ -3142,7 +3241,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": "2026年第4季"
+      "forecast_display": "2026年第4季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -3153,7 +3253,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "北環綫工程(3)",
@@ -3172,7 +3272,8 @@
       "business_categories": [
         "工程与设备"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -3183,7 +3284,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "北環綫工程(4)",
@@ -3202,7 +3303,8 @@
       "business_categories": [
         "工程与设备"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -3213,7 +3315,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "北環綫隧道鑽挖機採購",
@@ -3232,7 +3334,8 @@
       "business_categories": [
         "工程与设备"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -3243,7 +3346,7 @@
       "closing_date": "",
       "forecast_date": "4Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "北環綫隧道壁組件供應",
@@ -3262,7 +3365,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": "2026年第4季"
+      "forecast_display": "2026年第4季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -3273,7 +3377,7 @@
       "closing_date": "",
       "forecast_date": "4Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：4Q/2026",
       "title_zh": "北環綫智慧工地管理平台設計及物聯網設備中央供應服務",
@@ -3299,7 +3403,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": "2026年第4季"
+      "forecast_display": "2026年第4季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -3310,7 +3415,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：不适用",
       "title_zh": "北環綫獨立環境查核人",
@@ -3329,7 +3434,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -3340,7 +3446,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "白石角站設計顧問",
@@ -3359,7 +3465,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -3370,7 +3477,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "南港島綫(西段)設計顧問",
@@ -3389,7 +3496,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -3400,7 +3508,7 @@
       "closing_date": "",
       "forecast_date": "1Q/2027",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "小蠔灣車廠地下車床及相關建造工程",
@@ -3419,7 +3527,8 @@
       "business_categories": [
         "工程与设备"
       ],
-      "forecast_display": "2027年第1季"
+      "forecast_display": "2027年第1季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -3430,7 +3539,7 @@
       "closing_date": "",
       "forecast_date": "4Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "國際金融中心二期電梯改造工程的可行性研究報告專業服務合約",
@@ -3449,7 +3558,8 @@
       "business_categories": [
         "工程与设备"
       ],
-      "forecast_display": "2026年第4季"
+      "forecast_display": "2026年第4季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -3460,7 +3570,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "為物業管理部門、商場及行政部門提供衛生及消毒用品資格預審",
@@ -3479,7 +3589,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -3490,7 +3601,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "為港鐵投資物業提供技工及技術員",
@@ -3509,7 +3620,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -3520,7 +3632,7 @@
       "closing_date": "",
       "forecast_date": "4Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "港鐵投資物業電力系統維修服務",
@@ -3540,7 +3652,8 @@
         "系统与数字化",
         "工程与设备"
       ],
-      "forecast_display": "2026年第4季"
+      "forecast_display": "2026年第4季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -3551,7 +3664,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "為圍方，青衣城寵物公園提供設計、製作及/或建造工程",
@@ -3570,7 +3683,8 @@
       "business_categories": [
         "工程与设备"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -3581,7 +3695,7 @@
       "closing_date": "",
       "forecast_date": "4Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "港鐵投資物業電力系統維修服務",
@@ -3600,7 +3714,8 @@
       "business_categories": [
         "系统与数字化"
       ],
-      "forecast_display": "2026年第4季"
+      "forecast_display": "2026年第4季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -3611,7 +3726,7 @@
       "closing_date": "",
       "forecast_date": "4Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "為杏花邨會所提供救生員及游泳池管理服務",
@@ -3630,7 +3745,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": "2026年第4季"
+      "forecast_display": "2026年第4季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -3641,7 +3757,7 @@
       "closing_date": "",
       "forecast_date": "4Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "為港鐵品牌及傳訊活動提供網上推廣服務",
@@ -3660,7 +3776,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": "2026年第4季"
+      "forecast_display": "2026年第4季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -3671,7 +3788,7 @@
       "closing_date": "",
       "forecast_date": "4Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "為國際金融中心二期提供清潔服務",
@@ -3690,7 +3807,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": "2026年第4季"
+      "forecast_display": "2026年第4季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -3701,7 +3819,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "數碼廣告顯示屏及媒體擴展維修服務",
@@ -3720,7 +3838,8 @@
       "business_categories": [
         "系统与数字化"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -3731,7 +3850,7 @@
       "closing_date": "",
       "forecast_date": "4Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "采购计划",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "為港鐵車站提供燈箱設備及安裝服務合約",
@@ -3750,7 +3869,8 @@
       "business_categories": [
         "工程与设备"
       ],
-      "forecast_display": "2026年第4季"
+      "forecast_display": "2026年第4季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -3761,7 +3881,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "供應指示牌及其安裝﹑保養服務合約",
@@ -3780,7 +3900,8 @@
       "business_categories": [
         "工程与设备"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -3791,7 +3912,7 @@
       "closing_date": "",
       "forecast_date": "3Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "计划日期已过／需核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "供應電動廂式貨車及 5.5 噸電動貨車",
@@ -3810,7 +3931,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": "2026年第3季"
+      "forecast_display": "2026年第3季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -3821,7 +3943,7 @@
       "closing_date": "",
       "forecast_date": "3Q/2026",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "计划日期已过／需核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "id": "6ae507022c982fa292",
@@ -3840,7 +3962,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": "2026年第3季"
+      "forecast_display": "2026年第3季",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港铁公司",
@@ -3851,7 +3974,7 @@
       "closing_date": "",
       "forecast_date": "Completed",
       "document_url": "",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "历史／阶段待核实",
       "notes": "采购计划，不能推定仍接受申请；预审提交：已完成",
       "title_zh": "為港鐵辦公大樓提供廢物回收管理服務合約",
@@ -3870,7 +3993,8 @@
       "business_categories": [
         "其他采购与服务"
       ],
-      "forecast_display": "已完成"
+      "forecast_display": "已完成",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港深创新及科技园",
@@ -3881,7 +4005,7 @@
       "closing_date": "2026-12-02",
       "forecast_date": "",
       "document_url": "https://www.hsitp.org/en/tender-notices/procurement-non-project",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "正在招标",
       "closing_at": "2026-12-02T12:00:00+08:00",
       "id": "5e684d17bea9f42630",
@@ -3899,7 +4023,8 @@
         "系统与数字化"
       ],
       "forecast_display": "",
-      "notes": ""
+      "notes": "",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港深创新及科技园",
@@ -3910,7 +4035,7 @@
       "closing_date": "2026-12-07",
       "forecast_date": "",
       "document_url": "https://www.hsitp.org/en/tender-notices/procurement-non-project",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "正在招标",
       "closing_at": "2026-12-07T12:00:00+08:00",
       "id": "5b1b2ab8e4ca72455c",
@@ -3928,7 +4053,8 @@
         "其他采购与服务"
       ],
       "forecast_display": "",
-      "notes": ""
+      "notes": "",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港深创新及科技园",
@@ -3939,7 +4065,7 @@
       "closing_date": "2026-12-17",
       "forecast_date": "",
       "document_url": "https://www.hsitp.org/en/tender-notices/procurement-non-project",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "正在招标",
       "closing_at": "2026-12-17T12:00:00+08:00",
       "id": "afb2998fb4f6c6d172",
@@ -3958,7 +4084,8 @@
         "工程与设备"
       ],
       "forecast_display": "",
-      "notes": ""
+      "notes": "",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     },
     {
       "department": "港深创新及科技园",
@@ -3969,7 +4096,7 @@
       "closing_date": "2026-12-01",
       "forecast_date": "",
       "document_url": "https://www.hsitp.org/en/tender-notices/procurement-non-project",
-      "verified_at": "2026-11-27T17:58:49.932028+08:00",
+      "verified_at": "2026-11-27T18:04:55.836860+08:00",
       "status": "正在招标",
       "closing_at": "",
       "id": "fdef993b550fd336c5",
@@ -3987,7 +4114,8 @@
         "系统与数字化"
       ],
       "forecast_display": "",
-      "notes": ""
+      "notes": "",
+      "last_seen_at": "2026-11-27T18:04:55+08:00"
     }
   ]
 }

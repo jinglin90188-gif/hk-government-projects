@@ -1,0 +1,383 @@
+{
+  "checked_at": "2026-11-27T18:03:48+08:00",
+  "items": [
+    {
+      "department": "香港机场管理局",
+      "title": "Prequalification for Contract E3010 - Promenade (Airport City Cove Area) Works (Including Iconic Footbridge)",
+      "kind": "prequalification",
+      "reference_no": "Contract E3010",
+      "closing_date": "2026-12-01",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.hongkongairport.com/en/airport-authority/tender-notices/Invitation-for-PQ-E3010",
+      "document_url": "",
+      "source_ids": [
+        "institution_airport"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-27T18:03:48+08:00",
+      "procurement_type": "prequalification",
+      "notes": "",
+      "status": "资格预审中",
+      "id": "2fcc0dcd63add55ea8"
+    },
+    {
+      "department": "香港机场管理局",
+      "title": "Request for Information for Provision of Supply, Implementation and Comprehensive Maintenance Services for Airport Collaborative Decision Making System (ACDM) for the Hong Kong International Airport (ref: ACDM/RFI/2026)",
+      "kind": "rfi",
+      "reference_no": "ACDM/RFI/2026",
+      "closing_date": "2026-12-01",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.hongkongairport.com/en/airport-authority/tender-notices/ACDM_RFI_2026",
+      "document_url": "",
+      "source_ids": [
+        "institution_airport"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-27T18:03:48+08:00",
+      "procurement_type": "rfi",
+      "notes": "信息征询不构成合约承诺；索取及回覆条件须查详情原文。",
+      "status": "信息征询中",
+      "id": "23d27730d47b8582ea"
+    },
+    {
+      "department": "香港机场管理局",
+      "title": "Contract E5002 – Design, Supply and Installation of Digital Displays at Terminal 2 and Contract ME5002 – Comprehensive Maintenance Services of Digital Displays at Terminal 2",
+      "kind": "tender",
+      "reference_no": "E5002 & ME5002",
+      "closing_date": "2027-01-05",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.hongkongairport.com/en/airport-authority/tender-notices/E5002-ME5002-Tender-Invitation",
+      "document_url": "",
+      "source_ids": [
+        "institution_airport"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-27T18:03:48+08:00",
+      "procurement_type": "tender",
+      "notes": "",
+      "status": "正在招标",
+      "id": "b97f0b44c74c419431"
+    },
+    {
+      "department": "香港机场管理局",
+      "title": "Contract E5003 – Design, Supply and Installation of Digital Displays at Terminal 2 Concourse and Contract ME5003 – Comprehensive Maintenance Services of Digital Displays at Terminal 2 Concourse",
+      "kind": "tender",
+      "reference_no": "E5003 & ME5003",
+      "closing_date": "2027-01-05",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.hongkongairport.com/en/airport-authority/tender-notices/E5003-ME5003-Tender-Invitation",
+      "document_url": "",
+      "source_ids": [
+        "institution_airport"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-27T18:03:48+08:00",
+      "procurement_type": "tender",
+      "notes": "",
+      "status": "正在招标",
+      "id": "33a989ac9e19f8de51"
+    },
+    {
+      "department": "香港机场管理局",
+      "title": "Tender for Term Contract T27M241 – Maintenance, Improvement and Refurbishment Works for Airport General Civil Works",
+      "kind": "tender",
+      "reference_no": "PRO/T569/26/SW",
+      "closing_date": "2026-12-04",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.hongkongairport.com/en/airport-authority/tender-notices/PRO_T569_26_SW",
+      "document_url": "",
+      "source_ids": [
+        "institution_airport"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-27T18:03:48+08:00",
+      "procurement_type": "tender",
+      "notes": "",
+      "status": "正在招标",
+      "id": "c5d0faea1ed1111c92"
+    },
+    {
+      "department": "香港机场管理局",
+      "title": "Tender for Term Contract T27M242 – Maintenance, Improvement and Refurbishment Works for Airport Waterworks",
+      "kind": "tender",
+      "reference_no": "PRO/T574/26/JK",
+      "closing_date": "2026-12-18",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.hongkongairport.com/en/airport-authority/tender-notices/PRO_T574_26_JK",
+      "document_url": "",
+      "source_ids": [
+        "institution_airport"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-27T18:03:48+08:00",
+      "procurement_type": "tender",
+      "notes": "",
+      "status": "正在招标",
+      "id": "90348829c5c10c420e"
+    },
+    {
+      "department": "香港机场管理局",
+      "title": "Tender for Provision, Support and Maintenance Services of Autonomous Electric Shuttle Bus and Autonomous Driving System at the Hong Kong International Airport",
+      "kind": "tender",
+      "reference_no": "PRO/T589/26/CS",
+      "closing_date": "2026-12-22",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.hongkongairport.com/en/airport-authority/tender-notices/PRO_T589_26_CS",
+      "document_url": "",
+      "source_ids": [
+        "institution_airport"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-27T18:03:48+08:00",
+      "procurement_type": "tender",
+      "notes": "",
+      "status": "正在招标",
+      "id": "bbfb2fdd0c0514d0ed"
+    },
+    {
+      "department": "香港机场管理局",
+      "title": "Tender for Contract T26W013 – Provision of Interactive LED Floor Display at Terminal 2 and Production of Media Content",
+      "kind": "tender",
+      "reference_no": "PRO/T636/26/SW",
+      "closing_date": "2026-12-11",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.hongkongairport.com/en/airport-authority/tender-notices/PRO_T636_26_SW",
+      "document_url": "",
+      "source_ids": [
+        "institution_airport"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-27T18:03:48+08:00",
+      "procurement_type": "tender",
+      "notes": "",
+      "status": "正在招标",
+      "id": "775ffc2a3e2cbf3663"
+    },
+    {
+      "department": "香港机场管理局",
+      "title": "Framework Agreement for the Supply and Delivery of DESFire Cards for Airport Restricted Area Permit at Hong Kong International Airport",
+      "kind": "tender",
+      "reference_no": "PRO/T637/26/CA",
+      "closing_date": "2026-11-30",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.hongkongairport.com/en/airport-authority/tender-notices/PRO_T637_26_CA_Notice",
+      "document_url": "",
+      "source_ids": [
+        "institution_airport"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-27T18:03:48+08:00",
+      "procurement_type": "tender",
+      "notes": "",
+      "status": "正在招标",
+      "id": "240058c50bd26b8e7e"
+    },
+    {
+      "department": "香港机场管理局",
+      "title": "Tender for Framework Agreement for the Provision of Handheld Terminals, Accessories and Mobile Device Management Licenses at the Hong Kong International Airport",
+      "kind": "tender",
+      "reference_no": "PRO/T658/26/EL",
+      "closing_date": "2026-12-22",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.hongkongairport.com/en/airport-authority/tender-notices/PRO_T658_25_EL",
+      "document_url": "",
+      "source_ids": [
+        "institution_airport"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-27T18:03:48+08:00",
+      "procurement_type": "tender",
+      "notes": "",
+      "status": "正在招标",
+      "id": "52d25024d55acaefaa"
+    },
+    {
+      "department": "香港机场管理局",
+      "title": "Sit-down Cafe Concession, Terminal 2 Concourse",
+      "kind": "tender",
+      "reference_no": "RAD/ 26-026",
+      "closing_date": "2026-12-21",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.hongkongairport.com/en/airport-authority/tender-notices/rad-26-026",
+      "document_url": "",
+      "source_ids": [
+        "institution_airport"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-27T18:03:48+08:00",
+      "procurement_type": "tender",
+      "notes": "",
+      "status": "正在招标",
+      "id": "105fe5a2fa648fe8e2"
+    },
+    {
+      "department": "香港机场管理局",
+      "title": "Western-Style Quick Service Restaurant Concession",
+      "kind": "tender",
+      "reference_no": "RAD/ 26-029",
+      "closing_date": "2026-12-02",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.hongkongairport.com/en/airport-authority/tender-notices/rad-26-029",
+      "document_url": "",
+      "source_ids": [
+        "institution_airport"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-27T18:03:48+08:00",
+      "procurement_type": "tender",
+      "notes": "",
+      "status": "正在招标",
+      "id": "9762acb239817f9560"
+    },
+    {
+      "department": "香港机场管理局",
+      "title": "Food Court Concession",
+      "kind": "tender",
+      "reference_no": "RAD/ 26-030",
+      "closing_date": "2026-12-02",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.hongkongairport.com/en/airport-authority/tender-notices/rad-26-030",
+      "document_url": "",
+      "source_ids": [
+        "institution_airport"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-27T18:03:48+08:00",
+      "procurement_type": "tender",
+      "notes": "",
+      "status": "正在招标",
+      "id": "b7ad8f38670044003f"
+    },
+    {
+      "department": "香港机场管理局",
+      "title": "Toys and Lifestyle Accessories / Packaged Food Concession",
+      "kind": "tender",
+      "reference_no": "RAD/ 26-031",
+      "closing_date": "2026-12-09",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.hongkongairport.com/en/airport-authority/tender-notices/rad-26-031",
+      "document_url": "",
+      "source_ids": [
+        "institution_airport"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-27T18:03:48+08:00",
+      "procurement_type": "tender",
+      "notes": "",
+      "status": "正在招标",
+      "id": "88145f16fbc56e4780"
+    },
+    {
+      "department": "香港机场管理局",
+      "title": "Tender Advertisement - Lifestyle Accessories Concession",
+      "kind": "tender",
+      "reference_no": "RAD/ 26-032",
+      "closing_date": "2026-12-23",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.hongkongairport.com/en/airport-authority/tender-notices/rad-26-032",
+      "document_url": "",
+      "source_ids": [
+        "institution_airport"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-27T18:03:48+08:00",
+      "procurement_type": "tender",
+      "notes": "",
+      "status": "正在招标",
+      "id": "1184f1bcee95095499"
+    },
+    {
+      "department": "香港机场管理局",
+      "title": "Hong Kong / Macau Style Fast Food Concession",
+      "kind": "tender",
+      "reference_no": "RAD/ 26-033",
+      "closing_date": "2027-01-08",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.hongkongairport.com/en/airport-authority/tender-notices/rad-26-033",
+      "document_url": "",
+      "source_ids": [
+        "institution_airport"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-27T18:03:48+08:00",
+      "procurement_type": "tender",
+      "notes": "",
+      "status": "正在招标",
+      "id": "df15d712797068dd3e"
+    },
+    {
+      "department": "香港机场管理局",
+      "title": "Thematic Toys and Gifts Concession for Double-height Facade Shop, Terminal 2 Concourse",
+      "kind": "tender",
+      "reference_no": "RAD/ 26-034",
+      "closing_date": "2027-01-19",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.hongkongairport.com/en/airport-authority/tender-notices/rad-26-034",
+      "document_url": "",
+      "source_ids": [
+        "institution_airport"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-27T18:03:48+08:00",
+      "procurement_type": "tender",
+      "notes": "",
+      "status": "正在招标",
+      "id": "c11884b2976f58620a"
+    },
+    {
+      "department": "香港机场管理局",
+      "title": "Liquor and Tobacco Concession (RAD/26-027) & Perfume and Cosmetics Concession (RAD/26-028)",
+      "kind": "tender",
+      "reference_no": "RAD/26-027 & RAD/26-028",
+      "closing_date": "2027-01-05",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.hongkongairport.com/en/airport-authority/tender-notices/rad-26-027_028",
+      "document_url": "",
+      "source_ids": [
+        "institution_airport"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-27T18:03:48+08:00",
+      "procurement_type": "tender",
+      "notes": "",
+      "status": "正在招标",
+      "id": "f4982c4f27f35d666b"
+    }
+  ]
+}

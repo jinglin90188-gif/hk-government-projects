@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-11-27T17:57:43+08:00",
+  "updated_at": "2026-11-27T18:03:48+08:00",
   "departments": [
+    {
+      "department": "亚洲国际博览馆",
+      "issues": [
+        "未登记独立预报入口，仅能依赖中央采购预报覆盖",
+        "存在连接失败、待解析或部分解析来源"
+      ],
+      "tender_sources": 1,
+      "forecast_sources": 0,
+      "source_status": {
+        "unparsed": 1
+      },
+      "open": 0,
+      "related_open": 0,
+      "related_forecast": 0,
+      "scope_counts": {},
+      "unresolved_sources": [
+        {
+          "id": "institution_awe",
+          "url": "https://www.asiaworld-expo.com/zh-tc/about-us/tender-n-notices/",
+          "status": "unparsed"
+        }
+      ]
+    },
     {
       "department": "保安局",
       "issues": [
@@ -465,6 +488,26 @@
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {},
+      "unresolved_sources": []
+    },
+    {
+      "department": "市区重建局",
+      "issues": [
+        "未登记独立预报入口，仅能依赖中央采购预报覆盖",
+        "6项尚未核实截标日期或当前状态"
+      ],
+      "tender_sources": 1,
+      "forecast_sources": 0,
+      "source_status": {
+        "parsed": 1
+      },
+      "open": 0,
+      "related_open": 0,
+      "related_forecast": 0,
+      "scope_counts": {
+        "review": 5,
+        "include": 1
+      },
       "unresolved_sources": []
     },
     {
@@ -1155,6 +1198,43 @@
       ]
     },
     {
+      "department": "港深创新及科技园",
+      "issues": [
+        "未登记独立预报入口，仅能依赖中央采购预报覆盖"
+      ],
+      "tender_sources": 1,
+      "forecast_sources": 0,
+      "source_status": {
+        "parsed": 1
+      },
+      "open": 8,
+      "related_open": 0,
+      "related_forecast": 0,
+      "scope_counts": {
+        "review": 8
+      },
+      "unresolved_sources": []
+    },
+    {
+      "department": "港铁公司",
+      "issues": [
+        "未登记独立预报入口，仅能依赖中央采购预报覆盖",
+        "4项尚未核实截标日期或当前状态"
+      ],
+      "tender_sources": 1,
+      "forecast_sources": 0,
+      "source_status": {
+        "parsed": 1
+      },
+      "open": 0,
+      "related_open": 0,
+      "related_forecast": 0,
+      "scope_counts": {
+        "review": 4
+      },
+      "unresolved_sources": []
+    },
+    {
       "department": "环境保护署",
       "issues": [],
       "tender_sources": 1,
@@ -1263,6 +1343,29 @@
         "exclude": 1
       },
       "unresolved_sources": []
+    },
+    {
+      "department": "西九文化区管理局",
+      "issues": [
+        "未登记独立预报入口，仅能依赖中央采购预报覆盖",
+        "存在连接失败、待解析或部分解析来源"
+      ],
+      "tender_sources": 1,
+      "forecast_sources": 0,
+      "source_status": {
+        "failed": 1
+      },
+      "open": 0,
+      "related_open": 0,
+      "related_forecast": 0,
+      "scope_counts": {},
+      "unresolved_sources": [
+        {
+          "id": "institution_westk",
+          "url": "https://www.westkowloon.hk/en/business-opportunities",
+          "status": "failed"
+        }
+      ]
     },
     {
       "department": "规划署",
@@ -1448,6 +1551,24 @@
       ]
     },
     {
+      "department": "香港机场管理局",
+      "issues": [
+        "未登记独立预报入口，仅能依赖中央采购预报覆盖"
+      ],
+      "tender_sources": 1,
+      "forecast_sources": 0,
+      "source_status": {
+        "parsed": 1
+      },
+      "open": 16,
+      "related_open": 0,
+      "related_forecast": 0,
+      "scope_counts": {
+        "review": 18
+      },
+      "unresolved_sources": []
+    },
+    {
       "department": "香港海关",
       "issues": [
         "未登记独立预报入口，仅能依赖中央采购预报覆盖"
@@ -1487,6 +1608,29 @@
           "id": "directory_49",
           "url": "https://app4.rthk.hk/tender/",
           "status": "failed"
+        }
+      ]
+    },
+    {
+      "department": "香港科技园公司",
+      "issues": [
+        "未登记独立预报入口，仅能依赖中央采购预报覆盖",
+        "存在连接失败、待解析或部分解析来源"
+      ],
+      "tender_sources": 1,
+      "forecast_sources": 0,
+      "source_status": {
+        "documents": 1
+      },
+      "open": 0,
+      "related_open": 0,
+      "related_forecast": 0,
+      "scope_counts": {},
+      "unresolved_sources": [
+        {
+          "id": "institution_hkstp",
+          "url": "https://www.hkstp.org/zh-hk/tender-notice",
+          "status": "documents"
         }
       ]
     },

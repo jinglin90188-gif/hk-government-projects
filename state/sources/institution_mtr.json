@@ -1,0 +1,81 @@
+{
+  "checked_at": "2026-11-27T18:03:48+08:00",
+  "items": [
+    {
+      "department": "港铁公司",
+      "title": "Range of Estimated Cost - M1 - Up to HK$40M; M2 - HK$35M - HK$110M; M3 - HK$90M - HK$220M; M4 - HK$180M - HK$330M; M5 - Exceeding HK$300M",
+      "kind": "tender",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.mtr.com.hk/en/corporate/tenders/others.html",
+      "document_url": "",
+      "source_ids": [
+        "institution_mtr"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-27T18:03:48+08:00",
+      "status": "状态待核实",
+      "id": "135be9859b88e626be"
+    },
+    {
+      "department": "港铁公司",
+      "title": "TBA = To be advised later",
+      "kind": "tender",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.mtr.com.hk/en/corporate/tenders/others.html",
+      "document_url": "",
+      "source_ids": [
+        "institution_mtr"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-27T18:03:48+08:00",
+      "status": "状态待核实",
+      "id": "420e206c7a4af18bf1"
+    },
+    {
+      "department": "港铁公司",
+      "title": "The Corporation does not bind itself to accept the lowest tender or any tender, and reserves the right to negotiate with any tenderer about the terms of the offer.",
+      "kind": "tender",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.mtr.com.hk/en/corporate/tenders/others.html",
+      "document_url": "",
+      "source_ids": [
+        "institution_mtr"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-27T18:03:48+08:00",
+      "status": "状态待核实",
+      "id": "6d24be0aab7b3e196d"
+    },
+    {
+      "department": "港铁公司",
+      "title": "WTO GPA = World Trade Organization's Agreement On Government Procurement.",
+      "kind": "tender",
+      "reference_no": "",
+      "closing_date": "",
+      "closing_text": "",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.mtr.com.hk/en/corporate/tenders/others.html",
+      "document_url": "",
+      "source_ids": [
+        "institution_mtr"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-27T18:03:48+08:00",
+      "status": "状态待核实",
+      "id": "d9a4fdf2906d913c25"
+    }
+  ]
+}
