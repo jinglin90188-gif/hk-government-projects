@@ -15,6 +15,7 @@ ROOT=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT))
 from institution_sources import SOURCES, parse_airport
 from company_scope import classify
+from snapshot_tools import retain_missing_projects
 NOW=datetime.now(ZoneInfo('Asia/Hong_Kong'))
 PATH=ROOT/'dist/institutions.json'
 NOTES={
@@ -223,7 +224,8 @@ def main():
         old=unique.get(r['id'])
         if old and old['kind']!='forecast' and r['kind']=='forecast':continue
         unique[r['id']]=r
-    data=dict(updated_at=NOW.isoformat(),scope='仅匿名公开资料；不使用供应商账号；访问失败不等于无项目',sources=reports,projects=list(unique.values()))
+    kept=retain_missing_projects(list(unique.values()),previous,NOW)
+    data=dict(updated_at=NOW.isoformat(),scope='仅匿名公开资料；不使用供应商账号；访问失败不等于无项目；未检出项目保留历史记录',sources=reports,projects=kept)
     PATH.write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n')
     print(json.dumps({'sources':len(reports),'records':len(unique),'related':sum(r['company_fit']['decision']=='include' for r in unique.values())},ensure_ascii=False))
 

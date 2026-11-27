@@ -531,6 +531,11 @@ def crawl_source(spec):
     try:
         mode=spec.get('parser','html')
         if mode=='etb':items=get_etb(url)
+        elif mode=='airport':
+            from institution_sources import parse_airport
+            payload,base=fetch(url)
+            items=parse_airport(soup_from(payload),base,record)
+            if not items:raise ValueError('机场公开列表未提取到项目，不能当作暂无采购')
         elif mode=='gld_bd':items=get_gld_forecast(url)
         elif mode=='gld_central':items=get_gld_forecast(url,True)
         elif mode=='archsd':items=get_archsd(url)
@@ -707,6 +712,8 @@ def source_specs():
             specs.append(dict(id='fstb_'+hashlib.sha256(dep.encode()).hexdigest()[:10],name=dep,department=dep,kind='tender',parser='html',url=url.replace('http:','https:')))
     except Exception as exc:
         print('政府部门总目录未能刷新：'+str(exc),file=sys.stderr)
+    from institution_sources import source_specs as institutional_specs
+    specs.extend(institutional_specs())
     return specs
 
 def preserve_source_state(sid,items,report):
@@ -813,6 +820,8 @@ def main():
         for future in as_completed(futures):
             batch,report=future.result();rows.extend(batch);reports.append(report)
     rows=deduplicate(rows)
+    from snapshot_tools import retain_missing_projects
+    if not args.only:rows=retain_missing_projects(rows,previous,NOW)
     departments=sorted(set([department(s['department']) for s in specs if s['department']!='全政府']+[r['department'] for r in rows]))
     coverage=[]
     for dep in departments:

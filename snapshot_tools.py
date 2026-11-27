@@ -1,5 +1,6 @@
 """Snapshot history and release checks shared by local and scheduled runs."""
 import re
+import copy
 from datetime import datetime
 
 NEEDS_REVIEW={'failed','unparsed','documents','partial'}
@@ -8,6 +9,37 @@ BUSINESS_FIELDS=('department','title','kind','reference_no','closing_date','clos
 
 def title_key(row):
     return row.get('department',''),re.sub(r'[\W_]','',row.get('title','')).casefold()
+
+def retain_missing_projects(rows,previous,now):
+    """A disappeared listing is not evidence that a project ceased to exist."""
+    stamp=now.isoformat(timespec='seconds')
+    def refkey(r):
+        ref=re.sub(r'[\W_]','',r.get('reference_no','')).casefold()
+        return (r.get('department',''),ref) if ref else None
+    ids={r.get('id') for r in rows};titles={title_key(r) for r in rows}
+    refs={refkey(r) for r in rows if refkey(r)}
+    for r in rows:
+        if not r.get('stale'):
+            r['last_seen_at']=stamp
+            r.pop('retained_missing',None);r.pop('missing_since',None)
+    result=list(rows)
+    for old in previous.get('projects',[]):
+        if old.get('id') in ids or title_key(old) in titles or refkey(old) is not None and refkey(old) in refs:
+            continue
+        r=copy.deepcopy(old)
+        r.update(stale=True,retained_missing=True,missing_since=old.get('missing_since') or stamp,
+                 last_seen_at=old.get('last_seen_at') or old.get('verified_at') or previous.get('updated_at',''))
+        expired=bool(r.get('closing_date') and r['closing_date']<now.date().isoformat())
+        if r.get('closing_at'):
+            try:expired=expired or datetime.fromisoformat(r['closing_at'])<=now
+            except ValueError:pass
+        if old.get('status')=='已截标' or expired:r['status']='已截标'
+        else:r['status']='状态待核实'
+        if r.get('kind')=='forecast':r['outdated']=True
+        note='本次未检出，保留历史记录；未据此判定项目取消或合约批出。'
+        if note not in r.get('review_note',''):r['review_note']=' '.join(filter(None,[r.get('review_note'),note]))
+        result.append(r)
+    return result
 
 def enrich_changes(rows,previous,now):
     timestamp=now.isoformat(timespec='seconds')
