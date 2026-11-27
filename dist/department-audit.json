@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T14:50:45+08:00",
+  "updated_at": "2026-11-27T14:42:50+08:00",
   "departments": [
     {
       "department": "保安局",
@@ -185,7 +185,7 @@
       "scope_counts": {
         "exclude": 11,
         "include": 1,
-        "review": 1
+        "review": 2
       },
       "unresolved_sources": []
     },
@@ -321,13 +321,13 @@
         "parsed": 4,
         "empty": 1
       },
-      "open": 8,
+      "open": 12,
       "related_open": 2,
       "related_forecast": 1,
       "scope_counts": {
-        "exclude": 34,
+        "exclude": 32,
         "include": 3,
-        "review": 3
+        "review": 7
       },
       "unresolved_sources": []
     },
@@ -498,11 +498,11 @@
       "source_status": {
         "parsed": 1
       },
-      "open": 10,
+      "open": 11,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 8,
+        "exclude": 9,
         "review": 2
       },
       "unresolved_sources": []
@@ -542,7 +542,7 @@
       "source_status": {
         "parsed": 4
       },
-      "open": 5,
+      "open": 4,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
@@ -837,7 +837,7 @@
       "department": "教育局",
       "issues": [
         "存在连接失败、待解析或部分解析来源",
-        "6项尚未核实截标日期或当前状态"
+        "5项尚未核实截标日期或当前状态"
       ],
       "tender_sources": 1,
       "forecast_sources": 1,
@@ -845,12 +845,12 @@
         "parsed": 1,
         "documents": 1
       },
-      "open": 0,
+      "open": 1,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
         "review": 1,
-        "exclude": 8
+        "exclude": 5
       },
       "unresolved_sources": [
         {
@@ -870,11 +870,12 @@
       "source_status": {
         "parsed": 1
       },
-      "open": 1,
+      "open": 2,
       "related_open": 1,
       "related_forecast": 0,
       "scope_counts": {
         "exclude": 1,
+        "review": 1,
         "include": 1
       },
       "unresolved_sources": []
@@ -926,12 +927,12 @@
       "source_status": {
         "parsed": 3
       },
-      "open": 14,
-      "related_open": 9,
+      "open": 17,
+      "related_open": 12,
       "related_forecast": 8,
       "scope_counts": {
-        "exclude": 78,
-        "include": 22,
+        "exclude": 77,
+        "include": 25,
         "review": 26
       },
       "unresolved_sources": []
@@ -1019,12 +1020,12 @@
         "parsed": 2,
         "empty": 1
       },
-      "open": 1,
+      "open": 2,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
         "exclude": 31,
-        "review": 3
+        "review": 4
       },
       "unresolved_sources": []
     },
@@ -1137,7 +1138,7 @@
         "parsed": 3,
         "documents": 1
       },
-      "open": 2,
+      "open": 1,
       "related_open": 1,
       "related_forecast": 0,
       "scope_counts": {
@@ -1236,12 +1237,12 @@
       "source_status": {
         "parsed": 1
       },
-      "open": 3,
+      "open": 2,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
-        "review": 2,
-        "exclude": 1
+        "exclude": 1,
+        "review": 1
       },
       "unresolved_sources": []
     },
@@ -1318,13 +1319,13 @@
         "parsed": 6,
         "empty": 1
       },
-      "open": 4,
+      "open": 6,
       "related_open": 1,
       "related_forecast": 0,
       "scope_counts": {
-        "exclude": 18,
+        "exclude": 16,
         "include": 9,
-        "review": 8
+        "review": 11
       },
       "unresolved_sources": []
     },
@@ -1473,7 +1474,7 @@
       "tender_sources": 1,
       "forecast_sources": 0,
       "source_status": {
-        "documents": 1
+        "failed": 1
       },
       "open": 0,
       "related_open": 0,
@@ -1485,7 +1486,7 @@
         {
           "id": "directory_49",
           "url": "https://app4.rthk.hk/tender/",
-          "status": "documents"
+          "status": "failed"
         }
       ]
     },
@@ -1512,12 +1513,13 @@
     {
       "department": "香港邮政",
       "issues": [
-        "未登记独立预报入口，仅能依赖中央采购预报覆盖"
+        "未登记独立预报入口，仅能依赖中央采购预报覆盖",
+        "存在连接失败、待解析或部分解析来源"
       ],
       "tender_sources": 1,
       "forecast_sources": 0,
       "source_status": {
-        "parsed": 1
+        "failed": 1
       },
       "open": 1,
       "related_open": 0,
@@ -1525,7 +1527,13 @@
       "scope_counts": {
         "review": 1
       },
-      "unresolved_sources": []
+      "unresolved_sources": [
+        {
+          "id": "directory_48",
+          "url": "https://www.hongkongpost.hk/tc/about_us/tender/notice/index.html",
+          "status": "failed"
+        }
+      ]
     },
     {
       "department": "香港金融管理局",

@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-26T14:50:45+08:00",
+  "checked_at": "2026-11-27T14:42:50+08:00",
   "items": [
     {
       "department": "土木工程拓展署",
@@ -16,7 +16,7 @@
         "cedd_consult_proposals"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "closing_at": "2026-12-04T12:00:00+08:00",
       "status": "正在招标",
       "title_aliases": [
@@ -29,6 +29,35 @@
       "procurement_type": "consultancy_proposal",
       "notes": "The scope of these consultancies, which are currently expected to commence in Q1 2027 , is indicated in the draft Scopes.",
       "id": "e2c886d2940b8a45a0"
+    },
+    {
+      "department": "土木工程拓展署",
+      "title": "Management and Operation of Public Works Regional Laboratory (North Lantau) - Design and Construction; Management and Operation of Public Works Regional Laboratory (Kowloon) - Design and Construction",
+      "kind": "tender",
+      "reference_no": "CE 32/2026 (GE) & CE 33/2026 (GE)",
+      "closing_date": "2027-01-22",
+      "closing_text": "12:00 noon, Friday, 22 Jan 2027",
+      "forecast_date": "",
+      "publish_date": "2026-11-27",
+      "source_url": "https://www.cedd.gov.hk/eng/tender-notices/consultancy-agreements/invitation-for-technical-and-fee-proposals/index-id-1378.html",
+      "document_url": "",
+      "source_ids": [
+        "cedd_consult_proposals"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-27T14:42:50+08:00",
+      "closing_at": "2027-01-22T12:00:00+08:00",
+      "status": "正在招标",
+      "title_aliases": [
+        "Management and Operation of Public Works Regional Laboratory (North Lantau) - Design and Construction; Management and Operation of Public Works Regional Laboratory (Kowloon) - Design and Construction",
+        "管理及营运北大屿山工务区域试验所 – 设计及建造; 管理及营运九龙工务区域试验所 – 设计及建造"
+      ],
+      "title_zh": "管理及营运北大屿山工务区域试验所 – 设计及建造; 管理及营运九龙工务区域试验所 – 设计及建造",
+      "eligibility_note": "Consultants in Group 3 under the Service Category of Geotechnical and Slope (GE) maintained by EACSB are invited to submit Technical and Fee Proposals for undertaking the above consultancies. Sole/Lead Consultants Invited: Geotechnical and Slope (GE) – Group 3 AECOM Asia Company Limited Asia Infrastructure Solutions Limited AtkinsRealis Asia Limited Aurecon Hong Kong Limited C M Wong & Associates Limited Fugro (Hong Kong) Limited Halcrow China Limited Ove Arup & Partners Hong Kong Limited",
+      "eligibility_summary": "顾问服务建议书邀请；须核对工程及有关顾问遴选委员会（EACSB）相应服务类别第3组及受邀名单，并非任何公司均可直接投标。",
+      "procurement_type": "consultancy_proposal",
+      "notes": "The scope of these consultancies, which are currently expected to commence in June / July 2027 , is indicated in the draft Scopes.",
+      "id": "c8367bd4b6174adcf9"
     },
     {
       "department": "土木工程拓展署",
@@ -45,7 +74,7 @@
         "cedd_consult_proposals"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "closing_at": "2026-12-04T12:00:00+08:00",
       "status": "正在招标",
       "title_aliases": [
@@ -74,7 +103,7 @@
         "cedd_consult_proposals"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "closing_at": "2026-12-04T12:00:00+08:00",
       "status": "正在招标",
       "title_aliases": [
@@ -103,7 +132,7 @@
         "cedd_consult_proposals"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "closing_at": "2026-12-04T12:00:00+08:00",
       "status": "正在招标",
       "title_zh": "优化港岛北维多利亚港海滨 – 设计及建造",
@@ -133,7 +162,7 @@
         "cedd_consult_proposals"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "closing_at": "2026-12-11T12:00:00+08:00",
       "status": "正在招标",
       "title_aliases": [

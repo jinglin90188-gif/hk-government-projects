@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-26T14:50:45+08:00",
+  "checked_at": "2026-11-27T14:42:50+08:00",
   "items": [
     {
       "department": "土木工程拓展署",
@@ -16,10 +16,70 @@
         "directory_11"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "closing_at": "2026-12-18T12:00:00+08:00",
       "status": "正在招标",
       "id": "9134834360b79b66b9"
+    },
+    {
+      "department": "土木工程拓展署",
+      "title": "屯门新庆路及康宝路的工地平整及基础设施工程",
+      "kind": "tender",
+      "reference_no": "CV/2026/04",
+      "closing_date": "2027-01-22",
+      "closing_text": "2027年1月22日, 星期五, 12:00 中午",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.cedd.gov.hk/tc/tender-notices/contracts/tender-notices/index.html",
+      "document_url": "https://www.cedd.gov.hk/tc/tender-notices/contracts/tender-notices/index-id-2447.html",
+      "source_ids": [
+        "directory_11"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-27T14:42:50+08:00",
+      "closing_at": "2027-01-22T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "26ac391bc365eb3dc3"
+    },
+    {
+      "department": "土木工程拓展署",
+      "title": "重建荔枝窝码头",
+      "kind": "tender",
+      "reference_no": "CV/2026/06",
+      "closing_date": "2027-01-08",
+      "closing_text": "2027年1月8日, 星期五, 12:00 中午",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.cedd.gov.hk/tc/tender-notices/contracts/tender-notices/index.html",
+      "document_url": "https://www.cedd.gov.hk/tc/tender-notices/contracts/tender-notices/index-id-2445.html",
+      "source_ids": [
+        "directory_11"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-27T14:42:50+08:00",
+      "closing_at": "2027-01-08T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "730dceca3c08148e4e"
+    },
+    {
+      "department": "土木工程拓展署",
+      "title": "长远防治山泥倾泻计划，九龙及新界东，第一阶段合约 C",
+      "kind": "tender",
+      "reference_no": "GE/2026/30",
+      "closing_date": "2026-12-18",
+      "closing_text": "2026年12月18日, 星期五, 12:00 中午",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.cedd.gov.hk/tc/tender-notices/contracts/tender-notices/index.html",
+      "document_url": "https://www.cedd.gov.hk/tc/tender-notices/contracts/tender-notices/index-id-2446.html",
+      "source_ids": [
+        "directory_11"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-27T14:42:50+08:00",
+      "closing_at": "2026-12-18T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "32c3e1871da7664b89"
     },
     {
       "department": "土木工程拓展署",
@@ -36,7 +96,7 @@
         "directory_11"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "closing_at": "2026-12-18T12:00:00+08:00",
       "status": "正在招标",
       "id": "bfcc809601f4928cc4"
@@ -56,7 +116,7 @@
         "directory_11"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "closing_at": "2026-12-04T12:00:00+08:00",
       "status": "正在招标",
       "id": "45b8f12d14fabc1af0"

@@ -1,6 +1,26 @@
 {
-  "checked_at": "2026-11-26T14:50:45+08:00",
+  "checked_at": "2026-11-27T14:42:50+08:00",
   "items": [
+    {
+      "department": "数字政策办公室",
+      "title": "招标承投为数字政策办公室的「智方便」平台提供公共云端服务",
+      "kind": "tender",
+      "reference_no": "DPO-IAMS-PRI-2027",
+      "closing_date": "2027-01-12",
+      "closing_text": "2027年1月12日正午12时（香港时间）",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.digitalpolicy.gov.hk/tc/our_work/digital_infrastructure/business_window/tender_eoi_rfp/tender_dpo-iams-pri-2027.html",
+      "document_url": "",
+      "source_ids": [
+        "directory_25"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-27T14:42:50+08:00",
+      "closing_at": "2027-01-12T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "43d91130f487368632"
+    },
     {
       "department": "数字政策办公室",
       "title": "招标承投为数字政策办公室供应端点侦测与回应软件并提供相关服务",
@@ -16,7 +36,7 @@
         "directory_25"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "closing_at": "2027-01-05T12:00:00+08:00",
       "status": "正在招标",
       "id": "30612d2e41dfaec9d8"

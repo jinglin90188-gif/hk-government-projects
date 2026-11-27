@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-26T14:50:45+08:00",
+  "checked_at": "2026-11-27T14:42:50+08:00",
   "items": [
     {
       "department": "路政署",
@@ -16,7 +16,7 @@
         "directory_12"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "closing_at": "2026-06-26T12:00:00+08:00",
       "status": "已截标",
       "id": "988459476ff1dae444"
@@ -36,9 +36,9 @@
         "directory_12"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "closing_at": "2026-11-27T12:00:00+08:00",
-      "status": "正在招标",
+      "status": "已截标",
       "id": "2bd27af6fd84225eea"
     },
     {
@@ -56,7 +56,7 @@
         "directory_12"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "closing_at": "2026-12-04T12:00:00+08:00",
       "status": "正在招标",
       "id": "c22e42d2e90d692a3e"
@@ -76,10 +76,30 @@
         "directory_12"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "closing_at": "2026-12-18T12:00:00+08:00",
       "status": "正在招标",
       "id": "e57be12d04769cb073"
+    },
+    {
+      "department": "路政署",
+      "title": "九龙及新界东公共照明系统的管理、操作、安装和保养（2027-2031）",
+      "kind": "tender",
+      "reference_no": "10/HY/2026",
+      "closing_date": "2027-01-08",
+      "closing_text": "2027年1月8日星期五中午12时",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.hyd.gov.hk/tc/tender_notices/contracts/prequalifications_and_tender_notices/2026/10HY2026.html",
+      "document_url": "",
+      "source_ids": [
+        "directory_12"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-27T14:42:50+08:00",
+      "closing_at": "2027-01-08T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "91a0958c10457cd4ff"
     },
     {
       "department": "路政署",
@@ -96,7 +116,7 @@
         "directory_12"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "closing_at": "2026-07-31T12:00:00+08:00",
       "status": "已截标",
       "id": "be27a96fcec86c1157"
@@ -116,7 +136,7 @@
         "directory_12"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "closing_at": "2026-10-23T12:00:00+08:00",
       "status": "已截标",
       "id": "5a27f7a5b7ee7f35fe"
@@ -136,10 +156,50 @@
         "directory_12"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "closing_at": "2026-10-23T12:00:00+08:00",
       "status": "已截标",
       "id": "5c2d453648da5a1856"
+    },
+    {
+      "department": "路政署",
+      "title": "十一号干线–青龙大桥及青龙头交汇处",
+      "kind": "tender",
+      "reference_no": "HY/2026/13",
+      "closing_date": "2027-02-05",
+      "closing_text": "2027年2月5日星期五中午12时",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.hyd.gov.hk/tc/tender_notices/contracts/prequalifications_and_tender_notices/2026/HY202613.html",
+      "document_url": "",
+      "source_ids": [
+        "directory_12"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-27T14:42:50+08:00",
+      "closing_at": "2027-02-05T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "aa0de15c57788bd8e0"
+    },
+    {
+      "department": "路政署",
+      "title": "沙田小沥源路行人斜道及九龙区行人天桥防堕工程",
+      "kind": "tender",
+      "reference_no": "HY/2026/14",
+      "closing_date": "2026-12-18",
+      "closing_text": "2026年12月18日星期五中午12时",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.hyd.gov.hk/tc/tender_notices/contracts/prequalifications_and_tender_notices/2026/HY202614.html",
+      "document_url": "",
+      "source_ids": [
+        "directory_12"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-27T14:42:50+08:00",
+      "closing_at": "2026-12-18T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "c7c83dc6e2e612c03f"
     },
     {
       "department": "路政署",
@@ -156,7 +216,7 @@
         "directory_12"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "closing_at": "2027-03-12T12:00:00+08:00",
       "status": "正在招标",
       "id": "a5759352b453834c99"

@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-26T14:50:45+08:00",
+  "checked_at": "2026-11-27T14:42:50+08:00",
   "items": [
     {
       "department": "康乐及文化事务署",
@@ -16,7 +16,7 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "status": "正在招标",
       "id": "37cf5352e3bcb216ca"
     },
@@ -35,7 +35,7 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "status": "正在招标",
       "id": "39621ceec040dfb46c"
     },
@@ -54,7 +54,7 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "status": "正在招标",
       "id": "dd164485a4dce5b04e"
     },
@@ -73,7 +73,7 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "status": "正在招标",
       "id": "269d76512b770342bd"
     },
@@ -92,9 +92,28 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "status": "正在招标",
       "id": "00588b815fd4f31df8"
+    },
+    {
+      "department": "康乐及文化事务署",
+      "title": "为康乐及文化事务署总部提供洁净及辅助服务",
+      "kind": "tender",
+      "reference_no": "LCT 5010/26(S)",
+      "closing_date": "2027-01-07",
+      "closing_text": "2027-01-07",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.lcsd.gov.hk/clpss/tc/webApp/TenderDetails.do?ref=LCT 5010/26(S)",
+      "document_url": "",
+      "source_ids": [
+        "directory_32"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-27T14:42:50+08:00",
+      "status": "正在招标",
+      "id": "991273e8e00edc713a"
     },
     {
       "department": "康乐及文化事务署",
@@ -111,28 +130,9 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "status": "正在招标",
       "id": "98be8a08c6cfef33a4"
-    },
-    {
-      "department": "康乐及文化事务署",
-      "title": "为康乐及文化事务署辖下的香港中央图书馆(借阅服务)提供图书馆资料整理及上架服务",
-      "kind": "tender",
-      "reference_no": "LCT 6006/26(S)",
-      "closing_date": "2026-11-27",
-      "closing_text": "2026-11-27",
-      "forecast_date": "",
-      "publish_date": "",
-      "source_url": "https://www.lcsd.gov.hk/clpss/tc/webApp/TenderDetails.do?ref=LCT 6006/26(S)",
-      "document_url": "",
-      "source_ids": [
-        "directory_32"
-      ],
-      "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
-      "status": "正在招标",
-      "id": "6b8d78b525d90da5dd"
     },
     {
       "department": "康乐及文化事务署",
@@ -149,9 +149,28 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "status": "正在招标",
       "id": "1bc1b151532c1f8c09"
+    },
+    {
+      "department": "康乐及文化事务署",
+      "title": "为鲤鱼门市政大厦及瑞和街市政大厦提供洁净及辅助服务",
+      "kind": "tender",
+      "reference_no": "LCT 6009/26(S)",
+      "closing_date": "2027-01-08",
+      "closing_text": "2027-01-08",
+      "forecast_date": "",
+      "publish_date": "",
+      "source_url": "https://www.lcsd.gov.hk/clpss/tc/webApp/TenderDetails.do?ref=LCT 6009/26(S)",
+      "document_url": "",
+      "source_ids": [
+        "directory_32"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-27T14:42:50+08:00",
+      "status": "正在招标",
+      "id": "88f0a81170c489be57"
     },
     {
       "department": "康乐及文化事务署",
@@ -168,7 +187,7 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "status": "正在招标",
       "id": "49dff7adfea812a517"
     },
@@ -187,7 +206,7 @@
         "directory_32"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "status": "正在招标",
       "id": "fc04c3365f16d53786"
     }

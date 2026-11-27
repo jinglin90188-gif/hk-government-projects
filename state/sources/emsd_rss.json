@@ -1,6 +1,26 @@
 {
-  "checked_at": "2026-11-26T14:50:45+08:00",
+  "checked_at": "2026-11-27T14:42:50+08:00",
   "items": [
+    {
+      "department": "机电工程署",
+      "title": "为在屯门、元朗及天水围场地的机电装置提供保养服务",
+      "kind": "tender",
+      "reference_no": "1143EM26T",
+      "closing_date": "2027-01-08",
+      "closing_text": "/时间 2027 年 1 月 8 日（星期五）中午 12 时递交投标书地点投标者必须透过电子投标系统（工程合约）递交电子投标书。逾期递交的投标书，概不受理。 除了递交电子投标书外，投标者也可以选择同时以印本形式递交投标书",
+      "forecast_date": "",
+      "publish_date": "2026-11-17",
+      "source_url": "https://www.emsd.gov.hk/tc/tenders_contracts_and_consultancies/tender_notices/tender_notices/index_id_6613.html",
+      "document_url": "",
+      "source_ids": [
+        "emsd_rss"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-27T14:42:50+08:00",
+      "closing_at": "2027-01-08T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "55a6e0388331eb52a7"
+    },
     {
       "department": "机电工程署",
       "title": "为香港特别行政区政府各场地内的自动梯装置提供为期三年的全面保养及维修服务(KO27)",
@@ -16,7 +36,7 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "closing_at": "2026-12-18T12:00:00+08:00",
       "status": "正在招标",
       "id": "5dc498fabdd2da7407"
@@ -36,7 +56,7 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "closing_at": "2027-02-19T12:00:00+08:00",
       "status": "正在招标",
       "id": "768e60b7fedf55eaae"
@@ -56,7 +76,7 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "closing_at": "2027-01-08T12:00:00+08:00",
       "status": "正在招标",
       "id": "70e882efb9e1c58ea4"
@@ -76,7 +96,7 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "closing_at": "2026-12-18T12:00:00+08:00",
       "status": "正在招标",
       "id": "76ff403001cad20937"
@@ -96,7 +116,7 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "closing_at": "2026-12-04T12:00:00+08:00",
       "status": "正在招标",
       "id": "8f60c7703321cb90af"
@@ -116,7 +136,7 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "closing_at": "2026-12-18T12:00:00+08:00",
       "status": "正在招标",
       "id": "311eb305dd2d39e962"
@@ -136,7 +156,7 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "closing_at": "2027-01-08T12:00:00+08:00",
       "status": "正在招标",
       "id": "15eed51c98f848c812"
@@ -156,7 +176,7 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "closing_at": "2026-12-11T12:00:00+08:00",
       "status": "正在招标",
       "id": "76cc1d0664306c15ff"
@@ -176,7 +196,7 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "closing_at": "2026-12-11T12:00:00+08:00",
       "status": "正在招标",
       "id": "cce868d123e45cdec8"
@@ -196,7 +216,7 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "closing_at": "2026-12-11T12:00:00+08:00",
       "status": "正在招标",
       "id": "48e5842d288dd1668e"
@@ -216,7 +236,7 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "closing_at": "2027-01-08T12:00:00+08:00",
       "status": "正在招标",
       "id": "021c54a905602d9199"
@@ -236,7 +256,7 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "closing_at": "2026-12-15T12:00:00+08:00",
       "status": "正在招标",
       "id": "852edda54570d364f5"
@@ -256,7 +276,7 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "closing_at": "2027-01-07T12:00:00+08:00",
       "status": "正在招标",
       "id": "ecca2bccc0d3f5772c"
@@ -276,10 +296,30 @@
         "emsd_rss"
       ],
       "review_note": "",
-      "verified_at": "2026-11-26T14:50:45+08:00",
+      "verified_at": "2026-11-27T14:42:50+08:00",
       "closing_at": "2026-12-15T12:00:00+08:00",
       "status": "正在招标",
       "id": "8f4b23acce51f18a82"
+    },
+    {
+      "department": "机电工程署",
+      "title": "为机电工程署供应特别市镇救护车，车辆须在合约生效日期起计18个月内可供使用。",
+      "kind": "tender",
+      "reference_no": "EMSSSD0526",
+      "closing_date": "2027-01-14",
+      "closing_text": "/时间 2027年1月14日 (星期四) 正午 12 时 。 (i) 如截标当天上午9 时至正午12 时期间的任何时段内，八号或以上的热带气旋警告信号悬挂，或黑色暴雨警告信号或政府公布的「极端情况」生效，截标时间会延至八",
+      "forecast_date": "",
+      "publish_date": "2026-11-15",
+      "source_url": "https://www.emsd.gov.hk/tc/tenders_contracts_and_consultancies/tender_notices/tender_notices/index_id_6610.html",
+      "document_url": "",
+      "source_ids": [
+        "emsd_rss"
+      ],
+      "review_note": "",
+      "verified_at": "2026-11-27T14:42:50+08:00",
+      "closing_at": "2027-01-14T12:00:00+08:00",
+      "status": "正在招标",
+      "id": "2e27dcf97a571ad91d"
     }
   ]
 }
