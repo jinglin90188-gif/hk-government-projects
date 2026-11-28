@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-11-27T18:03:48+08:00",
+  "updated_at": "2026-11-28T14:16:29+08:00",
   "stats": {
     "records": 546,
-    "open": 111,
+    "open": 103,
     "forecast": 265,
     "departments": 83,
     "sources": 125,
     "source_status": {
-      "parsed": 54,
+      "parsed": 53,
       "documents": 10,
       "unparsed": 23,
       "empty": 34,
-      "failed": 3,
+      "failed": 4,
       "partial": 1
     }
   },
@@ -20,26 +20,21 @@
     "publish_allowed": true,
     "errors": [],
     "warnings": [
-      "37个来源需继续核对；来源明细已列出"
+      "38个来源需继续核对；来源明细已列出"
     ],
-    "sources_needing_review": 37,
+    "sources_needing_review": 38,
     "core_sources_ok": 3,
-    "checked_at": "2026-11-27T18:03:48+08:00"
+    "checked_at": "2026-11-28T14:16:29+08:00"
   },
   "changes": {
     "baseline": false,
-    "compared_with": "2026-11-27T17:57:43+08:00",
-    "new_count": 36,
-    "updated_count": 0,
-    "unchanged_count": 510,
+    "compared_with": "2026-11-27T18:03:48+08:00",
+    "new_count": 0,
+    "updated_count": 9,
+    "unchanged_count": 537,
     "no_longer_seen_count": 0,
-    "new_ids": [
-      "6e99c48f79b89838cf",
-      "d32b9e90e2d3108fba",
-      "a2460118b01d82d62d",
-      "082d7b8bed6124cd4a",
-      "62dd0b7d547e785ec2",
-      "40a67cedc23fb49dbb",
+    "new_ids": [],
+    "updated_ids": [
       "3fb841135656a6101d",
       "bae39baa2ea8571a7c",
       "422e2b2715f46109a6",
@@ -48,30 +43,8 @@
       "bd96296420ba98159e",
       "a06089a91bf011cf0d",
       "19cfb04de13295a360",
-      "135be9859b88e626be",
-      "420e206c7a4af18bf1",
-      "6d24be0aab7b3e196d",
-      "d9a4fdf2906d913c25",
-      "2fcc0dcd63add55ea8",
-      "23d27730d47b8582ea",
-      "b97f0b44c74c419431",
-      "33a989ac9e19f8de51",
-      "c5d0faea1ed1111c92",
-      "90348829c5c10c420e",
-      "bbfb2fdd0c0514d0ed",
-      "775ffc2a3e2cbf3663",
-      "240058c50bd26b8e7e",
-      "52d25024d55acaefaa",
-      "105fe5a2fa648fe8e2",
-      "9762acb239817f9560",
-      "b7ad8f38670044003f",
-      "88145f16fbc56e4780",
-      "1184f1bcee95095499",
-      "df15d712797068dd3e",
-      "c11884b2976f58620a",
-      "f4982c4f27f35d666b"
+      "cba1bb366681486a58"
     ],
-    "updated_ids": [],
     "no_longer_seen_ids": []
   }
 }

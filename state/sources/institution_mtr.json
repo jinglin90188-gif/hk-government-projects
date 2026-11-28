@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-27T18:03:48+08:00",
+  "checked_at": "2026-11-28T14:16:29+08:00",
   "items": [
     {
       "department": "港铁公司",
@@ -16,7 +16,7 @@
         "institution_mtr"
       ],
       "review_note": "",
-      "verified_at": "2026-11-27T18:03:48+08:00",
+      "verified_at": "2026-11-28T14:16:29+08:00",
       "status": "状态待核实",
       "id": "135be9859b88e626be"
     },
@@ -35,7 +35,7 @@
         "institution_mtr"
       ],
       "review_note": "",
-      "verified_at": "2026-11-27T18:03:48+08:00",
+      "verified_at": "2026-11-28T14:16:29+08:00",
       "status": "状态待核实",
       "id": "420e206c7a4af18bf1"
     },
@@ -54,7 +54,7 @@
         "institution_mtr"
       ],
       "review_note": "",
-      "verified_at": "2026-11-27T18:03:48+08:00",
+      "verified_at": "2026-11-28T14:16:29+08:00",
       "status": "状态待核实",
       "id": "6d24be0aab7b3e196d"
     },
@@ -73,7 +73,7 @@
         "institution_mtr"
       ],
       "review_note": "",
-      "verified_at": "2026-11-27T18:03:48+08:00",
+      "verified_at": "2026-11-28T14:16:29+08:00",
       "status": "状态待核实",
       "id": "d9a4fdf2906d913c25"
     }

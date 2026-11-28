@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T18:03:48+08:00",
+  "updated_at": "2026-11-28T14:16:29+08:00",
   "departments": [
     {
       "department": "亚洲国际博览馆",
@@ -1200,20 +1200,28 @@
     {
       "department": "港深创新及科技园",
       "issues": [
-        "未登记独立预报入口，仅能依赖中央采购预报覆盖"
+        "未登记独立预报入口，仅能依赖中央采购预报覆盖",
+        "存在连接失败、待解析或部分解析来源",
+        "8项尚未核实截标日期或当前状态"
       ],
       "tender_sources": 1,
       "forecast_sources": 0,
       "source_status": {
-        "parsed": 1
+        "failed": 1
       },
-      "open": 8,
+      "open": 0,
       "related_open": 0,
       "related_forecast": 0,
       "scope_counts": {
         "review": 8
       },
-      "unresolved_sources": []
+      "unresolved_sources": [
+        {
+          "id": "institution_hsitp",
+          "url": "https://www.hsitp.org/tc/tender-notices",
+          "status": "failed"
+        }
+      ]
     },
     {
       "department": "港铁公司",

@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-11-27T18:03:48+08:00",
+  "checked_at": "2026-11-28T14:16:29+08:00",
   "items": [
     {
       "department": "建筑署",
@@ -16,7 +16,7 @@
         "directory_14"
       ],
       "review_note": "",
-      "verified_at": "2026-11-27T18:03:48+08:00",
+      "verified_at": "2026-11-28T14:16:29+08:00",
       "closing_at": "2026-12-18T12:00:00+08:00",
       "status": "正在招标",
       "id": "717939e8526fe635e1"
@@ -36,7 +36,7 @@
         "directory_14"
       ],
       "review_note": "",
-      "verified_at": "2026-11-27T18:03:48+08:00",
+      "verified_at": "2026-11-28T14:16:29+08:00",
       "closing_at": "2026-12-11T12:00:00+08:00",
       "status": "正在招标",
       "id": "8c020658bff7078010"
@@ -56,7 +56,7 @@
         "directory_14"
       ],
       "review_note": "",
-      "verified_at": "2026-11-27T18:03:48+08:00",
+      "verified_at": "2026-11-28T14:16:29+08:00",
       "closing_at": "2026-11-27T12:00:00+08:00",
       "status": "已截标",
       "id": "ae5ee746f3548fecc1"
@@ -76,7 +76,7 @@
         "directory_14"
       ],
       "review_note": "",
-      "verified_at": "2026-11-27T18:03:48+08:00",
+      "verified_at": "2026-11-28T14:16:29+08:00",
       "closing_at": "2027-01-08T12:00:00+08:00",
       "status": "正在招标",
       "id": "ce8be5c0a5d4fb5916"
@@ -96,7 +96,7 @@
         "directory_14"
       ],
       "review_note": "",
-      "verified_at": "2026-11-27T18:03:48+08:00",
+      "verified_at": "2026-11-28T14:16:29+08:00",
       "closing_at": "2026-11-27T12:00:00+08:00",
       "status": "已截标",
       "id": "8694836490996d95dc"
@@ -116,7 +116,7 @@
         "directory_14"
       ],
       "review_note": "",
-      "verified_at": "2026-11-27T18:03:48+08:00",
+      "verified_at": "2026-11-28T14:16:29+08:00",
       "closing_at": "2027-01-08T12:00:00+08:00",
       "status": "正在招标",
       "id": "54f241e5cb24a53fbf"
